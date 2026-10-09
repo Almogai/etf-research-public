@@ -1,0 +1,97 @@
+{
+  "generated_utc": "2026-10-09T23:47:56Z",
+  "session_date": "2026-10-09",
+  "tqqq_run": "success",
+  "tickers_requested": 518,
+  "tickers_screened": 518,
+  "tickers_failed": 0,
+  "eligible": 514,
+  "headlines_collected": 1616,
+  "started_utc": "2026-10-09T23:44:39Z",
+  "duration_secs": 196.6,
+  "status": "ok",
+  "last_success_utc": "2026-10-09T23:47:56Z",
+  "steps": {
+    "prices": {
+      "status": "ok",
+      "secs": 100.6
+    },
+    "screener": {
+      "status": "ok",
+      "secs": 1.2
+    },
+    "events": {
+      "status": "ok",
+      "secs": 0.2
+    },
+    "sectors": {
+      "status": "ok",
+      "secs": 0.0
+    },
+    "earnings": {
+      "status": "ok",
+      "secs": 4.0
+    },
+    "news": {
+      "status": "ok",
+      "secs": 71.2
+    },
+    "sec": {
+      "status": "ok",
+      "secs": 17.2
+    },
+    "news_score": {
+      "status": "ok",
+      "secs": 0.1
+    },
+    "hot_cold": {
+      "status": "ok",
+      "secs": 0.0
+    },
+    "ideas": {
+      "status": "ok",
+      "secs": 0.0
+    },
+    "backtest": {
+      "status": "ok",
+      "secs": 0.4
+    },
+    "scorecard": {
+      "status": "ok",
+      "secs": 0.0
+    },
+    "learning": {
+      "status": "ok",
+      "secs": 1.2
+    },
+    "feed": {
+      "status": "ok",
+      "secs": 0.0
+    },
+    "notify": {
+      "status": "ok",
+      "secs": 0.1
+    }
+  },
+  "sources": {
+    "headlines": {
+      "yfinance": 0,
+      "yahoo_rss": 1007,
+      "google_rss": 3004,
+      "stocks": 55,
+      "headlines": 1616
+    },
+    "sec": {
+      "ok": 55,
+      "requests": 138,
+      "missing": 0
+    }
+  },
+  "hot_top5": [
+    "MPC",
+    "VLO",
+    "ANET",
+    "MSFT",
+    "ILMN"
+  ]
+}

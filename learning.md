@@ -14,7 +14,7 @@ Which factors predicted returns vs QQQ over the following 5 and 20 trading days?
 | price score (combined) | 5 days | 51 | +0.003 | 0.1 | 49% | +0.23% |
 | trend | 20 days | 13 | -0.012 | -0.3 | 54% | +0.40% |
 | momentum | 20 days | 13 | -0.005 | -0.1 | 46% | +1.02% |
-| relative_strength | 20 days | 13 | -0.015 | -0.3 | 46% | +0.85% |
+| relative_strength | 20 days | 13 | -0.015 | -0.3 | 46% | +0.86% |
 | volatility | 20 days | 13 | -0.022 | -0.8 | 31% | -1.86% |
 | liquidity | 20 days | 13 | +0.030 | 0.7 | 62% | +1.68% |
 | price score (combined) | 20 days | 13 | -0.007 | -0.2 | 46% | +0.90% |
@@ -37,6 +37,13 @@ Rule: t ≥ 2 → ×1.25, t ≤ −1 → ×0.5, else unchanged; then scaled to t
 
 No change suggested this week.
 
-Final-score mix stays {'price': 0.8, 'news': 0.2} until the live log has at least 30 scored ideas to judge the news score.
+Final-score mix stays {'price': 0.8, 'news': 0.2, 'insider': 0.05, 'history': 0.03} until the live log has at least 30 scored ideas to judge the news score.
 
 *One year of history is a small sample and markets change; treat these as hints, not proof. Rule-based analysis, not financial advice.*
+
+## Automatic weight updates
+
+Monthly, walk-forward (learn on older picks, test on the newest month), applied only if better, each weight moves at most 20% a month, auto-revert if the next month is worse.
+
+- Weights in use: config.yaml baseline (no automatic change yet)
+- 2026-10-09: **waiting** — 0 scored picks, need 60

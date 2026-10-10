@@ -6,6 +6,7 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
+| 1 days | 5 | 0 | – | – | – | – | – |
 | 5 days | 5 | 0 | – | – | – | – | – |
 | 20 days | 5 | 0 | – | – | – | – | – |
 | 60 days | 5 | 0 | – | – | – | – | – |
@@ -14,6 +15,7 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
+| 1 days | 5 | 0 | – | – | – | – | – |
 | 5 days | 5 | 0 | – | – | – | – | – |
 | 20 days | 5 | 0 | – | – | – | – | – |
 | 60 days | 5 | 0 | – | – | – | – | – |
@@ -22,6 +24,7 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
+| 1 days | 5 | 0 | – | – | – | – | – |
 | 5 days | 5 | 0 | – | – | – | – | – |
 | 20 days | 5 | 0 | – | – | – | – | – |
 | 60 days | 5 | 0 | – | – | – | – | – |

@@ -1,28 +1,28 @@
 {
-  "generated_utc": "2026-10-09T23:47:56Z",
+  "generated_utc": "2026-10-10T03:58:07Z",
   "session_date": "2026-10-09",
   "tqqq_run": "success",
   "tickers_requested": 518,
   "tickers_screened": 518,
   "tickers_failed": 0,
   "eligible": 514,
-  "headlines_collected": 1616,
-  "started_utc": "2026-10-09T23:44:39Z",
-  "duration_secs": 196.6,
+  "headlines_collected": 1588,
+  "started_utc": "2026-10-10T03:51:28Z",
+  "duration_secs": 399.9,
   "status": "ok",
-  "last_success_utc": "2026-10-09T23:47:56Z",
+  "last_success_utc": "2026-10-10T03:58:07Z",
   "steps": {
     "prices": {
       "status": "ok",
-      "secs": 100.6
+      "secs": 106.9
     },
     "screener": {
       "status": "ok",
-      "secs": 1.2
+      "secs": 1.1
     },
     "events": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.1
     },
     "sectors": {
       "status": "ok",
@@ -30,15 +30,23 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 4.0
+      "secs": 4.7
     },
     "news": {
       "status": "ok",
-      "secs": 71.2
+      "secs": 74.0
     },
     "sec": {
       "status": "ok",
-      "secs": 17.2
+      "secs": 14.7
+    },
+    "smart_money": {
+      "status": "ok",
+      "secs": 183.9
+    },
+    "history": {
+      "status": "ok",
+      "secs": 12.0
     },
     "news_score": {
       "status": "ok",
@@ -60,31 +68,55 @@
       "status": "ok",
       "secs": 0.0
     },
+    "track": {
+      "status": "ok",
+      "secs": 0.0
+    },
     "learning": {
       "status": "ok",
       "secs": 1.2
+    },
+    "self_learning": {
+      "status": "ok",
+      "secs": 0.0
+    },
+    "learning_notes": {
+      "status": "ok",
+      "secs": 0.0
     },
     "feed": {
       "status": "ok",
       "secs": 0.0
     },
+    "summary": {
+      "status": "ok",
+      "secs": 0.2
+    },
     "notify": {
       "status": "ok",
-      "secs": 0.1
+      "secs": 0.2
     }
   },
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 1007,
-      "google_rss": 3004,
+      "yahoo_rss": 1006,
+      "google_rss": 2944,
       "stocks": 55,
-      "headlines": 1616
+      "headlines": 1588
     },
     "sec": {
       "ok": 55,
-      "requests": 138,
+      "requests": 118,
       "missing": 0
+    },
+    "smart_money": {
+      "requests": 1338,
+      "errors": {},
+      "filings_in_window": 2333,
+      "downloaded": 1200,
+      "backlog": 1133,
+      "index_days_missing": 0
     }
   },
   "hot_top5": [
@@ -92,6 +124,6 @@
     "VLO",
     "ANET",
     "MSFT",
-    "ILMN"
+    "TMO"
   ]
 }

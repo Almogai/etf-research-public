@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "session_date": "2026-10-09",
-  "generated_utc": "2026-10-10 19:28 UTC",
+  "generated_utc": "2026-10-10 19:36 UTC",
   "benchmark": "QQQ",
   "universe_size": 518,
   "eligible": 514,
@@ -403,9 +403,9 @@
       "name": "Microsoft",
       "sector": "Information Technology",
       "price": 535.07,
-      "final_score": 84.5366,
+      "final_score": 84.5412,
       "price_score": 95.6226,
-      "news_score": 54.0075,
+      "news_score": 54.0321,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -422,9 +422,9 @@
         "Volatility 40%/yr (normal)",
         "Trades $11,417M/day"
       ],
-      "headline_count_3d": 59,
-      "sentiment": 0.0668,
-      "attention_vs_normal": 3.2778,
+      "headline_count_3d": 58,
+      "sentiment": 0.0672,
+      "attention_vs_normal": 3.2222,
       "news_flags": [],
       "top_headlines": [
         {
@@ -491,9 +491,9 @@
         "Volatility 30%/yr (normal)",
         "Trades $1,579M/day"
       ],
-      "headline_count_3d": 11,
-      "sentiment": 0.2327,
-      "attention_vs_normal": 0.6111,
+      "headline_count_3d": 10,
+      "sentiment": 0.256,
+      "attention_vs_normal": 0.5556,
       "news_flags": [],
       "top_headlines": [
         {
@@ -541,9 +541,9 @@
       "name": "Fortinet",
       "sector": "Information Technology",
       "price": 194.75,
-      "final_score": 83.019,
+      "final_score": 82.9419,
       "price_score": 91.8969,
-      "news_score": 61.2075,
+      "news_score": 60.7908,
       "history_score": 46.7174,
       "insider_score": 50.0,
       "components": {
@@ -560,9 +560,9 @@
         "Volatility 43%/yr (normal)",
         "Trades $726M/day"
       ],
-      "headline_count_3d": 26,
-      "sentiment": 0.1432,
-      "attention_vs_normal": 1.4444,
+      "headline_count_3d": 25,
+      "sentiment": 0.139,
+      "attention_vs_normal": 1.3889,
       "news_flags": [
         "acquisition",
         "upgrade"
@@ -792,9 +792,9 @@
       "name": "Meta Platforms",
       "sector": "Communication Services",
       "price": 718.67,
-      "final_score": 82.6419,
+      "final_score": 82.5675,
       "price_score": 92.1012,
-      "news_score": 58.3239,
+      "news_score": 57.9223,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "components": {
@@ -812,7 +812,7 @@
         "Trades $15,681M/day"
       ],
       "headline_count_3d": 86,
-      "sentiment": 0.1387,
+      "sentiment": 0.132,
       "attention_vs_normal": 4.7778,
       "news_flags": [
         "acquisition"
@@ -957,93 +957,13 @@
     },
     {
       "rank": 11,
-      "ticker": "CRWD",
-      "name": "CrowdStrike",
-      "sector": "Information Technology",
-      "price": 275.04,
-      "final_score": 82.4035,
-      "price_score": 90.6712,
-      "news_score": 62.7561,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9786,
-        "relative_strength": 0.9786,
-        "volatility": 0.2529,
-        "liquidity": 0.9475
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +32.7%, 3m +35.4%, 6m +170.6% (beats 98% of stocks)",
-        "3-month return vs QQQ: +38.5%",
-        "Volatility 72%/yr (unusually high/low)",
-        "Trades $2,700M/day"
-      ],
-      "headline_count_3d": 47,
-      "sentiment": 0.1293,
-      "attention_vs_normal": 2.6111,
-      "news_flags": [
-        "beat"
-      ],
-      "top_headlines": [
-        {
-          "title": "CrowdStrike's Q1 Beat Wasn't Big Enough For Some Bulls \u2014 CRWD Stock Heads For Worst Drop In 22 Months",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXFOcXQxTGg0eTVIcXhzTXFJWERIRi1IMndERkRhc254cGNkVU1TOVpVc0J6dXZoVTF1TXJhVDcxV21vbkVpOFJmdjJOUlN1UjV6SDRvMUFoZ1pTVzlneHQ2N3Ayak1ndy1hVTVlbkFUMkZaNDJEVktzeXJJLXBkVlpFdDJCQkxHMmExemlvWnZERHl5QndZeUFCUWxtRVQwOXNxOEJPMG00d29EeDRSd05TNWg2My0tZHJNcTliMURPWjhRa1NfcTlR?oc=5",
-          "date": "2026-10-09 05:48 UTC"
-        },
-        {
-          "title": "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
-          "source": "Yahoo Finance",
-          "link": "https://www.fool.com/coverage/better-buy/2026/10/10/crowdstrike-vs-uipath-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-          "date": "2026-10-10 17:55 UTC"
-        },
-        {
-          "title": "CrowdStrike Holdings (CRWD) Climbed, But What Is Behind The Attention Now?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-climbed-behind-041834700.html?.tsrc=rss",
-          "date": "2026-10-10 04:18 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 48,
-        "planned_sells": 48,
-        "buy_value": 0,
-        "sell_value": 31741027.42
-      },
-      "events": [],
-      "earnings_date": "2026-12-01",
-      "days_to_earnings": 37,
-      "earnings_within_5d": false,
-      "stop": 254.5339,
-      "stop_pct": -0.0746,
-      "why_now": "News: beat",
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "ticker": "NVDA",
       "name": "Nvidia",
       "sector": "Information Technology",
       "price": 229.28,
-      "final_score": 81.8792,
+      "final_score": 81.8219,
       "price_score": 92.9864,
-      "news_score": 50.2022,
+      "news_score": 49.8926,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1061,7 +981,7 @@
         "Trades $24,680M/day"
       ],
       "headline_count_3d": 70,
-      "sentiment": 0.0867,
+      "sentiment": 0.0815,
       "attention_vs_normal": 3.8889,
       "news_flags": [
         "acquisition",
@@ -1110,7 +1030,7 @@
       "history_events": []
     },
     {
-      "rank": 13,
+      "rank": 12,
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise",
       "sector": "Information Technology",
@@ -1187,6 +1107,84 @@
           "beat": 0.4652,
           "median": -0.0053
         },
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "sector": "Information Technology",
+      "price": 275.04,
+      "final_score": 81.6863,
+      "price_score": 90.6712,
+      "news_score": 58.8835,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9786,
+        "relative_strength": 0.9786,
+        "volatility": 0.2529,
+        "liquidity": 0.9475
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +32.7%, 3m +35.4%, 6m +170.6% (beats 98% of stocks)",
+        "3-month return vs QQQ: +38.5%",
+        "Volatility 72%/yr (unusually high/low)",
+        "Trades $2,700M/day"
+      ],
+      "headline_count_3d": 46,
+      "sentiment": 0.1481,
+      "attention_vs_normal": 2.5556,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+          "source": "Yahoo Finance",
+          "link": "https://www.fool.com/coverage/better-buy/2026/10/10/crowdstrike-vs-uipath-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+          "date": "2026-10-10 17:55 UTC"
+        },
+        {
+          "title": "CrowdStrike Holdings (CRWD) Climbed, But What Is Behind The Attention Now?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-climbed-behind-041834700.html?.tsrc=rss",
+          "date": "2026-10-10 04:18 UTC"
+        },
+        {
+          "title": "Why Did CRWD, S, AEHR Stocks Hit 52-Week Highs Last Week?",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkNRVkVtSTcyOGZ1ejV3LU5FOGVfSzZqOXhYaURnTkM0T2JGRjNBSVFnNGhYQVBLZVppX2RKWjgwa2JuV3d3T3NwN1RRLUtKS2lKM1NOcVNPTTVGbmVnTFBPMTYxRWpnVXNJMEloQ2xubGJqeWUwRWo3Rklyak1vZVBkVE9pWm4tQkZLVjNoM1Q5WF8zaWN1ZmZQSEk0VW84dnRneVlXN2c0NjMyUHBHZS1HZWp1c0RSTnc?oc=5",
+          "date": "2026-10-10 02:47 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 48,
+        "planned_sells": 48,
+        "buy_value": 0,
+        "sell_value": 31741027.42
+      },
+      "events": [],
+      "earnings_date": "2026-12-01",
+      "days_to_earnings": 37,
+      "earnings_within_5d": false,
+      "stop": 254.5339,
+      "stop_pct": -0.0746,
+      "why_now": "Strong trend: 6-month +171%, 3-month vs QQQ +39%",
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
         {
           "event": "momentum_top10",
           "name": "Momentum in the top 10%",
@@ -1290,9 +1288,9 @@
       "name": "Merck & Co.",
       "sector": "Health Care",
       "price": 145.6,
-      "final_score": 80.8025,
+      "final_score": 80.7731,
       "price_score": 88.1615,
-      "news_score": 63.6877,
+      "news_score": 63.5288,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1310,7 +1308,7 @@
         "Trades $1,445M/day"
       ],
       "headline_count_3d": 32,
-      "sentiment": 0.1629,
+      "sentiment": 0.1599,
       "attention_vs_normal": 1.7778,
       "news_flags": [
         "FDA",
@@ -1483,7 +1481,7 @@
           "title": "Pentair plc (PNR) latest stock news and headlines",
           "source": "Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SSmVFNEZNUFBLR2ZIYlJ2UlVDVzlkZFFWaWphZ1VEcjQxQ19PalZMeE9RUTZabnR0VGZqNmJOUWh3cVdVM3l6cHVsQWN5V3Q1OU1XOE1aSQ?oc=5",
-          "date": "2026-10-09 18:56 UTC"
+          "date": "2026-10-09 16:57 UTC"
         }
       ],
       "filings_7d": [],
@@ -1557,8 +1555,8 @@
         {
           "title": "Wynn Resorts Ltd. Research & Ratings | WYNN",
           "source": "Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFktZUNoWmZnTEpWajJLcHZUS1V4OF9WVE1Nb1Z6OW4yYl9VSkQ5d0VWbFV1Vmlic1VNaWFTT0xaeEJTeXByMDBZcWMtSG1PRmlCQl9UYlU0a09DYkRWX0E3cHlVMGFZMEpUUGpBVHBHZnVoR05kZENuTUFiWnhNeVVsSm1nOTE0MTRwazlzeU8zWFBiZzdKdnl3djVGelZLVnB2WVVVTWFqYVJmSjJOek9JcVdXLTNlVjctUU9GUmxTZw?oc=5",
-          "date": "2026-10-09 19:37 UTC"
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOSlp1dHVuNmIzMVdoSU9ZSGZDRVZtUmlJdUxTNDRlQm1TZk40ajMxWnhqQktyZl9wQi1VNzYzc3BpeGVGb3ZXcUpXVUdpX1Y3T0F0MVM2REdWNHBZbGdsSTlSTFNrbUI3cnJKTmhwSWd0Sy1IMExBZll6TGphVGd3a3lRanMtNnpqcnl6SjI5bm41NTBZbG9nVmZ3NkhJVThsVk1nOXlEbzFaYW14TmRkUllUNnB2TzFoZDlmajRTUHIwNXNKVnR0eTJzUWpUbXZZY0t6akM5SE9OSmdQMURza0YtQ3dVMVR1SGFXOGVlQ1JiN1BQWjZKVHV1Vl9oLTFQZ0JSYXdWRnZFLVhkcnhtdGY1N2NxWXRsbXp4dVhoekI0RXpy?oc=5",
+          "date": "2026-10-09 19:17 UTC"
         }
       ],
       "filings_7d": [],
@@ -2389,9 +2387,9 @@
         "Volatility 24%/yr (normal)",
         "Trades $229M/day"
       ],
-      "headline_count_3d": 12,
-      "sentiment": -0.019,
-      "attention_vs_normal": 0.6667,
+      "headline_count_3d": 13,
+      "sentiment": -0.0176,
+      "attention_vs_normal": 0.7222,
       "news_flags": [
         "upgrade"
       ],
@@ -2671,9 +2669,9 @@
     "headlines": {
       "yfinance": 0,
       "yahoo_rss": 1016,
-      "google_rss": 2786,
+      "google_rss": 2787,
       "stocks": 55,
-      "headlines": 1415
+      "headlines": 1414
     },
     "sec": {
       "ok": 55,
@@ -2681,10 +2679,10 @@
       "missing": 0
     },
     "smart_money": {
-      "requests": 1183,
+      "requests": 16,
       "errors": {},
       "filings_in_window": 2333,
-      "downloaded": 1133,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 0
     }
@@ -3272,7 +3270,7 @@
     ],
     "coverage": {
       "filings_in_window": 2333,
-      "downloaded": 1133,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 0
     }
@@ -3328,7 +3326,7 @@
           "60": {
             "n": 40,
             "pct_up": 0.625,
-            "median": 0.0182,
+            "median": 0.0181,
             "mean": 0.0146,
             "best": 0.1246,
             "worst": -0.1383
@@ -3430,7 +3428,7 @@
       "high_52w": {
         "5": {
           "n": 9581,
-          "beat": 0.4804,
+          "beat": 0.4803,
           "mean": -0.0006,
           "median": -0.0016,
           "worst": -0.3237,
@@ -3559,62 +3557,62 @@
       },
       "ceo_cfo_buy": {
         "5": {
-          "n": 311,
-          "beat": 0.4727,
-          "mean": -0.0006,
-          "median": -0.0025,
-          "worst": -0.1995,
-          "best": 0.1971
+          "n": 464,
+          "beat": 0.4569,
+          "mean": -0.0037,
+          "median": -0.0034,
+          "worst": -0.3124,
+          "best": 0.3533
         },
         "20": {
-          "n": 308,
-          "beat": 0.4675,
-          "mean": -0.0092,
-          "median": -0.0074,
+          "n": 461,
+          "beat": 0.4534,
+          "mean": -0.0112,
+          "median": -0.0102,
           "worst": -0.4298,
           "best": 0.3761
         },
         "60": {
-          "n": 296,
-          "beat": 0.4595,
-          "mean": -0.0214,
-          "median": -0.0241,
+          "n": 449,
+          "beat": 0.4722,
+          "mean": -0.0145,
+          "median": -0.0154,
           "worst": -0.5362,
-          "best": 0.8085
+          "best": 0.9914
         }
       },
       "cluster_buy": {
         "5": {
-          "n": 141,
-          "beat": 0.4894,
-          "mean": -0.0035,
-          "median": -0.0016,
-          "worst": -0.3033,
-          "best": 0.1631
+          "n": 229,
+          "beat": 0.4585,
+          "mean": -0.0113,
+          "median": -0.0054,
+          "worst": -0.3124,
+          "best": 0.1743
         },
         "20": {
-          "n": 140,
-          "beat": 0.4429,
-          "mean": -0.0146,
-          "median": -0.0149,
+          "n": 228,
+          "beat": 0.4254,
+          "mean": -0.0173,
+          "median": -0.0181,
           "worst": -0.4603,
           "best": 0.2817
         },
         "60": {
-          "n": 136,
-          "beat": 0.5147,
-          "mean": -0.0057,
-          "median": 0.0012,
-          "worst": -0.5339,
+          "n": 224,
+          "beat": 0.442,
+          "mean": -0.0248,
+          "median": -0.019,
+          "worst": -0.6203,
           "best": 0.8085
         }
       }
     },
     "coverage": {
-      "quarters_done": 20,
+      "quarters_done": 30,
       "quarters_total": 51,
       "events_since": "2014-01-02",
-      "insider_buys": 4041
+      "insider_buys": 5872
     }
   }
 }

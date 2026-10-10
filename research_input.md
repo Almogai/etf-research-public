@@ -1,6 +1,13 @@
 # Research input — session 2026-10-09
 
-Generated 2026-10-10 19:28 UTC from free data (Yahoo Finance, Google News RSS, SEC EDGAR). Screened 514 of 518 stocks. Benchmark: QQQ.
+Generated 2026-10-10 19:36 UTC from free data (Yahoo Finance, Google News RSS, SEC EDGAR). Screened 514 of 518 stocks. Benchmark: QQQ.
+
+## Daily summary
+- Market today: QQQ +0.5%, S&P 500 (SPY) +0.6%.
+- Market mood: choppy 🌊, 48% of stocks in an uptrend, VIX 14.8.
+- Today's top 5: MPC, VLO, ANET, MSFT, TMO. #1 MPC: News: upgrade.
+- Insider buying: 👥 COO: 3 insiders bought $1,880k · 👑 DVN: CEO bought $200k.
+- No results for earlier picks yet.
 
 ## Market regime: CHOPPY
 - SPY above its 200-day (+7.7%)
@@ -38,9 +45,9 @@ Generated 2026-10-10 19:28 UTC from free data (Yahoo Finance, Google News RSS, S
 | 8 | AMD | Advanced Micro Devices | Information Technology | 608.10 | 83 | 90 | 70 | 563.74 (-7.3%) | 2026-11-03 |
 | 9 | META | Meta Platforms | Communication Services | 718.67 | 83 | 92 | 58 | 674.65 (-6.1%) | 2026-10-28 |
 | 10 | NTAP | NetApp | Information Technology | 237.15 | 82 | 93 | 53 | 220.21 (-7.1%) | 2026-12-01 |
-| 11 | CRWD | CrowdStrike | Information Technology | 275.04 | 82 | 91 | 63 | 254.53 (-7.5%) | 2026-12-01 |
-| 12 | NVDA | Nvidia | Information Technology | 229.28 | 82 | 93 | 50 | 218.88 (-4.5%) | 2026-11-17 |
-| 13 | HPE | Hewlett Packard Enterprise | Information Technology | 73.46 | 82 | 91 | 57 | 66.59 (-9.3%) | – |
+| 11 | NVDA | Nvidia | Information Technology | 229.28 | 82 | 93 | 50 | 218.88 (-4.5%) | 2026-11-17 |
+| 12 | HPE | Hewlett Packard Enterprise | Information Technology | 73.46 | 82 | 91 | 57 | 66.59 (-9.3%) | – |
+| 13 | CRWD | CrowdStrike | Information Technology | 275.04 | 82 | 91 | 59 | 254.53 (-7.5%) | 2026-12-01 |
 | 14 | PSX | Phillips 66 | Energy | 278.18 | 81 | 93 | 48 | 260.39 (-6.4%) | 2026-10-28 |
 | 15 | MRK | Merck & Co. | Health Care | 145.60 | 81 | 88 | 64 | 138.22 (-5.1%) | 2026-10-29 |
 
@@ -108,7 +115,7 @@ Price reasons:
 - 3-month return vs QQQ: +29.8%
 - Volatility 40%/yr (normal)
 - Trades $11,417M/day
-- News: 59 headlines in 3 days, sentiment +0.07
+- News: 58 headlines in 3 days, sentiment +0.07
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
 - Earnings: 2026-10-28; stop 509.63 (-4.8%, 2×ATR)
@@ -126,7 +133,7 @@ Price reasons:
 - 3-month return vs QQQ: +17.9%
 - Volatility 30%/yr (normal)
 - Trades $1,579M/day
-- News: 11 headlines in 3 days, sentiment +0.23
+- News: 10 headlines in 3 days, sentiment +0.26
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
 - Earnings: 2026-10-21; stop 618.47 (-6.0%, 2×ATR)
@@ -144,7 +151,7 @@ Price reasons:
 - 3-month return vs QQQ: +14.7%
 - Volatility 43%/yr (normal)
 - Trades $726M/day
-- News: 26 headlines in 3 days, sentiment +0.14, flags: acquisition, upgrade
+- News: 25 headlines in 3 days, sentiment +0.14, flags: acquisition, upgrade
 - Events: new 52-week high
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
@@ -199,7 +206,7 @@ Price reasons:
 - 3-month return vs QQQ: +3.6%
 - Volatility 45%/yr (unusually high/low)
 - Trades $15,681M/day
-- News: 86 headlines in 3 days, sentiment +0.14, flags: acquisition
+- News: 86 headlines in 3 days, sentiment +0.13, flags: acquisition
 - Filings (7 days): none
 - Insiders (7 days): 5 sale(s) ≈ $1.1M, 5 pre-planned
 - Earnings: 2026-10-28; stop 674.65 (-6.1%, 2×ATR)
@@ -226,25 +233,7 @@ Price reasons:
   - [NetApp (NTAP) Wins An Analyst Upgrade, Is It 19% Overvalued?](https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-wins-analyst-upgrade-081423734.html?.tsrc=rss) (Yahoo Finance, 2026-10-08)
   - [NetApp Inc. stock underperforms Friday when compared to competitors despite daily gains](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMTdLV0c1RzVKVloxb0RocU9BRlRrQ1VLZVZJYm9Ic3Y0QVI1cHFKN0QzWEt3djlCVnNfMzFDaDNOSmVVQVJJSW0tS2djM2pWSEVDbVZzZVBBQmVxN2VmRG50anMxMzZCT0lzVUtiSDBUTWl5ZDJmOVhZWjRqNXpVVV9KbkE4LTNVUUhTbFkxeWwxZFJsZlRfVDJ2dWtFUzRYZHBYMmFEZVZwMDJtRHZEMG1nMmVzc1JNbm5LX2JPMmZ4MGZscFJmNlpYV2NNY296WHlFQlJKaXZ2VEJha1FBZ3hGV29lS0VYdzIzVUhlaWNGTHZoY040?oc=5) (MarketWatch, 2026-10-09)
 
-### 11. CRWD — CrowdStrike (final 82)
-**Why now:** News: beat
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +32.7%, 3m +35.4%, 6m +170.6% (beats 98% of stocks)
-- 3-month return vs QQQ: +38.5%
-- Volatility 72%/yr (unusually high/low)
-- Trades $2,700M/day
-- News: 47 headlines in 3 days, sentiment +0.13, flags: beat
-- Filings (7 days): none
-- Insiders (7 days): 48 sale(s) ≈ $31.7M, 48 pre-planned
-- Earnings: 2026-12-01; stop 254.53 (-7.5%, 2×ATR)
-- Top headlines:
-  - [CrowdStrike's Q1 Beat Wasn't Big Enough For Some Bulls — CRWD Stock Heads For Worst Drop In 22 Months](https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXFOcXQxTGg0eTVIcXhzTXFJWERIRi1IMndERkRhc254cGNkVU1TOVpVc0J6dXZoVTF1TXJhVDcxV21vbkVpOFJmdjJOUlN1UjV6SDRvMUFoZ1pTVzlneHQ2N3Ayak1ndy1hVTVlbkFUMkZaNDJEVktzeXJJLXBkVlpFdDJCQkxHMmExemlvWnZERHl5QndZeUFCUWxtRVQwOXNxOEJPMG00d29EeDRSd05TNWg2My0tZHJNcTliMURPWjhRa1NfcTlR?oc=5) (Stocktwits, 2026-10-09)
-  - [CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?](https://www.fool.com/coverage/better-buy/2026/10/10/crowdstrike-vs-uipath-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss) (Yahoo Finance, 2026-10-10)
-  - [CrowdStrike Holdings (CRWD) Climbed, But What Is Behind The Attention Now?](https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-climbed-behind-041834700.html?.tsrc=rss) (Yahoo Finance, 2026-10-10)
-
-### 12. NVDA — Nvidia (final 82)
+### 11. NVDA — Nvidia (final 82)
 **Why now:** News: buyback
 
 Price reasons:
@@ -253,7 +242,7 @@ Price reasons:
 - 3-month return vs QQQ: +6.7%
 - Volatility 37%/yr (normal)
 - Trades $24,680M/day
-- News: 70 headlines in 3 days, sentiment +0.09, flags: acquisition, buyback, guidance cut, miss
+- News: 70 headlines in 3 days, sentiment +0.08, flags: acquisition, buyback, guidance cut, miss
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
 - Earnings: 2026-11-17; stop 218.88 (-4.5%, 2×ATR)
@@ -262,7 +251,7 @@ Price reasons:
   - [Twin Peaks Wealth Advisors LLC Acquires 6,189 Shares of NVIDIA Corporation $NVDA](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGRsXzFheDA5c2F4TXBPQTZyZTlLcGhGR28wak4wWkp4ZllWc1lnUEV3NTBXVXNzV1g4Xy1nWTNEUmZ6R1dMbWh4SlZIWk51cHUzTGNPNVBfYWVmY0N2V3JsVV84NzFpVVpYOVJDNUJ3TXA3UmN2ZHBRU1FCa2pXbmhmYktRQ1JCektwLUw2eHFlbzBzaGwwUWVtSzRaOW1mTWtfTmZTOXZqcHh2bnVYWk9fb2JDQXJNNzh4UElVdHVJWnZDd3JrLUs2Y244Qy1YQkowalpR?oc=5) (MarketBeat, 2026-10-10)
   - [NVIDIA's Rally in Trouble? Analyst Warns of Bull Trap](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUROUHVkc2lWamxYYmdhRWtQNnE2dEFvUDdKVkFxSE9YWG04Yl9XUjJjZk10T3RsM29sNDJEeFpOVXRSY1VwTUl4RmJXSUViY2hvOEl3ZnU0ellsN0I3SFhuazN1QU1NYko1VE1oRHRTei1MZ3Z0OVB4QXBRNTFSempVSUd4OTgwdXNpdUUxTkstZC1CQzY0ZXNHQkhLaVFJNURBLVZpTQ?oc=5) (Benzinga, 2026-10-09)
 
-### 13. HPE — Hewlett Packard Enterprise (final 82)
+### 12. HPE — Hewlett Packard Enterprise (final 82)
 **Why now:** New 52-week high
 
 Price reasons:
@@ -280,6 +269,24 @@ Price reasons:
   - [Hewlett Packard Enterprise Company $HPE Shares Newly Bought by Sacks & Associates LLC](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0s4SkVNakdkd0dTZnpEUTZaZVpQcDVielNEZ1RVU21IQjhNVV9TTlpKX0IwamNCXzN0VjZjZmpjb0FXQjN3eWFaYWJsU2VZZTFJczRYX1FvR1U2YmRNRk5EOFh3cFhzY0cxQ3A2R0RYejFEOTNOY0tmY1U0dmx5OXl4bFhoVmxZM2lrQjhJbHhkVDdCTF9oejQ4TzlJZFNSeDA0QWg1Yno0a3c1bC0yeUFNZ3VUamVrTWFJdXVvYTlBUXEwU19VemtPVW9rTjZDdlYyZHVDejYzQWM?oc=5) (MarketBeat, 2026-10-10)
   - [Hewlett Packard Enterprise stock last traded at USD 73.46](https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2JtaTNydWcwWW1Zb3RwaUI5cjJMQUxtc2xHeFE0Rk5zZGVEWFRNQlFfM3NQR0l5ZmVKMnBpbGp5bDAzOFJwWl9oOGVXRnJWNnowRzVxQWtGWlNRNFJleDFXT1pUX2VKZW42ZE5RVm9FQk1uaTBoNXhmUnNHTU8wLVFEOG1NcTdLWlFRbTkzSWhFRHFqdjlsSTlkYkQ1SGRHWmtZUmZIWU9iZTZ2bG5ER0dtTk5PRkttTzlDTQ?oc=5) (AD HOC NEWS, 2026-10-10)
   - [Hewlett Packard Enterprise (NYSE:HPE) Stock Jumps 3.5% - Here's Why](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY09XaV92R0dqZTBFbG95ZndIaExnNXlDSGlpeHVxZkxzLXdWcmJNU2YxLXhTbFRwVVNmQlR1djlIWXJSTGlYNWNRNUJNS05VOGNkN3VaTTVjdjA1MDN6ODFpWHQ2dDlkemVlZW1pMTJEeFNjVkNDSzNXR0NRSlA5WFFtVjFkUUJGV2hTOEg3N09xVDY5UlBFUWlLMl9jaWo0M3ZKUG5jZjB0blBENVJfQWVOWlhteFhXZjloTw?oc=5) (MarketBeat, 2026-10-09)
+
+### 13. CRWD — CrowdStrike (final 82)
+**Why now:** Strong trend: 6-month +171%, 3-month vs QQQ +39%
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +32.7%, 3m +35.4%, 6m +170.6% (beats 98% of stocks)
+- 3-month return vs QQQ: +38.5%
+- Volatility 72%/yr (unusually high/low)
+- Trades $2,700M/day
+- News: 46 headlines in 3 days, sentiment +0.15
+- Filings (7 days): none
+- Insiders (7 days): 48 sale(s) ≈ $31.7M, 48 pre-planned
+- Earnings: 2026-12-01; stop 254.53 (-7.5%, 2×ATR)
+- Top headlines:
+  - [CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?](https://www.fool.com/coverage/better-buy/2026/10/10/crowdstrike-vs-uipath-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss) (Yahoo Finance, 2026-10-10)
+  - [CrowdStrike Holdings (CRWD) Climbed, But What Is Behind The Attention Now?](https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-climbed-behind-041834700.html?.tsrc=rss) (Yahoo Finance, 2026-10-10)
+  - [Why Did CRWD, S, AEHR Stocks Hit 52-Week Highs Last Week?](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkNRVkVtSTcyOGZ1ejV3LU5FOGVfSzZqOXhYaURnTkM0T2JGRjNBSVFnNGhYQVBLZVppX2RKWjgwa2JuV3d3T3NwN1RRLUtKS2lKM1NOcVNPTTVGbmVnTFBPMTYxRWpnVXNJMEloQ2xubGJqeWUwRWo3Rklyak1vZVBkVE9pWm4tQkZLVjNoM1Q5WF8zaWN1ZmZQSEk0VW84dnRneVlXN2c0NjMyUHBHZS1HZWp1c0RSTnc?oc=5) (Stocktwits, 2026-10-10)
 
 ### 14. PSX — Phillips 66 (final 81)
 **Why now:** Strong trend: 6-month +52%, 3-month vs QQQ +33%
@@ -350,7 +357,7 @@ Price reasons:
 **WYNN** headlines:
 - [Macquarie cuts target for Wynn Resorts stock from USD 143.00 to USD 132.00](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHNPT3pMRnBtZTd0TVFqNzd0b2FOWjViZVZpU2o0UTJKVThhUHlucFl0aXl5NlJ3eWQ5bktkNWwwMUQwdGJSUEV4NjA4a0hNTDF6R0ZDZjdNeVpaTnNLQUFLc3VucDYzZFNuaVRXdm5TZWdGaWRIQUpOeVdxQko1Q1AzLV9kUjhzZkRQcUMwUXhLdTh4NmkzNzloc1RnWUtmcHQ1Qjg1NHFfQWVwbGx1ZVVtZVFsWXJNUTFRRE5BeHZYNnZtb1dvQmt4bzVUdw?oc=5) (AD HOC NEWS, 2026-10-08)
 - [WYNN Stock Price Today](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02clFSYlF4S3h0M1FmTDYtQ3RBRFJkRE9XY0pabHh1TTVMbG0wTFpSY2JrZ21uRWl6NHJuNjZ4X0FHREFzSklJNHBVOGNKLTd3c1Zz?oc=5) (CoinDesk, 2026-10-10)
-- [Wynn Resorts Ltd. Research & Ratings | WYNN](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFktZUNoWmZnTEpWajJLcHZUS1V4OF9WVE1Nb1Z6OW4yYl9VSkQ5d0VWbFV1Vmlic1VNaWFTT0xaeEJTeXByMDBZcWMtSG1PRmlCQl9UYlU0a09DYkRWX0E3cHlVMGFZMEpUUGpBVHBHZnVoR05kZENuTUFiWnhNeVVsSm1nOTE0MTRwazlzeU8zWFBiZzdKdnl3djVGelZLVnB2WVVVTWFqYVJmSjJOek9JcVdXLTNlVjctUU9GUmxTZw?oc=5) (Barron's, 2026-10-09)
+- [Wynn Resorts Ltd. Research & Ratings | WYNN](https://news.google.com/rss/articles/CBMipAJBVV95cUxOSlp1dHVuNmIzMVdoSU9ZSGZDRVZtUmlJdUxTNDRlQm1TZk40ajMxWnhqQktyZl9wQi1VNzYzc3BpeGVGb3ZXcUpXVUdpX1Y3T0F0MVM2REdWNHBZbGdsSTlSTFNrbUI3cnJKTmhwSWd0Sy1IMExBZll6TGphVGd3a3lRanMtNnpqcnl6SjI5bm41NTBZbG9nVmZ3NkhJVThsVk1nOXlEbzFaYW14TmRkUllUNnB2TzFoZDlmajRTUHIwNXNKVnR0eTJzUWpUbXZZY0t6akM5SE9OSmdQMURza0YtQ3dVMVR1SGFXOGVlQ1JiN1BQWjZKVHV1Vl9oLTFQZ0JSYXdWRnZFLVhkcnhtdGY1N2NxWXRsbXp4dVhoekI0RXpy?oc=5) (Barron's, 2026-10-09)
 
 **CMS** headlines:
 - [Why CMS Energy’s Rally Is Suddenly Losing Steam](https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVlhalk4dnBiM3IxZmlFSHZ3WEg2ZWRtTDVoSFhWellTbURrdGpuUWRTLUVPcjNBVEVvTDEwZHAzbUpjOVpvLWVpUkZfSGpaM0loQXZOa0pPMFVCQkh5cnhUckVWZm4tVDVVNnFWRTkwc1gyZ0R4cUhUMC1VTTh1bFhVOV96OXlqVXNJTTdn?oc=5) (TipRanks, 2026-10-08)
@@ -502,10 +509,10 @@ Closest dates: 2023-09-15 (AI rally); 2024-03-19 (AI rally); 2024-05-03 (AI rall
 | Gap up over 3% | 10286 | 47% | 47% | 45% | -0.5% |
 | Gap down over 3% | 10145 | 44% | 45% | 45% | -1.0% |
 | Momentum in the top 10% | 4056 | 49% | 47% | 47% | -0.6% |
-| CEO/CFO open-market buy | 308 | 47% | 47% | 46% | -0.7% |
-| Cluster insider buy (3+ in 14 days) | 140 | 49% | 44% | 51% | -1.5% |
+| CEO/CFO open-market buy | 461 | 46% | 45% | 47% | -1.0% |
+| Cluster insider buy (3+ in 14 days) | 228 | 46% | 43% | 44% | -1.8% |
 
-Insider history loaded: 20/51 quarters (4041 buys); fills in a few quarters per night.
+Insider history loaded: 30/51 quarters (5872 buys); fills in a few quarters per night.
 Not measured: earnings within 5 days in a strong trend (historical earnings dates are not free).
 
 Events that apply today:
@@ -517,8 +524,8 @@ Events that apply today:
 - AMD: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
 - META: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
 - NTAP: New 52-week high: beat QQQ after 20 days in 47% of 9560 cases; Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
-- CRWD: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
 - HPE: New 52-week high: beat QQQ after 20 days in 47% of 9560 cases; Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
+- CRWD: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
 - PSX: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4056 cases
 
 ## Earnings in the next 5 trading days (checked names)
@@ -539,6 +546,6 @@ Events that apply today:
 - Price score 0–100: trend, momentum (1/3/6 months, skipping the last week), 3-month strength vs QQQ, volatility (extremes score lower), liquidity; −10 points if earnings are within 5 trading days.
 - News score 0–100 (50 = neutral): VADER headline sentiment, keyword flags, attention vs normal, SEC Form 4 insider buys/sells. Only computed for the top 40 and the 15 weakest names.
 - Backtest of the price score has survivorship bias (today's index members) and no historical earnings dates; the news score cannot be backtested (no free news history).
-- Sources today: {'headlines': {'yfinance': 0, 'yahoo_rss': 1016, 'google_rss': 2786, 'stocks': 55, 'headlines': 1415}, 'sec': {'ok': 55, 'requests': 118, 'missing': 0}, 'smart_money': {'requests': 1183, 'errors': {}, 'filings_in_window': 2333, 'downloaded': 1133, 'backlog': 0, 'index_days_missing': 0}}
+- Sources today: {'headlines': {'yfinance': 0, 'yahoo_rss': 1016, 'google_rss': 2787, 'stocks': 55, 'headlines': 1414}, 'sec': {'ok': 55, 'requests': 118, 'missing': 0}, 'smart_money': {'requests': 16, 'errors': {}, 'filings_in_window': 2333, 'downloaded': 0, 'backlog': 0, 'index_days_missing': 0}}
 
 *Rule-based analysis, not financial advice. Past patterns do not guarantee future results.*

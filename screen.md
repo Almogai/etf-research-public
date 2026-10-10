@@ -20,9 +20,9 @@
 | 8 | AMD | Advanced Micro Devices | Information Technology | 608.10 | 83 | 563.74 | Strong trend: 6-month +191%, 3-month vs QQQ +8% |
 | 9 | META | Meta Platforms | Communication Services | 718.67 | 83 | 674.65 | Strong trend: 6-month +27%, 3-month vs QQQ +4% |
 | 10 | NTAP | NetApp | Information Technology | 237.15 | 82 | 220.21 | News: upgrade |
-| 11 | CRWD | CrowdStrike | Information Technology | 275.04 | 82 | 254.53 | News: beat |
-| 12 | NVDA | Nvidia | Information Technology | 229.28 | 82 | 218.88 | News: buyback |
-| 13 | HPE | Hewlett Packard Enterprise | Information Technology | 73.46 | 82 | 66.59 | New 52-week high |
+| 11 | NVDA | Nvidia | Information Technology | 229.28 | 82 | 218.88 | News: buyback |
+| 12 | HPE | Hewlett Packard Enterprise | Information Technology | 73.46 | 82 | 66.59 | New 52-week high |
+| 13 | CRWD | CrowdStrike | Information Technology | 275.04 | 82 | 254.53 | Strong trend: 6-month +171%, 3-month vs QQQ +39% |
 | 14 | PSX | Phillips 66 | Energy | 278.18 | 81 | 260.39 | Strong trend: 6-month +52%, 3-month vs QQQ +33% |
 | 15 | MRK | Merck & Co. | Health Care | 145.60 | 81 | 138.22 | News: upgrade |
 

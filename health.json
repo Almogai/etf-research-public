@@ -1,28 +1,28 @@
 {
-  "generated_utc": "2026-10-10T03:58:07Z",
+  "generated_utc": "2026-10-10T19:33:51Z",
   "session_date": "2026-10-09",
   "tqqq_run": "success",
   "tickers_requested": 518,
   "tickers_screened": 518,
   "tickers_failed": 0,
   "eligible": 514,
-  "headlines_collected": 1588,
-  "started_utc": "2026-10-10T03:51:28Z",
-  "duration_secs": 399.9,
+  "headlines_collected": 1415,
+  "started_utc": "2026-10-10T19:28:25Z",
+  "duration_secs": 325.7,
   "status": "ok",
-  "last_success_utc": "2026-10-10T03:58:07Z",
+  "last_success_utc": "2026-10-10T19:33:51Z",
   "steps": {
     "prices": {
       "status": "ok",
-      "secs": 106.9
+      "secs": 70.1
     },
     "screener": {
       "status": "ok",
-      "secs": 1.1
+      "secs": 1.2
     },
     "events": {
       "status": "ok",
-      "secs": 0.1
+      "secs": 0.2
     },
     "sectors": {
       "status": "ok",
@@ -30,23 +30,23 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 4.7
+      "secs": 3.1
     },
     "news": {
       "status": "ok",
-      "secs": 74.0
+      "secs": 68.1
     },
     "sec": {
       "status": "ok",
-      "secs": 14.7
+      "secs": 14.9
     },
     "smart_money": {
       "status": "ok",
-      "secs": 183.9
+      "secs": 150.4
     },
     "history": {
       "status": "ok",
-      "secs": 12.0
+      "secs": 14.5
     },
     "news_score": {
       "status": "ok",
@@ -54,7 +54,7 @@
     },
     "hot_cold": {
       "status": "ok",
-      "secs": 0.0
+      "secs": 0.1
     },
     "ideas": {
       "status": "ok",
@@ -62,7 +62,7 @@
     },
     "backtest": {
       "status": "ok",
-      "secs": 0.4
+      "secs": 0.5
     },
     "scorecard": {
       "status": "ok",
@@ -74,7 +74,7 @@
     },
     "learning": {
       "status": "ok",
-      "secs": 1.2
+      "secs": 1.7
     },
     "self_learning": {
       "status": "ok",
@@ -90,20 +90,20 @@
     },
     "summary": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.3
     },
     "notify": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.1
     }
   },
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 1006,
-      "google_rss": 2944,
+      "yahoo_rss": 1016,
+      "google_rss": 2786,
       "stocks": 55,
-      "headlines": 1588
+      "headlines": 1415
     },
     "sec": {
       "ok": 55,
@@ -111,11 +111,11 @@
       "missing": 0
     },
     "smart_money": {
-      "requests": 1338,
+      "requests": 1183,
       "errors": {},
       "filings_in_window": 2333,
-      "downloaded": 1200,
-      "backlog": 1133,
+      "downloaded": 1133,
+      "backlog": 0,
       "index_days_missing": 0
     }
   },

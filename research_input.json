@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "session_date": "2026-10-09",
-  "generated_utc": "2026-10-10 03:51 UTC",
+  "generated_utc": "2026-10-10 19:28 UTC",
   "benchmark": "QQQ",
   "universe_size": 518,
   "eligible": 514,
@@ -154,9 +154,9 @@
       "name": "Marathon Petroleum",
       "sector": "Energy",
       "price": 455.03,
-      "final_score": 86.0572,
+      "final_score": 86.3794,
       "price_score": 95.7004,
-      "news_score": 62.3694,
+      "news_score": 64.1095,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "components": {
@@ -173,9 +173,9 @@
         "Volatility 35%/yr (normal)",
         "Trades $1,240M/day"
       ],
-      "headline_count_3d": 24,
-      "sentiment": 0.2354,
-      "attention_vs_normal": 1.0435,
+      "headline_count_3d": 26,
+      "sentiment": 0.2102,
+      "attention_vs_normal": 1.4444,
       "news_flags": [
         "upgrade"
       ],
@@ -193,10 +193,10 @@
           "date": "2026-10-08 13:13 UTC"
         },
         {
-          "title": "Marathon Petroleum Corporation (MPC) Stock Forecasts",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3NFQ1BQUU9lMnNDX181WHNqRjV1aUVxVE5rZk04WlBJYXRXZndUcXp4Y1N0aTluQmxzdmN2THo5Zm5mNFpJVFZDQlM2OWtlMnhOMWFramJjRVdMaGdVVzBfOV9VcU14NXZIQnBROTRFTmZrVG5sLVhQbXVsYjNCbmNycmFCSDJCTVJGTGk4cmk?oc=5",
-          "date": "2026-10-09 17:47 UTC"
+          "title": "Analysts Are Bullish on These Energy Stocks: Marathon Petroleum (MPC), Phillips 66 (PSX)",
+          "source": "The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV1hnNE1XQjZIOFpMQ2t2aUpSbS1aTkFORW55YXZoOGRvWHBBRkd1QXVsTHJUTEpsYllaODdXaW5DVWJQbmNsVzlSY3ptV3QtTFZmaVNkRkJSZm5zUzIwRTBUSXM1Nlh5LVYzYkJuNmlfWmVPeGJxLW5nRE5FelV3c2lLajR0a0tzZWlvRVdvdWM1cTJUZEpnVWlqRV9HQUlfQkRLZlpjVmNRbkRfaEJsaTRtYWJsU25iNUxUWUJKZExhbmloeHYzcjdqYVl2NkJzMXd1dzctaFpUaUxtMWVLVUc1REdsMXZsYWhDT0l2QnU2eU1idWFpbHlR?oc=5",
+          "date": "2026-10-10 14:02 UTC"
         }
       ],
       "filings_7d": [],
@@ -234,9 +234,9 @@
       "name": "Valero Energy",
       "sector": "Energy",
       "price": 433.75,
-      "final_score": 85.8536,
+      "final_score": 85.8889,
       "price_score": 96.1868,
-      "news_score": 59.3248,
+      "news_score": 59.515,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "components": {
@@ -253,11 +253,17 @@
         "Volatility 34%/yr (normal)",
         "Trades $1,529M/day"
       ],
-      "headline_count_3d": 23,
-      "sentiment": 0.3108,
-      "attention_vs_normal": 1.0,
+      "headline_count_3d": 21,
+      "sentiment": 0.2719,
+      "attention_vs_normal": 1.1667,
       "news_flags": [],
       "top_headlines": [
+        {
+          "title": "J.P. Morgan Sticks to Their Buy Rating for Valero Energy (VLO)",
+          "source": "The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTF1a295VzlreURON1FTN1FoV1JFUlN3cVpKcUV4QjhtY2RTbEh1clAzdGNGVER1WWZHQ1A1SmJLem9EbGlERXhqcGhFUjE2eFNWeXJrVjhxcVRURElGUkx5TnZMR2RpZGZWVW5NcHR1dFYyU0JsUllZYkdBejc0WlY1aTlXWWVvQ3F5bFk3ekZIZjNnZjgwSUlBRDhOaFhWd2VLajZ2QlpZTUdBQ2tOYldhMEZ2U1lCNm1YcmE5aUdldlpxc0FoQm0xbERNMHRIbVh0NVpTZnVpQQ?oc=5",
+          "date": "2026-10-10 12:27 UTC"
+        },
         {
           "title": "Phillips 66, Valero, Marathon Could Be Next Leaders",
           "source": "Yahoo Finance",
@@ -269,12 +275,6 @@
           "source": "Yahoo Finance",
           "link": "https://investorshub.advfn.com/market-news/article/37773/valero-and-us-refiners-expected-to-report-record-earnings-as-global-fuel-supply-tightens?.tsrc=rss",
           "date": "2026-10-09 10:46 UTC"
-        },
-        {
-          "title": "Goldman Sachs Adjusts Price Target on Valero Energy to $496 From $457",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR2w0T2h0eEVIY0JHUVVTUThDVDQyWW1MSFd2Vmt5U3g0T0c4THJnNXdOX0pkNHgtVlRyZVdkWVozcC1Oczh6WWFsclZyNVJ3SGJVTjl2Uk1oMjNzeWZqWkNkOTU3N3Q0NlptN0tSOTN0aGliSDhuWkI5c0Q4N3dOcVF3YU1zME95Z2pLY1dtb3ZxX09kd2FTVlIxVWNqak1R?oc=5",
-          "date": "2026-10-09 10:19 UTC"
         }
       ],
       "filings_7d": [],
@@ -312,9 +312,9 @@
       "name": "Arista Networks",
       "sector": "Information Technology",
       "price": 216.74,
-      "final_score": 85.5475,
+      "final_score": 84.6018,
       "price_score": 91.5272,
-      "news_score": 76.34,
+      "news_score": 71.2334,
       "history_score": 46.7174,
       "insider_score": 50.0,
       "components": {
@@ -331,12 +331,11 @@
         "Volatility 47%/yr (unusually high/low)",
         "Trades $1,024M/day"
       ],
-      "headline_count_3d": 60,
-      "sentiment": 0.2723,
-      "attention_vs_normal": 2.6087,
+      "headline_count_3d": 64,
+      "sentiment": 0.2706,
+      "attention_vs_normal": 3.5556,
       "news_flags": [
         "acquisition",
-        "guidance raised",
         "upgrade"
       ],
       "top_headlines": [
@@ -376,7 +375,7 @@
       "earnings_within_5d": false,
       "stop": 204.4176,
       "stop_pct": -0.0569,
-      "why_now": "New 52-week high; news: guidance raised, upgrade",
+      "why_now": "New 52-week high; news: upgrade",
       "insider_30d": [],
       "insider_badges": "",
       "history_events": [
@@ -404,9 +403,9 @@
       "name": "Microsoft",
       "sector": "Information Technology",
       "price": 535.07,
-      "final_score": 83.814,
+      "final_score": 84.5366,
       "price_score": 95.6226,
-      "news_score": 50.1051,
+      "news_score": 54.0075,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -423,31 +422,28 @@
         "Volatility 40%/yr (normal)",
         "Trades $11,417M/day"
       ],
-      "headline_count_3d": 63,
-      "sentiment": 0.0851,
-      "attention_vs_normal": 2.7391,
-      "news_flags": [
-        "acquisition",
-        "guidance cut"
-      ],
+      "headline_count_3d": 59,
+      "sentiment": 0.0668,
+      "attention_vs_normal": 3.2778,
+      "news_flags": [],
       "top_headlines": [
         {
-          "title": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
+          "title": "Microsoft (MSFT) Posted 43% Azure Growth, Yet Trades Below Its Own Five-Year P/E. A Real Discount?",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/video/delta-cuts-outlook-microsoft-fights-h-1b-restrictions-bezos-eyes-blue-origin-ipo-192327496.html?.tsrc=rss",
-          "date": "2026-10-09 19:13 UTC"
+          "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-posted-43-azure-132642768.html?.tsrc=rss",
+          "date": "2026-10-10 17:11 UTC"
         },
         {
-          "title": "Microsoft Gets an Nvidia-Powered AI Laptop. Is It Time to Buy?",
-          "source": "TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTBvdXQ1eTk0RVlVYk9PUVZCMHBXU2gya3ZaUFI2NjJwT2ZnYWI5WTlUMmdoTUtIMFZIRFJYcDMtQnlfMkpzYldHRHkxRVcxRkhtb1AzWHZLR0F5a3QyQzRWakdXRWZFc0tQNDAwcFR0SHF5MFNRUWdwT3Z2UWRxVkNmQ19KTnB4Um00clV0UQ?oc=5",
-          "date": "2026-10-07 17:21 UTC"
+          "title": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-alphabet-ai-cloud-212027785.html?.tsrc=rss",
+          "date": "2026-10-10 15:20 UTC"
         },
         {
-          "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
+          "title": "Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending?",
           "source": "Yahoo Finance",
-          "link": "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-how-nvidia-microsoft-alphabet-meta-reshaped-ai-this-week/cZxT1H2RBn8?.tsrc=rss",
-          "date": "2026-10-10 03:26 UTC"
+          "link": "https://www.fool.com/investing/2026/10/10/microsoft-stock-has-grown-roughly-15-fold-since-sa/?.tsrc=rss",
+          "date": "2026-10-10 14:15 UTC"
         }
       ],
       "filings_7d": [],
@@ -476,9 +472,9 @@
       "name": "Thermo Fisher Scientific",
       "sector": "Health Care",
       "price": 658.02,
-      "final_score": 82.971,
+      "final_score": 83.1147,
       "price_score": 93.6381,
-      "news_score": 53.4909,
+      "news_score": 54.2667,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -497,9 +493,15 @@
       ],
       "headline_count_3d": 11,
       "sentiment": 0.2327,
-      "attention_vs_normal": 0.4783,
+      "attention_vs_normal": 0.6111,
       "news_flags": [],
       "top_headlines": [
+        {
+          "title": "The Technical Signals Behind (TMO) That Institutions Follow",
+          "source": "Stock Traders Daily",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVFWb0ROTDVZNWFuRk85TURfbVo0R0NTdzRXeGp3bVZxVGxDTHVzMDlJMkg0ZHZhU3ZJYU5aR3A5VjFkMDVDZ1k0NFBfakZBVjZfUmp1SUpjLWFYelBpT0JDbmlDQjYyOW5SNG9seDR2eGxlekZPMVlZMjNtVURzQU1TTlRzUTQwNHVKbzlsTHh3cWlOb1pJSnVLNGdfV08xdlh0bGtENHlUWUh6eHFNNXVvdWFBVkdrakpacEtGWXVoT2E4Q3lKMjFBZjM5anIyNUww?oc=5",
+          "date": "2026-10-10 04:16 UTC"
+        },
         {
           "title": "Thermo Fisher Scientific's Q3 2026 Earnings: What to Expect",
           "source": "Yahoo Finance",
@@ -511,12 +513,6 @@
           "source": "Simply Wall Street",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNXzd4VHIweG5LaEhwbWRiOUw0bk0yQmVmenFTa2I1akd1NzdQMWVweURhX0ZoS2ZhYXM2azZVQ014Rmg2U0c4aWxDVHpjcDlld2ZkdHdYbHRubHh0em9Wb3F3Y0ZDSThhT1lLMHZNZGxWZEpaTmhPQmh3Ymd6Y1BWYXVQdEVZVzAxY1RSMFNzRElhV0paUDJhQ1FLYUNoVUJLV3NfazVuVDlCbXFWUTE3QnM4NDY2ekttM3NRTzQzcGNrdTJqSW53VXRQRFhhMkZtUkV0LURUSmIxNUN6LWFRMkxQcjI2Y0FBTWVPVkkwTdIB7wFBVV95cUxNXzd4VHIweG5LaEhwbWRiOUw0bk0yQmVmenFTa2I1akd1NzdQMWVweURhX0ZoS2ZhYXM2azZVQ014Rmg2U0c4aWxDVHpjcDlld2ZkdHdYbHRubHh0em9Wb3F3Y0ZDSThhT1lLMHZNZGxWZEpaTmhPQmh3Ymd6Y1BWYXVQdEVZVzAxY1RSMFNzRElhV0paUDJhQ1FLYUNoVUJLV3NfazVuVDlCbXFWUTE3QnM4NDY2ekttM3NRTzQzcGNrdTJqSW53VXRQRFhhMkZtUkV0LURUSmIxNUN6LWFRMkxQcjI2Y0FBTWVPVkkwTQ?oc=5",
           "date": "2026-10-09 06:05 UTC"
-        },
-        {
-          "title": "What Could Thermo Fisher Scientific (TMO) Change With Its New Digital CMC Consortium?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/healthcare/articles/could-thermo-fisher-scientific-tmo-191546879.html?.tsrc=rss",
-          "date": "2026-10-08 19:15 UTC"
         }
       ],
       "filings_7d": [],
@@ -541,13 +537,104 @@
     },
     {
       "rank": 6,
+      "ticker": "FTNT",
+      "name": "Fortinet",
+      "sector": "Information Technology",
+      "price": 194.75,
+      "final_score": 83.019,
+      "price_score": 91.8969,
+      "news_score": 61.2075,
+      "history_score": 46.7174,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9183,
+        "relative_strength": 0.9261,
+        "volatility": 1.0,
+        "liquidity": 0.7218
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +17.1%, 3m +11.5%, 6m +119.3% (beats 92% of stocks)",
+        "3-month return vs QQQ: +14.7%",
+        "Volatility 43%/yr (normal)",
+        "Trades $726M/day"
+      ],
+      "headline_count_3d": 26,
+      "sentiment": 0.1432,
+      "attention_vs_normal": 1.4444,
+      "news_flags": [
+        "acquisition",
+        "upgrade"
+      ],
+      "top_headlines": [
+        {
+          "title": "Fortinet (NASDAQ:FTNT) Upgraded at Wall Street Zen",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEtqWUlkUDFYMEYtTzNKc1paT0JLd3NjNU5taEFvYlZsMHJuYTVIbUdXYVJmaS1VcmdMSTRqbGZFUVNGckFNVWV3U2t4dDh4WnI2cHZPRmhxcUh1WkFRcTh4M0ZicmFkYld6OU5QVjJhTkdHOE51QmZzZlkySG9iYU1nQk5FRU9JQ1p1Q2dvY3B2eFJPaDdFbEp2OGQyT28zbHhCbW04WTRDcWloR1FV?oc=5",
+          "date": "2026-10-10 05:38 UTC"
+        },
+        {
+          "title": "16,870 Fortinet, Inc. $FTNT Shares Acquired by CoreCap Advisors LLC",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlplTmF3MGVTMVJQVnZXdVRIVHZ2SzU1RUpCOVozNFR6NnUzVlhVc1AyN3ZPQnFpTklGN2tIbkNVTEJYYWRCajdFM1lpY1puTUdmbTc0cnZnbUNfRUNVZHlXSmI4UkdiazJVNXY3SUJ0a0lqRElyQmFsLW5nYkNxUlQzcURWUnpsSWNWYU1HV2JldVRPYkNMaW9WSkk2akxURG5rd3ZOdGdtdllVLUMyTUwzbHJIV29ZX25FSDdJLXh3dw?oc=5",
+          "date": "2026-10-08 23:15 UTC"
+        },
+        {
+          "title": "Fortinet (FTNT) Could Be 55% Overvalued As Earnings Optimism Lifts Sentiment",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUdZS3hIdms5eDJrejJZZmJKRGF4b0M5ZlBQZGw4cjJha1hRWlU2WWNRZTkyNGU0UkFqS0NnY0pwUHE3S3ZES1B1Nm5CbmZmd0RmdEtCSER5TzQ4U3FyMmtUZGljWktrRFh6SHlEWmxvVHduamxwUWNSVDEyNkZpZS12T3l3VEdSS3BNNjlVVVhydUlRRzZWUTI2aTJmOVlmYkJVTWdkZXhFdVAyUGFEZjR4bV9xU095UmRzZXd6c0F3VGhmbHfSAcsBQVVfeXFMUFhGUjdsTE9LT3RXRlVpdHZRZldPOXd6WjVtbkZGaGdxdndvb1ZXR1NCM24tTTFWcVVLSjdqZ0NYS24yNERSYUpvTWZyLVVvRGNQVkh0VUQ5eFlzUGN2dWZvV19haEphLXMyRVRfNzlyNmdvSXNEVGVWU3kydXRnb184bnYyaTJGcE8zSm5XT0k3c09rNzdkb18yRUdpRnl5b1J2bWU1ajdKZXctaWZLUEs4eDBFSEhEUTB5a2s5MzBpZTFDQm5lUlN0dTg?oc=5",
+          "date": "2026-10-10 06:04 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [
+        "new 52-week high"
+      ],
+      "earnings_date": "2026-10-28",
+      "days_to_earnings": 13,
+      "earnings_within_5d": false,
+      "stop": 183.8671,
+      "stop_pct": -0.0559,
+      "why_now": "New 52-week high; news: upgrade",
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "high_52w",
+          "name": "New 52-week high",
+          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
+          "n": 9560,
+          "beat": 0.4652,
+          "median": -0.0053
+        },
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "ticker": "ILMN",
       "name": "Illumina, Inc.",
       "sector": "Health Care",
       "price": 278.17,
-      "final_score": 82.9235,
+      "final_score": 82.909,
       "price_score": 92.6946,
-      "news_score": 57.4711,
+      "news_score": 57.3928,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "components": {
@@ -565,8 +652,8 @@
         "Trades $1,152M/day"
       ],
       "headline_count_3d": 12,
-      "sentiment": 0.1579,
-      "attention_vs_normal": 0.5217,
+      "sentiment": 0.1196,
+      "attention_vs_normal": 0.6667,
       "news_flags": [
         "upgrade"
       ],
@@ -578,16 +665,16 @@
           "date": "2026-10-08 11:50 UTC"
         },
         {
+          "title": "Illumina Stock In Focus After New Genomic AI Model Launch",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGtjZWlOc1dLRmxxLVhRa29VVVBxYnVlTlJUMU5yMnNGdXpFU3MwOXFDbUZKZ2g1TTRvRmY2RVAxZlFDczJrZHZpTE1kYm8tYXJSeXpDSER0WUhhQzQtOTRaSE9mVEh5eTdlUkFBMWdOZXEyWGFFdXVBVzQyWE45SUdOdEdlNzBMN0pCUlpsX3lCWEVVVnczbktSRTBFTzY3Qm1nWEZUeFV1NjhhdU5SMVVuWVN1dzRYOTNLRklpYS0ycHhIOWI5VGZLOVRTaXBMSlhHSTRn0gHbAUFVX3lxTE1GOHJ4Y1ZoQjBNOFRUWElxMTdtQjBOSmRzRXltQmpxcXFDZDdFWGtNa3cxSkw0NDk2N1VaNXVYa0lyQU8zTjJmcXY2TWZUVFRIZ0ZOd3BJMk1HTUxmWGdGMDR1UkNUYnkySWwtRFVtSmVTbmdWcS1vX3FSQ3hDb0VwdmxiOGgwa2RHVHFYXzFRV0gzN3ZIN1ZWSlVzbEJCazVxRXlvMVV3a2ZxX0haU3p2cDR6QmN1M2J6a0hfZ0JKYUhhQzJDcVQ1NXJXSEMxV2RVdTI1OExZb2Z3Zw?oc=5",
+          "date": "2026-10-10 16:53 UTC"
+        },
+        {
           "title": "Illumina Inc. stock outperforms competitors on strong trading day",
           "source": "MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3MyU2tSeDg4emtNc3lITkVELU1QSFR0cFAweW9aTjFWTWljUEJ2bnZBMDI3SHR6YVZsUkhHM2hMYjlFbUdIUWZONnMzZXNoSnRIU0JXY2U5cGlQb3EzM3NSaHk5OVZZNlhxMFZudm1NVmlYTEJ0NV84cEtMSG1wZ21yNi1kcGNiMnVFSDZwZ2h4eWxES19FQzNnYTl1LW96bEhNMy1hUDZscm1FMDJ3dmNGY1Mwbml3b3oxbThieWgtQQ?oc=5",
           "date": "2026-10-09 20:30 UTC"
-        },
-        {
-          "title": "Why (ILMN) Price Action Is Critical for Tactical Trading",
-          "source": "Stock Traders Daily",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZE1UQmxodEEzM1VYZGRNMkoxcDMtN2NSMFJKTi1sMHNTSnNHVzVQZXRpbXd4UDFUa2FBUE9acVR3WkFhVFZGNTlhZFd2eWlwR0ZEdFNZRVNfUW1lbEpQODFjZER1MDNrd3BKOFdjcHJ1RGtBLW1SQTFhdE9iVXdfM01mWHpoWmJOeTRnLXFtdXdhcUs2akVFOUx1R3M0SE9OUFJoQTk0YnBhWC1ZT2lzWkR3dGNZb2ZVRmluSnlnOVVxTTBwbGtOME9pR0ZJaWM?oc=5",
-          "date": "2026-10-09 19:46 UTC"
         }
       ],
       "filings_7d": [],
@@ -620,14 +707,174 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Information Technology",
+      "price": 608.1,
+      "final_score": 82.8188,
+      "price_score": 89.5233,
+      "news_score": 69.5903,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9604,
+        "relative_strength": 0.858,
+        "volatility": 0.3696,
+        "liquidity": 0.9903
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +38.7%, 3m +14.8%, 6m +191.5% (beats 96% of stocks)",
+        "3-month return vs QQQ: +7.7%",
+        "Volatility 63%/yr (unusually high/low)",
+        "Trades $13,199M/day"
+      ],
+      "headline_count_3d": 28,
+      "sentiment": 0.4198,
+      "attention_vs_normal": 1.5556,
+      "news_flags": [
+        "acquisition"
+      ],
+      "top_headlines": [
+        {
+          "title": "1,532 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Sacks & Associates LLC",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG95UmREYlN4M201NU1VVmtEcDRIY2w0ZmNOSTJNaWZvNDlDTzNPRVVfUkNRcGtCZG1vbzBFWHF3NmU5QmVHOFM0X2lHREh5T1BkWDFBa3F0aXJYTEl2aDI5YnIycVhFWnVEQVA5MFRxbjVWankzTEVHbGdua1NOYnNqd25KQ3B4S2dRMllKQVBycGwzaExZaTFhLXRIUEZFYXlJSUVJcWp4bHBJNktGZHZFQkJnNFZ1YXhSV29uZVA5Ym5lOWNYRmRqRE5QdElzTkkxSGNn?oc=5",
+          "date": "2026-10-10 11:25 UTC"
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by WoodTrust Financial Corp",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXM1Vzlnemp0R3VWUk5vQjhKSVhSLU16dzA3SFZHbmtFTS1JcDJaYTZIWDZMaWhJUHZORGk3S0hOaHBGMnZiQ2VMU2ZlUWdrSGhHTnNBVmpYOGJTaVJCd1A2TVlIMi05dEVSSkpLSTJ6b0xpQllzYTd0VkpMemJrZFk1M1J6TVhRMkFxb2xuTGtZdjd3WEtQQmQxMEJ5UkFHcDh4MUl4VkJNdTVWbFRCX25EbFpfQUs4T0FodFBYLTN6bWlMX0thS1Y0aU54SW8?oc=5",
+          "date": "2026-10-09 17:53 UTC"
+        },
+        {
+          "title": "Could Advanced Micro Devices (NASDAQ:AMD) Build a Stronger Market Story?",
+          "source": "Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjB4UFVnTHFNQWp2N1A2LXFLVmxGejVXa1hpVzhfbFBNQk04SGlRT2t6QUU0RUstek9jdllFT2JOWDVHSjN6aUd3bThrMWdhSXFGUHRIdGZRdXdVMUpFUTZMZGN0d1dzS0tOYmRLZno2cVdvYXBXOUwtTHVTWFQ1QW9jUXFNOElaUXk4a2kyRVNtdlEzQWx1SkJGMzU4a2ExZjB0MGlRd1liYVdGVW45T0tIVVVLbkk2OFVraVZNTTZqTzgyWlE?oc=5",
+          "date": "2026-10-10 17:47 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-03",
+      "days_to_earnings": 17,
+      "earnings_within_5d": false,
+      "stop": 563.7443,
+      "stop_pct": -0.0729,
+      "why_now": "Strong trend: 6-month +191%, 3-month vs QQQ +8%",
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "sector": "Communication Services",
+      "price": 718.67,
+      "final_score": 82.6419,
+      "price_score": 92.1012,
+      "news_score": 58.3239,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9047,
+        "relative_strength": 0.784,
+        "volatility": 0.9339,
+        "liquidity": 0.9961
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +22.9%, 3m +21.4%, 6m +27.0% (beats 90% of stocks)",
+        "3-month return vs QQQ: +3.6%",
+        "Volatility 45%/yr (unusually high/low)",
+        "Trades $15,681M/day"
+      ],
+      "headline_count_3d": 86,
+      "sentiment": 0.1387,
+      "attention_vs_normal": 4.7778,
+      "news_flags": [
+        "acquisition"
+      ],
+      "top_headlines": [
+        {
+          "title": "Here\u2019s Why Meta (META) Is A Cheap Stock To Buy",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-ai-strategy-gains-144459494.html?.tsrc=rss",
+          "date": "2026-10-10 17:26 UTC"
+        },
+        {
+          "title": "Meta Platforms, Inc. $META Stock Acquired by Wedmont Private Capital",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVh1YXp5eEZ0bjdvM0YzM2psV0hTUnpSMHI0dkRaeFBNbUpzYlV1cHZOejRJb0hWQXpja3hadHhmRWdkRHpjcTlDb2cwR2lCUW5ROEdkLXpUamFwYnlhbkgtRDR3RTd0UmZZcmRqaktpUV9IdWNPVW1JN2tmWkNwMWIwMUY5LXFMWjBVdHRWVUhJek1aYnlKRlpjczBENFBFc2I5WHVrYVRxRTBrYkJOUWdrYXNtVkNndEJiOWxtcU5BOXlz?oc=5",
+          "date": "2026-10-10 09:06 UTC"
+        },
+        {
+          "title": "GAMMA Investing LLC Acquires 7,458 Shares of Meta Platforms, Inc. $META",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWpjNHZteWI2VHExcXdvdEpQTm5icTVFTm81bW1PMzdZdG5MSEpGMXBwdFVtTUdxUmJuVDdQdHJ3b181eFNXUHBGM0Rfdk9yeXNPUlZtcTJzVjVEY1NJZzNUWW90Wjk3V0dTRXBTOWdiTzhzUWV1MTFLTVlRd3dlSzk2cVo4Z3Zvbm5tLXBHY1VuUlg2SHJCd2N0akNTeTRjY2ZZSUZRQUROWlYxeUFEcFRDU21BaFJRWUZCR29obVVkRm1YdF9n?oc=5",
+          "date": "2026-10-09 08:35 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 5,
+        "planned_sells": 5,
+        "buy_value": 0,
+        "sell_value": 1146726.0
+      },
+      "events": [],
+      "earnings_date": "2026-10-28",
+      "days_to_earnings": 13,
+      "earnings_within_5d": false,
+      "stop": 674.6528,
+      "stop_pct": -0.0612,
+      "why_now": "Strong trend: 6-month +27%, 3-month vs QQQ +4%",
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "ticker": "NTAP",
       "name": "NetApp",
       "sector": "Information Technology",
       "price": 237.15,
-      "final_score": 82.8937,
+      "final_score": 82.4304,
       "price_score": 93.1907,
-      "news_score": 55.3559,
+      "news_score": 52.8538,
       "history_score": 46.7174,
       "insider_score": 50.0,
       "components": {
@@ -644,9 +891,9 @@
         "Volatility 43%/yr (normal)",
         "Trades $546M/day"
       ],
-      "headline_count_3d": 25,
-      "sentiment": 0.0876,
-      "attention_vs_normal": 1.087,
+      "headline_count_3d": 15,
+      "sentiment": 0.0142,
+      "attention_vs_normal": 0.8333,
       "news_flags": [
         "acquisition",
         "upgrade"
@@ -665,10 +912,10 @@
           "date": "2026-10-08 08:14 UTC"
         },
         {
-          "title": "NTAP Stock Hits Fresh Record High After Evercore Upgrade: New Products Aren\u2019t Needed For \u2018Upside\u2019, Says Analyst",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT2VyRlZfR3NwWWE3cnlrMEs2ZzFHanRNOTcxQVZqUkdLWGo1dzRpNnliTkg3MzQ3WmpIaXF0azFHaWVaa05kb052UjlzYXNhT1dmSnp4U2hzX3o1SGRjTElkbDQyT3BxcEtuZVk3ekFpekhTZFhQUk5JblN5NVppd085cE5kRElpNks1SGhoLTFUUGlvR2s1eTJqRVVkQkh1bjZnN0NnclBjZDdrdDZKSGdrSklNQldxMFpHaks1LU5YbktZS2lsWVpoLW1FODEwOEhoTEI1dUJfeDZmTzhNNUVLUGRVVzVybkNnUDd3bE1fdG5VTWR4al9fNA?oc=5",
-          "date": "2026-10-07 17:39 UTC"
+          "title": "NetApp Inc. stock underperforms Friday when compared to competitors despite daily gains",
+          "source": "MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMTdLV0c1RzVKVloxb0RocU9BRlRrQ1VLZVZJYm9Ic3Y0QVI1cHFKN0QzWEt3djlCVnNfMzFDaDNOSmVVQVJJSW0tS2djM2pWSEVDbVZzZVBBQmVxN2VmRG50anMxMzZCT0lzVUtiSDBUTWl5ZDJmOVhZWjRqNXpVVV9KbkE4LTNVUUhTbFkxeWwxZFJsZlRfVDJ2dWtFUzRYZHBYMmFEZVZwMDJtRHZEMG1nMmVzc1JNbm5LX2JPMmZ4MGZscFJmNlpYV2NNY296WHlFQlJKaXZ2VEJha1FBZ3hGV29lS0VYdzIzVUhlaWNGTHZoY040?oc=5",
+          "date": "2026-10-09 20:50 UTC"
         }
       ],
       "filings_7d": [],
@@ -709,14 +956,94 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 11,
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "sector": "Information Technology",
+      "price": 275.04,
+      "final_score": 82.4035,
+      "price_score": 90.6712,
+      "news_score": 62.7561,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9786,
+        "relative_strength": 0.9786,
+        "volatility": 0.2529,
+        "liquidity": 0.9475
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +32.7%, 3m +35.4%, 6m +170.6% (beats 98% of stocks)",
+        "3-month return vs QQQ: +38.5%",
+        "Volatility 72%/yr (unusually high/low)",
+        "Trades $2,700M/day"
+      ],
+      "headline_count_3d": 47,
+      "sentiment": 0.1293,
+      "attention_vs_normal": 2.6111,
+      "news_flags": [
+        "beat"
+      ],
+      "top_headlines": [
+        {
+          "title": "CrowdStrike's Q1 Beat Wasn't Big Enough For Some Bulls \u2014 CRWD Stock Heads For Worst Drop In 22 Months",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXFOcXQxTGg0eTVIcXhzTXFJWERIRi1IMndERkRhc254cGNkVU1TOVpVc0J6dXZoVTF1TXJhVDcxV21vbkVpOFJmdjJOUlN1UjV6SDRvMUFoZ1pTVzlneHQ2N3Ayak1ndy1hVTVlbkFUMkZaNDJEVktzeXJJLXBkVlpFdDJCQkxHMmExemlvWnZERHl5QndZeUFCUWxtRVQwOXNxOEJPMG00d29EeDRSd05TNWg2My0tZHJNcTliMURPWjhRa1NfcTlR?oc=5",
+          "date": "2026-10-09 05:48 UTC"
+        },
+        {
+          "title": "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+          "source": "Yahoo Finance",
+          "link": "https://www.fool.com/coverage/better-buy/2026/10/10/crowdstrike-vs-uipath-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+          "date": "2026-10-10 17:55 UTC"
+        },
+        {
+          "title": "CrowdStrike Holdings (CRWD) Climbed, But What Is Behind The Attention Now?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-climbed-behind-041834700.html?.tsrc=rss",
+          "date": "2026-10-10 04:18 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 48,
+        "planned_sells": 48,
+        "buy_value": 0,
+        "sell_value": 31741027.42
+      },
+      "events": [],
+      "earnings_date": "2026-12-01",
+      "days_to_earnings": 37,
+      "earnings_within_5d": false,
+      "stop": 254.5339,
+      "stop_pct": -0.0746,
+      "why_now": "News: beat",
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 12,
       "ticker": "NVDA",
       "name": "Nvidia",
       "sector": "Information Technology",
       "price": 229.28,
-      "final_score": 82.0311,
+      "final_score": 81.8792,
       "price_score": 92.9864,
-      "news_score": 51.0225,
+      "news_score": 50.2022,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -733,9 +1060,9 @@
         "Volatility 37%/yr (normal)",
         "Trades $24,680M/day"
       ],
-      "headline_count_3d": 78,
-      "sentiment": 0.1004,
-      "attention_vs_normal": 3.3913,
+      "headline_count_3d": 70,
+      "sentiment": 0.0867,
+      "attention_vs_normal": 3.8889,
       "news_flags": [
         "acquisition",
         "buyback",
@@ -744,22 +1071,22 @@
       ],
       "top_headlines": [
         {
+          "title": "12,600 Shares of NVIDIA Corporation $NVDA Acquired by SaddleRock Capital Management LLC",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOVE2NGowVzBxbTFYN1pYX2xkVnJGYW16ODFVc2ltbTE5R0g5NzhfamdsMjVvbTYyelM3UnpUOWhlWkdURUo3T2xfQnp6M25MbHhvR3NMSmRjWEhnSFZZeWNPWjZYWHBhN0hHZ1lfWFZqLTR4MDZEUFZVeEtpSDhaYzdnWXZqd2JUdDg5cWZLRnhyQTZkOE94Mkh5dVBwOTYzOXJkV1VCTVR6OHdDc19mNTFsclhkOWJoUTZLU0EzNThaazZjSl8zRFVjM1lpTUhUTUNBaVNoMlVrekpsOWM4?oc=5",
+          "date": "2026-10-10 08:46 UTC"
+        },
+        {
+          "title": "Twin Peaks Wealth Advisors LLC Acquires 6,189 Shares of NVIDIA Corporation $NVDA",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGRsXzFheDA5c2F4TXBPQTZyZTlLcGhGR28wak4wWkp4ZllWc1lnUEV3NTBXVXNzV1g4Xy1nWTNEUmZ6R1dMbWh4SlZIWk51cHUzTGNPNVBfYWVmY0N2V3JsVV84NzFpVVpYOVJDNUJ3TXA3UmN2ZHBRU1FCa2pXbmhmYktRQ1JCektwLUw2eHFlbzBzaGwwUWVtSzRaOW1mTWtfTmZTOXZqcHh2bnVYWk9fb2JDQXJNNzh4UElVdHVJWnZDd3JrLUs2Y244Qy1YQkowalpR?oc=5",
+          "date": "2026-10-10 08:46 UTC"
+        },
+        {
           "title": "NVIDIA's Rally in Trouble? Analyst Warns of Bull Trap",
           "source": "Benzinga",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUROUHVkc2lWamxYYmdhRWtQNnE2dEFvUDdKVkFxSE9YWG04Yl9XUjJjZk10T3RsM29sNDJEeFpOVXRSY1VwTUl4RmJXSUViY2hvOEl3ZnU0ellsN0I3SFhuazN1QU1NYko1VE1oRHRTei1MZ3Z0OVB4QXBRNTFSempVSUd4OTgwdXNpdUUxTkstZC1CQzY0ZXNHQkhLaVFJNURBLVZpTQ?oc=5",
           "date": "2026-10-09 18:10 UTC"
-        },
-        {
-          "title": "NVIDIA Corporation $NVDA Shares Newly Acquired by Mission Financial Group LLC",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVo3RjNJT0V2NmpZVmo0X2ZQaG8tdjVWWFBoT1BjYUpPb0lMWkVYUUpKdXE2UGp6LWY2V1pCNmxhOGFyazZ6MDVZZ0tZU1BSY0xJblh2U0JYd3FJSDVVRnlGZlhxRWg2d2xiV0dpbG81OU1peGVpSnlMY0hBZUtoTmo3VEVpdmEzSDFNdWg4NGhJNE1CRE9zNGZ2OElsZjNkUXVKaDZ5UFB2ZnRxRWVtbVRtNXktclVtYU92TmFjdGZxQUplMGFxVDMwejRDNkN6TF84?oc=5",
-          "date": "2026-10-09 07:37 UTC"
-        },
-        {
-          "title": "Nvidia (NVDA) Stock Could Be 24% Undervalued Despite A Record Buyback Plan",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0JxMW5oeFNXa1dwTjJVbGw4SXBYNzlwRElVMW1SdnR0R1pvN2NTckZWcXZYVDVxSDV6Qm1rdmEtaEZkMTR1cU9fcGR2WWxKa1ZkNWFWMlJDRTE2SWdBZDlHUS1Jb2NEY3Z6SlBkRktBVXBBZ1hqVmh3aHdLWUJYV0cxeEFSZ0FQWjZUZzkzV0poVE1ROW1XdUlTRWRyOUtUaDlIMUdyYllsNWcwZDVXd004OV9tbm80dG1UVnZLZDQ0Rk5ZbUxPRFlQNNIB0AFBVV95cUxNUnZqN2pBaUxtQUpYaklvMGhXb2tjM0JDMWJnWWN4R1VfUGo5amZ2T1hPWlpZbVFBSXMyUlFWaE5KV0ZmUTA3d1ZKb0JhSFZCTHZaSnBOLWtIUVh5M2htWlgwd0dKNDA1TVBTNUxkNzRzMTBETUswRnFvMC1lbDVPaVpzRXBpVTNma2ZnZ1FTSWc3Mk82cTQ1U25kSUpfajIyN1ppSUU4bXN1Q3hKQ0ExSm9teEwxNW5FS0JJRkx2WTYxTFlfeG5xMVN2ejY3OVRJ?oc=5",
-          "date": "2026-10-08 12:46 UTC"
         }
       ],
       "filings_7d": [],
@@ -783,184 +1110,14 @@
       "history_events": []
     },
     {
-      "rank": 9,
-      "ticker": "FTNT",
-      "name": "Fortinet",
-      "sector": "Information Technology",
-      "price": 194.75,
-      "final_score": 81.8601,
-      "price_score": 91.8969,
-      "news_score": 54.9495,
-      "history_score": 46.7174,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9183,
-        "relative_strength": 0.9261,
-        "volatility": 1.0,
-        "liquidity": 0.7218
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +17.1%, 3m +11.5%, 6m +119.3% (beats 92% of stocks)",
-        "3-month return vs QQQ: +14.7%",
-        "Volatility 43%/yr (normal)",
-        "Trades $726M/day"
-      ],
-      "headline_count_3d": 29,
-      "sentiment": 0.1308,
-      "attention_vs_normal": 1.2609,
-      "news_flags": [
-        "acquisition"
-      ],
-      "top_headlines": [
-        {
-          "title": "16,870 Fortinet, Inc. $FTNT Shares Acquired by CoreCap Advisors LLC",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlplTmF3MGVTMVJQVnZXdVRIVHZ2SzU1RUpCOVozNFR6NnUzVlhVc1AyN3ZPQnFpTklGN2tIbkNVTEJYYWRCajdFM1lpY1puTUdmbTc0cnZnbUNfRUNVZHlXSmI4UkdiazJVNXY3SUJ0a0lqRElyQmFsLW5nYkNxUlQzcURWUnpsSWNWYU1HV2JldVRPYkNMaW9WSkk2akxURG5rd3ZOdGdtdllVLUMyTUwzbHJIV29ZX25FSDdJLXh3dw?oc=5",
-          "date": "2026-10-08 23:15 UTC"
-        },
-        {
-          "title": "Palo Alto vs. Fortinet: Is the Broader Security Platform Worth an 81x Cash-Flow Price?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/technology/articles/palo-alto-vs-fortinet-broader-211913826.html?.tsrc=rss",
-          "date": "2026-10-09 21:19 UTC"
-        },
-        {
-          "title": "With Fortinet Stock at All-Time Highs, Here\u2019s What Can Move It Up or Down",
-          "source": "TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnl3NVF6cTBDb0lwNTB3NlVDZTZib2pRZ19DVmZuUXpJLXZhNjk5MVJWMXpTUUwwcEw3NHJySVdRNmVDV05lMEEzcHpuSnVMcTNEVXFkNy01NmpNNVRLMmJXRi1DanhaLXprT1M5WTA2bERwZ1dWc2x3TE9rT19ISVRxb3F4eDI2UVRSdC1fN1BGaGJyaFFqcXBKNDRxbEJnVGY4?oc=5",
-          "date": "2026-10-09 21:13 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [
-        "new 52-week high"
-      ],
-      "earnings_date": "2026-10-28",
-      "days_to_earnings": 13,
-      "earnings_within_5d": false,
-      "stop": 183.8671,
-      "stop_pct": -0.0559,
-      "why_now": "New 52-week high",
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "high_52w",
-          "name": "New 52-week high",
-          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
-          "n": 9560,
-          "beat": 0.4652,
-          "median": -0.0053
-        },
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "sector": "Information Technology",
-      "price": 608.1,
-      "final_score": 81.7616,
-      "price_score": 89.5233,
-      "news_score": 63.8817,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9604,
-        "relative_strength": 0.858,
-        "volatility": 0.3696,
-        "liquidity": 0.9903
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +38.7%, 3m +14.8%, 6m +191.5% (beats 96% of stocks)",
-        "3-month return vs QQQ: +7.7%",
-        "Volatility 63%/yr (unusually high/low)",
-        "Trades $13,199M/day"
-      ],
-      "headline_count_3d": 28,
-      "sentiment": 0.3801,
-      "attention_vs_normal": 1.2174,
-      "news_flags": [
-        "acquisition"
-      ],
-      "top_headlines": [
-        {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by WoodTrust Financial Corp",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXM1Vzlnemp0R3VWUk5vQjhKSVhSLU16dzA3SFZHbmtFTS1JcDJaYTZIWDZMaWhJUHZORGk3S0hOaHBGMnZiQ2VMU2ZlUWdrSGhHTnNBVmpYOGJTaVJCd1A2TVlIMi05dEVSSkpLSTJ6b0xpQllzYTd0VkpMemJrZFk1M1J6TVhRMkFxb2xuTGtZdjd3WEtQQmQxMEJ5UkFHcDh4MUl4VkJNdTVWbFRCX25EbFpfQUs4T0FodFBYLTN6bWlMX0thS1Y0aU54SW8?oc=5",
-          "date": "2026-10-09 17:53 UTC"
-        },
-        {
-          "title": "1,066 Advanced Micro Devices, Inc. $AMD Shares Acquired by Journey Retirement Planning & Investment Management LLC",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcHczTDBlUHJTTTFoaWJOYTFteVlZTFdVZ0RSaGw2M3lfS3ZpdUNQVWtDNTNvTEJmSk96enpTQ1pwUHRsMWRta2N3V3NiZi02YkVzbC12dFI3WG1TMnUtYm9SeV9ramNDdl82M3N0YVdudkxraGlKUzhELVROXzRtWTVSTEUwOElwVmJqck9MMDJVT2N5QmczNW9ZV0NDYzM1bXBWa2NsWmZON1VTMVBiV1NoeWxDNzEwcXdzY3FMYTk1SmlmNG9RNEFZTTVjbTRrTld1bE5XekZvSDBhV0duV2dleFpKN3NRUHV4bi1rYVZCYldFRWVlX1hrV1d5UQ?oc=5",
-          "date": "2026-10-09 17:48 UTC"
-        },
-        {
-          "title": "11,970 Advanced Micro Devices, Inc. $AMD Shares Acquired by HWG Holdings LP",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkprbnZQbXBVLThMNi01ODVDN1F3dGxpNW5Xa1k2cXVJYzJGOFQ4eHA1d0hNYUxCb3J4WmRjUFpoeFoxRlV3dWo5SGEtQXhCX0oxUkxCc3ppREdNOGxYMmo3U3VCYzlmWi1IU0RLd2k0QWZIQ25ZdGdxQUxVOTYxV2lIaFdUaXpzWklvcVdBZzctMFFJUzFVVG9aczM2cXJGU1puajl4MndQRUpKSlZidk11OU5vZVdvVHpfTHhQQjEtNVRBbmhYOGxTblY?oc=5",
-          "date": "2026-10-08 11:24 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-03",
-      "days_to_earnings": 17,
-      "earnings_within_5d": false,
-      "stop": 563.7443,
-      "stop_pct": -0.0729,
-      "why_now": "Strong trend: 6-month +191%, 3-month vs QQQ +8%",
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 11,
+      "rank": 13,
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise",
       "sector": "Information Technology",
       "price": 73.46,
-      "final_score": 81.7379,
+      "final_score": 81.7002,
       "price_score": 91.216,
-      "news_score": 57.0131,
+      "news_score": 56.8095,
       "history_score": 46.7174,
       "insider_score": 50.0,
       "components": {
@@ -977,28 +1134,28 @@
         "Volatility 63%/yr (unusually high/low)",
         "Trades $1,313M/day"
       ],
-      "headline_count_3d": 24,
-      "sentiment": 0.224,
-      "attention_vs_normal": 1.0435,
+      "headline_count_3d": 18,
+      "sentiment": 0.227,
+      "attention_vs_normal": 1.0,
       "news_flags": [],
       "top_headlines": [
+        {
+          "title": "Hewlett Packard Enterprise Company $HPE Shares Newly Bought by Sacks & Associates LLC",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0s4SkVNakdkd0dTZnpEUTZaZVpQcDVielNEZ1RVU21IQjhNVV9TTlpKX0IwamNCXzN0VjZjZmpjb0FXQjN3eWFaYWJsU2VZZTFJczRYX1FvR1U2YmRNRk5EOFh3cFhzY0cxQ3A2R0RYejFEOTNOY0tmY1U0dmx5OXl4bFhoVmxZM2lrQjhJbHhkVDdCTF9oejQ4TzlJZFNSeDA0QWg1Yno0a3c1bC0yeUFNZ3VUamVrTWFJdXVvYTlBUXEwU19VemtPVW9rTjZDdlYyZHVDejYzQWM?oc=5",
+          "date": "2026-10-10 11:17 UTC"
+        },
+        {
+          "title": "Hewlett Packard Enterprise stock last traded at USD 73.46",
+          "source": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2JtaTNydWcwWW1Zb3RwaUI5cjJMQUxtc2xHeFE0Rk5zZGVEWFRNQlFfM3NQR0l5ZmVKMnBpbGp5bDAzOFJwWl9oOGVXRnJWNnowRzVxQWtGWlNRNFJleDFXT1pUX2VKZW42ZE5RVm9FQk1uaTBoNXhmUnNHTU8wLVFEOG1NcTdLWlFRbTkzSWhFRHFqdjlsSTlkYkQ1SGRHWmtZUmZIWU9iZTZ2bG5ER0dtTk5PRkttTzlDTQ?oc=5",
+          "date": "2026-10-10 09:01 UTC"
+        },
         {
           "title": "Hewlett Packard Enterprise (NYSE:HPE) Stock Jumps 3.5% - Here's Why",
           "source": "MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY09XaV92R0dqZTBFbG95ZndIaExnNXlDSGlpeHVxZkxzLXdWcmJNU2YxLXhTbFRwVVNmQlR1djlIWXJSTGlYNWNRNUJNS05VOGNkN3VaTTVjdjA1MDN6ODFpWHQ2dDlkemVlZW1pMTJEeFNjVkNDSzNXR0NRSlA5WFFtVjFkUUJGV2hTOEg3N09xVDY5UlBFUWlLMl9jaWo0M3ZKUG5jZjB0blBENVJfQWVOWlhteFhXZjloTw?oc=5",
           "date": "2026-10-09 21:34 UTC"
-        },
-        {
-          "title": "A Look at Hewlett Packard Enterprise Co (HPE) After 3.5% Gain -- GF Value $28.30 vs Price $73.46",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzREZ05Cd0VJZDRFajlRRl9oOEhGa19CZXhacUNROW1qdTJVcU9hWXJiSE9XY0sxc013MVdxZ1FmcDBCQ25DQ0RBVWNzSGlEUkhncWJtVDNKYkFnQTFDRmpiaFRpXzhsS3ZwdTNiNEhZVDFLT0lfTTZiZjhJcTlpYkg0LXJtNUpTektoZHMxaEUwVkJWRXNONFMyeUZYcjU5QjZIM3Z0RzhZMzJYSERXT1kxZHBJREpIOHB1TlNpSVQ0Zw?oc=5",
-          "date": "2026-10-09 21:33 UTC"
-        },
-        {
-          "title": "Hewlett Packard Enterprise stock hits all-time high of 73.28 USD",
-          "source": "Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWU9pMW5PcHJsQkZINkhhMEJjclZPUFZqVU5mVUpHamx4dGJkcmdXZ3F0bjV4T2NROFktZGdVWlVTbk0tYzAybHgwZ1pBNXlVQzRUTlRsQXg0dGEybllmeGJqcURCM0dTQzRLYTc4bGZZS0J3elV0WVYxOWJlRDRKVi15TFcyZ3RSa2g0cTFTUVprMzZiS3pFUzlJam5LNTJZNGRkT2NRU2NCMU5LcFlKYi14S1VwQU5WMThfM2VCWk8?oc=5",
-          "date": "2026-10-09 18:02 UTC"
         }
       ],
       "filings_7d": [],
@@ -1041,173 +1198,14 @@
       ]
     },
     {
-      "rank": 12,
-      "ticker": "CRWD",
-      "name": "CrowdStrike",
-      "sector": "Information Technology",
-      "price": 275.04,
-      "final_score": 81.3508,
-      "price_score": 90.6712,
-      "news_score": 57.072,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9786,
-        "relative_strength": 0.9786,
-        "volatility": 0.2529,
-        "liquidity": 0.9475
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +32.7%, 3m +35.4%, 6m +170.6% (beats 98% of stocks)",
-        "3-month return vs QQQ: +38.5%",
-        "Volatility 72%/yr (unusually high/low)",
-        "Trades $2,700M/day"
-      ],
-      "headline_count_3d": 58,
-      "sentiment": 0.1179,
-      "attention_vs_normal": 2.5217,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Why CrowdStrike Holdings Stock Crushed it on Friday",
-          "source": "The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNREVJX0lYR204Q054SEM3SnFMLXp0SWlpUDl0TnhneGIxNlY5REp3M2x3RFUzeGhyUWt6eWx5MS1QUFhxeFkxaEJGMFRmU3hYaklTZ1ZMa2cySm05Ukx1WjJzOW1ic1liUXhjQ0NZUFprZm91cXdjLUtlY1lvdjh6am9OQm1GMFhCZFE5VVhjMzdKTUpyeWQ3R3dDN0JLMnZjYnZXRGFFSDlvdldmMkNUcC1BeFRwaTl2cmxjVDFCOV9nU3JKNWVLZjBxaDEzcUdEZXc?oc=5",
-          "date": "2026-10-09 23:21 UTC"
-        },
-        {
-          "title": "CrowdStrike (CRWD) Faces Unsolicited Mini-Tender Offer Amid High Valuation Concerns",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkRZTE85Vk42enZSRU5SN2pLUUdDTWVNUlhxU3RKZ1lhM2twcVpGNjhpZ29wa0dqYm56RDZ2Vmg1MXJsaU4tbF8wcFFsWnlLbEtmOVZCZ1V6NEp4WjRGakp0cm9lN0pvZ1RsTXFTZE5MY0JVSmRZQ25Ea1gxM0h2eTM5RUZsR2xidFNtcngzMUlNMlhDRXpKSVRaVHA4WEdtMkRrQ0txMjF3Wk4tajRKblA2eDN4SXZzZW1v?oc=5",
-          "date": "2026-10-09 22:00 UTC"
-        },
-        {
-          "title": "Is CrowdStrike Holdings Inc (CRWD) Overvalued After 4.6% Rally?",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeU04V0UyXzhDZkRXYVNRR3hqNTBxS0JHY0x5UUJEdmg2cGdxejdkWkd0S2RCUEJIMlRBRGpGRFdxdXpMQ01Ucy1DdFREd051aUZEX05heWItaDd3RlJfVnlXTHZ6NmdHYlJBLURlMGpESjFLM3hLZGdlMkNSUUlqUnA2ZV9zX1BKdjcyNU13RS1DeFNBR0ZiVHA0RnZaQi1NbjVvRS1lQ3JVU0ZtejRSOVVacnBsMC11alhsZXRpMA?oc=5",
-          "date": "2026-10-09 21:18 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 48,
-        "planned_sells": 48,
-        "buy_value": 0,
-        "sell_value": 31741027.42
-      },
-      "events": [],
-      "earnings_date": "2026-12-01",
-      "days_to_earnings": 37,
-      "earnings_within_5d": false,
-      "stop": 254.5339,
-      "stop_pct": -0.0746,
-      "why_now": "Strong trend: 6-month +171%, 3-month vs QQQ +39%",
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "sector": "Communication Services",
-      "price": 718.67,
-      "final_score": 81.3335,
-      "price_score": 92.1012,
-      "news_score": 51.2583,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9047,
-        "relative_strength": 0.784,
-        "volatility": 0.9339,
-        "liquidity": 0.9961
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +22.9%, 3m +21.4%, 6m +27.0% (beats 90% of stocks)",
-        "3-month return vs QQQ: +3.6%",
-        "Volatility 45%/yr (unusually high/low)",
-        "Trades $15,681M/day"
-      ],
-      "headline_count_3d": 85,
-      "sentiment": 0.1043,
-      "attention_vs_normal": 3.6957,
-      "news_flags": [
-        "acquisition",
-        "lawsuit"
-      ],
-      "top_headlines": [
-        {
-          "title": "GAMMA Investing LLC Acquires 7,458 Shares of Meta Platforms, Inc. $META",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWpjNHZteWI2VHExcXdvdEpQTm5icTVFTm81bW1PMzdZdG5MSEpGMXBwdFVtTUdxUmJuVDdQdHJ3b181eFNXUHBGM0Rfdk9yeXNPUlZtcTJzVjVEY1NJZzNUWW90Wjk3V0dTRXBTOWdiTzhzUWV1MTFLTVlRd3dlSzk2cVo4Z3Zvbm5tLXBHY1VuUlg2SHJCd2N0akNTeTRjY2ZZSUZRQUROWlYxeUFEcFRDU21BaFJRWUZCR29obVVkRm1YdF9n?oc=5",
-          "date": "2026-10-09 08:35 UTC"
-        },
-        {
-          "title": "147,497 Meta Platforms, Inc. $META Shares Acquired by Artemis Investment Management LLP",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRzRVaEN1dkJlckNDSzItQWkzOWY1dUpxeWhmc1FvYW5INVhNUlRUVEhrYW1UT3RHNjVyVS03bDNpWU5mTGljSkdQOWJTVUpjM2V6OVJxNG5kbmMyNndlcVhyS3Rtcm5ybG4zSDlWaUhnQ3dlenJuVUNWLXFlVVJPekd2MVEySVg3TGNDWkZndDAzTjFUVWtGVy16UGxWVGhVam5HSldRYnp5M2RkX1JuaG9hRnp1NDk2bnF6VzkySUhXTFRJNFE2ZzhfYU9sb3EzckdVTGl5SmduZlBO?oc=5",
-          "date": "2026-10-09 07:37 UTC"
-        },
-        {
-          "title": "CoreCap Advisors LLC Acquires 7,244 Shares of Meta Platforms, Inc. $META",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFZRUzU1aHNhWERFWERUU0REUGZ1UEdUTlJ1UjBISTM4eHpTbVhXYkhTS3BkbHdIN3R5eUVHdDVvdWNfcGE3aTFmWUZFaE5QUVlROGpYSFI5S3hsSFRIQ01hUFlnUW4zYnJhcExLU1dxWndrbm10cmFtZGZwTVhfWVlJSDlPbEw4QWkyVnZGZHpIWThHT3IweGRNZ1kzNTdrRUMyNnlaa0lpRUVXZlpQcFAtN1k1dmFPUlhoQVZzdFZMVVZ5bzliTQ?oc=5",
-          "date": "2026-10-09 07:37 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 5,
-        "planned_sells": 5,
-        "buy_value": 0,
-        "sell_value": 1146726.0
-      },
-      "events": [],
-      "earnings_date": "2026-10-28",
-      "days_to_earnings": 13,
-      "earnings_within_5d": false,
-      "stop": 674.6528,
-      "stop_pct": -0.0612,
-      "why_now": "Strong trend: 6-month +27%, 3-month vs QQQ +4%",
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
       "rank": 14,
       "ticker": "PSX",
       "name": "Phillips 66",
       "sector": "Energy",
       "price": 278.18,
-      "final_score": 81.2878,
+      "final_score": 81.3036,
       "price_score": 92.9475,
-      "news_score": 47.6266,
+      "news_score": 47.712,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "components": {
@@ -1224,9 +1222,9 @@
         "Volatility 29%/yr (normal)",
         "Trades $851M/day"
       ],
-      "headline_count_3d": 19,
-      "sentiment": 0.106,
-      "attention_vs_normal": 0.8261,
+      "headline_count_3d": 18,
+      "sentiment": 0.0904,
+      "attention_vs_normal": 1.0,
       "news_flags": [
         "downgrade"
       ],
@@ -1238,16 +1236,16 @@
           "date": "2026-10-08 20:14 UTC"
         },
         {
+          "title": "Analysts Are Bullish on These Energy Stocks: Marathon Petroleum (MPC), Phillips 66 (PSX)",
+          "source": "The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNV1hnNE1XQjZIOFpMQ2t2aUpSbS1aTkFORW55YXZoOGRvWHBBRkd1QXVsTHJUTEpsYllaODdXaW5DVWJQbmNsVzlSY3ptV3QtTFZmaVNkRkJSZm5zUzIwRTBUSXM1Nlh5LVYzYkJuNmlfWmVPeGJxLW5nRE5FelV3c2lLajR0a0tzZWlvRVdvdWM1cTJUZEpnVWlqRV9HQUlfQkRLZlpjVmNRbkRfaEJsaTRtYWJsU25iNUxUWUJKZExhbmloeHYzcjdqYVl2NkJzMXd1dzctaFpUaUxtMWVLVUc1REdsMXZsYWhDT0l2QnU2eU1idWFpbHlR?oc=5",
+          "date": "2026-10-10 14:02 UTC"
+        },
+        {
           "title": "Phillips 66 (PSX) Stock Falls Amid Market Uptick: What Investors Need to Know",
           "source": "Yahoo Finance",
           "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-stock-falls-211504374.html?.tsrc=rss",
           "date": "2026-10-09 21:15 UTC"
-        },
-        {
-          "title": "Phillips 66, Valero, Marathon Could Be Next Leaders",
-          "source": "Yahoo Finance",
-          "link": "https://cdn.jwplayer.com/previews/0vIaSUfn?.tsrc=rss",
-          "date": "2026-10-09 19:23 UTC"
         }
       ],
       "filings_7d": [
@@ -1288,84 +1286,76 @@
     },
     {
       "rank": 15,
-      "ticker": "DELL",
-      "name": "Dell Technologies",
-      "sector": "Information Technology",
-      "price": 586.06,
-      "final_score": 81.0407,
-      "price_score": 88.9883,
-      "news_score": 62.1286,
-      "history_score": 46.9181,
+      "ticker": "MRK",
+      "name": "Merck & Co.",
+      "sector": "Health Care",
+      "price": 145.6,
+      "final_score": 80.8025,
+      "price_score": 88.1615,
+      "news_score": 63.6877,
+      "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
         "trend": 1.0,
-        "momentum": 0.9617,
-        "relative_strength": 0.965,
-        "volatility": 0.1362,
-        "liquidity": 0.965
+        "momentum": 0.7374,
+        "relative_strength": 0.9027,
+        "volatility": 1.0,
+        "liquidity": 0.8658
       },
       "price_reasons": [
         "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +14.3%, 3m +36.8%, 6m +224.1% (beats 96% of stocks)",
-        "3-month return vs QQQ: +30.1%",
-        "Volatility 79%/yr (unusually high/low)",
-        "Trades $4,172M/day"
+        "Momentum (to last week): 1m -4.3%, 3m +14.5%, 6m +21.0% (beats 74% of stocks)",
+        "3-month return vs QQQ: +11.8%",
+        "Volatility 35%/yr (normal)",
+        "Trades $1,445M/day"
       ],
-      "headline_count_3d": 63,
-      "sentiment": 0.1605,
-      "attention_vs_normal": 2.7391,
+      "headline_count_3d": 32,
+      "sentiment": 0.1629,
+      "attention_vs_normal": 1.7778,
       "news_flags": [
+        "FDA",
         "acquisition",
         "upgrade"
       ],
       "top_headlines": [
         {
-          "title": "Trump asked Americans to buy Dell, then his money managers sold DELL stock",
-          "source": "Invezz",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkw2c0poTzJBcWU0cXpoUFIxTUlOWUdsbmwwTktNUW0zRXZiZjZ1V1RDVDdMNnhmUER5N2l6eVVWTlZ1eUdtcXlHZ1VXeWd6MTVEenhxNlN0VUJ2ZnpZc19rYnNNYnE5X0FIOHlpYjRZV2taMXhRa3VfMDhpelZKNWw0MTFrNzVzZWNKU1JjS1U5Y2dfZkZIZjhNdjMzcGxMSWdtdHNUNG5zSXBpUVE?oc=5",
-          "date": "2026-10-09 10:30 UTC"
-        },
-        {
-          "title": "Mizuho raises target to USD 650 for Dell Technologies stock",
+          "title": "Cantor raises target to USD 145 for Merck stock",
           "source": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDd4X3d4VnlCbHFNOG43aXVFckotclJZS29sTnRJQkNzLWEzTjFTS0lWYkgzT0J6cGxTVkxWUERWczhIZjJDYm96OGxvWVVzUWQtWnM4ZFBDT1pjcDRyRFc0WkdDZ1Zwd2ktSnhvb1BxT2VGbExDVnFaZVdWSWVwdVdZOGNxTDFwMS1pYnlqOGNLOHktMTlYcFdMVDdMUjg4NHlyUDN5Vlo5SmxhdDU3bl8tNmxFWEhUUjZQdU92Yw?oc=5",
-          "date": "2026-10-07 12:47 UTC"
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamdJcllvdjlOT3g0b1lDQ0luZF94U2oyZG1tdTBuRTA5YVk5RklBay1Kc09nV0dSM1VEU01ZOU1kSVNObG1qYmVmZ3h4VFVSRGhvbl9nNVo2OEk0anJJZW9SV21nc0xQd1AtQlVmR2d1X1hHdmJGVm9HRXB0V1lJTExtM2dGOS1wamh3UXVxM0RlUHByM0lvWFlNeTMyVmM5SmRkb3p6bnVWUTg0TmI0?oc=5",
+          "date": "2026-10-09 13:01 UTC"
         },
         {
-          "title": "A 1,800-share sale is proposed by Dell Technologies (DELL) director Egon Durban.",
-          "source": "Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEhHMTVsNkdkQmcza3pNRGJNTlh2R3NSWmZxVW5KWWVSaXgwalYzU2YxNXB5TFduTkFxRHh3VmE3WFFzampCZW9yUFVVTlEzRXB0Qng2dXB2dDJycDFQM3JnQmNQaWdGLVMzSUx6SlJiVVc1RzJZeEw5ZjM2YXU3aWp0a05Ea3UzSmJfaVA4dkUwRFM0aWxlbFJMVUNpMVk?oc=5",
-          "date": "2026-10-09 23:19 UTC"
+          "title": "Farther Finance Advisors LLC Acquires 11,956 Shares of Merck & Co., Inc. $MRK",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVpTUkN5X005OE1kZmZDWXl2TTU1YndmWW9JbldzQUdwaHZGZmpJYVlGTm1YVHZRc0o1U09BcWNZNE9sOTl5bnBOSks1aGptVkpOaGNBdmVwTllid3pNbUx2WnlFbXl4a2xHdGtlYWp1U2piNDN2Q3M4cXZqNV9DU2hfM3NCN3VXNlVKUVYtaHZRY3dNZDAwLUpFOEpGUGZtaW5fU0oyWU1LazBXNEdTN19na2FIUGxiSXBQTExuSEt2UUFCWlc2ZE9nMA?oc=5",
+          "date": "2026-10-09 08:11 UTC"
+        },
+        {
+          "title": "Merck (MRK) Wins FDA Approval For WELIREG Plus LENVIMA In Kidney Cancer",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/healthcare/articles/merck-mrk-wins-fda-approval-171210023.html?.tsrc=rss",
+          "date": "2026-10-08 17:12 UTC"
         }
       ],
       "filings_7d": [],
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
-        "sells": 56,
+        "sells": 0,
         "planned_sells": 0,
         "buy_value": 0,
-        "sell_value": 73990111.09
+        "sell_value": 0.0
       },
       "events": [],
-      "earnings_date": "2026-11-27",
-      "days_to_earnings": 35,
+      "earnings_date": "2026-10-29",
+      "days_to_earnings": 14,
       "earnings_within_5d": false,
-      "stop": 535.5186,
-      "stop_pct": -0.0862,
+      "stop": 138.22,
+      "stop_pct": -0.0507,
       "why_now": "News: upgrade",
       "insider_30d": [],
       "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
+      "history_events": []
     }
   ],
   "cold": [
@@ -1375,9 +1365,9 @@
       "name": "Alnylam Pharmaceuticals",
       "sector": "Health Care",
       "price": 232.68,
-      "final_score": 19.6071,
+      "final_score": 19.6612,
       "price_score": 10.3113,
-      "news_score": 44.633,
+      "news_score": 44.9255,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1394,13 +1384,19 @@
         "Volatility 73%/yr (unusually high/low)",
         "Trades $317M/day"
       ],
-      "headline_count_3d": 6,
-      "sentiment": 0.1422,
-      "attention_vs_normal": 0.2609,
+      "headline_count_3d": 8,
+      "sentiment": 0.1617,
+      "attention_vs_normal": 0.4444,
       "news_flags": [
         "lawsuit"
       ],
       "top_headlines": [
+        {
+          "title": "Alnylam Pharmaceuticals (ALNY) Could Be 37% Undervalued After TTR Sales Probe",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeWJtOFdtYzI2ZmRrM0Z5ZU5acXN6clZMWUo4OExKbkpWWGNhc294Rzd1TUU1U2NmYjZyLUw1ZndlenlpTnZfdWhBOEh1LTZUNEktUjVqbDF0bDlmZ2ZRZXpDU1pPdzYtVzdlMU5EUlBsWjV5bTFyZjZCVHRWR3JfQnVXNmVablFydlB0SlpxN0g1RUlrRFFycURiLVlJQ005MndfaVdDTXZHWlh2anQ4aUhMaXFRc0ZiMkk1Z3FmdFViTEp1QlpIYjFGLUUxaGcwUWF5aWRyVWRHclVVS1FCNEE2YjF6YTU5MzNtNWZB0gHzAUFVX3lxTE1kcHEwWTJTOHBhWFJQV1FsVEpCU0lhNTBkZWZOUUpRNHhuczFiRHJFSnU2NExOUzlTbWxZMERma3VDa3lxNFR1bUtSZnl6a0VsckdoNl9WUEYyQVNpdTVvQmgxUS1oMU40VFpBdWM3S2xaRWI1bVZwZ1NGU0RhNVJHY1MzTk41eXloMG1DQlhURGYwNzdxV1liM29wYm5IX1JrcDRhdVE1QkZOdkNDR202Z2NVT0NaWjhWTHo1SzlXV09WWWMzdTBISlhBOG5VbFA0NHFPYnNLc25EZjhNa0xCT19CTlRONFZYM2JfNUdzM01Pbw?oc=5",
+          "date": "2026-10-10 10:59 UTC"
+        },
         {
           "title": "Alnylam Pharmaceuticals (ALNY) Is Under Securities Fraud Investigation",
           "source": "Simply Wall Street",
@@ -1408,16 +1404,10 @@
           "date": "2026-10-08 11:35 UTC"
         },
         {
-          "title": "Alnylam Pharmaceuticals (ALNY) Stock Looks Pricey Despite A 51% Slide",
+          "title": "Alnylam vs. Ionis: Here's the Better Bad-News Buy",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/alnylam-pharmaceuticals-alny-stock-looks-151157853.html?.tsrc=rss",
-          "date": "2026-10-09 15:11 UTC"
-        },
-        {
-          "title": "Alnylam Pharmaceuticals (ALNY) Looks Undervalued On Paper, Can Its RNAi Pipeline Support Fair Value?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/alnylam-pharmaceuticals-alny-looks-undervalued-180815686.html?.tsrc=rss",
-          "date": "2026-10-08 18:08 UTC"
+          "link": "https://www.fool.com/investing/2026/10/10/alnylam-vs-ionis-heres-the-better-bad-news-buy/?.tsrc=rss",
+          "date": "2026-10-10 09:04 UTC"
         }
       ],
       "filings_7d": [],
@@ -1451,9 +1441,9 @@
       "name": "Pentair",
       "sector": "Industrials",
       "price": 52.47,
-      "final_score": 21.7901,
+      "final_score": 21.7741,
       "price_score": 13.1128,
-      "news_score": 45.215,
+      "news_score": 45.129,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1470,9 +1460,9 @@
         "Volatility 40%/yr (normal)",
         "Trades $138M/day"
       ],
-      "headline_count_3d": 3,
-      "sentiment": 0.0143,
-      "attention_vs_normal": 0.1304,
+      "headline_count_3d": 5,
+      "sentiment": 0.0086,
+      "attention_vs_normal": 0.2778,
       "news_flags": [
         "guidance cut"
       ],
@@ -1484,16 +1474,16 @@
           "date": "2026-10-08 05:01 UTC"
         },
         {
-          "title": "Pentair (PNR) Looks Cheap. Is Its Pool Slump an Inventory Reset or Lost Pricing Power?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/pentair-pnr-looks-cheap-pool-150414765.html?.tsrc=rss",
-          "date": "2026-10-09 15:04 UTC"
+          "title": "(PNR) and the Role of Price-Sensitive Allocations",
+          "source": "Stock Traders Daily",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFN3Rk4wakE4aHNOWHpwRjlvdUpWNVlkOUtJWHZWQ3UxdnZpZDRTTTQ2RDdrcjRidm5DMmZVcUFScEh3a2pfVm9fM0F3akYyYlF2RDhkN2g5cFZOaWNKbGFIbEV3emQ0NUVNazBpVzhxeUYwcWprMzUwdVZzOC1uU2NRZFJJYlB1RWFERDZTV0xUWnc0cTNod0Z5d3NIUEktaVpYSGtaS3RacFpjSzUtcWc3UkRmd1pWR2xtR3BrN0lZbUJha2tR?oc=5",
+          "date": "2026-10-10 00:02 UTC"
         },
         {
-          "title": "Pentair plc. (PNR) Stock forecasts",
+          "title": "Pentair plc (PNR) latest stock news and headlines",
           "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLTVib0lwdVk4ZmFNaE8wLWlCaXEyYmw4M1V4UkVqRWxRVU9OTHhQRkl0cVFpdHhIbEVtVzNpb3FwcndRZWFJeHJWRnBJdUFlNWREXzY2NnpoX1hyM1c3b2lqdkxSM3JOaVBVLWJiVllaZGl6Qzg4SDdIRk9NYlFkS3ZiYVl3TmNKS2pMWEp6R0JKRUU?oc=5",
-          "date": "2026-10-08 20:33 UTC"
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SSmVFNEZNUFBLR2ZIYlJ2UlVDVzlkZFFWaWphZ1VEcjQxQ19PalZMeE9RUTZabnR0VGZqNmJOUWh3cVdVM3l6cHVsQWN5V3Q1OU1XOE1aSQ?oc=5",
+          "date": "2026-10-09 18:56 UTC"
         }
       ],
       "filings_7d": [],
@@ -1522,47 +1512,53 @@
     },
     {
       "rank": 3,
-      "ticker": "MAA",
-      "name": "Mid-America Apartment Communities",
-      "sector": "Real Estate",
-      "price": 116.86,
-      "final_score": 22.0597,
-      "price_score": 14.0856,
-      "news_score": 42.78,
+      "ticker": "WYNN",
+      "name": "Wynn Resorts",
+      "sector": "Consumer Discretionary",
+      "price": 75.15,
+      "final_score": 22.9494,
+      "price_score": 15.0486,
+      "news_score": 43.732,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
         "trend": 0.0,
-        "momentum": 0.192,
-        "relative_strength": 0.1459,
-        "volatility": 0.3891,
-        "liquidity": 0.1012
+        "momentum": 0.0564,
+        "relative_strength": 0.035,
+        "volatility": 1.0,
+        "liquidity": 0.177
       },
       "price_reasons": [
         "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -10.4%, 3m -17.2%, 6m -5.5% (beats 19% of stocks)",
-        "3-month return vs QQQ: -17.7%",
-        "Volatility 18%/yr (unusually high/low)",
-        "Trades $157M/day"
+        "Momentum (to last week): 1m -17.1%, 3m -20.7%, 6m -25.3% (beats 6% of stocks)",
+        "3-month return vs QQQ: -26.6%",
+        "Volatility 25%/yr (normal)",
+        "Trades $196M/day"
       ],
-      "headline_count_3d": 2,
-      "sentiment": -0.148,
-      "attention_vs_normal": 0.087,
+      "headline_count_3d": 13,
+      "sentiment": -0.0585,
+      "attention_vs_normal": 0.7222,
       "news_flags": [
         "downgrade"
       ],
       "top_headlines": [
         {
-          "title": "Evercore cuts target for Mid-America Apartment stock to USD 122",
+          "title": "Macquarie cuts target for Wynn Resorts stock from USD 143.00 to USD 132.00",
           "source": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3pUa0VsY1B3alBycFZKanI5ZlpnMlAxeWlBc2NIaHBkQzE2VXh6SDljOE9ZekxCUDVmZ0p3aW53ZlB0eEV3U0dtT3pCN0RXZHdLUE1vclpFWWJyUXdrTUVhZV9uaGItUVlRcVhpc1MxYWtaNDRGWmtMR0JNbDVZWTF3WkdQTG9acUJqRWZoRm1HRXlndEFTaEJVWWpoRjE3WDFQM005X3h1WUxOai1mUjk1YlNFemtjQ3NtMWdBOA?oc=5",
-          "date": "2026-10-07 05:11 UTC"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHNPT3pMRnBtZTd0TVFqNzd0b2FOWjViZVZpU2o0UTJKVThhUHlucFl0aXl5NlJ3eWQ5bktkNWwwMUQwdGJSUEV4NjA4a0hNTDF6R0ZDZjdNeVpaTnNLQUFLc3VucDYzZFNuaVRXdm5TZWdGaWRIQUpOeVdxQko1Q1AzLV9kUjhzZkRQcUMwUXhLdTh4NmkzNzloc1RnWUtmcHQ1Qjg1NHFfQWVwbGx1ZVVtZVFsWXJNUTFRRE5BeHZYNnZtb1dvQmt4bzVUdw?oc=5",
+          "date": "2026-10-08 10:03 UTC"
         },
         {
-          "title": "Mid America Apartment Communities (MAA) Stock Looks Undervalued After A 30% Five Year Slide",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaEpCTk10MG1jTm95TGJfUjZHWlJMUVhlbThBSEZHT3hRLVpZRGlPLTlXdE9Wa0hCcHRqS081c0tWZGxsWWVSVV9vRFFBME01ODNMV1NKRGdEVkFCMVRFRHN6dXhYVlFMeUpnRHE2UEhNM0FUNURWY1BnTFpqMWxRQlRxWktHekNBYV9PR1F6U2FBcjlhcDBpdDhXVDdUaUNxanFMcVZZUGNjc1ZDdWxyeGNWNm5ON3czOVFfOS1IMXRqY2dKQV84TDFCUEdmMVl5dzFyQ1dJVzBZeHRNNTM5YWtFTU5jZ0HSAewBQVVfeXFMT0loUXhzVHNYWDRtSTR5SUxKbVYwZTJCWFFuNWFQa2dvTnNYZ1czWlVvX1hwMWM0eGpHeDd6MlY0U1hGSlZwdUt0NUhnMTB0UWNBOGlPSktFSllqN0xoOW1FRXlHYTVvSWl1bDA5WFVrUEh3ZE1YRXdKaUVUa2dENElsM0p0YThXUGV1YjVsOTFUMy1iZ19YLWNxLWFuRG1DT29ZTjdJcnR4Y3RfTk9UOE45TUFhSmF2aFdvMGlxMmtKOXhuZzlEbW4zVTdPMjN2eFRFUl9VUDA4V0o5SkRIOHZ4emYxV1ZiclhHM20?oc=5",
-          "date": "2026-10-08 00:06 UTC"
+          "title": "WYNN Stock Price Today",
+          "source": "CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02clFSYlF4S3h0M1FmTDYtQ3RBRFJkRE9XY0pabHh1TTVMbG0wTFpSY2JrZ21uRWl6NHJuNjZ4X0FHREFzSklJNHBVOGNKLTd3c1Zz?oc=5",
+          "date": "2026-10-10 05:50 UTC"
+        },
+        {
+          "title": "Wynn Resorts Ltd. Research & Ratings | WYNN",
+          "source": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFktZUNoWmZnTEpWajJLcHZUS1V4OF9WVE1Nb1Z6OW4yYl9VSkQ5d0VWbFV1Vmlic1VNaWFTT0xaeEJTeXByMDBZcWMtSG1PRmlCQl9UYlU0a09DYkRWX0E3cHlVMGFZMEpUUGpBVHBHZnVoR05kZENuTUFiWnhNeVVsSm1nOTE0MTRwazlzeU8zWFBiZzdKdnl3djVGelZLVnB2WVVVTWFqYVJmSjJOek9JcVdXLTNlVjctUU9GUmxTZw?oc=5",
+          "date": "2026-10-09 19:37 UTC"
         }
       ],
       "filings_7d": [],
@@ -1575,15 +1571,15 @@
         "sell_value": 0.0
       },
       "events": [],
-      "earnings_date": "2026-10-28",
-      "days_to_earnings": 13,
+      "earnings_date": "2026-11-05",
+      "days_to_earnings": 19,
       "earnings_within_5d": false,
-      "stop": 112.5243,
-      "stop_pct": -0.0371,
+      "stop": 69.9943,
+      "stop_pct": -0.0686,
       "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -5%)",
-        "3-month return -18% vs QQQ",
-        "Negative news tone (sentiment -0.15 over 2 headlines)",
+        "Falling trend: below its 50- and 200-day (6-month -25%)",
+        "3-month return -27% vs QQQ",
+        "Negative news tone (sentiment -0.06 over 13 headlines)",
         "News flags: downgrade"
       ],
       "insider_30d": [],
@@ -1592,13 +1588,146 @@
     },
     {
       "rank": 4,
+      "ticker": "CMS",
+      "name": "CMS Energy",
+      "sector": "Utilities",
+      "price": 65.49,
+      "final_score": 23.1792,
+      "price_score": 15.2237,
+      "news_score": 44.273,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.2198,
+        "relative_strength": 0.1479,
+        "volatility": 0.1265,
+        "liquidity": 0.2938
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -6.3%, 3m -15.8%, 6m -17.6% (beats 22% of stocks)",
+        "3-month return vs QQQ: -17.5%",
+        "Volatility 15%/yr (unusually high/low)",
+        "Trades $266M/day"
+      ],
+      "headline_count_3d": 1,
+      "sentiment": -0.3818,
+      "attention_vs_normal": 0.0556,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Why CMS Energy\u2019s Rally Is Suddenly Losing Steam",
+          "source": "TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVlhalk4dnBiM3IxZmlFSHZ3WEg2ZWRtTDVoSFhWellTbURrdGpuUWRTLUVPcjNBVEVvTDEwZHAzbUpjOVpvLWVpUkZfSGpaM0loQXZOa0pPMFVCQkh5cnhUckVWZm4tVDVVNnFWRTkwc1gyZ0R4cUhUMC1VTTh1bFhVOV96OXlqVXNJTTdn?oc=5",
+          "date": "2026-10-08 09:57 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-10-27",
+      "days_to_earnings": 12,
+      "earnings_within_5d": false,
+      "stop": 63.5943,
+      "stop_pct": -0.0289,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -18%)",
+        "3-month return -18% vs QQQ",
+        "Negative news tone (sentiment -0.38 over 1 headlines)"
+      ],
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 5,
+      "ticker": "NRG",
+      "name": "NRG Energy",
+      "sector": "Utilities",
+      "price": 107.97,
+      "final_score": 23.2257,
+      "price_score": 13.0739,
+      "news_score": 53.1228,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.0396,
+        "relative_strength": 0.037,
+        "volatility": 0.4961,
+        "liquidity": 0.4125
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -14.3%, 3m -32.2%, 6m -37.2% (beats 4% of stocks)",
+        "3-month return vs QQQ: -26.5%",
+        "Volatility 57%/yr (unusually high/low)",
+        "Trades $332M/day"
+      ],
+      "headline_count_3d": 9,
+      "sentiment": 0.2082,
+      "attention_vs_normal": 0.5,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Can NRG Energy (NYSE:NRG) Hold Fresh Market Attention?",
+          "source": "Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0VjdDlqUEVFcDcxYnJvZThaTWJCSDFmNXRLMkdVUzRRUVpSSms1eUxTbWV2RzE4bS1EMnd2bzAtY2xITDUweGFhOTBCbC1TUVgyOGQ4T3FLeGFYYlRlcU1mMzdEUVIxZE9oNDdPZkp0S01LMGtwdkc0TkhSVnlaSnJweER0Z09CRC1yZjlNOWFPY0dUaC1F?oc=5",
+          "date": "2026-10-10 17:54 UTC"
+        },
+        {
+          "title": "NRG Energy (NRG) Stock Dropped, So What Is Driving Attention Now?",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkloaVQyWDhsM0M1WVZtaWVLSGJlWlk5TnF4SWtQUWpIOWhiaklfSWN0RzZpNUxtbUFneDBpTjJldERwanNPb2pQS1ZQTk9BbUhZWHdqSUFzbnVVeHRZTWp1WWRmUzM5enRyUTA2ajdTc0dKbThrUTFkWnR0VVdmY3BYUjFQWUFrLWhQN2l0TEk3NU51WHROVUY0eGxwWU81cjNCQ1k5TWZaN2ZlQ1VHOGEteHhwOGpiakxkNzZpcmNzNXQ4clHSAcsBQVVfeXFMTU9ZQ3FqQWhDZVZGSjVOaFpmQXZqSlppTmE2WFA0R2VHeFNCMlAyLVZkNTVMUWg5RGViMDZMa2stcW0tYTZpQ3ZJSUQ0cTBBbnlNdkxrWVVHRTVnbmpzVzMzUG9pUWJEdTVhdnM5X29FaUxQd1RZWGNhTHhMa1kyMzVPdkFzYWZDSDRsc3dwY0dRWS0xVXp5WlVGTWJUZFlnM01tOTF4c2ZjR2NVV0pTaE55cG1xNFVqcEdGQl9FTzBadXJoZFdyR2VuZzg?oc=5",
+          "date": "2026-10-09 13:59 UTC"
+        },
+        {
+          "title": "Why is NRG Energy (NYSE:NRG) drawing attention as electricity demand surges?",
+          "source": "Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hub3JfQ3NvVWR4Sm4xT0tiR2F6cnBadS1ybTJTSnVnNzZxT09oQkd2MnB1UWxrMzZFbnloZFd1X0dLc240SGoyUGVPVGg5bjNYVVRkc2R6Y1dBTEJYekpHRWlCR2NZSktHdGJvUDVxSkpjcWMwSmMxaHBubnBlX0JKMDdmQXhKTUpSckpuZFpMQVFzMlNOQzk0aUI3TDV1R0RLVnlyemlTdDZBRFhYSEI1R00?oc=5",
+          "date": "2026-10-09 13:31 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-05",
+      "days_to_earnings": 19,
+      "earnings_within_5d": false,
+      "stop": 99.2657,
+      "stop_pct": -0.0806,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -37%)",
+        "3-month return -26% vs QQQ"
+      ],
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 6,
       "ticker": "FICO",
       "name": "Fair Isaac",
       "sector": "Information Technology",
       "price": 667.58,
-      "final_score": 22.1912,
+      "final_score": 23.2757,
       "price_score": 12.286,
-      "news_score": 50.6884,
+      "news_score": 56.5447,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1615,24 +1744,22 @@
         "Volatility 87%/yr (unusually high/low)",
         "Trades $796M/day"
       ],
-      "headline_count_3d": 29,
-      "sentiment": 0.1504,
-      "attention_vs_normal": 1.2609,
-      "news_flags": [
-        "lawsuit"
-      ],
+      "headline_count_3d": 14,
+      "sentiment": 0.2805,
+      "attention_vs_normal": 0.7778,
+      "news_flags": [],
       "top_headlines": [
         {
-          "title": "Fair Isaac Corporation (FICO) Securities Investigation Notice - Levi & Korsinsky",
-          "source": "PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON19DWjRESTU3QzRTa0Njak5YTDl4VkNPUl96TU1oTllNejNiVGp0R2ZtU1NpVVZoRnl2V0V0REpoUGItNDBQS0lPY0xCVXdtMVZCa0loM2dIU0IyYVEzRm1TRV9ocXlYMGZLT0pOcHpRaFBGeFhYQjVyYmhFaW8yU2MwMHdiX2RtZjEyVE54emw5Tmk4NzFYZ3N2NURSTlRRRTJ4bExBRnI3N2JTWmlMemZKaEtTWEVZMHpHUXJQdTBTaFBiRlR5UWFUNzdvQQ?oc=5",
-          "date": "2026-10-07 14:11 UTC"
+          "title": "Has Fair Isaac (FICO)\u2019s Vaunted Moat Narrowed?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-fico-vaunted-moat-045202354.html?.tsrc=rss",
+          "date": "2026-10-10 04:52 UTC"
         },
         {
           "title": "Is Fair Isaac Corp (FICO) a Bargain After 5.6% Drop? GF Value Sa",
           "source": "GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelVJWU5kX2YxcmVkQzBsRWZDa2dvZk5ob0w4Q280aUtGenJ4VkI3TkFIS0RQdFl1ZFRHcWxLTXZLLVNxZTBrVlRJSHZOb2hLeHNKemZSdVFQY29WZFJxNjFoeF9FWXQzSkdyc3QwcFU5eHd2MFZJLTVkZnJ0X0dNcVQ4cGVTY1BIUVQwYU5URjlFQVE3UkdlZERVSDVGdHhqeGpXeWd6UndTYzh3eldaQzV3?oc=5",
-          "date": "2026-10-09 22:36 UTC"
+          "date": "2026-10-09 22:39 UTC"
         },
         {
           "title": "Fair Isaac Corp. stock underperforms Friday when compared to competitors",
@@ -1665,155 +1792,7 @@
       "stop_pct": -0.1679,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -39%)",
-        "3-month return -51% vs QQQ",
-        "News flags: lawsuit"
-      ],
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 5,
-      "ticker": "NRG",
-      "name": "NRG Energy",
-      "sector": "Utilities",
-      "price": 107.97,
-      "final_score": 23.0565,
-      "price_score": 13.0739,
-      "news_score": 52.2094,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0396,
-        "relative_strength": 0.037,
-        "volatility": 0.4961,
-        "liquidity": 0.4125
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -14.3%, 3m -32.2%, 6m -37.2% (beats 4% of stocks)",
-        "3-month return vs QQQ: -26.5%",
-        "Volatility 57%/yr (unusually high/low)",
-        "Trades $332M/day"
-      ],
-      "headline_count_3d": 11,
-      "sentiment": 0.1473,
-      "attention_vs_normal": 0.4783,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "NRG Energy (NRG) Stock Dropped, So What Is Driving Attention Now?",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkloaVQyWDhsM0M1WVZtaWVLSGJlWlk5TnF4SWtQUWpIOWhiaklfSWN0RzZpNUxtbUFneDBpTjJldERwanNPb2pQS1ZQTk9BbUhZWHdqSUFzbnVVeHRZTWp1WWRmUzM5enRyUTA2ajdTc0dKbThrUTFkWnR0VVdmY3BYUjFQWUFrLWhQN2l0TEk3NU51WHROVUY0eGxwWU81cjNCQ1k5TWZaN2ZlQ1VHOGEteHhwOGpiakxkNzZpcmNzNXQ4clHSAcsBQVVfeXFMTU9ZQ3FqQWhDZVZGSjVOaFpmQXZqSlppTmE2WFA0R2VHeFNCMlAyLVZkNTVMUWg5RGViMDZMa2stcW0tYTZpQ3ZJSUQ0cTBBbnlNdkxrWVVHRTVnbmpzVzMzUG9pUWJEdTVhdnM5X29FaUxQd1RZWGNhTHhMa1kyMzVPdkFzYWZDSDRsc3dwY0dRWS0xVXp5WlVGTWJUZFlnM01tOTF4c2ZjR2NVV0pTaE55cG1xNFVqcEdGQl9FTzBadXJoZFdyR2VuZzg?oc=5",
-          "date": "2026-10-09 13:59 UTC"
-        },
-        {
-          "title": "Why is NRG Energy (NYSE:NRG) drawing attention as electricity demand surges?",
-          "source": "Kalkine Media",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hub3JfQ3NvVWR4Sm4xT0tiR2F6cnBadS1ybTJTSnVnNzZxT09oQkd2MnB1UWxrMzZFbnloZFd1X0dLc240SGoyUGVPVGg5bjNYVVRkc2R6Y1dBTEJYekpHRWlCR2NZSktHdGJvUDVxSkpjcWMwSmMxaHBubnBlX0JKMDdmQXhKTUpSckpuZFpMQVFzMlNOQzk0aUI3TDV1R0RLVnlyemlTdDZBRFhYSEI1R00?oc=5",
-          "date": "2026-10-09 13:31 UTC"
-        },
-        {
-          "title": "Here is What to Know Beyond Why NRG Energy, Inc. (NRG) is a Trending Stock",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-nrg-energy-120001320.html?.tsrc=rss",
-          "date": "2026-10-09 12:00 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-05",
-      "days_to_earnings": 19,
-      "earnings_within_5d": false,
-      "stop": 99.2657,
-      "stop_pct": -0.0806,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -37%)",
-        "3-month return -26% vs QQQ"
-      ],
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 6,
-      "ticker": "WYNN",
-      "name": "Wynn Resorts",
-      "sector": "Consumer Discretionary",
-      "price": 75.15,
-      "final_score": 23.0759,
-      "price_score": 15.0486,
-      "news_score": 44.4151,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0564,
-        "relative_strength": 0.035,
-        "volatility": 1.0,
-        "liquidity": 0.177
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -17.1%, 3m -20.7%, 6m -25.3% (beats 6% of stocks)",
-        "3-month return vs QQQ: -26.6%",
-        "Volatility 25%/yr (normal)",
-        "Trades $196M/day"
-      ],
-      "headline_count_3d": 12,
-      "sentiment": -0.0374,
-      "attention_vs_normal": 0.5217,
-      "news_flags": [
-        "downgrade"
-      ],
-      "top_headlines": [
-        {
-          "title": "Macquarie cuts target for Wynn Resorts stock from USD 143.00 to USD 132.00",
-          "source": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHNPT3pMRnBtZTd0TVFqNzd0b2FOWjViZVZpU2o0UTJKVThhUHlucFl0aXl5NlJ3eWQ5bktkNWwwMUQwdGJSUEV4NjA4a0hNTDF6R0ZDZjdNeVpaTnNLQUFLc3VucDYzZFNuaVRXdm5TZWdGaWRIQUpOeVdxQko1Q1AzLV9kUjhzZkRQcUMwUXhLdTh4NmkzNzloc1RnWUtmcHQ1Qjg1NHFfQWVwbGx1ZVVtZVFsWXJNUTFRRE5BeHZYNnZtb1dvQmt4bzVUdw?oc=5",
-          "date": "2026-10-08 10:03 UTC"
-        },
-        {
-          "title": "Something Is Breaking In Casino Stocks: MGM, Wynn Hit Record Losing Streaks",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1ZVU0wxOFNwOHpyVjQxRG9uaDJJUGxubmg3WWRpRVF5ZUl5RnRiaU1fd2s0TGhOUjh2bFVDZEhVV2p5aWl2UDJKRVd6elF1YXVncTdmNHVKR1BYZ05xdUJFWkZnRUtRdlo5ckpNY3pHN1d5dEJBbUV1VHViZmU3SlFNUnNfNEs2Y1hyTnhmcXpNNDhJcHI3UTY3SnJxbExJUUZPMEpGUjJDbkxqNWFGbDhZQXJfbTBqVnpkSkJKb2VmUlVKUTBadG1PY20?oc=5",
-          "date": "2026-10-09 18:59 UTC"
-        },
-        {
-          "title": "WYNN Maintained by Barclays -- Price Target Lowered to $128",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkowbHNjT29UQXlha3RxYUVYYldFSmtnc3lCLVVPNlhHWTRqOUlpMllsQUI4ZUNtSWZGazRMMjR0V3JTX3pRUGI4SVJHU2NaUVlsZEZFWkNxYlZ5bnM1WlVBcFl6QVF3d2JzNVVyajhzazNEX1dPNGQzbHk4VkVzb1ZZUm1jTlc0R0dSbFpZaGpGMmpjem1wamNn?oc=5",
-          "date": "2026-10-09 15:59 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-05",
-      "days_to_earnings": 19,
-      "earnings_within_5d": false,
-      "stop": 69.9943,
-      "stop_pct": -0.0686,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -25%)",
-        "3-month return -27% vs QQQ",
-        "News flags: downgrade"
+        "3-month return -51% vs QQQ"
       ],
       "insider_30d": [],
       "insider_badges": "",
@@ -1821,13 +1800,73 @@
     },
     {
       "rank": 7,
+      "ticker": "MAA",
+      "name": "Mid-America Apartment Communities",
+      "sector": "Real Estate",
+      "price": 116.86,
+      "final_score": 23.3967,
+      "price_score": 14.0856,
+      "news_score": 50.0,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.192,
+        "relative_strength": 0.1459,
+        "volatility": 0.3891,
+        "liquidity": 0.1012
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -10.4%, 3m -17.2%, 6m -5.5% (beats 19% of stocks)",
+        "3-month return vs QQQ: -17.7%",
+        "Volatility 18%/yr (unusually high/low)",
+        "Trades $157M/day"
+      ],
+      "headline_count_3d": 1,
+      "sentiment": 0.0,
+      "attention_vs_normal": 0.0556,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Mid America Apartment Communities (MAA) Stock Looks Undervalued After A 30% Five Year Slide",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaEpCTk10MG1jTm95TGJfUjZHWlJMUVhlbThBSEZHT3hRLVpZRGlPLTlXdE9Wa0hCcHRqS081c0tWZGxsWWVSVV9vRFFBME01ODNMV1NKRGdEVkFCMVRFRHN6dXhYVlFMeUpnRHE2UEhNM0FUNURWY1BnTFpqMWxRQlRxWktHekNBYV9PR1F6U2FBcjlhcDBpdDhXVDdUaUNxanFMcVZZUGNjc1ZDdWxyeGNWNm5ON3czOVFfOS1IMXRqY2dKQV84TDFCUEdmMVl5dzFyQ1dJVzBZeHRNNTM5YWtFTU5jZ0HSAewBQVVfeXFMT0loUXhzVHNYWDRtSTR5SUxKbVYwZTJCWFFuNWFQa2dvTnNYZ1czWlVvX1hwMWM0eGpHeDd6MlY0U1hGSlZwdUt0NUhnMTB0UWNBOGlPSktFSllqN0xoOW1FRXlHYTVvSWl1bDA5WFVrUEh3ZE1YRXdKaUVUa2dENElsM0p0YThXUGV1YjVsOTFUMy1iZ19YLWNxLWFuRG1DT29ZTjdJcnR4Y3RfTk9UOE45TUFhSmF2aFdvMGlxMmtKOXhuZzlEbW4zVTdPMjN2eFRFUl9VUDA4V0o5SkRIOHZ4emYxV1ZiclhHM20?oc=5",
+          "date": "2026-10-08 00:06 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-10-28",
+      "days_to_earnings": 13,
+      "earnings_within_5d": false,
+      "stop": 112.5243,
+      "stop_pct": -0.0371,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -5%)",
+        "3-month return -18% vs QQQ"
+      ],
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 8,
       "ticker": "UDR",
       "name": "UDR, Inc.",
       "sector": "Real Estate",
       "price": 34.12,
-      "final_score": 23.3848,
+      "final_score": 23.5113,
       "price_score": 14.5817,
-      "news_score": 47.951,
+      "news_score": 48.634,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1844,11 +1883,17 @@
         "Volatility 18%/yr (unusually high/low)",
         "Trades $143M/day"
       ],
-      "headline_count_3d": 2,
-      "sentiment": -0.1366,
-      "attention_vs_normal": 0.087,
+      "headline_count_3d": 3,
+      "sentiment": -0.0911,
+      "attention_vs_normal": 0.1667,
       "news_flags": [],
       "top_headlines": [
+        {
+          "title": "(UDR) Movement Within Algorithmic Entry Frameworks",
+          "source": "Stock Traders Daily",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDc3dUVGYmZ4MnZ2QkM0TXlvZXYxMG5LWUxkN3FJWnVXRUdabWowYXBCUlZVV0NTRGlUaC13Z0c1SkV4UEdLNkRZYjFMWnNaZHp2MjRjWW5sNVltaUdGWWVQZzdySTBrOGpod1ZIaHluVnduQ0NETnFBdVgzeXFqSTVTMjJrVHZvaFktRUNOSVlkZ2VQMEdILUNJVnd5ZDJHRkVZTWJhTFJKZmhqUm1hOTdVVEx2VWVZTks0X0YyUlVwOU40QVN0SA?oc=5",
+          "date": "2026-10-10 04:52 UTC"
+        },
         {
           "title": "How Hold Rating Cut At UDR (UDR) Has Changed Its Investment Story",
           "source": "Simply Wall Street",
@@ -1880,21 +1925,87 @@
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -2%)",
         "3-month return -19% vs QQQ",
-        "Negative news tone (sentiment -0.14 over 2 headlines)"
+        "Negative news tone (sentiment -0.09 over 3 headlines)"
       ],
       "insider_30d": [],
       "insider_badges": "",
       "history_events": []
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "ticker": "PODD",
+      "name": "Insulet Corporation",
+      "sector": "Health Care",
+      "price": 135.28,
+      "final_score": 23.7354,
+      "price_score": 14.5428,
+      "news_score": 50.0,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.096,
+        "relative_strength": 0.0934,
+        "volatility": 0.6615,
+        "liquidity": 0.2121
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -11.1%, 3m -17.6%, 6m -35.5% (beats 10% of stocks)",
+        "3-month return vs QQQ: -21.0%",
+        "Volatility 52%/yr (unusually high/low)",
+        "Trades $221M/day"
+      ],
+      "headline_count_3d": 2,
+      "sentiment": 0.0,
+      "attention_vs_normal": 0.1111,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Revenue Outlook Raised Could Be A Game Changer For Insulet Stock (PODD)",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2llcWlqNWtFOThuLWx2M3ROSGtBNXJmWlhHZFB4TU5IOWZPZ0JMLXZDRDlvbGRQYmYxME1YamlOenF3VzI2VXdhQi1XN3NxM21vQ290NWt1a3I4VF85VTk5bzhydnptSmtud3pvdzVaTzN1NVhBMEJGMkdqM2NyWXd0MGlZc3JudVB6eEYydk5JM25wMVZSNTRaVkhScGVaRWNBeERPYTFYRkpERTVlTVVZS0ZYSC05UWhKRl9WZ1FscXZkY3FR0gHMAUFVX3lxTFB6M2I5R2NiVHo4bUxfSUgyUGFkNjhKNWdTU09Tejd2VDQ5WTQ5UDE2M1RWR2F5eGp3aGI2WWtOaWFKTkJFOHMxc1NWWGNIcllZbnUzTkFHUE5WVGRva0ZBY2V6ZV90N1JqN0Q4cUsxdWJfUDhqTGFIajBTVEVpU3I4NnhEenJ1X3hqZkJLVXRlSE1lc0xJV1NWYWllQ09SOEhQMUxQeHd5VThiQUY1UTVRMUZkbGVRSU93X2JUbWJxaVJiREx1QUFiTFpjVQ?oc=5",
+          "date": "2026-10-10 12:38 UTC"
+        },
+        {
+          "title": "Insulet Reports Q2 2026 Results: Full Earnings Call Transcript",
+          "source": "Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2k3dy10LVg4VXVlY2haYjhIZ1g1MjdaazV3ck9odi0xbkpKanRpWWlzeEUwY083RmZuV1dqSDAxNHVHNTc4ZGF6M2k2QWJhQXpJLW82TGN1N3k5eEtsVDF4S0x6NlJGWEcwdThJZXpjLXI5cnhOZVozcDIwUnhuWWN2NU1jSXlwSVJ3RXZ6MlJMdjdJOUJXOWZwc1J6dDVRaU91VkQ5ZFJvUQ?oc=5",
+          "date": "2026-10-08 08:01 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-04",
+      "days_to_earnings": 18,
+      "earnings_within_5d": false,
+      "stop": 127.6871,
+      "stop_pct": -0.0561,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -36%)",
+        "3-month return -21% vs QQQ"
+      ],
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 10,
       "ticker": "MGM",
       "name": "MGM Resorts",
       "sector": "Consumer Discretionary",
       "price": 29.27,
-      "final_score": 23.6029,
+      "final_score": 23.8768,
       "price_score": 13.8521,
-      "news_score": 52.047,
+      "news_score": 53.5263,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -1911,9 +2022,9 @@
         "Volatility 29%/yr (normal)",
         "Trades $186M/day"
       ],
-      "headline_count_3d": 16,
-      "sentiment": 0.0981,
-      "attention_vs_normal": 0.6957,
+      "headline_count_3d": 12,
+      "sentiment": 0.1763,
+      "attention_vs_normal": 0.6667,
       "news_flags": [
         "acquisition"
       ],
@@ -1961,73 +2072,7 @@
       "history_events": []
     },
     {
-      "rank": 9,
-      "ticker": "PODD",
-      "name": "Insulet Corporation",
-      "sector": "Health Care",
-      "price": 135.28,
-      "final_score": 23.7354,
-      "price_score": 14.5428,
-      "news_score": 50.0,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.096,
-        "relative_strength": 0.0934,
-        "volatility": 0.6615,
-        "liquidity": 0.2121
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -11.1%, 3m -17.6%, 6m -35.5% (beats 10% of stocks)",
-        "3-month return vs QQQ: -21.0%",
-        "Volatility 52%/yr (unusually high/low)",
-        "Trades $221M/day"
-      ],
-      "headline_count_3d": 2,
-      "sentiment": 0.0,
-      "attention_vs_normal": 0.087,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Insulet Reports Q2 2026 Results: Full Earnings Call Transcript",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2k3dy10LVg4VXVlY2haYjhIZ1g1MjdaazV3ck9odi0xbkpKanRpWWlzeEUwY083RmZuV1dqSDAxNHVHNTc4ZGF6M2k2QWJhQXpJLW82TGN1N3k5eEtsVDF4S0x6NlJGWEcwdThJZXpjLXI5cnhOZVozcDIwUnhuWWN2NU1jSXlwSVJ3RXZ6MlJMdjdJOUJXOWZwc1J6dDVRaU91VkQ5ZFJvUQ?oc=5",
-          "date": "2026-10-08 08:01 UTC"
-        },
-        {
-          "title": "PODD Initiated Coverage by Barclays -- Price Target Set at $150",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnprVE93NGdhTmpJMFNBdjJFRTJwTGRuc0UyY05QYjVEaGMtMFV0MF9NZkttUHBlYkZkdDVtbTN1RFZYcmV3MHRGSnlKNU5ENnVWOVZjZFcwSl9MMTRaNDZVVnVHVWw0RUlEdV9CbG1fWVB6NG5FcWF1dTZVUk90WkR4LWxHUDIwVUZpQjM5TXBFc3l2YjIyY0l0UmhKWU0?oc=5",
-          "date": "2026-10-07 15:16 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-04",
-      "days_to_earnings": 18,
-      "earnings_within_5d": false,
-      "stop": 127.6871,
-      "stop_pct": -0.0561,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -36%)",
-        "3-month return -21% vs QQQ"
-      ],
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "ticker": "CPT",
       "name": "Camden Property Trust",
       "sector": "Real Estate",
@@ -2053,7 +2098,7 @@
       ],
       "headline_count_3d": 5,
       "sentiment": 0.4588,
-      "attention_vs_normal": 0.2174,
+      "attention_vs_normal": 0.2778,
       "news_flags": [
         "downgrade"
       ],
@@ -2065,16 +2110,16 @@
           "date": "2026-10-08 16:41 UTC"
         },
         {
+          "title": "Camden Property Trust (MEX:CPT) Other Current Payables : MXN1,926.18 Mil (As of Jun. 2026)",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TVnNQU3otRVE1MzMya1ZtTklkZm9vRjF4MjVnOGZydFdGX3ZobEd6bW5oZ2xFVThPLTFlS2lmUkNfRzlIX1lfMEtnZDVIMXNBLXdubFpFQjFvaVpQNy1lbkI2Yy0yVkZPdk91WDhn?oc=5",
+          "date": "2026-10-09 17:51 UTC"
+        },
+        {
           "title": "Camden Property Trust (CPT), What Is Drawing Fresh Attention Now?",
           "source": "Yahoo Finance",
           "link": "https://finance.yahoo.com/markets/stocks/articles/camden-property-trust-cpt-drawing-061202129.html?.tsrc=rss",
           "date": "2026-10-09 06:12 UTC"
-        },
-        {
-          "title": "Camden Property Trust (NYSE:CPT) Hits New 1-Year Low - Should You Sell?",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbW9JMGI1bE44Z3Nlc2U1S1piYXpvMEIxSWRnYTZXZVpzYzRobmRBWUgza094YVkxeUwxanlHc2FUdHRQNnRERjZ1QUdCcGViczBYaEU5UVRkN3NVdHZUWFBQaUpWS2l1U0xaOWFicGNxdkdVajZvRExBTVhSMnZpdzlkYXc1QlZQam43TUtZVVd2RHIxbzNvODB4VnMzcERrLVl6Q2QxRWFjVmdOMi1tc25GcWQtc2dJc1I2LXEwbTJjVlV4?oc=5",
-          "date": "2026-10-08 15:03 UTC"
         }
       ],
       "filings_7d": [],
@@ -2102,7 +2147,7 @@
       "history_events": []
     },
     {
-      "rank": 11,
+      "rank": 12,
       "ticker": "DTE",
       "name": "DTE Energy",
       "sector": "Utilities",
@@ -2128,7 +2173,7 @@
       ],
       "headline_count_3d": 2,
       "sentiment": 0.1366,
-      "attention_vs_normal": 0.087,
+      "attention_vs_normal": 0.1111,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2168,81 +2213,14 @@
       "history_events": []
     },
     {
-      "rank": 12,
-      "ticker": "CMS",
-      "name": "CMS Energy",
-      "sector": "Utilities",
-      "price": 65.49,
-      "final_score": 24.089,
-      "price_score": 15.2237,
-      "news_score": 49.1855,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.2198,
-        "relative_strength": 0.1479,
-        "volatility": 0.1265,
-        "liquidity": 0.2938
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -6.3%, 3m -15.8%, 6m -17.6% (beats 22% of stocks)",
-        "3-month return vs QQQ: -17.5%",
-        "Volatility 15%/yr (unusually high/low)",
-        "Trades $266M/day"
-      ],
-      "headline_count_3d": 2,
-      "sentiment": -0.0543,
-      "attention_vs_normal": 0.087,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Why CMS Energy\u2019s Rally Is Suddenly Losing Steam",
-          "source": "TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVlhalk4dnBiM3IxZmlFSHZ3WEg2ZWRtTDVoSFhWellTbURrdGpuUWRTLUVPcjNBVEVvTDEwZHAzbUpjOVpvLWVpUkZfSGpaM0loQXZOa0pPMFVCQkh5cnhUckVWZm4tVDVVNnFWRTkwc1gyZ0R4cUhUMC1VTTh1bFhVOV96OXlqVXNJTTdn?oc=5",
-          "date": "2026-10-08 09:57 UTC"
-        },
-        {
-          "title": "BMO Capital Remains a Buy on CMS Energy (CMS)",
-          "source": "The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakUyRTJYb1JVTUxqNmFWOGIzQ0NGbXBtdklvbVRCcmZlVzB6cUVjeV8wMDlpT3pFNi1VZUctbjduWjZtcUwzUms2Tk5vTzV1Q1c1NzhhUGNROUczbnc1cVo3U29WcERLc1RKdFd5cWY1b1ktejhraVV3TENEeFdPWkdYR0ZCQlBQSDJHNEcyTk13TEpiekU3MzhoMGpXeGJacTQwa2R6MWJJWWRoQUlPVDBiZmdDUlFrZDJmQXNtU2ZheGdYalE?oc=5",
-          "date": "2026-10-07 12:08 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-10-27",
-      "days_to_earnings": 12,
-      "earnings_within_5d": false,
-      "stop": 63.5943,
-      "stop_pct": -0.0289,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -18%)",
-        "3-month return -18% vs QQQ",
-        "Negative news tone (sentiment -0.05 over 2 headlines)"
-      ],
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
       "rank": 13,
       "ticker": "CHTR",
       "name": "Charter Communications",
       "sector": "Communication Services",
       "price": 103.38,
-      "final_score": 24.6806,
+      "final_score": 24.2852,
       "price_score": 14.5136,
-      "news_score": 55.2207,
+      "news_score": 53.0855,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -2259,9 +2237,9 @@
         "Volatility 55%/yr (unusually high/low)",
         "Trades $383M/day"
       ],
-      "headline_count_3d": 18,
-      "sentiment": 0.0094,
-      "attention_vs_normal": 0.7826,
+      "headline_count_3d": 16,
+      "sentiment": -0.0718,
+      "attention_vs_normal": 0.8889,
       "news_flags": [
         "beat"
       ],
@@ -2273,16 +2251,16 @@
           "date": "2026-10-07 22:56 UTC"
         },
         {
+          "title": "Charter Communications (CHTR) Gets a Hold from Bernstein",
+          "source": "The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa1htdFcwd21BLWZBMS1PSU0tVWE4ek5zYTJaMGhqbHZ0RzdOcWFoNEwxUEM3aUQyeWxkaElOQ0FaSlZ1TzNTUy1RWVBtMFo3OFpybXVRODQ3MlpENHFibkoxLVRibUVmOFhFSUo3N2NVbmQ2akl0cDRsZ2ZtWmZ5ZXZOWjgxbHBJWkJ0eTJpQXRvSXBmazF6dXRFOFFfb3RSUWhGTEpIS1lmcFdER3NVc0t2bjA2cVdIOXpNa2dlRnN3LVJsWFYtbjlEZWs2TFFOQ1NRWUZR?oc=5",
+          "date": "2026-10-10 12:27 UTC"
+        },
+        {
           "title": "Is Charter Communications Inc (CHTR) a Bargain After 5.7% Drop? GF Value Says Undervalued",
           "source": "GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHNBdXYzbDJYRGkzNmlWS1dzcjBqM2N0TG1jOVgzRURkRjVBcjBLT2FBQmstVjVOZjQxbXp6NWtMWmVadjNhdzFGN3RZYzlmUWhXZy1LSHNYeEFYbjFyQmh6d09ldmljS1NMM1pMZUZaVTQ1dHZNM09DNFo4cEREaHdYRERNQ2l4TmV5VkJuSF9iODJJdXI4ckwzNUVvMTMtQmFWZFFWT0hPQlI2M0FQcGo4ODVRYjN2ckxTU0FnY1I?oc=5",
           "date": "2026-10-09 22:58 UTC"
-        },
-        {
-          "title": "Charter Communications Inc. Cl A stock underperforms Friday when compared to competitors",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS1A0LWl1T0U4NkNXUTZRbDExcU9wemV6RWtfSkhpMTZVOWRlSGVob0pkQVBYOFZoakZKakxpbXFGZUxhV090a29aUXFFano5bWhLV2Nyd3hxNnZEdng0Q1VDYktVeUNDQ290VmhKQ2tnMzQ4dEdlV2ExQnBnUXdhNmE0bUhHenMyWDVZRms5Unpkd3dzTTFwSGJraHRfdzRCNHVxYml4R2RUY0xmUTdSZGRGM0FSZ19pZkFYdy1mY2paRDlGcjdIU1ptb0RhbWE0TWNITTljaUpQWGV4VHlDb2I2MU9QRmhfTXVFRGl5N2hrUUdLV21xMg?oc=5",
-          "date": "2026-10-09 20:30 UTC"
         }
       ],
       "filings_7d": [],
@@ -2305,6 +2283,7 @@
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -50%)",
         "3-month return -26% vs QQQ",
+        "Negative news tone (sentiment -0.07 over 16 headlines)",
         "New 52-week low"
       ],
       "insider_30d": [],
@@ -2317,9 +2296,9 @@
       "name": "Weyerhaeuser",
       "sector": "Real Estate",
       "price": 19.1,
-      "final_score": 24.9306,
+      "final_score": 24.6687,
       "price_score": 15.4767,
-      "news_score": 52.7188,
+      "news_score": 51.3043,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -2336,28 +2315,30 @@
         "Volatility 29%/yr (normal)",
         "Trades $182M/day"
       ],
-      "headline_count_3d": 8,
-      "sentiment": 0.1813,
-      "attention_vs_normal": 0.3478,
-      "news_flags": [],
+      "headline_count_3d": 9,
+      "sentiment": 0.087,
+      "attention_vs_normal": 0.5,
+      "news_flags": [
+        "acquisition"
+      ],
       "top_headlines": [
+        {
+          "title": "Is It Too Late to Buy Weyerhaeuser Co (WY) After 3.2% Rally? GF Value Says Undervalued",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPakpLOEhibVI4RWFIdEwyeUljUHNSa3VJVzBDLTA4bFlYVjk4MnMzZlZzamRPMzQ0VjdwblVJZlNZNExMLVZWTTNQOENJRHdhTjlOekVxZldKZEdMaFEzZHg5N28wVFF0WGdXMGxUMTdrVWs4a2U0eHhNYlI4R1owaWZuR2lkUkdZZlBaZmVvTXFLVmhDXzdVeTlPdy1hdWtjLXBoNEtWOElvZndOTlhwWmVTejg4UFNReW96OQ?oc=5",
+          "date": "2026-10-08 22:02 UTC"
+        },
+        {
+          "title": "Avoiding Lag: Real-Time Signals in (WY) Movement",
+          "source": "Stock Traders Daily",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWd1MWxWTUxGMnFIMWlNSjdmWlpycEhNQnp0MUUxaGpLMXRSUlYxdDd1N251cC01VGRQUGtBV1BHNUd5c29SZ29DWnBsQ3VvMFVNc3NlMTlMa3QzRWcydk9CLTVRNFI5UVZvem5uTjk3QlkxRFFpVGZ6enFaZG96VGgtZHpTTmQtR0Y2Vk9INkE5M0VReXM3MGx1ZkdnSFBYUndrX1NoOXo3RUVzbEppM2h5TnpXV3lSNU5uY0ZhaU4ydk9rTmc?oc=5",
+          "date": "2026-10-10 06:00 UTC"
+        },
         {
           "title": "Wood Fiber Insulation Deal Might Change The Case For Investing In Weyerhaeuser (WY)",
           "source": "Simply Wall Street",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1lDWjhnUzM3LWxybWV5NVpYRC1uU3NLck5QMjZrZU5ldkFGa2hKR3RuVmFEVnV1dkRaSWJGcnhBSHpqVDVER1pFeDBxWEFnelNyZnA3Mmp0Z25XZXIyWGNHeGtJc29fS0Nnak12TjN3OXJpZ250U2xJOWZyYmd5Q0lnbmtjZ2xRSi1HZTktcDBwREtIUy13d3JIQm9aVHFIamljYVh1S1RRaWxoYlVZWS1QeFNfTkh6TUw2QTE1MmlRSjlKU3VLVDR30gHPAUFVX3lxTE15dXF2Q1NiVnp2M1AwRWNtYTJEOXhvYXRINzNXWmJEUkR5ZEQzVDNia2VLMEtxQjMzTHhKYnZIZnFMbUd5SFhxaXdXdU52WmxVX2RoclNWUDJJcWlKRHVvay1jWHcwaE1SRUkyZGtwWkhZR1NOOHZLZThVTzdrTzZxU2RHY0FiYTFIbnNJQ2hoVmR3TVhTSzl3T2h6ZnktQTBJcWtzT3lNOURFNndadFJIbHlzd0F4OFJDWG9uZk9zeGpWSzR5REREOVNJLUtITQ?oc=5",
           "date": "2026-10-10 02:09 UTC"
-        },
-        {
-          "title": "Is Weyerhaeuser (WY) Undervalued Following Its TimberHP Partnership?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/weyerhaeuser-wy-undervalued-following-timberhp-061454152.html?.tsrc=rss",
-          "date": "2026-10-09 06:14 UTC"
-        },
-        {
-          "title": "Weyerhaeuser Co. stock outperforms competitors on strong trading day",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2hIOGVpb3N2Y0FEbHdSLXd5Mmd1TmUzMjdTQUNoUHpSWDJqY3dwbDMtcVg4NTFyWm9IMm9rRVg1UDE1ZFFRNFhXTU5Gbk1vWnVvblh3dEQtVkVpenpGQlliMTJrSzdPaXlBRDBGcklXNVVYVVNYLWJrcEdxMGxUZzBtVlM2c1VDcFI5NUZCdm5SVUNYRmlvTEt3YW5GWUVUbTdPazY5dXZGRjJHVzd2M3JPUWhKajBsaDhqbjNwdVhkU0ltLWczaTAydEFWMXhXaWlCX1h6Wk1zcW9SaWc?oc=5",
-          "date": "2026-10-08 21:10 UTC"
         }
       ],
       "filings_7d": [],
@@ -2389,9 +2370,9 @@
       "name": "Las Vegas Sands",
       "sector": "Consumer Discretionary",
       "price": 36.17,
-      "final_score": 25.1804,
+      "final_score": 25.2971,
       "price_score": 15.4961,
-      "news_score": 53.9897,
+      "news_score": 54.6197,
       "history_score": 50.0,
       "insider_score": 50.0,
       "components": {
@@ -2408,9 +2389,9 @@
         "Volatility 24%/yr (normal)",
         "Trades $229M/day"
       ],
-      "headline_count_3d": 15,
-      "sentiment": -0.0516,
-      "attention_vs_normal": 0.6522,
+      "headline_count_3d": 12,
+      "sentiment": -0.019,
+      "attention_vs_normal": 0.6667,
       "news_flags": [
         "upgrade"
       ],
@@ -2422,10 +2403,10 @@
           "date": "2026-10-08 02:24 UTC"
         },
         {
-          "title": "Zacks Research Upgrades Las Vegas Sands (NYSE:LVS) to \"Hold\"",
+          "title": "Las Vegas Sands Corp. (LVS) - What Are Researchers Thinking About This Stock?",
           "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW0wSjUyekNCSnpFUFA1NHIzOGMwMlVkeVIwbURHTVVGX3VRaDJCRjBLX0g1LV9Oc21Sc2g5d0dFV1ktZDZWcHYwdGhPYnRXT1R2Q2VWek1IcVFaQ0RSQ1EyTUVGeVR0b1c2RW5ldWc1N2FISTNJSXA1WDluV0k4QXhWUldRY3Q2S3JCSUJ2R2hHZVBBVEk3U1IxN0JLanpBamlUNi1TZlhXV2lQSTBpeFV0N3d3NlVqRlE?oc=5",
-          "date": "2026-10-07 12:07 UTC"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2VaMkZCRmxGT0hOUFpBNHNlS1VRQXVlNlBmNFphbXgtZ2NqS2w1ZktSeEppM29qNnFVOUZfQTNRdElkTUxpclFTVlNUcDh6UEE0RnBGZVAyOW9KeDZYT1NpZWtMMVVKbzBhaU1HdXlnN0FoNUhycllMQ2ZsMURmcnozbVplVGFhVG16MkFoVEFtdzI5QUVtcGctV0ZMT2l6Zm5qMkFwdnhjcF95bmhHWDdGY2cwUFo4Y3djM2pDNXJUMkFHb1dVQVFuWElUQUpy?oc=5",
+          "date": "2026-10-10 06:37 UTC"
         },
         {
           "title": "Las Vegas Sands (NYSE:LVS) Stock Price Target Cut by Barclays",
@@ -2451,8 +2432,7 @@
       "stop_pct": -0.0506,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -33%)",
-        "3-month return -25% vs QQQ",
-        "Negative news tone (sentiment -0.05 over 15 headlines)"
+        "3-month return -25% vs QQQ"
       ],
       "insider_30d": [],
       "insider_badges": "",
@@ -2690,10 +2670,10 @@
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 1006,
-      "google_rss": 2944,
+      "yahoo_rss": 1016,
+      "google_rss": 2786,
       "stocks": 55,
-      "headlines": 1588
+      "headlines": 1415
     },
     "sec": {
       "ok": 55,
@@ -2701,11 +2681,11 @@
       "missing": 0
     },
     "smart_money": {
-      "requests": 1338,
+      "requests": 1183,
       "errors": {},
       "filings_in_window": 2333,
-      "downloaded": 1200,
-      "backlog": 1133,
+      "downloaded": 1133,
+      "backlog": 0,
       "index_days_missing": 0
     }
   },
@@ -2834,6 +2814,20 @@
         "link": "https://www.sec.gov/Archives/edgar/data/920760/000119312526397059/"
       },
       {
+        "ticker": "LEN",
+        "name": "Lennar",
+        "owner": "BERKSHIRE HATHAWAY INC",
+        "role": "10% owner",
+        "date": "2026-10-02",
+        "filed": "2026-10-05",
+        "shares": 2418637.0,
+        "price": 79.6459,
+        "value": 192634432.68,
+        "holding_change": 0.093,
+        "badges": "\ud83d\udcb5",
+        "link": "https://www.sec.gov/Archives/edgar/data/920760/000119312526414744/"
+      },
+      {
         "ticker": "RSG",
         "name": "Republic Services",
         "owner": "CASCADE INVESTMENT, L.L.C.",
@@ -2890,6 +2884,20 @@
         "link": "https://www.sec.gov/Archives/edgar/data/920760/000119312526409451/"
       },
       {
+        "ticker": "ORCL",
+        "name": "Oracle Corporation",
+        "owner": "RUSCKOWSKI STEPHEN H",
+        "role": "Director",
+        "date": "2026-09-29",
+        "filed": "2026-10-01",
+        "shares": 25000.0,
+        "price": 139.352,
+        "value": 3483800.0,
+        "holding_change": 64.1026,
+        "badges": "\ud83d\udcb5",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341439/000134143926000099/"
+      },
+      {
         "ticker": "ECL",
         "name": "Ecolab",
         "owner": "Green Eric Mark",
@@ -2902,34 +2910,6 @@
         "holding_change": 0.8668,
         "badges": "\ud83d\udcb5",
         "link": "https://www.sec.gov/Archives/edgar/data/31462/000162828026061859/"
-      },
-      {
-        "ticker": "CRM",
-        "name": "Salesforce",
-        "owner": "Kirk David Blair",
-        "role": "Director",
-        "date": "2026-09-18",
-        "filed": "2026-09-21",
-        "shares": 4176.0,
-        "price": 239.3321,
-        "value": 999450.8496,
-        "holding_change": 0.2866,
-        "badges": "\ud83d\udcb5",
-        "link": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000212/"
-      },
-      {
-        "ticker": "DVN",
-        "name": "Devon Energy",
-        "owner": "Gaspar Clay M",
-        "role": "CEO",
-        "date": "2026-09-14",
-        "filed": "2026-09-14",
-        "shares": 3913.0,
-        "price": 51.08,
-        "value": 199876.04,
-        "holding_change": 0.0064,
-        "badges": "\ud83d\udc51",
-        "link": "https://www.sec.gov/Archives/edgar/data/1090012/000109001226000124/"
       }
     ],
     "clusters": {
@@ -2937,20 +2917,34 @@
         "Keel Paul A",
         "Kurzius Lawrence Erik",
         "Rosebrough Walter M Jr"
+      ],
+      "SPG": [
+        "Aeppel Glyn",
+        "Cicco Martin J",
+        "GLASSCOCK LARRY C",
+        "Jones Nina P",
+        "LEIBOWITZ REUBEN S",
+        "LEWIS RANDALL J",
+        "RODKIN GARY M",
+        "Roe Peggy",
+        "SELIG STEFAN M",
+        "STEWART MARTA R",
+        "Smith Daniel C."
       ]
     },
     "strong": [
       "\ud83d\udc65 COO: 3 insiders bought $1,880k",
       "\ud83d\udc51 DVN: CEO bought $200k",
       "\ud83d\udc51 FOXA: CEO bought $10,275k",
+      "\ud83d\udc65 SPG: 11 insiders bought $461k",
       "\ud83d\udc51 TFC: CEO bought $1,016k",
       "\ud83d\udc51 UBER: CEO bought $10,006k"
     ],
     "sells": {
-      "count": 1993,
-      "value_usd": 6800621862.4506,
-      "planned": 1117,
-      "companies": 140
+      "count": 2549,
+      "value_usd": 7743901317.1957,
+      "planned": 1556,
+      "companies": 170
     },
     "buybacks": [
       {
@@ -2964,6 +2958,54 @@
         "market_cap": 15692867693.2257,
         "pct_of_cap": 0.0637,
         "name": "News Corp (Class A)"
+      },
+      {
+        "ticker": "TYL",
+        "date": "2026-09-15",
+        "source": "8-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000052/",
+        "amount_usd": 1500000000.0,
+        "kind": "increased",
+        "snippet": "On July 24, 2026, the Board of Directors authorized an additional $1.5 billion share repurchase plan.",
+        "market_cap": 13495821396.7943,
+        "pct_of_cap": 0.1111,
+        "name": "Tyler Technologies"
+      },
+      {
+        "ticker": "DHI",
+        "date": "2026-09-15",
+        "source": "8-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000108/",
+        "amount_usd": 5000000000.0,
+        "kind": "increased",
+        "snippet": "Horton, Inc. (the \u201cCompany\u201d) authorized the repurchase of an additional $5.0 billion of the Company\u2019s common stock, with no expiration date.",
+        "market_cap": 37726108258.6888,
+        "pct_of_cap": 0.1325,
+        "name": "D. R. Horton"
+      },
+      {
+        "ticker": "MSI",
+        "date": "2026-09-09",
+        "source": "8-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/68505/000119312526386490/",
+        "amount_usd": 2000000000.0,
+        "kind": "increased",
+        "snippet": "On September 9, 2026, Motorola Solutions, Inc. (the \u201cCompany\u201d) issued a press release announcing that its Board of Directors has authorized an increase in its share repurchase program to permit the Company to purchase up to an additional $2.0 billion of its outstanding common sha",
+        "market_cap": 73509029541.7273,
+        "pct_of_cap": 0.0272,
+        "name": "Motorola Solutions"
+      },
+      {
+        "ticker": "COO",
+        "date": "2026-09-09",
+        "source": "8-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/711404/000162828026061155/",
+        "amount_usd": 3000000000.0,
+        "kind": "increased",
+        "snippet": "EX-99.2 3 cooperq32026pressreleaseex.htm EX-99.2 Document Exhibit 99.2 PRESS RELEASE CooperCompanies Completes Strategic Review, Increases Share Repurchase Authorization Board Unanimously Concludes to Retain CooperSurgical Expands Share Repurchase Authorization from $2 billion to",
+        "market_cap": 10338743131.6722,
+        "pct_of_cap": 0.2902,
+        "name": "Cooper Companies (The)"
       }
     ],
     "funds": [
@@ -3230,8 +3272,8 @@
     ],
     "coverage": {
       "filings_in_window": 2333,
-      "downloaded": 1200,
-      "backlog": 1133,
+      "downloaded": 1133,
+      "backlog": 0,
       "index_days_missing": 0
     }
   },
@@ -3388,7 +3430,7 @@
       "high_52w": {
         "5": {
           "n": 9581,
-          "beat": 0.4803,
+          "beat": 0.4804,
           "mean": -0.0006,
           "median": -0.0016,
           "worst": -0.3237,
@@ -3517,62 +3559,62 @@
       },
       "ceo_cfo_buy": {
         "5": {
-          "n": 168,
-          "beat": 0.4643,
-          "mean": 0.0013,
-          "median": -0.0027,
+          "n": 311,
+          "beat": 0.4727,
+          "mean": -0.0006,
+          "median": -0.0025,
           "worst": -0.1995,
-          "best": 0.1862
+          "best": 0.1971
         },
         "20": {
-          "n": 165,
-          "beat": 0.4424,
-          "mean": -0.0112,
-          "median": -0.0136,
+          "n": 308,
+          "beat": 0.4675,
+          "mean": -0.0092,
+          "median": -0.0074,
           "worst": -0.4298,
-          "best": 0.2309
+          "best": 0.3761
         },
         "60": {
-          "n": 153,
-          "beat": 0.451,
-          "mean": -0.0292,
-          "median": -0.0264,
+          "n": 296,
+          "beat": 0.4595,
+          "mean": -0.0214,
+          "median": -0.0241,
           "worst": -0.5362,
-          "best": 0.6423
+          "best": 0.8085
         }
       },
       "cluster_buy": {
         "5": {
-          "n": 71,
-          "beat": 0.3803,
-          "mean": -0.0091,
-          "median": -0.0131,
-          "worst": -0.2047,
-          "best": 0.1105
+          "n": 141,
+          "beat": 0.4894,
+          "mean": -0.0035,
+          "median": -0.0016,
+          "worst": -0.3033,
+          "best": 0.1631
         },
         "20": {
-          "n": 70,
-          "beat": 0.4286,
-          "mean": -0.0194,
-          "median": -0.0203,
-          "worst": -0.2336,
-          "best": 0.1834
+          "n": 140,
+          "beat": 0.4429,
+          "mean": -0.0146,
+          "median": -0.0149,
+          "worst": -0.4603,
+          "best": 0.2817
         },
         "60": {
-          "n": 66,
-          "beat": 0.5152,
-          "mean": -0.0321,
-          "median": 0.0031,
+          "n": 136,
+          "beat": 0.5147,
+          "mean": -0.0057,
+          "median": 0.0012,
           "worst": -0.5339,
-          "best": 0.3672
+          "best": 0.8085
         }
       }
     },
     "coverage": {
-      "quarters_done": 10,
+      "quarters_done": 20,
       "quarters_total": 51,
       "events_since": "2014-01-02",
-      "insider_buys": 1886
+      "insider_buys": 4041
     }
   }
 }

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-11T15:05:35Z · market session 2026-10-09 · app version ea81fc5 · 238 tests
+Generated 2026-10-11T15:05:44Z · market session 2026-10-09 · app version ea81fc5 · 238 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -79,11 +79,11 @@ Alerts and what changed in my holdings after them (3 days):
 ## ⚠️ Issues to notice
 - [warn] Cash in robinhood's transactions goes negative ($-211.62): a deposit is probably missing — fix: Import a file that starts from the first deposit, or add the deposit in ✏️ עריכה → הפקדות (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
-- [warn] 4 failed workflow run(s) in the last 3 days — fix: GitHub → Actions: open the failed run (the evening alert lists the step) (screen: connections)
+- [warn] 2 failed workflow run(s) in the last 3 days — fix: GitHub → Actions: open the failed run (the evening alert lists the step) (screen: connections)
 
 ## ⚙️ Health
 - Research run 2026-10-11T03:14:49Z (ok), TQQQ run success, data check pass
-- Workflows: Collect Claude report: in_progress (2026-10-11T15:05); Publish app state: in_progress (2026-10-11T15:05); Daily signals: success (2026-10-11T03:07)
+- Workflows: n/a
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

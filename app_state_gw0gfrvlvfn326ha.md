@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-11T20:22:35Z · market session 2026-10-09 · app version 9cc8b79 · 274 tests
+Generated 2026-10-11T20:29:29Z · market session 2026-10-09 · app version 14a38e4 · 275 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -29,20 +29,20 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Robinhood · Brokerage | QQQ | 0.109179 | 743.00 | 751.27 | $82.02 | +0.90 | sync |
 | Robinhood · Brokerage | TQQQ | 7.08543 | 76.04 | 81.28 | $575.90 | +37.16 | sync |
 | Robinhood · Brokerage | CASH |  |  |  | $0.02 |  | sync |
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 |  | $9.15 |  | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.41 | $9.15 | -0.22 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 81.28 | $19.75 | -0.20 | sync |
 | Fidelity · Brokerage 4 | CASH |  |  |  | $0.05 |  | sync |
-| Fidelity · Brokerage 1 | FITFX | 2.945 | 19.32 |  | $56.51 |  | sync |
-| Fidelity · Brokerage 1 | FLAPX | 0.823 | 24.78 |  | $20.58 |  | sync |
-| Fidelity · Brokerage 1 | FLXSX | 0.057 | 20.18 |  | $1.16 |  | sync |
-| Fidelity · Brokerage 1 | FXINX | 8.479 | 12.43 |  | $104.04 |  | sync |
-| Fidelity · Brokerage 1 | FXLCX | 27.89 | 11.96 |  | $337.75 |  | sync |
-| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 |  | $2.02 |  | sync |
-| Fidelity · Brokerage 1 | FXSCX | 1.14 | 12.23 |  | $13.81 |  | sync |
+| Fidelity · Brokerage 1 | FITFX | 2.945 | 19.32 | 19.19 | $56.51 | -0.40 | sync |
+| Fidelity · Brokerage 1 | FLAPX | 0.823 | 24.78 | 25.01 | $20.58 | +0.19 | sync |
+| Fidelity · Brokerage 1 | FLXSX | 0.057 | 20.18 | 20.35 | $1.16 | +0.01 | sync |
+| Fidelity · Brokerage 1 | FXINX | 8.479 | 12.43 | 12.27 | $104.04 | -1.32 | sync |
+| Fidelity · Brokerage 1 | FXLCX | 27.89 | 11.96 | 12.11 | $337.75 | +4.19 | sync |
+| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.54 | $2.02 | +0.02 | sync |
+| Fidelity · Brokerage 1 | FXSCX | 1.14 | 12.23 | 12.11 | $13.81 | -0.13 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $7.27 |  | sync |
 
 - Net worth $1,230.04 · deposits $1,160.00 · withdrawals $0.00 · cash $7.34 · profit +70.04 (+6.0%)
@@ -133,7 +133,7 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Broker sync: in_progress (2026-10-11T20:21); Publish app state: success (2026-10-11T20:20); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-11T20:28); Broker sync: success (2026-10-11T20:21); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
 - Pushes today: 6 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי; push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

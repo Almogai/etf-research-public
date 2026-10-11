@@ -1,11 +1,11 @@
 # My app — current state
 
-Generated 2026-10-11T15:36:33Z · market session 2026-10-09 · app version 10b72af · 249 tests
+Generated 2026-10-11T15:44:10Z · market session 2026-10-09 · app version a8a99e9 · 254 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
-- Status light: **yellow** — TQQQ is IN, 1.0% above your $570 floor
+- Status light: **yellow** — TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x
 - Account value $657.93 · today +7.85 · profit vs deposits +57.93 (+9.7%) · deposited $600.00
 - What changed since yesterday: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M
 - Claude says (no report yet): –
@@ -86,17 +86,18 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚠️ Issues to notice
 - [warn] Cash in robinhood's transactions goes negative ($-21.20): a deposit is probably missing — fix: Import a file that starts from the first deposit, or add the deposit in ✏️ עריכה → הפקדות (screen: portfolio)
+- [warn] Concentration: 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x — fix: 💼 התיק שלי → 📊 חלוקה וחשיפה (the limit slider is there); spread the money or accept the risk knowingly (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
-- [warn] 4 failed workflow run(s) in the last 3 days — fix: GitHub → Actions: open the failed run (the evening alert lists the step) (screen: connections)
+- [info] Daily signals: 2 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## ⚙️ Health
 - Research run 2026-10-11T15:13:41Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-11T15:36); Daily signals: success (2026-10-11T15:06); Collect Claude report: success (2026-10-11T15:05)
+- Workflows: Publish app state: in_progress (2026-10-11T15:43); Daily signals: success (2026-10-11T15:06); Collect Claude report: success (2026-10-11T15:05)
 - Pushes today: 3 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 
 ## 🗺️ Screens: what each shows and the open choices
-- **היום (Today)** [`today`]: status light yellow: TQQQ is IN, 1.0% above your $570 floor · account value $657.93, today +7.85, profit vs deposits +57.93 · what changed: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M · Claude says: (no report yet) · top 5 chips: AMD, CRWD, ANET, MPC, VLO
+- **היום (Today)** [`today`]: status light yellow: TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x · account value $657.93, today +7.85, profit vs deposits +57.93 · what changed: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M · Claude says: (no report yet) · top 5 chips: AMD, CRWD, ANET, MPC, VLO
 - **Top 5 (Top 5)** [`top5`]: app: $9,998 (-0.0%) vs SPY +0.0%; beat 0/0 closed trades
   - choice האפליקציה / Claude: app → the app's daily top 5; claude → the morning Claude's picks
 - **התיק שלי (My money)** [`portfolio`]: net worth $657.93; money in $600.00; profit +57.93 · TQQQ: 7.085433 @ avg 75.8526 = $575.90 (import) · QQQ: 0.109179 @ avg 742.9856 = $82.02 (import) · CASH:  @ avg None = $0.00 (import)

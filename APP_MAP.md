@@ -6,7 +6,7 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 - `today` **🏠 היום** (Today): one screen: status light + TQQQ/$570 sentence, my money, what changed, Claude says, today's top 5
 - `top5` **🔥 Top 5** (Top 5): the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist
 - `portfolio` **💼 התיק שלי** (My money): net worth, a card per holding, allocation, broker import, editing (trade, deposits, holdings, accounts, undo), TQQQ rules
-- `tune` **🎯 כוונון** (Tune): benchmark, screener preferences + preview, my own alerts, instructions to Claude, live chat (coming soon)
+- `tune` **🎯 כוונון** (Tune): benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat
 - `more` **⋯ עוד** (More): the list of every other screen + language + reload + download my data
 
 ## Under ⋯ עוד (More), in order
@@ -21,6 +21,7 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 - `history` **📜 היסטוריה** (History): similar market periods since 1990 and event base rates
 - `advanced` **⚙️ מתקדם** (Advanced): the original English tables: overview, research, track record, charts, backtest, log, connections
 - `connections` **🔌 חיבורים** (Connections): is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
+- `chat` **💬 צ'אט עם Claude** (Chat with Claude): the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve
 
 ## Screens in detail
 ### `today` — 🏠 היום (Today)
@@ -81,7 +82,7 @@ net worth, a card per holding, allocation, broker import, editing (trade, deposi
   path: 💼 התיק שלי → הורד את הנתונים שלי (zip)
 
 ### `tune` — 🎯 כוונון (Tune)
-benchmark, screener preferences + preview, my own alerts, instructions to Claude, live chat (coming soon)
+benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat
 - `tune.benchmark` **מול מה משווים** (What we compare with, select): QQQ / SPY / cash / sector ETF: every 'vs' number uses it (saved at once)  
   path: 🎯 כוונון → מול מה משווים
 - `tune.preferences` **ההעדפות שלך** (Your preferences, form): focus/avoid sectors, risk, horizon, picks per day, watchlist, exclude -> save; preview of today's top  
@@ -90,8 +91,8 @@ benchmark, screener preferences + preview, my own alerts, instructions to Claude
   path: 🎯 כוונון → 🔔 התראות משלך
 - `tune.instructions` **🧠 הנחיה ל-Claude** (🧠 Instructions for Claude, form): text -> send to Claude (public file); answers appear under each item  
   path: 🎯 כוונון → 🧠 הנחיה ל-Claude
-- `tune.chat` **צ'אט חי (בקרוב)** (Live chat (coming soon), card): live chat: coming soon  
-  path: 🎯 כוונון → צ'אט חי (בקרוב)
+- `tune.chat` **צ'אט עם Claude** (Chat with Claude, link): opens 💬 the live chat  
+  path: 🎯 כוונון → צ'אט עם Claude
 
 ### `more` — ⋯ עוד (More)
 the list of every other screen + language + reload + download my data
@@ -158,6 +159,19 @@ the original English tables: overview, research, track record, charts, backtest,
 
 ### `connections` — ⋯ עוד → 🔌 חיבורים (Connections)
 is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
+
+### `chat` — ⋯ עוד → 💬 צ'אט עם Claude (Chat with Claude)
+the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve
+- `chat.ask` **שאל אותי משהו… (אפשר לצרף צילום מסך)** (Ask me anything… (you can attach a screenshot), input): type a question; 📎 attach a screenshot (it is resized and sent with the screen data)  
+  path: ⋯ עוד → 💬 צ'אט עם Claude → שאל אותי משהו… (אפשר לצרף צילום מסך)
+- `chat.review` **סקירה** (Review, button): 📋 the weekly review: what I did, decisions vs my rules, data problems, 3 ideas  
+  path: ⋯ עוד → 💬 צ'אט עם Claude → סקירה
+- `chat.clear` **נקה שיחה** (Clear chat, button): start a fresh conversation (the history file is kept)  
+  path: ⋯ עוד → 💬 צ'אט עם Claude → נקה שיחה
+- `chat.hard` **שאלה קשה (מודל חזק ויקר יותר)** (Hard question (stronger, pricier model), toggle): use the stronger, pricier model for one hard question  
+  path: ⋯ עוד → 💬 צ'אט עם Claude → שאלה קשה (מודל חזק ויקר יותר)
+- `chat.approve` **אשר** (Approve, button): on a ✋ proposal card: apply the change (nothing changes without it)  
+  path: ⋯ עוד → 💬 צ'אט עם Claude → אשר
 
 ## Common tasks, step by step
 ### Import a broker file

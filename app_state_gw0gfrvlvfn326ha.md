@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-11T20:29:29Z · market session 2026-10-09 · app version 14a38e4 · 275 tests
+Generated 2026-10-11T20:33:50Z · market session 2026-10-09 · app version 923bf8e · 275 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -121,19 +121,17 @@ Alerts and what changed in my holdings after them (3 days):
 - 2026-10-11 20:07 push sent: סיכום שבועי → no change in holdings
 
 ## ⚠️ Issues to notice
-- [warn] Cash in robinhood_crypto's transactions goes negative ($-297.05): a deposit of about $297.05 on or before 2026-05-30 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
-- [warn] Cash in robinhood's transactions goes negative ($-21.20): a deposit of about $21.20 on or before 2026-08-25 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
-- [warn] Holdings mismatch in fidelity_brokerage: FLGXX imported transactions give 7.27 shares, the app has 0 — fix: 💼 התיק שלי → 📥 ייבוא קובץ מהברוקר: import the latest activity file (choose merge), or fix the units in ✏️ עריכה → החזקות (screen: portfolio)
-- [warn] Cash in fidelity_brokerage's transactions goes negative ($-248.50): a deposit of about $248.50 on or before 2026-09-16 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
-- [warn] Holdings mismatch in fidelity_brokerage_4: SPAXX imported transactions give 0.05 shares, the app has 0 — fix: 💼 התיק שלי → 📥 ייבוא קובץ מהברוקר: import the latest activity file (choose merge), or fix the units in ✏️ עריכה → החזקות (screen: portfolio)
-- [warn] Cash in fidelity_brokerage_4's transactions goes negative ($-19.95): a deposit of about $19.95 on or before 2026-10-05 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
+- [info] Robinhood · Crypto: cash in the synced history dips by $297.05 around 2026-05-30 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
+- [warn] Cash in Robinhood · Brokerage's transactions goes negative ($-21.20): a deposit of about $21.20 on or before 2026-08-25 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
+- [info] Fidelity · Brokerage 1: cash in the synced history dips by $248.50 around 2026-09-16 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
+- [info] Fidelity · Brokerage 4: cash in the synced history dips by $19.95 around 2026-10-05 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
 - [info] Daily signals: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 - [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-11T20:28); Broker sync: success (2026-10-11T20:21); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-11T20:33); Broker sync: success (2026-10-11T20:21); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
 - Pushes today: 6 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי; push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

@@ -1,12 +1,12 @@
 # My app — current state
 
-Generated 2026-10-11T20:21:24Z · market session 2026-10-09 · app version 9cc8b79 · 274 tests
+Generated 2026-10-11T20:22:35Z · market session 2026-10-09 · app version 9cc8b79 · 274 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
-- Status light: **yellow** — TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x
-- Account value $657.95 · today +7.85 · profit vs deposits +57.95 (+9.7%) · deposited $600.00
+- Status light: **yellow** — TQQQ is IN, 1.0% above your $570 floor
+- Account value $1,230.04 · today +7.85 · profit vs deposits +70.04 (+6.0%) · deposited $1,160.00
 - What changed since yesterday: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M
 - Claude says (no report yet): –
 - Top 5 chips: CRWD, ANET, MPC, AMD, VLO · data check: pass
@@ -15,19 +15,40 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 | Account | Value | Cash | Positions | Deposits |
 |---|---|---|---|---|
-| Robinhood (main: $570 floor rule) | $657.95 | $0.02 | 2 | $600.00 |
-| **All accounts** | **$657.95** | $0.02 | 2 | $600.00 |
+| Robinhood · Brokerage (main: $570 floor rule) | $657.95 | $0.02 | 2 | $600.00 |
+| Fidelity · Brokerage 1 | $543.14 | $7.27 | 7 | $540.00 |
+| Fidelity · Brokerage 4 | $19.80 | $0.05 | 1 | $20.00 |
+| Robinhood · Crypto | $9.15 | $0.00 | 1 | $0.00 |
+| Robinhood · IRA | $0.00 | $0.00 | 0 | $0.00 |
+| Fidelity · Brokerage 3 | $0.00 | $0.00 | 0 | $0.00 |
+| Fidelity · Brokerage 2 | $0.00 | $0.00 | 0 | $0.00 |
+| **All accounts** | **$1,230.04** | $7.34 | 11 | $1,160.00 |
 
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
-| Robinhood | QQQ | 0.109179 | 743.00 | 751.27 | $82.02 | +0.90 | sync |
-| Robinhood | TQQQ | 7.08543 | 76.04 | 81.28 | $575.90 | +37.16 | sync |
-| Robinhood | CASH |  |  |  | $0.02 |  | sync |
+| Robinhood · Brokerage | QQQ | 0.109179 | 743.00 | 751.27 | $82.02 | +0.90 | sync |
+| Robinhood · Brokerage | TQQQ | 7.08543 | 76.04 | 81.28 | $575.90 | +37.16 | sync |
+| Robinhood · Brokerage | CASH |  |  |  | $0.02 |  | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 |  | $9.15 |  | sync |
+| Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
+| Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
+| Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
+| Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
+| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 81.28 | $19.75 | -0.20 | sync |
+| Fidelity · Brokerage 4 | CASH |  |  |  | $0.05 |  | sync |
+| Fidelity · Brokerage 1 | FITFX | 2.945 | 19.32 |  | $56.51 |  | sync |
+| Fidelity · Brokerage 1 | FLAPX | 0.823 | 24.78 |  | $20.58 |  | sync |
+| Fidelity · Brokerage 1 | FLXSX | 0.057 | 20.18 |  | $1.16 |  | sync |
+| Fidelity · Brokerage 1 | FXINX | 8.479 | 12.43 |  | $104.04 |  | sync |
+| Fidelity · Brokerage 1 | FXLCX | 27.89 | 11.96 |  | $337.75 |  | sync |
+| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 |  | $2.02 |  | sync |
+| Fidelity · Brokerage 1 | FXSCX | 1.14 | 12.23 |  | $13.81 |  | sync |
+| Fidelity · Brokerage 1 | CASH |  |  |  | $7.27 |  | sync |
 
-- Net worth $657.95 · deposits $600.00 · withdrawals $0.00 · cash $0.02 · profit +57.95 (+9.7%)
+- Net worth $1,230.04 · deposits $1,160.00 · withdrawals $0.00 · cash $7.34 · profit +70.04 (+6.0%)
 - $570 floor rule (main account only): **WARN** · TQQQ 81.28 vs floor price $80.45 · distance +1.0%
-- Allocation: TQQQ 88%, QQQ 12%, Cash 0% · effective exposure 2.75x · 88% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.8x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-11T19:59:06Z · last attempt 2026-10-11T19:59:06Z · not synced: Robinhood DIGITALASSET, Robinhood TRADITIONAL_IRA, Fidelity I, Fidelity I, Fidelity I, Fidelity I
+- Allocation: TQQQ 48%, FXLCX 27%, FXINX 8%, QQQ 7%, FITFX 5%, FLAPX 2%, FXSCX 1%, XRP-USD 1%, Cash 1%, FXMCX 0%, FLXSX 0% · effective exposure 1.96x · 48% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.0x the market.
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-11T20:22:20Z · last attempt 2026-10-11T20:22:20Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -43,8 +64,8 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 47 events since 2026-06-01T16:00:00Z · by type: {'trade': 19, 'notify': 7, 'import': 4, 'portfolio_change': 3, 'deposit': 3, 'workflow_failed': 2, 'floor_event': 2, 'dividend': 2, 'sync_request': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
-- Monthly: 2026-10: deposits $300, trades 10, alerts 7, imports 4; 2026-09: deposits $0, trades 5, alerts 0, imports 0; 2026-08: deposits $0, trades 4, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0
+- 121 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 7, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'workflow_failed': 2, 'floor_event': 2, 'sync_request': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- Monthly: 2026-10: deposits $507, trades 27, alerts 7, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
 - 2026-10-11 20:07 · notify (workflow): push sent: סיכום שבועי
@@ -69,22 +90,24 @@ Last 30 days:
 - 2026-10-09 21:31 · notify (migrated): alert sent: floor rule WARN
 - 2026-10-09 21:30 · floor_event (workflow): $570 floor rule WARN: value $575.90; floor price $80.45; close is +1.04% ($+0.83/share) from it
 - 2026-10-09 21:30 · floor_event (migrated): $570 floor rule WARN (TQQQ close 81.28)
+- 2026-10-09 16:00 · trade (sync): sync (Fidelity · Brokerage 1): sell 29.82 FLGXX @ 1.00 ($29.82)
+- 2026-10-08 16:00 · deposit (sync): sync (Fidelity · Brokerage 1): deposit  ($4.00)
+- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.557 FITFX @ 18.99 ($-10.57)
+- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.059 FLAPX @ 24.88 ($-1.46)
+- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 1.383 FXLCX @ 12.03 ($-16.64)
+- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 4 FLGXX @ 1.00 ($-4.00)
+- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.057 FLXSX @ 20.27 ($-1.15)
 - 2026-10-08 16:00 · dividend (import): dividend $0.02 QQQ
+- 2026-10-07 16:00 · deposit (sync): sync (Fidelity · Brokerage 1): deposit  ($30.00)
+- 2026-10-07 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 30 FLGXX @ 1.00 ($-30.00)
 - 2026-10-07 16:00 · deposit (import): deposit $100.00
 - 2026-10-07 16:00 · trade (import): buy 1 TQQQ at $82.29 ($82.29)
 - 2026-10-07 16:00 · trade (import): buy 0.215214 TQQQ at $82.29 ($17.71)
+- 2026-10-06 16:00 · trade (sync): sync (Fidelity · Brokerage 1): sell 152.64 FLGXX @ 1.00 ($152.64)
+- 2026-10-06 16:00 · trade (sync): sync (Fidelity · Brokerage 4): sell 19.95 SPAXX @ 1.00 ($19.95)
 - 2026-10-06 16:00 · trade (import): sell 0.118638 TQQQ at $84.29 ($10.00)
 - 2026-10-06 16:00 · trade (import): buy 0.013425 QQQ at $759.74 ($10.20)
 - 2026-10-06 16:00 · trade (import): sell 0.07036 TQQQ at $85.27 ($6.00)
-- 2026-10-06 16:00 · trade (import): buy 0.007867 QQQ at $762.68 ($6.00)
-- 2026-10-02 16:00 · deposit (import): deposit $200.00
-- 2026-10-02 16:00 · trade (import): buy 2 TQQQ at $81.56 ($163.12)
-- 2026-10-02 16:00 · trade (import): buy 0.452182 TQQQ at $81.56 ($36.88)
-- 2026-10-02 16:00 · trade (import): sell 0.12115 TQQQ at $82.52 ($10.00)
-- 2026-10-02 16:00 · trade (import): buy 0.014582 QQQ at $754.34 ($11.00)
-- 2026-09-29 16:00 · dividend (import): dividend $0.58 TQQQ
-- 2026-09-22 16:00 · trade (import): sell 0.39726 TQQQ at $80.55 ($32.00)
-- 2026-09-22 16:00 · trade (import): buy 0.042861 QQQ at $746.59 ($32.00)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-09 21:30 $570 floor rule WARN (TQQQ close 81.28) → My money: import 21 rows (file); My money: holdings from import (file); My money: import 4 rows (file); My money: holdings from import (file)
@@ -98,23 +121,27 @@ Alerts and what changed in my holdings after them (3 days):
 - 2026-10-11 20:07 push sent: סיכום שבועי → no change in holdings
 
 ## ⚠️ Issues to notice
+- [warn] Cash in robinhood_crypto's transactions goes negative ($-297.05): a deposit of about $297.05 on or before 2026-05-30 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
 - [warn] Cash in robinhood's transactions goes negative ($-21.20): a deposit of about $21.20 on or before 2026-08-25 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
-- [warn] Concentration: 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x — fix: 💼 התיק שלי → 📊 חלוקה וחשיפה (the limit slider is there); spread the money or accept the risk knowingly (screen: portfolio)
+- [warn] Holdings mismatch in fidelity_brokerage: FLGXX imported transactions give 7.27 shares, the app has 0 — fix: 💼 התיק שלי → 📥 ייבוא קובץ מהברוקר: import the latest activity file (choose merge), or fix the units in ✏️ עריכה → החזקות (screen: portfolio)
+- [warn] Cash in fidelity_brokerage's transactions goes negative ($-248.50): a deposit of about $248.50 on or before 2026-09-16 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
+- [warn] Holdings mismatch in fidelity_brokerage_4: SPAXX imported transactions give 0.05 shares, the app has 0 — fix: 💼 התיק שלי → 📥 ייבוא קובץ מהברוקר: import the latest activity file (choose merge), or fix the units in ✏️ עריכה → החזקות (screen: portfolio)
+- [warn] Cash in fidelity_brokerage_4's transactions goes negative ($-19.95): a deposit of about $19.95 on or before 2026-10-05 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
 - [info] Daily signals: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 - [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-11T20:20); Broker sync: success (2026-10-11T20:18); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Broker sync: in_progress (2026-10-11T20:21); Publish app state: success (2026-10-11T20:20); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
 - Pushes today: 6 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי; push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 
 ## 🗺️ Screens: what each shows and the open choices
-- **היום (Today)** [`today`]: status light yellow: TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x · account value $657.95, today +7.85, profit vs deposits +57.95 · what changed: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M · Claude says: (no report yet) · top 5 chips: CRWD, ANET, MPC, AMD, VLO
+- **היום (Today)** [`today`]: status light yellow: TQQQ is IN, 1.0% above your $570 floor · account value $1,230.04, today +7.85, profit vs deposits +70.04 · what changed: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M · Claude says: (no report yet) · top 5 chips: CRWD, ANET, MPC, AMD, VLO
 - **Top 5 (Top 5)** [`top5`]: app: $9,998 (-0.0%) vs SPY +0.0%; beat 0/0 closed trades
   - choice האפליקציה / Claude: app → the app's daily top 5; claude → the morning Claude's picks
-- **התיק שלי (My money)** [`portfolio`]: net worth $657.95; money in $600.00; profit +57.95 · QQQ: 0.109179 @ avg 743.0 = $82.02 (sync) · TQQQ: 7.085433 @ avg 76.036 = $575.90 (sync) · CASH:  @ avg None = $0.02 (sync)
+- **התיק שלי (My money)** [`portfolio`]: net worth $1,230.04; money in $1,160.00; profit +70.04 · QQQ: 0.109179 @ avg 743.0 = $82.02 (sync) · TQQQ: 7.085433 @ avg 76.036 = $575.90 (sync) · CASH:  @ avg None = $0.02 (sync) · XRP-USD: 6.506 @ avg 1.44 = $9.15 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · TQQQ: 0.243 @ avg 82.0988 = $19.75 (sync) · CASH:  @ avg None = $0.05 (sync) · FITFX: 2.945 @ avg 19.3243 = $56.51 (sync) · FLAPX: 0.823 @ avg 24.7752 = $20.58 (sync) · FLXSX: 0.057 @ avg 20.1754 = $1.16 (sync) · FXINX: 8.479 @ avg 12.426 = $104.04 (sync) · FXLCX: 27.89 @ avg 11.9598 = $337.75 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.02 (sync) · FXSCX: 1.14 @ avg 12.2281 = $13.81 (sync) · CASH:  @ avg None = $7.27 (sync)
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the floor price of TQQQ = $570 / new units
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
@@ -133,5 +160,5 @@ Alerts and what changed in my holdings after them (3 days):
 - **מתקדם (Advanced)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-11T20:07:01Z; TQQQ run success; data check pass
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 47 events since 2026-06-01T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 121 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline

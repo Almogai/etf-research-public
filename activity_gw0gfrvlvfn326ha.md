@@ -1,6 +1,6 @@
 # My activity
 
-Generated 2026-10-11T20:21:24Z. Every event in the app, newest first (47 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-11T20:22:36Z. Every event in the app, newest first (121 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
@@ -26,28 +26,102 @@ Generated 2026-10-11T20:21:24Z. Every event in the app, newest first (47 events)
 | 2026-10-09 21:31 | notify | migrated | TQQQ | alert sent: floor rule WARN |  |
 | 2026-10-09 21:30 | floor_event | migrated | TQQQ | $570 floor rule WARN (TQQQ close 81.28) |  |
 | 2026-10-09 21:30 | floor_event | workflow | TQQQ | $570 floor rule WARN: value $575.90; floor price $80.45; close is +1.04% ($+0.83/share) from it |  → WARN |
+| 2026-10-09 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 29.82 FLGXX @ 1.00 ($29.82) |  |
 | 2026-10-08 16:00 | dividend | import | QQQ | dividend $0.02 QQQ |  |
+| 2026-10-08 16:00 | trade | sync | FLXSX | sync (Fidelity · Brokerage 1): buy 0.057 FLXSX @ 20.27 ($-1.15) |  |
+| 2026-10-08 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 4 FLGXX @ 1.00 ($-4.00) |  |
+| 2026-10-08 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 1.383 FXLCX @ 12.03 ($-16.64) |  |
+| 2026-10-08 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.059 FLAPX @ 24.88 ($-1.46) |  |
+| 2026-10-08 16:00 | trade | sync | FITFX | sync (Fidelity · Brokerage 1): buy 0.557 FITFX @ 18.99 ($-10.57) |  |
+| 2026-10-08 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($4.00) |  |
 | 2026-10-07 16:00 | trade | import | TQQQ | buy 0.215214 TQQQ at $82.29 ($17.71) |  |
 | 2026-10-07 16:00 | trade | import | TQQQ | buy 1 TQQQ at $82.29 ($82.29) |  |
 | 2026-10-07 16:00 | deposit | import |  | deposit $100.00 |  |
+| 2026-10-07 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 30 FLGXX @ 1.00 ($-30.00) |  |
+| 2026-10-07 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($30.00) |  |
 | 2026-10-06 16:00 | trade | import | QQQ | buy 0.007867 QQQ at $762.68 ($6.00) |  |
 | 2026-10-06 16:00 | trade | import | TQQQ | sell 0.07036 TQQQ at $85.27 ($6.00) |  |
 | 2026-10-06 16:00 | trade | import | QQQ | buy 0.013425 QQQ at $759.74 ($10.20) |  |
 | 2026-10-06 16:00 | trade | import | TQQQ | sell 0.118638 TQQQ at $84.29 ($10.00) |  |
+| 2026-10-06 16:00 | trade | sync | SPAXX | sync (Fidelity · Brokerage 4): sell 19.95 SPAXX @ 1.00 ($19.95) |  |
+| 2026-10-06 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 152.64 FLGXX @ 1.00 ($152.64) |  |
+| 2026-10-05 16:00 | trade | sync | TQQQ | sync (Fidelity · Brokerage 4): buy 0.243 TQQQ @ 82.11 ($-19.95) |  |
+| 2026-10-05 16:00 | trade | sync | SPAXX | sync (Fidelity · Brokerage 4): buy 20 SPAXX @ 1.00 ($-20.00) |  |
+| 2026-10-05 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 4): deposit  ($20.00) |  |
+| 2026-10-05 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 7.97 FXLCX @ 12.04 ($-95.96) |  |
+| 2026-10-05 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.251 FLAPX @ 25.02 ($-6.28) |  |
+| 2026-10-05 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.34 FXSCX @ 12.33 ($-4.19) |  |
+| 2026-10-05 16:00 | trade | sync | FITFX | sync (Fidelity · Brokerage 1): buy 2.381 FITFX @ 19.41 ($-46.21) |  |
 | 2026-10-02 16:00 | trade | import | QQQ | buy 0.014582 QQQ at $754.34 ($11.00) |  |
 | 2026-10-02 16:00 | trade | import | TQQQ | sell 0.12115 TQQQ at $82.52 ($10.00) |  |
 | 2026-10-02 16:00 | trade | import | TQQQ | buy 0.452182 TQQQ at $81.56 ($36.88) |  |
 | 2026-10-02 16:00 | trade | import | TQQQ | buy 2 TQQQ at $81.56 ($163.12) |  |
 | 2026-10-02 16:00 | deposit | import |  | deposit $200.00 |  |
+| 2026-10-02 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 150.54 FLGXX @ 1.00 ($-150.54) |  |
+| 2026-10-02 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($150.00) |  |
+| 2026-10-02 16:00 | dividend | sync | FXLCX | sync (Fidelity · Brokerage 1): dividend FXLCX ($0.54) |  |
+| 2026-10-01 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 3 FLGXX @ 1.00 ($-3.00) |  |
+| 2026-10-01 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($3.00) |  |
+| 2026-09-30 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 0.05 FLGXX @ 1.00 ($-0.05) |  |
+| 2026-09-30 16:00 | dividend | sync | FLGXX | sync (Fidelity · Brokerage 1): dividend FLGXX ($0.05) |  |
+| 2026-09-30 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 248.5 FLGXX @ 1.00 ($248.50) |  |
 | 2026-09-29 16:00 | dividend | import | TQQQ | dividend $0.58 TQQQ |  |
+| 2026-09-29 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.563 FXSCX @ 12.14 ($-6.83) |  |
+| 2026-09-29 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 13.152 FXLCX @ 11.92 ($-156.77) |  |
+| 2026-09-29 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 6.019 FXINX @ 12.39 ($-74.58) |  |
+| 2026-09-29 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.419 FLAPX @ 24.64 ($-10.32) |  |
+| 2026-09-28 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 250 FLGXX @ 1.00 ($-250.00) |  |
+| 2026-09-28 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($250.00) |  |
+| 2026-09-28 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 2.01 FLGXX @ 1.00 ($2.01) |  |
+| 2026-09-25 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 0.062 FXINX @ 12.51 ($-0.77) |  |
+| 2026-09-25 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.005 FLAPX @ 24.86 ($-0.12) |  |
+| 2026-09-25 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 0.082 FXLCX @ 12.02 ($-0.99) |  |
+| 2026-09-25 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.011 FXSCX @ 12.26 ($-0.13) |  |
+| 2026-09-24 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 2 FLGXX @ 1.00 ($-2.00) |  |
+| 2026-09-24 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($2.00) |  |
+| 2026-09-23 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 49.67 FLGXX @ 1.00 ($49.67) |  |
 | 2026-09-22 16:00 | trade | import | QQQ | buy 0.042861 QQQ at $746.59 ($32.00) |  |
 | 2026-09-22 16:00 | trade | import | TQQQ | sell 0.39726 TQQQ at $80.55 ($32.00) |  |
+| 2026-09-22 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 1.179 FXINX @ 12.65 ($-14.92) |  |
+| 2026-09-22 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.109 FXSCX @ 12.46 ($-1.36) |  |
+| 2026-09-22 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 2.595 FXLCX @ 12.06 ($-31.30) |  |
+| 2026-09-22 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.084 FLAPX @ 25.02 ($-2.09) |  |
+| 2026-09-22 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 0.01 FLGXX @ 1.00 ($0.01) |  |
+| 2026-09-21 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.01 FXSCX @ 12.39 ($-0.12) |  |
+| 2026-09-21 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 0.367 FXLCX @ 12.07 ($-4.43) |  |
+| 2026-09-21 16:00 | trade | sync | FXMCX | sync (Fidelity · Brokerage 1): buy 0.029 FXMCX @ 11.54 ($-0.33) |  |
+| 2026-09-21 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 50 FLGXX @ 1.00 ($-50.00) |  |
+| 2026-09-21 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 0.205 FXINX @ 12.63 ($-2.59) |  |
+| 2026-09-21 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($50.00) |  |
+| 2026-09-21 16:00 | trade | sync | FUENX | sync (Fidelity · Brokerage 1): sell 0.779 FUENX @ 9.58 ($7.46) |  |
+| 2026-09-21 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 1 FLGXX @ 1.00 ($1.00) |  |
+| 2026-09-18 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.005 FLAPX @ 24.80 ($-0.12) |  |
+| 2026-09-18 16:00 | trade | sync | FITFX | sync (Fidelity · Brokerage 1): buy 0.007 FITFX @ 19.43 ($-0.13) |  |
+| 2026-09-18 16:00 | trade | sync | FUENX | sync (Fidelity · Brokerage 1): buy 0.018 FUENX @ 9.59 ($-0.17) |  |
+| 2026-09-18 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 0.049 FXLCX @ 11.88 ($-0.58) |  |
+| 2026-09-17 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($1.00) |  |
+| 2026-09-17 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 48.67 FLGXX @ 1.00 ($48.67) |  |
+| 2026-09-16 16:00 | trade | sync | FXMCX | sync (Fidelity · Brokerage 1): buy 0.146 FXMCX @ 11.45 ($-1.67) |  |
+| 2026-09-16 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.107 FXSCX @ 12.27 ($-1.31) |  |
+| 2026-09-16 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 2.292 FXLCX @ 11.73 ($-26.89) |  |
+| 2026-09-16 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 1.014 FXINX @ 12.33 ($-12.50) |  |
+| 2026-09-16 16:00 | trade | sync | FUENX | sync (Fidelity · Brokerage 1): buy 0.761 FUENX @ 9.59 ($-7.30) |  |
+| 2026-09-14 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 50 FLGXX @ 1.00 ($-50.00) |  |
+| 2026-09-14 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($50.00) |  |
 | 2026-09-09 16:00 | trade | import | QQQ | sell 0.014003 QQQ at $714.10 ($10.00) |  |
+| 2026-09-09 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): buy 6.5 XRP-USD @ 1.44 ($-9.38) |  |
 | 2026-09-08 16:00 | trade | import | QQQ | buy 0.044447 QQQ at $719.95 ($32.00) |  |
 | 2026-09-08 16:00 | trade | import | TQQQ | sell 0.439915 TQQQ at $72.74 ($32.00) |  |
 | 2026-08-25 16:00 | trade | import | TQQQ | buy 0.545661 TQQQ at $70.30 ($38.36) |  |
 | 2026-08-25 16:00 | trade | import | TQQQ | buy 1.42531 TQQQ at $70.16 ($100.00) |  |
+| 2026-08-25 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): sell 68.458 XRP-USD @ 1.46 ($100.00) |  |
+| 2026-08-25 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): sell 26.169 XRP-USD @ 1.43 ($37.45) |  |
 | 2026-08-24 16:00 | trade | import | TQQQ | buy 1.15315 TQQQ at $69.38 ($80.00) |  |
 | 2026-08-24 16:00 | trade | import | TQQQ | buy 1.44123 TQQQ at $69.38 ($100.00) |  |
+| 2026-08-24 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): sell 68.525 XRP-USD @ 1.46 ($99.99) |  |
+| 2026-08-24 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): sell 54.494 XRP-USD @ 1.47 ($80.01) |  |
+| 2026-08-24 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): buy 52.91 XRP-USD @ 1.50 ($-79.16) |  |
+| 2026-08-24 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): sell 54.716 XRP-USD @ 1.46 ($79.99) |  |
 | 2026-07-01 16:00 | cash_transfer | import |  | cash_transfer $2.84 |  |
 | 2026-06-01 16:00 | deposit | import |  | deposit $300.00 |  |
+| 2026-05-30 16:00 | trade | sync | XRP-USD | sync (Robinhood · Crypto): buy 219.458 XRP-USD @ 1.35 ($-297.05) |  |

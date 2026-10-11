@@ -1,12 +1,12 @@
 # My app — current state
 
-Generated 2026-10-11T15:50:16Z · market session 2026-10-09 · app version 4c021db · 258 tests
+Generated 2026-10-11T19:52:58Z · market session 2026-10-09 · app version 563fd4d · 270 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
 - Status light: **yellow** — TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x
-- Account value $657.93 · today +7.85 · profit vs deposits +57.93 (+9.7%) · deposited $600.00
+- Account value $657.95 · today +7.85 · profit vs deposits +57.95 (+9.7%) · deposited $600.00
 - What changed since yesterday: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M
 - Claude says (no report yet): –
 - Top 5 chips: AMD, CRWD, ANET, MPC, VLO · data check: pass
@@ -15,13 +15,14 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|
-| TQQQ | 7.08543 | 75.85 | 81.28 | $575.90 | +38.46 | import |
-| QQQ | 0.109179 | 742.99 | 751.27 | $82.02 | +0.90 | import |
-| CASH |  |  |  | $0.00 |  | import |
+| QQQ | 0.109179 | 6,805.34 | 751.27 | $82.02 | -660.98 | sync |
+| TQQQ | 7.08543 | 10.73 | 81.28 | $575.90 | +499.87 | sync |
+| CASH |  |  |  | $0.02 |  | sync |
 
-- Net worth $657.93 · deposits $600.00 · withdrawals $0.00 · cash $0.00 · profit +57.93 (+9.7%)
+- Net worth $657.95 · deposits $600.00 · withdrawals $0.00 · cash $0.02 · profit +57.95 (+9.7%)
 - $570 floor rule: **WARN** · TQQQ 81.28 vs floor price $80.45 · distance +1.0%
 - Allocation: TQQQ 88%, QQQ 12%, Cash 0% · effective exposure 2.75x · 88% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.8x the market.
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-11T19:51:12Z · last attempt 2026-10-11T19:51:12Z · not synced: Robinhood DIGITALASSET, Robinhood TRADITIONAL_IRA, Fidelity I, Fidelity I, Fidelity I, Fidelity I
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -92,15 +93,15 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚙️ Health
 - Research run 2026-10-11T15:13:41Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-11T15:49); Daily signals: success (2026-10-11T15:06); Collect Claude report: success (2026-10-11T15:05)
+- Workflows: Publish app state: in_progress (2026-10-11T19:52); Broker sync: success (2026-10-11T19:50); Daily signals: success (2026-10-11T15:06); Collect Claude report: success (2026-10-11T15:05)
 - Pushes today: 3 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 
 ## 🗺️ Screens: what each shows and the open choices
-- **היום (Today)** [`today`]: status light yellow: TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x · account value $657.93, today +7.85, profit vs deposits +57.93 · what changed: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M · Claude says: (no report yet) · top 5 chips: AMD, CRWD, ANET, MPC, VLO
+- **היום (Today)** [`today`]: status light yellow: TQQQ is IN, 1.0% above your $570 floor. 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x · account value $657.95, today +7.85, profit vs deposits +57.95 · what changed: Big move in in the top 5: CRWD +4.6%; New insider buy: 👥 COO: 3 insiders bought $1.88M · Claude says: (no report yet) · top 5 chips: AMD, CRWD, ANET, MPC, VLO
 - **Top 5 (Top 5)** [`top5`]: app: $9,998 (-0.0%) vs SPY +0.0%; beat 0/0 closed trades
   - choice האפליקציה / Claude: app → the app's daily top 5; claude → the morning Claude's picks
-- **התיק שלי (My money)** [`portfolio`]: net worth $657.93; money in $600.00; profit +57.93 · TQQQ: 7.085433 @ avg 75.8526 = $575.90 (import) · QQQ: 0.109179 @ avg 742.9856 = $82.02 (import) · CASH:  @ avg None = $0.00 (import)
+- **התיק שלי (My money)** [`portfolio`]: net worth $657.95; money in $600.00; profit +57.95 · QQQ: 0.109179 @ avg 6805.338 = $82.02 (sync) · TQQQ: 7.085433 @ avg 10.7313 = $575.90 (sync) · CASH:  @ avg None = $0.02 (sync)
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the floor price of TQQQ = $570 / new units
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'

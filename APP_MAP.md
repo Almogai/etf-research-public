@@ -51,6 +51,10 @@ the virtual $10,000 test of the daily top 5 (App / Claude), open and closed posi
 
 ### `portfolio` — 💼 התיק שלי (My money)
 net worth, a card per holding, allocation, broker import, editing (trade, deposits, holdings, accounts, undo), TQQQ rules
+- `portfolio.sync` **סנכרן עכשיו** (Sync now, button): 'סונכרן עם Robinhood <time>' (amber = old or failed) + 🔄 סנכרן עכשיו: reads Robinhood through SnapTrade (read-only) in ~2-3 minutes  
+  path: 💼 התיק שלי → סנכרן עכשיו
+- `portfolio.issues` **כנראה חסרה הפקדה** (A deposit is probably missing, card): issues with a one-tap fix: add the missing deposit (pre-filled, you confirm) or ignore  
+  path: 💼 התיק שלי → כנראה חסרה הפקדה
 - `portfolio.totals` **שווי כולל** (Net worth, card): net worth, money in, profit, time-weighted return  
   path: 💼 התיק שלי → שווי כולל
 - `portfolio.holdings` **החזקות** (Holdings, cards): a card per holding with value and P&L  
@@ -179,6 +183,15 @@ is everything connected: data, GitHub run, public feed, data check, Claude picks
 2. or 💼 → ✏️ עריכה → החזקות: change units/avg cost (marked manual) → שמור שינויים
 3. mistake? ↩️ היסטוריה → בטל את השינוי האחרון
 
+### Sync with Robinhood now
+1. 💼 התיק שלי → 🔄 סנכרן עכשיו
+2. wait 2-3 minutes, then reload
+3. it also runs by itself ~4 times every weekday
+
+### Reconnect Robinhood (sync failed / expired)
+1. snaptrade.com → Dashboard → Connections → Robinhood → Reconnect (log in at Robinhood, read-only)
+2. then 💼 → 🔄 סנכרן עכשיו
+
 ### Change the benchmark
 1. 🎯 כוונון → מול מה משווים → choose (saved at once)
 
@@ -211,3 +224,4 @@ is everything connected: data, GitHub run, public feed, data check, Claude picks
 | ⚠️ in the import preview | differences with the app, negative cash (missing deposit), or an option that overwrites data | read it before אשר ושמור |
 | ⏳ ממתין / waiting | an instruction Claude hasn't answered yet | wait for the next morning report |
 | n/a | data missing or older than 200 days (fundamentals) — never guessed | nothing |
+| 🔄 amber 'סונכרן לאחרונה' | the Robinhood sync failed or is older than 36 hours; the last good data is shown | 💼 → 🔄 סנכרן עכשיו; if it says expired, reconnect in SnapTrade |

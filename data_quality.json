@@ -1,0 +1,181 @@
+{
+ "generated_utc": "2026-10-11T03:11:12Z",
+ "session_date": "2026-10-09",
+ "status": "pass",
+ "reasons": [],
+ "second_source": "Nasdaq (api.nasdaq.com)",
+ "tolerance": 0.005,
+ "core": [
+  {
+   "ticker": "QQQ",
+   "ours": 751.27,
+   "theirs": 751.27,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "SPY",
+   "ours": 778.57,
+   "theirs": 778.57,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "TQQQ",
+   "ours": 81.28,
+   "theirs": 81.28,
+   "diff": 0.0,
+   "status": "ok"
+  }
+ ],
+ "sample": [
+  {
+   "ticker": "GD",
+   "ours": 331.27,
+   "theirs": 331.27,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "ULTA",
+   "ours": 570.37,
+   "theirs": 570.37,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "DIS",
+   "ours": 108.05,
+   "theirs": 108.05,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "NOC",
+   "ours": 480.72,
+   "theirs": 480.72,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "CCI",
+   "ours": 79.64,
+   "theirs": 79.64,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "FLEX",
+   "ours": 119.83,
+   "theirs": 119.83,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "HRL",
+   "ours": 19.19,
+   "theirs": 19.19,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "CINF",
+   "ours": 163.39,
+   "theirs": 163.39,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "JBL",
+   "ours": 306.28,
+   "theirs": 306.28,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "JKHY",
+   "ours": 149.31,
+   "theirs": 149.31,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "NVDA",
+   "ours": 229.28,
+   "theirs": 229.28,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "MDT",
+   "ours": 88.48,
+   "theirs": 88.48,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "RDDT",
+   "ours": 159.91,
+   "theirs": 159.91,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "RF",
+   "ours": 27.03,
+   "theirs": 27.03,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "VMC",
+   "ours": 244.58,
+   "theirs": 244.58,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "ANET",
+   "ours": 216.74,
+   "theirs": 216.74,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "USB",
+   "ours": 57.08,
+   "theirs": 57.08,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "SCHW",
+   "ours": 96.7,
+   "theirs": 96.7,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "GE",
+   "ours": 308.2,
+   "theirs": 308.2,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "TSN",
+   "ours": 53.43,
+   "theirs": 53.43,
+   "diff": 0.0,
+   "status": "ok"
+  }
+ ],
+ "tqqq_verified": true,
+ "problems": {
+  "stale": [],
+  "stopped": [],
+  "missing_days": {},
+  "big_jumps": [],
+  "zero_volume": []
+ }
+}

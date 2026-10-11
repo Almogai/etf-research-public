@@ -37,7 +37,7 @@ Rule: t ≥ 2 → ×1.25, t ≤ −1 → ×0.5, else unchanged; then scaled to t
 
 No change suggested this week.
 
-Final-score mix stays {'price': 0.8, 'news': 0.2, 'insider': 0.05, 'history': 0.03} until the live log has at least 30 scored ideas to judge the news score.
+Final-score mix stays {'price': 0.8, 'news': 0.2, 'insider': 0.05, 'history': 0.03, 'quality': 0.04} until the live log has at least 30 scored ideas to judge the news score.
 
 *One year of history is a small sample and markets change; treat these as hints, not proof. Rule-based analysis, not financial advice.*
 
@@ -47,3 +47,16 @@ Monthly, walk-forward (learn on older picks, test on the newest month), applied 
 
 - Weights in use: config.yaml baseline (no automatic change yet)
 - 2026-10-09: **waiting** — 0 scored picks, need 60
+
+## Claude vs app: headline ratings
+
+Does a stock's headline rating predict its return vs QQQ? Spearman rank correlation (IC) on the same cases (stocks both rated): above 0 = higher ratings were followed by better returns. Report only: weights change only through the monthly self-learning.
+
+| Horizon | Rater | Cases | IC |
+|---|---|---|---|
+| 5 days | Claude | 0 | n/a |
+| 5 days | App (VADER) | 0 | n/a |
+| 20 days | Claude | 0 | n/a |
+| 20 days | App (VADER) | 0 | n/a |
+
+No scored cases yet: ratings start arriving with claude-picks version 2.

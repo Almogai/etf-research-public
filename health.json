@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T15:13:41Z",
+  "generated_utc": "2026-10-11T20:07:01Z",
   "session_date": "2026-10-09",
   "tqqq_run": "success",
   "tickers_requested": 518,
@@ -7,19 +7,19 @@
   "tickers_failed": 0,
   "data_quality": "pass",
   "eligible": 514,
-  "headlines_collected": 1242,
-  "started_utc": "2026-10-11T15:07:09Z",
-  "duration_secs": 391.7,
+  "headlines_collected": 1173,
+  "started_utc": "2026-10-11T19:59:34Z",
+  "duration_secs": 447.0,
   "status": "ok",
-  "last_success_utc": "2026-10-11T15:13:41Z",
+  "last_success_utc": "2026-10-11T20:07:01Z",
   "steps": {
     "prices": {
       "status": "ok",
-      "secs": 91.1
+      "secs": 94.3
     },
     "data_quality": {
       "status": "ok",
-      "secs": 52.3
+      "secs": 53.7
     },
     "screener": {
       "status": "ok",
@@ -35,27 +35,27 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 3.7
+      "secs": 3.8
     },
     "news": {
       "status": "ok",
-      "secs": 70.9
+      "secs": 69.6
     },
     "sec": {
       "status": "ok",
-      "secs": 15.0
+      "secs": 15.2
     },
     "smart_money": {
       "status": "ok",
-      "secs": 3.8
+      "secs": 4.0
     },
     "history": {
       "status": "ok",
-      "secs": 14.8
+      "secs": 11.7
     },
     "fundamentals": {
       "status": "ok",
-      "secs": 135.5
+      "secs": 190.0
     },
     "news_score": {
       "status": "ok",
@@ -71,7 +71,7 @@
     },
     "backtest": {
       "status": "ok",
-      "secs": 0.5
+      "secs": 0.6
     },
     "scorecard": {
       "status": "ok",
@@ -83,7 +83,7 @@
     },
     "learning": {
       "status": "ok",
-      "secs": 1.6
+      "secs": 1.7
     },
     "self_learning": {
       "status": "ok",
@@ -95,7 +95,7 @@
     },
     "feed": {
       "status": "ok",
-      "secs": 0.0
+      "secs": 0.1
     },
     "summary": {
       "status": "ok",
@@ -117,10 +117,10 @@
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 1030,
-      "google_rss": 2660,
+      "yahoo_rss": 1031,
+      "google_rss": 2603,
       "stocks": 55,
-      "headlines": 1242
+      "headlines": 1173
     },
     "sec": {
       "ok": 55,
@@ -137,10 +137,10 @@
     }
   },
   "hot_top5": [
-    "AMD",
     "CRWD",
     "ANET",
     "MPC",
+    "AMD",
     "VLO"
   ]
 }

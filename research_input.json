@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "session_date": "2026-10-09",
-  "generated_utc": "2026-10-11 15:07 UTC",
+  "generated_utc": "2026-10-11 19:59 UTC",
   "benchmark": "QQQ",
   "universe_size": 518,
   "eligible": 514,
@@ -151,118 +151,16 @@
   "hot": [
     {
       "rank": 1,
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "sector": "Information Technology",
-      "price": 608.1,
-      "final_score": 85.3633,
-      "price_score": 93.1548,
-      "news_score": 70.3376,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "quality_score": 77.7,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9604,
-        "relative_strength": 0.858,
-        "volatility": 0.3696,
-        "liquidity": 0.9903
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +38.7%, 3m +14.8%, 6m +191.5% (beats 96% of stocks)",
-        "3-month return vs QQQ: +7.7%",
-        "Volatility 63%/yr (unusually high/low)",
-        "Trades $13,199M/day"
-      ],
-      "headline_count_3d": 23,
-      "sentiment": 0.4126,
-      "attention_vs_normal": 1.6429,
-      "news_flags": [
-        "acquisition"
-      ],
-      "top_headlines": [
-        {
-          "title": "1,532 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Sacks & Associates LLC",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG95UmREYlN4M201NU1VVmtEcDRIY2w0ZmNOSTJNaWZvNDlDTzNPRVVfUkNRcGtCZG1vbzBFWHF3NmU5QmVHOFM0X2lHREh5T1BkWDFBa3F0aXJYTEl2aDI5YnIycVhFWnVEQVA5MFRxbjVWankzTEVHbGdua1NOYnNqd25KQ3B4S2dRMllKQVBycGwzaExZaTFhLXRIUEZFYXlJSUVJcWp4bHBJNktGZHZFQkJnNFZ1YXhSV29uZVA5Ym5lOWNYRmRqRE5QdElzTkkxSGNn?oc=5",
-          "date": "2026-10-10 11:25 UTC"
-        },
-        {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by WoodTrust Financial Corp",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXM1Vzlnemp0R3VWUk5vQjhKSVhSLU16dzA3SFZHbmtFTS1JcDJaYTZIWDZMaWhJUHZORGk3S0hOaHBGMnZiQ2VMU2ZlUWdrSGhHTnNBVmpYOGJTaVJCd1A2TVlIMi05dEVSSkpLSTJ6b0xpQllzYTd0VkpMemJrZFk1M1J6TVhRMkFxb2xuTGtZdjd3WEtQQmQxMEJ5UkFHcDh4MUl4VkJNdTVWbFRCX25EbFpfQUs4T0FodFBYLTN6bWlMX0thS1Y0aU54SW8?oc=5",
-          "date": "2026-10-09 17:53 UTC"
-        },
-        {
-          "title": "AMD (AMD) Stock Looks Near Fair Value On Fresh AI Demand News",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU5CclNabzdjTjhIYldZRzFGYm5Va0dUSWE2emVVNUUyUlNNNEgzV0xzVnNyaTFLTHRzWWFZVlAyRFpVWTFXNzVJanl2SE1KOVVKcVRzVGV0WGF0QW80Z0F1RU1Ca2hGLWp6TTlzNXNPTVc4NmZoRkdFbXFWNzJsLTdOMjBtMXpjZmtTUTUzT1AxTWlVcTRFOXJyTk9RbnBEY3dkUEtzZzBfa2hCZTJEdnY0Ql9mSl9jYmdhaWZNU0pvTk5YRWstdDk5RHpwVGRlVEhuNHdCR3ZQRGk4bFHSAeMBQVVfeXFMUFhhanp3OF9wX1llUGcyR1c2OGtTRkNkdWZwVkt0YmFqSmR2Z3J5VHc1X1hoaWxtZ2VOSVZybnFPVExkazdqOFdCZ1QxUFVBUU1QVTc5TGp1OTFZMGtsYkhoTnpTMndack1iSjV3VjdoSVZjYS0xQVk2bk9QOUFWNGFwVWs5WUF5OHZBZjFyaWtTREYwcnIxR3hUdEV6amxoUGJqTDdJRFljSGgyQjllcWhmZmRUYlR6RHExMG5UcklhVlJfRVdCYWtONXlWdDJ0SV9uUDZqNnlKem5kQTRlR0dneHc?oc=5",
-          "date": "2026-10-10 21:31 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-03",
-      "days_to_earnings": 17,
-      "earnings_within_5d": false,
-      "stop": 574.8332,
-      "stop_pct": -0.0547,
-      "why_now": "Strong trend: 6-month +191%, 3-month vs QQQ +8%",
-      "fundamentals": {
-        "period_end": "2026-06-27",
-        "filed": "2026-08-05",
-        "rev_yoy": 0.5011,
-        "rev_ttm": 41305000000,
-        "rev_ttm_yoy": 0.3954,
-        "eps_yoy": 1.5556,
-        "eps_ttm": 3.89,
-        "gross_margin": 0.532,
-        "gross_margin_trend": "rising",
-        "op_margin": 0.1571,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.0,
-        "fcf_ttm": 8403000000,
-        "fcf_margin": 0.2034,
-        "pe": 156.3239,
-        "ps": 24.0336,
-        "stale": false,
-        "quality_score": 77.7,
-        "summary": "Revenue +50% y/y, margins rising, low debt, P/E 156"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "CRWD",
       "name": "CrowdStrike",
       "sector": "Information Technology",
       "price": 275.04,
-      "final_score": 84.6717,
+      "final_score": 84.8952,
       "price_score": 95.1079,
-      "news_score": 62.1326,
+      "news_score": 63.3042,
       "history_score": 46.9181,
       "insider_score": 50.0,
-      "quality_score": 60.3,
+      "quality_score": 60.7,
       "components": {
         "trend": 1.0,
         "momentum": 0.9786,
@@ -277,9 +175,9 @@
         "Volatility 72%/yr (unusually high/low)",
         "Trades $2,700M/day"
       ],
-      "headline_count_3d": 38,
-      "sentiment": 0.1189,
-      "attention_vs_normal": 2.7143,
+      "headline_count_3d": 37,
+      "sentiment": 0.1384,
+      "attention_vs_normal": 2.8462,
       "news_flags": [
         "beat"
       ],
@@ -291,16 +189,16 @@
           "date": "2026-10-09 05:48 UTC"
         },
         {
-          "title": "Dan Ives Thinks AI Buildout Still In Early Stages, With NVDA, MSFT, PLTR, AAPL And CRWD As Top AI Picks",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVkF5bk9JWmRJLWZ5R3l3azF3UWgwUjNKWWNHa01MZ0JoYWV1SzBHd3FhbHRIc01JRnJBNUZvQmROZS1MeFZQVFlxbHI0Q1NyNnMyRXBUS3dsVVVEVGRBMHBfZVRzeVZtSlpJcXdlNW14bDFTN2dNemhuRVB0bkl1blZHZjJnb3RkYmVUWXU1M0hMSDk3OWZadmxUbzJ6MmI2dVhBQWVfckU3UENTMldEWTlBWVE2aVdoZGYyRTZ4ZEJRb05md2dkWXM4THNqZHpZQ3FRU2Q5RDNNV2NfakVBc1VxOGQyOGNRQmlIMmNDOVpDdVZTS1E?oc=5",
-          "date": "2026-10-11 00:45 UTC"
+          "title": "Is CrowdStrike (CRWD) Still Worth the Premium After 140% Surge?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-still-worth-premium-183521016.html?.tsrc=rss",
+          "date": "2026-10-11 18:35 UTC"
         },
         {
-          "title": "S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook \u2014 NVDA, CRM, META, CRWD, OKTA In Focus",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnN4REtnVEZOWXQ5RFU2MEczMHp5bGREd0h5ckF0eHA0VDhwTk85T1locG95cjJWRVN5ZmR0U3RwQVFBYVBrclFjbE9KZGFoX0EzRzRrdURsS0JQWHlkcjktZ0NwTXI4S2FGRE1OTmU4VHNvdU5EU2R4ZnlYSVo5eDlJTmQ5QnhZTGVaczlVbmNxUk9aRnhjZ1BfSjk5UTlDRnpTbU55ZlNwUU1LOUNmcVRsaDNkSWpqaGFqbw?oc=5",
-          "date": "2026-10-10 23:32 UTC"
+          "title": "CrowdStrike Holdings (CRWD) Joins OpenAI Marketplace, Is The Stock Already Fully Valued?",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUG51bGV3YVFvWW1IdHJMTmpDdy1jd1pjRXcydXZEV0UycE56YkZKVEVQRTVscTlHVVpNWUtBLUJwSThoZFFhU2RwSVE4VFZ5c042MVRPS0YxanZPbW9CYmU2bTVfN2dha1JOQWIxeXFhdFVsa3pmb0dVT2I5ZXQ2eG1LTGpsOEwwb2xHNTBzdnhxLXNPQ0NOa0hvcXl0MFc2SXFNdlUyZm1aLTNGM01WZGx2eFpGeDV4XzdXTVI0dThLcjBsSzNwQXBvQURoYXVzeG5hZ2pfeUvSAd4BQVVfeXFMTm0yazJWLWVmZHpWTnJTbEJJS1NmRFJUWG5IVE4ydTJXdjE5eWNnNVBlY0tuR0tVRTAwb3JhT3BxcEUwejBKbUZ5UHdVWXE2cEpLZ0hfOVB2amtKRWw3YzRMNEpnSlIyOU1GTEJGRlY5SFFfQzJzTEhLb0J3ZUNtaEJBbDJ1UEo5TzJWNkJQQ2dhZGotSEQ2NjBOWEZxRlNpWHhJNHJBeVJkM3diZVZDUHVZOHhaM0J3SVpiQ21iV3c5ajQ4aHB2bjFZejdkRkwyOExhbnJzTnVOamt3M1RR?oc=5",
+          "date": "2026-10-11 18:04 UTC"
         }
       ],
       "filings_7d": [],
@@ -336,7 +234,7 @@
         "pe": 1250,
         "ps": 52.1897,
         "stale": false,
-        "quality_score": 60.3,
+        "quality_score": 60.7,
         "summary": "Revenue +26% y/y, margins rising, low debt, P/E 1250"
       },
       "insider_30d": [],
@@ -353,17 +251,17 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "ticker": "ANET",
       "name": "Arista Networks",
       "sector": "Information Technology",
       "price": 216.74,
-      "final_score": 84.4944,
+      "final_score": 84.269,
       "price_score": 92.0063,
-      "news_score": 67.7154,
+      "news_score": 66.3332,
       "history_score": 46.7174,
       "insider_score": 50.0,
-      "quality_score": 89.6,
+      "quality_score": 90.2,
       "components": {
         "trend": 1.0,
         "momentum": 0.9241,
@@ -378,9 +276,9 @@
         "Volatility 47%/yr (unusually high/low)",
         "Trades $1,024M/day"
       ],
-      "headline_count_3d": 47,
-      "sentiment": 0.2953,
-      "attention_vs_normal": 3.3571,
+      "headline_count_3d": 44,
+      "sentiment": 0.2722,
+      "attention_vs_normal": 3.3846,
       "news_flags": [
         "acquisition"
       ],
@@ -440,7 +338,7 @@
         "pe": 68.3722,
         "ps": 25.9333,
         "stale": false,
-        "quality_score": 89.6,
+        "quality_score": 90.2,
         "summary": "Revenue +38% y/y, margins falling, low debt, P/E 68"
       },
       "insider_30d": [],
@@ -465,17 +363,17 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "ticker": "MPC",
       "name": "Marathon Petroleum",
       "sector": "Energy",
       "price": 455.03,
-      "final_score": 84.3285,
+      "final_score": 84.194,
       "price_score": 95.3213,
-      "news_score": 61.4166,
+      "news_score": 58.6032,
       "history_score": 46.9181,
       "insider_score": 50.0,
-      "quality_score": 50.0,
+      "quality_score": 60.3,
       "components": {
         "trend": 1.0,
         "momentum": 0.9423,
@@ -490,9 +388,9 @@
         "Volatility 35%/yr (normal)",
         "Trades $1,240M/day"
       ],
-      "headline_count_3d": 20,
-      "sentiment": 0.1497,
-      "attention_vs_normal": 1.4286,
+      "headline_count_3d": 13,
+      "sentiment": 0.1201,
+      "attention_vs_normal": 1.0,
       "news_flags": [
         "acquisition",
         "upgrade"
@@ -506,8 +404,8 @@
         },
         {
           "title": "Mizuho raises target for Marathon Petroleum stock from USD 304.00 to USD 457.00",
-          "source": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTFBOEtPWXVIeDdfRGExQ2dzTU1hR0w0ZDFVUTNEbXB6RUtfemhXY2o0dFJqeUtyQnpGQS05WmFVZHdnZHlVRkJzcXVXel9VN3N1ZlBiUXpxdlFkT1h2RjdGTFNta1V2OW8yQmFPX3ZVcVExSmUxeHF4cUVqSWEtWFZGVmVaLW5kbkcwOVhDc0NxX2YzM2JGNTRXcURKaXpKajFFdTB4bm1lSmZwbkE2Y3QxRGRKV3QxMjRkYzVOQmJSb0JoRXRWc2JZTGVaeGJs?oc=5",
+          "source": "ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWJjbjJKM0FEWng1b0NvTFRGTThUYllTbXBqTHgtRF9TZEkwTGowenlJTkV6TFg5RlFGaXlRTW96NzZaT0xBc2xwUnp4a0ZLLUtsdDhRY1UtUTVJRGNoT01tZlFvWU1GQ25EYzZzTU5wYmZmTXJZcFZOMUJOYnBibVFWSTZIdVlfenRfMFBRSVAzX3FIbVFsLW9rQXBxSlI5NzUxTlVsMk9hS1VfZDgxTDNRMHlvOHZ1cXdZbWFaWC1wR2pDUkc3eFN1NGZ2SXFKUzBPVFpPTHpiQQ?oc=5",
           "date": "2026-10-09 14:46 UTC"
         },
         {
@@ -534,9 +432,127 @@
       "stop_pct": -0.0552,
       "why_now": "News: upgrade",
       "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
+        "period_end": "2026-06-30",
+        "filed": "2026-08-04",
+        "rev_yoy": 0.5383,
+        "rev_ttm": 153577000000,
+        "rev_ttm_yoy": 0.1499,
+        "eps_yoy": 3.4773,
+        "eps_ttm": 29.04,
+        "gross_margin": 0.125,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.092,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.1736,
+        "fcf_ttm": 12899000000,
+        "fcf_margin": 0.084,
+        "pe": 15.6691,
+        "ps": 0.832,
+        "stale": false,
+        "quality_score": 60.3,
+        "summary": "Revenue +54% y/y, margins rising, low debt, P/E 16"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Information Technology",
+      "price": 608.1,
+      "final_score": 84.1506,
+      "price_score": 93.1548,
+      "news_score": 63.5667,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "quality_score": 77.6,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9604,
+        "relative_strength": 0.858,
+        "volatility": 0.3696,
+        "liquidity": 0.9903
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +38.7%, 3m +14.8%, 6m +191.5% (beats 96% of stocks)",
+        "3-month return vs QQQ: +7.7%",
+        "Volatility 63%/yr (unusually high/low)",
+        "Trades $13,199M/day"
+      ],
+      "headline_count_3d": 15,
+      "sentiment": 0.3919,
+      "attention_vs_normal": 1.1538,
+      "news_flags": [
+        "acquisition"
+      ],
+      "top_headlines": [
+        {
+          "title": "1,532 Shares in Advanced Micro Devices, Inc. $AMD Acquired by Sacks & Associates LLC",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG95UmREYlN4M201NU1VVmtEcDRIY2w0ZmNOSTJNaWZvNDlDTzNPRVVfUkNRcGtCZG1vbzBFWHF3NmU5QmVHOFM0X2lHREh5T1BkWDFBa3F0aXJYTEl2aDI5YnIycVhFWnVEQVA5MFRxbjVWankzTEVHbGdua1NOYnNqd25KQ3B4S2dRMllKQVBycGwzaExZaTFhLXRIUEZFYXlJSUVJcWp4bHBJNktGZHZFQkJnNFZ1YXhSV29uZVA5Ym5lOWNYRmRqRE5QdElzTkkxSGNn?oc=5",
+          "date": "2026-10-10 11:25 UTC"
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. $AMD Stock Acquired by WoodTrust Financial Corp",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXM1Vzlnemp0R3VWUk5vQjhKSVhSLU16dzA3SFZHbmtFTS1JcDJaYTZIWDZMaWhJUHZORGk3S0hOaHBGMnZiQ2VMU2ZlUWdrSGhHTnNBVmpYOGJTaVJCd1A2TVlIMi05dEVSSkpLSTJ6b0xpQllzYTd0VkpMemJrZFk1M1J6TVhRMkFxb2xuTGtZdjd3WEtQQmQxMEJ5UkFHcDh4MUl4VkJNdTVWbFRCX25EbFpfQUs4T0FodFBYLTN6bWlMX0thS1Y0aU54SW8?oc=5",
+          "date": "2026-10-09 17:53 UTC"
+        },
+        {
+          "title": "AMD (AMD) Stock Looks Near Fair Value On Fresh AI Demand News",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU5CclNabzdjTjhIYldZRzFGYm5Va0dUSWE2emVVNUUyUlNNNEgzV0xzVnNyaTFLTHRzWWFZVlAyRFpVWTFXNzVJanl2SE1KOVVKcVRzVGV0WGF0QW80Z0F1RU1Ca2hGLWp6TTlzNXNPTVc4NmZoRkdFbXFWNzJsLTdOMjBtMXpjZmtTUTUzT1AxTWlVcTRFOXJyTk9RbnBEY3dkUEtzZzBfa2hCZTJEdnY0Ql9mSl9jYmdhaWZNU0pvTk5YRWstdDk5RHpwVGRlVEhuNHdCR3ZQRGk4bFHSAeMBQVVfeXFMUFhhanp3OF9wX1llUGcyR1c2OGtTRkNkdWZwVkt0YmFqSmR2Z3J5VHc1X1hoaWxtZ2VOSVZybnFPVExkazdqOFdCZ1QxUFVBUU1QVTc5TGp1OTFZMGtsYkhoTnpTMndack1iSjV3VjdoSVZjYS0xQVk2bk9QOUFWNGFwVWs5WUF5OHZBZjFyaWtTREYwcnIxR3hUdEV6amxoUGJqTDdJRFljSGgyQjllcWhmZmRUYlR6RHExMG5UcklhVlJfRVdCYWtONXlWdDJ0SV9uUDZqNnlKem5kQTRlR0dneHc?oc=5",
+          "date": "2026-10-10 21:31 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-03",
+      "days_to_earnings": 17,
+      "earnings_within_5d": false,
+      "stop": 574.8332,
+      "stop_pct": -0.0547,
+      "why_now": "Strong trend: 6-month +191%, 3-month vs QQQ +8%",
+      "fundamentals": {
+        "period_end": "2026-06-27",
+        "filed": "2026-08-05",
+        "rev_yoy": 0.5011,
+        "rev_ttm": 41305000000,
+        "rev_ttm_yoy": 0.3954,
+        "eps_yoy": 1.5556,
+        "eps_ttm": 3.89,
+        "gross_margin": 0.532,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.1571,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.0,
+        "fcf_ttm": 8403000000,
+        "fcf_margin": 0.2034,
+        "pe": 156.3239,
+        "ps": 24.0336,
+        "stale": false,
+        "quality_score": 77.6,
+        "summary": "Revenue +50% y/y, margins rising, low debt, P/E 156"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -557,9 +573,9 @@
       "name": "Valero Energy",
       "sector": "Energy",
       "price": 433.75,
-      "final_score": 84.0443,
+      "final_score": 83.7253,
       "price_score": 95.8275,
-      "news_score": 57.8004,
+      "news_score": 56.0141,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "quality_score": 50.0,
@@ -577,9 +593,9 @@
         "Volatility 34%/yr (normal)",
         "Trades $1,529M/day"
       ],
-      "headline_count_3d": 15,
-      "sentiment": 0.2427,
-      "attention_vs_normal": 1.0714,
+      "headline_count_3d": 12,
+      "sentiment": 0.2172,
+      "attention_vs_normal": 0.9231,
       "news_flags": [],
       "top_headlines": [
         {
@@ -637,16 +653,227 @@
     },
     {
       "rank": 6,
+      "ticker": "PLTR",
+      "name": "Palantir Technologies",
+      "sector": "Information Technology",
+      "price": 209.05,
+      "final_score": 83.6127,
+      "price_score": 92.709,
+      "news_score": 67.8873,
+      "history_score": 46.7174,
+      "insider_score": 50.0,
+      "quality_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.904,
+        "relative_strength": 0.9942,
+        "volatility": 0.2043,
+        "liquidity": 0.9689
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +11.4%, 3m +42.4%, 6m +27.1% (beats 90% of stocks)",
+        "3-month return vs QQQ: +52.1%",
+        "Volatility 75%/yr (unusually high/low)",
+        "Trades $4,508M/day"
+      ],
+      "headline_count_3d": 62,
+      "sentiment": 0.1315,
+      "attention_vs_normal": 4.7692,
+      "news_flags": [
+        "acquisition",
+        "beat",
+        "guidance cut",
+        "guidance raised",
+        "upgrade"
+      ],
+      "top_headlines": [
+        {
+          "title": "2 Palantir (PLTR) stock alternatives to buy now",
+          "source": "Finbold",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uN2k3YVB0S2pCX3FrMHk1OUk1cWlEWUp0a1hPZGtiV0ZNMERjVVZRZjV1Tk9PLVJiS1c0a2xEVUZ3bC1HeUYyeV85d0FEWGRmMWNZdXROS2VMNWxkclIzN1lQckJXUVlMMFVHNUZDTWxiT3NN?oc=5",
+          "date": "2026-10-11 15:17 UTC"
+        },
+        {
+          "title": "Palantir upgraded to buy as AI integration boos...",
+          "source": "Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQalBTUXp0dGU0UXh4c1Nid1dBZWFtUFQ3UTF2djNuamw3d3VqZ0c4ZVYzMm44RW0tT3g1MGdOVEtsdDNhWEszbGlmOWZ4VWFQOHlPMTZrVnVIY3Z5Z0pNWS03dUh4OUpLc1Fva1NUSl9XZWJnc0tXXy1oNjVvOXZPZzdheDZueTlBTHpkNVZn?oc=5",
+          "date": "2026-10-11 14:14 UTC"
+        },
+        {
+          "title": "Palantir: I Couldn't Have Been More Wrong, I See The Light Now - Buy (Rating Upgrade)",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdk5wSmpoZ3pDakpPS1E5Umt3NWRqbEV0cUVwdU9wYTU4eVZxVnVJdTlhdG1ZVDVCWlR0UGE1QnBibFprWC1nNE54SEFTOVVHWTEwZWZ1VW9NVjBudzR0Yk9FQ2JnVVJHZ1A3ZEx1cTV0RmJJbmFuZ1pSTlpkdXd4UkZyMmN1U0llaGVVVXNSWWhUNUxnVGpGVHROcjRXQ3FHUDBoWmN0aw?oc=5",
+          "date": "2026-10-11 14:00 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 1,
+        "planned_sells": 1,
+        "buy_value": 0,
+        "sell_value": 253963.15
+      },
+      "events": [
+        "new 52-week high"
+      ],
+      "earnings_date": "2026-11-02",
+      "days_to_earnings": 16,
+      "earnings_within_5d": false,
+      "stop": 199.8076,
+      "stop_pct": -0.0442,
+      "why_now": "New 52-week high; news: beat, guidance raised, upgrade",
+      "fundamentals": {
+        "stale": null,
+        "quality_score": 50.0,
+        "summary": "n/a"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "high_52w",
+          "name": "New 52-week high",
+          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
+          "n": 9560,
+          "beat": 0.4652,
+          "median": -0.0053
+        },
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "sector": "Information Technology",
+      "price": 1029.0,
+      "final_score": 83.3315,
+      "price_score": 89.5301,
+      "news_score": 69.5984,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "quality_score": 97.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9099,
+        "relative_strength": 0.7938,
+        "volatility": 0.214,
+        "liquidity": 1.0
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +12.4%, 3m +9.2%, 6m +193.5% (beats 91% of stocks)",
+        "3-month return vs QQQ: +3.9%",
+        "Volatility 75%/yr (unusually high/low)",
+        "Trades $26,805M/day"
+      ],
+      "headline_count_3d": 47,
+      "sentiment": 0.0766,
+      "attention_vs_normal": 3.6154,
+      "news_flags": [
+        "beat",
+        "buyback",
+        "upgrade"
+      ],
+      "top_headlines": [
+        {
+          "title": "Earnings Beat Could Be A Big Moment For Micron Stock (MU)",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1NPOUtCYllRVFRsQjAxYjNZX0pnLThsQjI5MnJxeGlNWVFSRlFISFF4dGoybmJQVjVGRC1xbXhqcHB2SUZBWGJVbWwzM0ZhQzkyd09EbHBQYllQRVFJMzdnaC1OSF80MzdoNXYzSkFnYXE4c3VhdDlWZVVuUi1fMGdDUnlrTnZPa20xbWdfTk1pOGduWS1zWG8xZEE3M1J2YlVFUFE4QWZ3WF9wUjM4UGJZYkgyTGN2cVNxR2VsX3Bqam12dGlHSEJVdmV1RXMw0gHWAUFVX3lxTFBWUUpkdFY5SURnT1NqZHhBTnQ0ZnR6TWlyNzNqWldxVUZ2d2EyeGNaQkd0aFBKOEphaXJabmh5eGhSVEFmblN2eWY5NENSMHVYVGRfZzc5bXBId3FIRWJPajlLR0hGWlJkd1AyWHdJTlhRRFpRN21FMTJyTnpiX0FpTW5QVXo4anRjeDVUOURDN1dzNFhkeWJOSElGZFQ0VGlxeFo0aWsyY2J6LWlWZUR1MUY4bjNzVFhVTU1WcFZiT3FhWm9Fd2JVUTltZEFzQTRCaGxjN0E?oc=5",
+          "date": "2026-10-11 16:53 UTC"
+        },
+        {
+          "title": "Micron Suffers Extreme AI Pessimism: Structural Demand Through 2031 (Rating Upgrade)",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3NRRDVTSnFNLXJ1NW90ckY5OUpmNW11eUxfekg4ZWJDcDlxcktGbDlfOVNZNUctQXRVdDNlemRGc24tNEVtZHVrbDRVSDBBSUZGc3JHRGxFempLS0dUZWN5bjdoRmxqVjVaamVvMzlsZVdidTZscWJDQ1FHWko4aDZOUlpIOTZaVjZRTXB0VVlHcmc2QzFuTTRXSDBzMXNBZUlZaU45NFNTd1U3UkVjWEpsa2xTSGdHOVpXM2JJYw?oc=5",
+          "date": "2026-10-10 14:00 UTC"
+        },
+        {
+          "title": "Micron: Winter Is Coming (Rating Upgrade) (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWZfS1hzWElXa0ZsbzViMTVkQTBaUWpXb1A0cmg3YWMzdTRmRUJRcU5kWkxqcDNEV2Nvb0dQVS1IRGJpWWl2VGIwbWx2REZaZUd4ZWZqRDJla0lJX1NxQ1EyREtCbEk2c01iVVpTSEd6aEFSSUdFNEltMUhFVjVJRlJHQU1vQQ?oc=5",
+          "date": "2026-10-10 11:24 UTC"
+        }
+      ],
+      "filings_7d": [
+        {
+          "form": "10-K",
+          "date": "2026-10-09",
+          "items": "",
+          "link": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/"
+        }
+      ],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-12-23",
+      "days_to_earnings": 53,
+      "earnings_within_5d": false,
+      "stop": 963.0418,
+      "stop_pct": -0.0641,
+      "why_now": "News: beat, buyback, upgrade",
+      "fundamentals": {
+        "period_end": "2026-09-03",
+        "filed": "2026-10-09",
+        "rev_yoy": 3.7927,
+        "rev_ttm": 133188000000,
+        "rev_ttm_yoy": 2.5633,
+        "eps_yoy": 10.5951,
+        "eps_ttm": 74.27,
+        "gross_margin": 0.8072,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.7459,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.0202,
+        "fcf_ttm": 58963000000,
+        "fcf_margin": 0.4427,
+        "pe": 13.8549,
+        "ps": 8.7413,
+        "stale": false,
+        "quality_score": 97.0,
+        "summary": "Revenue +379% y/y, margins rising, low debt, P/E 14"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise",
       "sector": "Information Technology",
       "price": 73.46,
-      "final_score": 83.2232,
+      "final_score": 83.2765,
       "price_score": 95.0361,
-      "news_score": 54.9181,
+      "news_score": 55.2964,
       "history_score": 46.7174,
       "insider_score": 50.0,
-      "quality_score": 57.4,
+      "quality_score": 57.0,
       "components": {
         "trend": 1.0,
         "momentum": 0.9942,
@@ -661,9 +888,9 @@
         "Volatility 63%/yr (unusually high/low)",
         "Trades $1,313M/day"
       ],
-      "headline_count_3d": 10,
-      "sentiment": 0.2295,
-      "attention_vs_normal": 0.7143,
+      "headline_count_3d": 9,
+      "sentiment": 0.255,
+      "attention_vs_normal": 0.6923,
       "news_flags": [],
       "top_headlines": [
         {
@@ -720,7 +947,7 @@
         "pe": 38.0622,
         "ps": 2.329,
         "stale": false,
-        "quality_score": 57.4,
+        "quality_score": 57.0,
         "summary": "Revenue +34% y/y, margins rising, moderate debt, P/E 38"
       },
       "insider_30d": [],
@@ -745,17 +972,17 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "ticker": "DELL",
       "name": "Dell Technologies",
       "sector": "Information Technology",
       "price": 586.06,
-      "final_score": 82.7182,
+      "final_score": 82.9698,
       "price_score": 94.0066,
-      "news_score": 56.2974,
+      "news_score": 57.6865,
       "history_score": 46.9181,
       "insider_score": 50.0,
-      "quality_score": 56.8,
+      "quality_score": 56.9,
       "components": {
         "trend": 1.0,
         "momentum": 0.9617,
@@ -770,8 +997,8 @@
         "Volatility 79%/yr (unusually high/low)",
         "Trades $4,172M/day"
       ],
-      "headline_count_3d": 56,
-      "sentiment": 0.1466,
+      "headline_count_3d": 52,
+      "sentiment": 0.1698,
       "attention_vs_normal": 4.0,
       "news_flags": [
         "acquisition"
@@ -828,7 +1055,7 @@
         "fcf_margin": 0.0566,
         "pe": 34.0733,
         "stale": false,
-        "quality_score": 56.8,
+        "quality_score": 56.9,
         "summary": "Revenue +58% y/y, margins rising, high debt, P/E 34"
       },
       "insider_30d": [],
@@ -845,17 +1072,110 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
+      "ticker": "SMCI",
+      "name": "Supermicro",
+      "sector": "Information Technology",
+      "price": 41.86,
+      "final_score": 82.3307,
+      "price_score": 93.049,
+      "news_score": 59.3183,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "quality_score": 50.0,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9656,
+        "relative_strength": 0.9864,
+        "volatility": 0.0875,
+        "liquidity": 0.8735
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +18.1%, 3m +60.7%, 6m +88.2% (beats 97% of stocks)",
+        "3-month return vs QQQ: +43.2%",
+        "Volatility 87%/yr (unusually high/low)",
+        "Trades $1,496M/day"
+      ],
+      "headline_count_3d": 26,
+      "sentiment": 0.2386,
+      "attention_vs_normal": 2.0,
+      "news_flags": [
+        "lawsuit"
+      ],
+      "top_headlines": [
+        {
+          "title": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJWeFAtUWdBODZlWllUR211bEdlRmd3VVFhMXVVeHRndXhrOE02WHQ3YmFGUDN0bFhkdWZBMl83VDJTc0NqUDFWck5rZmRGZ0d6Vzk0NTJSMkxINjVsZnVXVVA1VnkwV0pKRkN4QmU1YTBWVktWTml0MVBmekVsN2lYaGt1SVFybERZUWdSNllPVjByaFk1WE9Nc0R2NTEzQlBuUUloejJrMXE1SEtaMkZwcjQxTjlwN2RBVDNnRlRUV0tfMC0wSFllR0VjczVqVlE?oc=5",
+          "date": "2026-10-10 14:31 UTC"
+        },
+        {
+          "title": "SMCI Stock Slides 7% \u2014 Taiwan Authorities Raid Super Micro Offices In AI Chip Export Probe, Says Report",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGdPZ2dLMEExRjJDNFdFVlhndm5BQXRsSld3bHV5OVdwN1k1NVJDTEJQZG1RYWYwelkzY2NpMWwyaV9FYkFzYVVORi1QcmUzallDS3F0Vy1BcmVvVVJncEdURjRMUmdIUDRGdHhkb3UzbDdWWU1nUnE4aXRpODhLeVZrVnhDWEhIVXR2UGdZNmEtQzIwVHZyWVZUd1M5dXlYSjR0RUhxV2Y5QWtsSmt1LVlEN1I0akVPdEZ3TDd3V3J0QVY0bjk0?oc=5",
+          "date": "2026-10-09 21:29 UTC"
+        },
+        {
+          "title": "SMCI Stock Rises Premarket: Four Taiwan Staff Detained In Illegal Nvidia Chip Export Case",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd1dPSWtNbXgxUFZ2alhITk5ITHRWU2pNN1dzODRWV2xhWDQ1TWFBWmVNaGVuOUhGRkZTM2h1cEpZd1FqaEpfNU5hWmtsN2NJV2YyZVpGV3gyTUVIOGtyOEZ0TjlSaDBOOEMtN1FUTFVoR0dYVTJaTTBOSGNNclRCcUZTcVJsSG9wUlRoY3ItVTRpRWhvTGdLYklNY2w4UmROcGplZVQ2M2d4TUVyV3dqYjhBSV9jdFRUM3hVeG9JeGF5aGdHZURrOXk0eWllU3otdElLQ21xcXp2T1BXQkZJUi1WVHR0NkE?oc=5",
+          "date": "2026-10-11 10:03 UTC"
+        }
+      ],
+      "filings_7d": [
+        {
+          "form": "8-K",
+          "date": "2026-10-08",
+          "items": "5.02,9.01",
+          "link": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000023/"
+        }
+      ],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 2,
+        "planned_sells": 2,
+        "buy_value": 0,
+        "sell_value": 9004000.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-03",
+      "days_to_earnings": 17,
+      "earnings_within_5d": false,
+      "stop": 38.5439,
+      "stop_pct": -0.0792,
+      "why_now": "Strong trend: 6-month +88%, 3-month vs QQQ +43%",
+      "fundamentals": {
+        "stale": null,
+        "quality_score": 50.0,
+        "summary": "n/a"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 11,
       "ticker": "LITE",
       "name": "Lumentum",
       "sector": "Information Technology",
       "price": 1103.355,
-      "final_score": 82.56,
+      "final_score": 82.2556,
       "price_score": 92.8752,
-      "news_score": 61.2791,
+      "news_score": 60.2144,
       "history_score": 47.0397,
       "insider_score": 50.0,
-      "quality_score": 50.0,
+      "quality_score": 46.8,
       "components": {
         "trend": 1.0,
         "momentum": 0.9339,
@@ -870,15 +1190,21 @@
         "Volatility 94%/yr (unusually high/low)",
         "Trades $4,693M/day"
       ],
-      "headline_count_3d": 50,
-      "sentiment": 0.1047,
-      "attention_vs_normal": 3.5714,
+      "headline_count_3d": 48,
+      "sentiment": 0.0869,
+      "attention_vs_normal": 3.6923,
       "news_flags": [
         "beat",
         "guidance cut",
         "guidance raised"
       ],
       "top_headlines": [
+        {
+          "title": "LITE Stock Gains Then Fades After-Hours As $7.2B Loss Overshadows Beat",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWkZzY1ZFYVloaDJtanA5UGstTVNKNFpVQ296UlBZSnF6cnlwMFZTXzI0UW1DMzdkcENON0RicXRjRkxJVkdlNV9ZM1NxQjNzUjZOcENzVEtGU1J3REZoNnEtNENUamV3WXdqdnFFVG5EVWxPa3VVeUxlR1Nsb29LSlVWWHZXUHZYSnBTWFVsbzluMmthOXo3ZXROTGdZOFdHd0Y2bzZmSjlPaUdvRXVlNGtfcHJadTlsYk4tMXAyWmgwbVVuMk5Da0U2X05xWlE?oc=5",
+          "date": "2026-10-11 07:45 UTC"
+        },
         {
           "title": "Lumentum's strong demand and sold-out capacity boost outlook despite recent stock pullback.",
           "source": "Pluang",
@@ -890,12 +1216,6 @@
           "source": "Pluang",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3RoaFg0Mmc0OWMxRThxaWZpdzRwV1FDUFZyTjhtY0YzM3o2UHM5Q2VZQ3NBOXFldUNlZmM0b0RmZ3V3dmVLRVN1QkRBYVdlNWxIbTNoUjhvNjkzRm9HMDM2cmt1eVIya0NPd3F6VF9pX2xYT1RWWnk3U1E4ZjR6azlJTUo5OVhYYmU2Z3A1YVpYZ2xDOVkxcFdkUE9XNE1jTm9HbFluTjZLUTd1TDlV?oc=5",
           "date": "2026-10-09 15:15 UTC"
-        },
-        {
-          "title": "Lumentum, Coherent Stocks Jump After CEO Warns AI Components Sold Out Through 2029",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSkdFX2xiSkxJbDN3NXIwSFo0aUFJbWlQclBsenhSM0Q5MG52ZzJyT2k3RnlnOVE2bFAxajRZRnhvbGRucnl6cXpzdzl0QjZmNURrSFNtdl9RLWg5UWRRQV9ieWNsdklvUlhrVHdETC1PSndhaTZzY0Fkdm1NR0xqX2tNZkFuMGNTdXVIdjRwaW14VUlJRkhrckJFQldGVnRyRkVFQmdVQUhMQmpNRXhTdkVkVzRES2gyd2JJRFVHTEU0QTFadWNpU3RoRHlEY1oxTXdTaDY4ejc?oc=5",
-          "date": "2026-10-09 13:34 UTC"
         }
       ],
       "filings_7d": [],
@@ -917,9 +1237,24 @@
       "stop_pct": -0.0887,
       "why_now": "Gapped up +6.3%; news: beat, guidance raised",
       "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
+        "period_end": "2026-06-27",
+        "filed": "2026-08-17",
+        "rev_yoy": 1.0934,
+        "rev_ttm": 3014000000,
+        "rev_ttm_yoy": 0.8322,
+        "eps_yoy": -31.9223,
+        "eps_ttm": -93.11,
+        "gross_margin": 0.4167,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.1741,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.5179,
+        "fcf_ttm": 300100000,
+        "fcf_margin": 0.0996,
+        "ps": 32.8371,
+        "stale": false,
+        "quality_score": 46.8,
+        "summary": "Revenue +109% y/y, margins rising, moderate debt, P/E nan"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -943,144 +1278,58 @@
       ]
     },
     {
-      "rank": 9,
-      "ticker": "PANW",
-      "name": "Palo Alto Networks",
+      "rank": 12,
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
       "sector": "Information Technology",
-      "price": 418.78,
-      "final_score": 82.4678,
-      "price_score": 93.3361,
-      "news_score": 58.9378,
+      "price": 275.28,
+      "final_score": 82.2225,
+      "price_score": 92.454,
+      "news_score": 57.4524,
       "history_score": 46.9181,
       "insider_score": 50.0,
-      "quality_score": 50.0,
+      "quality_score": 68.2,
       "components": {
         "trend": 1.0,
-        "momentum": 0.939,
-        "relative_strength": 0.9397,
-        "volatility": 0.4572,
-        "liquidity": 0.9261
+        "momentum": 0.93,
+        "relative_strength": 0.9358,
+        "volatility": 0.1556,
+        "liquidity": 0.9747
       },
       "price_reasons": [
         "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +22.8%, 3m +12.8%, 6m +147.1% (beats 94% of stocks)",
-        "3-month return vs QQQ: +20.0%",
-        "Volatility 59%/yr (unusually high/low)",
-        "Trades $2,352M/day"
+        "Momentum (to last week): 1m +31.9%, 3m +9.3%, 6m +154.4% (beats 93% of stocks)",
+        "3-month return vs QQQ: +19.8%",
+        "Volatility 77%/yr (unusually high/low)",
+        "Trades $5,092M/day"
       ],
-      "headline_count_3d": 31,
-      "sentiment": 0.1073,
-      "attention_vs_normal": 2.2143,
-      "news_flags": [
-        "beat"
-      ],
-      "top_headlines": [
-        {
-          "title": "PANW Stock Gains After Revenue Forecast Beat As AI Usage Drives Cybersecurity Demand",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSDlScVdhZHBhdWhaS1BUbkNwWVBqQjZCdWJTMnJOUjNMVkdIeVh2ZXhQZnpqbmNRQWlKMWdMSUl4bkQyZGVrNUZnSkM3bUZ3Y0tWVUx4RVBOOHlvVVk5ZmJ2T3Z4MUY5VElKT2FtYnc4eGNad0FaY1YtUnV2MG9waTQ3SkduSFlweXlvR1pFdDQ1QWh2RGU5MnR5ak42Sk91M3FQWmZSeVJWT0dPLU1LSlcxQW05MnJ2bjhTRU9SNDJ2dnlaMTZla1hUTVRLTVVoWEhMeFpn?oc=5",
-          "date": "2026-10-10 21:17 UTC"
-        },
-        {
-          "title": "Dan Ives Sees Palo Alto Networks Well Positioned As AI Drives Cyber Spending",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa2NPTVlPcEZtWjVyLTJueTc3TldrMXl5eG11WGcwcUd0TDhrWWk5WDB0Nmc1QmRBOTJacnVRcW5RYUtpSE9OaWdqdy1TSzhsLTQ4MVNyVTI0X0JlVEduRnhORnpaa1hGaldRU0hScV9aTGV0dGZmSFlGYVFpbU9WQVhnZnBad3ZBR0JlMXFBY1U4YjdORkJqa2duMlZhSlMxRmNyLUxGbHdDVG9XTnRWQjlOMHo2cHY5aVo4MnlabEZacnE0VWgwWVhUR1Y3a2hxS2g0SG5Zdw?oc=5",
-          "date": "2026-10-11 01:07 UTC"
-        },
-        {
-          "title": "PANW Stock Rises Overnight On Anthropic Integration, New AI Gateway Buy \u2014 But Retail Is Still Not Sold",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTWxPdDFPQ3ZycVZuamhDZGxZaE5sWHZaNjRlbFhVNVNzOHF6WTh6UXh6d3BUZnVDdkVjQS1lWkRnQUVUc1dUWjFSUzNCZWU5VEN3WXp3QURRRFhHbW5wSUhFckpvVWprcDBUTW9QNm5EVm92WWNqT201MldVVW1kc09BcXpTUEluM19VTlpqM3c2WS03bFlqeklEQnh2emhMY09yaGFYU0hXWGhCeHdaekw5NGVfTnQyWXAzNUV5VlFIaEx6Z1MzOGRFN2NoRmY0eG1SMTBmenZJQkZFaDk1aHdCWU4xNmxSdmtGb25kTG9Ua2NaeXc?oc=5",
-          "date": "2026-10-11 00:02 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 3,
-        "planned_sells": 1,
-        "buy_value": 0,
-        "sell_value": 261350.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-19",
-      "days_to_earnings": 29,
-      "earnings_within_5d": false,
-      "stop": 394.3943,
-      "stop_pct": -0.0582,
-      "why_now": "News: beat",
-      "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "PLTR",
-      "name": "Palantir Technologies",
-      "sector": "Information Technology",
-      "price": 209.05,
-      "final_score": 82.4043,
-      "price_score": 92.709,
-      "news_score": 61.1202,
-      "history_score": 46.7174,
-      "insider_score": 50.0,
-      "quality_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.904,
-        "relative_strength": 0.9942,
-        "volatility": 0.2043,
-        "liquidity": 0.9689
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +11.4%, 3m +42.4%, 6m +27.1% (beats 90% of stocks)",
-        "3-month return vs QQQ: +52.1%",
-        "Volatility 75%/yr (unusually high/low)",
-        "Trades $4,508M/day"
-      ],
-      "headline_count_3d": 67,
-      "sentiment": 0.102,
-      "attention_vs_normal": 4.7857,
+      "headline_count_3d": 33,
+      "sentiment": 0.0825,
+      "attention_vs_normal": 2.5385,
       "news_flags": [
         "acquisition",
         "beat",
-        "guidance cut",
+        "miss",
         "upgrade"
       ],
       "top_headlines": [
         {
-          "title": "Palantir: I Couldn't Have Been More Wrong, I See The Light Now - Buy (Rating Upgrade)",
+          "title": "Marvell's Outlook Says Revenue and Earnings Could 10x in 5 Years. Here's Why the Stock's a Bargain Even If It Falls Short.",
+          "source": "Yahoo Finance",
+          "link": "https://www.fool.com/investing/2026/10/11/marvell-revenue-earnings-10x-stock-bargain/?.tsrc=rss",
+          "date": "2026-10-11 11:05 UTC"
+        },
+        {
+          "title": "Marvell Technology (MRVL) Receives Bullish Upgrade from Bank of America",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXgxb2cxRHdUa1hGSE9fUE1LZURzRG9KS19FQ0FUWkllUGdMSDBDY2xwSjVoSUJteUNIVllvNjN0UHEwbW9WWWRVb0diQWI3S3ZHUUdXMlQ5VDVxeWYtUXRQNkRFc01UZ1JpZVh3VkRwQUw5QVBtc1pVZTJvZFBsMHhERTB4VzV2aGNwMXVyaVdpa3R4MVhrR0I4QlhfQldKQ2xNYkIzdFppYU5Z?oc=5",
+          "date": "2026-10-10 13:37 UTC"
+        },
+        {
+          "title": "Marvell: Why I\u2019m Finally Upgrading To Buy (Rating Upgrade) (NASDAQ:MRVL)",
           "source": "Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdk5wSmpoZ3pDakpPS1E5Umt3NWRqbEV0cUVwdU9wYTU4eVZxVnVJdTlhdG1ZVDVCWlR0UGE1QnBibFprWC1nNE54SEFTOVVHWTEwZWZ1VW9NVjBudzR0Yk9FQ2JnVVJHZ1A3ZEx1cTV0RmJJbmFuZ1pSTlpkdXd4UkZyMmN1U0llaGVVVXNSWWhUNUxnVGpGVHROcjRXQ3FHUDBoWmN0aw?oc=5",
-          "date": "2026-10-11 14:00 UTC"
-        },
-        {
-          "title": "Palantir's Earnings Beat Has One Analyst 'Running Out Of Superlatives' \u2014 CEO Uses Moment To Step Up Attack On Anthropic, OpenAI",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVHhwTnZSN3A1bE5CRlI1dkdEeUlvWG5hRFgtMjdxaWxsU0ZwR1ZkMElGSEpvdDlkOUduRWtwYThIMUtYY1VabExPTF8yZFdKc1VWeTNDTXJ4ZHZPUkZuM2RiWGhXRTlDZzQ5enJqQXMzNFF0VTAyb2c3aUZCc2xDYVE2eTFlcDdHb1B0MVlJdFFocDg2QWJNS2sxb1g5TEsyU0RIX1d1bVlNUko4Wjk0TGdoYjF6TzlkejZCQ2lTakNlMW5oWU1VUE56R08wbHo2NlFWcXc3cklKTFBPdmtTeElkZFc0U2lRamZpcU1MRXEtXzRWTlNsQm9tUzVBd3VtRFJIRmpnX2ZzQjhzVXlubTNUTmxTdw?oc=5",
-          "date": "2026-10-11 02:55 UTC"
-        },
-        {
-          "title": "Is It Too Late to Buy Palantir Stock?",
-          "source": "The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaTRXemhtZzFoQnB1czZOei00VUk1UDNYMjhDZTBULXp1cG5Ic3RnZnNIOV9kMVBPUHBzeWJUYmhiWFNYa0RBTVhIMF9ad3hPcVA3blpiR0JlZnN4RkJLNVZlNnRETWdhLU5QZmRqal96d2p3MEpjT1Baalp2cTB0eVBCWUFYQQ?oc=5",
-          "date": "2026-10-10 19:30 UTC"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajVOWldodWlua2xiS29xckF5X2Z6T05lSUlaeUpZSzVaV3dHSVhqeUh3bWRnYzB5cjhaN1AxLWNqWV9WOE1lcC1mQWJ0TFlQRDRGOEpCYXJ5NDltZU96U2NhTHpfS0Qza0NhcGdraU9feXEwNHpRUnlZamxncW81V05WeFBjQUNlb1RIX2FiXzdSUmdZem5Eb0k4UQ?oc=5",
+          "date": "2026-10-10 09:51 UTC"
         }
       ],
       "filings_7d": [],
@@ -1088,35 +1337,41 @@
       "insider_7d": {
         "buys": 0,
         "sells": 1,
-        "planned_sells": 1,
+        "planned_sells": 0,
         "buy_value": 0,
-        "sell_value": 253963.15
+        "sell_value": 300949.0
       },
-      "events": [
-        "new 52-week high"
-      ],
-      "earnings_date": "2026-11-02",
-      "days_to_earnings": 16,
+      "events": [],
+      "earnings_date": "2026-12-01",
+      "days_to_earnings": 37,
       "earnings_within_5d": false,
-      "stop": 199.8076,
-      "stop_pct": -0.0442,
-      "why_now": "New 52-week high; news: beat, upgrade",
+      "stop": 254.7664,
+      "stop_pct": -0.0745,
+      "why_now": "News: beat, upgrade",
       "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
+        "period_end": "2026-08-01",
+        "filed": "2026-08-28",
+        "rev_yoy": 0.3655,
+        "rev_ttm": 9450300000,
+        "rev_ttm_yoy": 0.3062,
+        "eps_yoy": 0.5,
+        "eps_ttm": 3.03,
+        "gross_margin": 0.5221,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.1652,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.2678,
+        "fcf_ttm": 1730100000,
+        "fcf_margin": 0.1831,
+        "pe": 90.8515,
+        "ps": 25.5434,
+        "stale": false,
+        "quality_score": 68.2,
+        "summary": "Revenue +37% y/y, margins rising, low debt, P/E 91"
       },
       "insider_30d": [],
       "insider_badges": "",
       "history_events": [
-        {
-          "event": "high_52w",
-          "name": "New 52-week high",
-          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
-          "n": 9560,
-          "beat": 0.4652,
-          "median": -0.0053
-        },
         {
           "event": "momentum_top10",
           "name": "Momentum in the top 10%",
@@ -1128,56 +1383,56 @@
       ]
     },
     {
-      "rank": 11,
-      "ticker": "MRNA",
-      "name": "Moderna",
-      "sector": "Health Care",
-      "price": 225.0,
-      "final_score": 82.0405,
-      "price_score": 95.1211,
-      "news_score": 49.4347,
-      "history_score": 46.7174,
+      "rank": 13,
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "sector": "Information Technology",
+      "price": 535.07,
+      "final_score": 82.0983,
+      "price_score": 94.7584,
+      "news_score": 45.2369,
+      "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 50.0,
+      "quality_score": 77.4,
       "components": {
         "trend": 1.0,
-        "momentum": 0.9909,
-        "relative_strength": 1.0,
-        "volatility": 0.0,
-        "liquidity": 0.9553
+        "momentum": 0.8865,
+        "relative_strength": 0.963,
+        "volatility": 1.0,
+        "liquidity": 0.9844
       },
       "price_reasons": [
         "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +26.0%, 3m +132.3%, 6m +286.2% (beats 99% of stocks)",
-        "3-month return vs QQQ: +217.8%",
-        "Volatility 365%/yr (unusually high/low)",
-        "Trades $3,294M/day"
+        "Momentum (to last week): 1m +4.2%, 3m +34.1%, 6m +39.1% (beats 89% of stocks)",
+        "3-month return vs QQQ: +29.8%",
+        "Volatility 40%/yr (normal)",
+        "Trades $11,417M/day"
       ],
-      "headline_count_3d": 43,
-      "sentiment": -0.0094,
-      "attention_vs_normal": 3.0714,
+      "headline_count_3d": 49,
+      "sentiment": 0.0873,
+      "attention_vs_normal": 3.7692,
       "news_flags": [
-        "FDA",
-        "acquisition"
+        "guidance cut",
+        "lawsuit"
       ],
       "top_headlines": [
         {
-          "title": "FDA Showdown Week: CAPR, NRXP, REPL And MRNA Face Make-Or-Break Regulatory Decisions",
+          "title": "ADBE, CRM, NOW, MSFT: Software Stocks Fall After IBM Warns Clients Shifting Spending To Servers, Cybersecurity",
           "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbnV6ZmFFNjk3bnRaU3J2dHRPTHRhbE1VNjBhOE1KeXhJRG9CTVZwLU5fejNVR0dPbkpodFRhNEdmWW1qLVBRcWFUYVl3Mk5aclEzNTgzU0hvSHpKblpISGx5WUdrXzFzMjdwOUlmbXNLX3ljcUw4YjU2NW5paGtvcUVNTWZDVk9TbEdjNm92ZjhmV09XeTRqZmZVWFNnMG4wcDFYU0hUZXFVcGF5d0drekRfZ01yRGxvRFdXT3JDRnYwRmFVSFdfeWg1Z2xLNWF1MDdxUlgyVmRRSzVVMWc?oc=5",
-          "date": "2026-10-11 04:33 UTC"
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTnA0NXRVeFlFT0U3TGJUbGdLa3R4RHVxUWFkTjFiVGxMNFpKUzRfNEpWQzhCWTl1SlpQaHFRMEFMeWJwMXk1SC1BQ3pjMmZCLWlfQ18tNFJIc1h1ZzdET0laQjR1ZzhlaXhnbFhZVG5CZWJnOHVrbExCeGFoVnlFSmNvS3gzNndNNi1wWWNnSVVZUXlUZGgzZTY5cFNTQ3BnYVNzdjNnc1Z1UzRBTTlZdUx0Yy0xOFhBZjRyRlpWZFd6dE9aaU5YZzRtekNIcDdNdFY3WU0yczh0aldORFdLVy1XWUd2REpTUFhTOWoxbzN6SjRoY0FpaW9ncl9mdw?oc=5",
+          "date": "2026-10-11 07:47 UTC"
         },
         {
-          "title": "11,652 Shares of Moderna, Inc. $MRNA Acquired by Gallagher Capital Advisors LLC",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdEhnMVlOdWNlVkR4aVVjWGF1LUdWcDZVR29OSnRMZEVHcU1XLWc4Z3BPTS14UEZxOGx4UkQ4U0lSUVFYWm5tWGltREpUbkJwQ1BWUTNxRDFBZVF5eEEyc1BOa2Y0dzU3WFh5MEpabUU1bGM1SDJ3LXV2SGZySkxMMVZGcGZmUUU2ODViRXpDaThuRVd3WGlGZm40QTQ0X3g2cG84bGdZSHN5dkd2M09IVndFUWgyeTdNUFRMWE9mZFJzQ2Zjdllvc1d0X1lOMEZ3X2c?oc=5",
-          "date": "2026-10-10 08:34 UTC"
+          "title": "MSFT Stock Rises Despite Shareholder Lawsuit Over AI Spending, Cloud Slowdown",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1V5UTN1SWNoSVY0RllVNWpfeWFFdW9mVXh6cHQ4VWtxVlNZQmE3U3ZjOGx3M0QtSTVjR0dPdjg3RVFreDUyall3TTAxREJqUlZVLVJXOFhteU1ZVG5FMGJNdkdoX3MwUF9Zc1pGZEI0WktMRTJTZVV2S0tOUUlWNmhvM2p6LS1NMG1xQ1NWVzRXaHVEUUh1bEJKcjVadEJSMDRDa192eEsxRjNP?oc=5",
+          "date": "2026-10-11 05:52 UTC"
         },
         {
-          "title": "MRNA, LNTH, BMY, CAPR, RARE Stocks In Focus \u2014 These FDA Decisions Could Shape August Trading",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcENPalFzUF9XZWpRX3p6U3NzRGhGaFFibm1abExONTRHeXV4UFFGZzlxRmpPdVFhVTNzRHNiR2JkbVdMRHBLVnViVFZYYkducXNHZVNFQk9NQWx1THhXQkQyOXpwZnVqYlJwTXJNTjVFMkZlaGMzYlZRWTV0ZHVlQVZfU2dQYjVXMVhGOTJmaEwwVHFpb0U2UnRZMllqRTdnaHR3Vjd3NThmalpNeHp4SE9OeTd2RTl4Q1JFdlNJS0VPYWRsTFljYWEzbHY2dTBhUW5DQUM4YlhhM0xaSXphMXB3ank?oc=5",
-          "date": "2026-10-09 16:49 UTC"
+          "title": "What Could Microsoft (MSFT) Green Card Suspension Mean For Hiring And Compliance?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/articles/could-microsoft-msft-green-card-160836706.html?.tsrc=rss",
+          "date": "2026-10-11 16:08 UTC"
         }
       ],
       "filings_7d": [],
@@ -1189,53 +1444,50 @@
         "buy_value": 0,
         "sell_value": 0.0
       },
-      "events": [
-        "new 52-week high"
-      ],
-      "earnings_date": "2026-11-05",
-      "days_to_earnings": 19,
+      "events": [],
+      "earnings_date": "2026-10-28",
+      "days_to_earnings": 13,
       "earnings_within_5d": false,
-      "stop": 200.8739,
-      "stop_pct": -0.1072,
-      "why_now": "New 52-week high",
+      "stop": 515.9911,
+      "stop_pct": -0.0357,
+      "why_now": "Strong trend: 6-month +39%, 3-month vs QQQ +30%",
       "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
+        "period_end": "2026-06-30",
+        "filed": "2026-07-29",
+        "rev_yoy": 0.1775,
+        "rev_ttm": 331839000000,
+        "rev_ttm_yoy": 0.1779,
+        "eps_yoy": 0.3178,
+        "eps_ttm": 17.96,
+        "gross_margin": 0.6794,
+        "gross_margin_trend": "falling",
+        "op_margin": 0.4678,
+        "op_margin_trend": "flat",
+        "debt_to_equity": 0.0911,
+        "fcf_ttm": 66987000000,
+        "fcf_margin": 0.2019,
+        "pe": 29.7923,
+        "ps": 11.9732,
+        "stale": false,
+        "quality_score": 77.4,
+        "summary": "Revenue +18% y/y, margins falling, low debt, P/E 30"
       },
       "insider_30d": [],
       "insider_badges": "",
-      "history_events": [
-        {
-          "event": "high_52w",
-          "name": "New 52-week high",
-          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
-          "n": 9560,
-          "beat": 0.4652,
-          "median": -0.0053
-        },
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
+      "history_events": []
     },
     {
-      "rank": 12,
+      "rank": 14,
       "ticker": "FTNT",
       "name": "Fortinet",
       "sector": "Information Technology",
       "price": 194.75,
-      "final_score": 82.0249,
+      "final_score": 82.0939,
       "price_score": 91.4189,
-      "news_score": 59.2364,
+      "news_score": 59.5623,
       "history_score": 46.7174,
       "insider_score": 50.0,
-      "quality_score": 74.6,
+      "quality_score": 74.9,
       "components": {
         "trend": 1.0,
         "momentum": 0.9183,
@@ -1250,9 +1502,9 @@
         "Volatility 43%/yr (normal)",
         "Trades $726M/day"
       ],
-      "headline_count_3d": 20,
-      "sentiment": 0.0989,
-      "attention_vs_normal": 1.4286,
+      "headline_count_3d": 19,
+      "sentiment": 0.1041,
+      "attention_vs_normal": 1.4615,
       "news_flags": [
         "acquisition",
         "upgrade"
@@ -1313,7 +1565,7 @@
         "pe": 68.8163,
         "ps": 18.9827,
         "stale": false,
-        "quality_score": 74.6,
+        "quality_score": 74.9,
         "summary": "Revenue +26% y/y, margins rising, moderate debt, P/E 69"
       },
       "insider_30d": [],
@@ -1338,273 +1590,93 @@
       ]
     },
     {
-      "rank": 13,
-      "ticker": "SMCI",
-      "name": "Supermicro",
-      "sector": "Information Technology",
-      "price": 41.86,
-      "final_score": 82.0233,
-      "price_score": 93.049,
-      "news_score": 57.5966,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "quality_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9656,
-        "relative_strength": 0.9864,
-        "volatility": 0.0875,
-        "liquidity": 0.8735
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +18.1%, 3m +60.7%, 6m +88.2% (beats 97% of stocks)",
-        "3-month return vs QQQ: +43.2%",
-        "Volatility 87%/yr (unusually high/low)",
-        "Trades $1,496M/day"
-      ],
-      "headline_count_3d": 25,
-      "sentiment": 0.2351,
-      "attention_vs_normal": 1.7857,
-      "news_flags": [
-        "lawsuit"
-      ],
-      "top_headlines": [
-        {
-          "title": "SMCI Stock Slides 7% \u2014 Taiwan Authorities Raid Super Micro Offices In AI Chip Export Probe, Says Report",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGdPZ2dLMEExRjJDNFdFVlhndm5BQXRsSld3bHV5OVdwN1k1NVJDTEJQZG1RYWYwelkzY2NpMWwyaV9FYkFzYVVORi1QcmUzallDS3F0Vy1BcmVvVVJncEdURjRMUmdIUDRGdHhkb3UzbDdWWU1nUnE4aXRpODhLeVZrVnhDWEhIVXR2UGdZNmEtQzIwVHZyWVZUd1M5dXlYSjR0RUhxV2Y5QWtsSmt1LVlEN1I0akVPdEZ3TDd3V3J0QVY0bjk0?oc=5",
-          "date": "2026-10-09 21:29 UTC"
-        },
-        {
-          "title": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJWeFAtUWdBODZlWllUR211bEdlRmd3VVFhMXVVeHRndXhrOE02WHQ3YmFGUDN0bFhkdWZBMl83VDJTc0NqUDFWck5rZmRGZ0d6Vzk0NTJSMkxINjVsZnVXVVA1VnkwV0pKRkN4QmU1YTBWVktWTml0MVBmekVsN2lYaGt1SVFybERZUWdSNllPVjByaFk1WE9Nc0R2NTEzQlBuUUloejJrMXE1SEtaMkZwcjQxTjlwN2RBVDNnRlRUV0tfMC0wSFllR0VjczVqVlE?oc=5",
-          "date": "2026-10-09 15:55 UTC"
-        },
-        {
-          "title": "Is Board Refresh Altering The Investment Case For Supermicro Stock?",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX1QzX2phXzM3SlpaSWVhd2ZNNjNGODZONVNtdmNwM3hXVGlmdFB0Nlc3QUhkTjh4Q01PQm9WUzg1eFNiRjVWQmExa2poRjV2X0ZYZG1PX1NBMFFqbW1fZThsU21HcTR1ZTFzR0xvX2VvckNjQ2lBSmc0bXhqT09QMng5aXFoVDItU0RDOGsyTm9PdTJVMXJLX09PT21saHZiNEoydTBmaTZBWlQyS2U3Rl9tOGQxT2lwbjBkT2tHaEdfU2FQbEEwLUFoUWxqNzR10gHWAUFVX3lxTE5sbTZSeXd1alZrTTlvVi1mSDJ4Rzhqc2N2aVpQQUpweUhoY2xxQkx6dVBMTFdlU1dZM2ZzWmFjWUoxNjdmNEdjamlybkdzR2huUmZaRmZnN3hONjNMbkVtWG91MG4xS0tkaTR2Qmp3OXdGNTAwQXJxcFF1bXJqWjd5cGo4dlJsRlhQLUQ4OFVLSUxWMlQ2b3pnYUtPTU1paTRBUnNjd1lMRnpsM3FtdzBRcm5VVUN4UGVvTjlmQXl1MkllOG93UjZSQURSSVR6OHJkR0dNTUE?oc=5",
-          "date": "2026-10-11 02:42 UTC"
-        }
-      ],
-      "filings_7d": [
-        {
-          "form": "8-K",
-          "date": "2026-10-08",
-          "items": "5.02,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000023/"
-        }
-      ],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 2,
-        "planned_sells": 2,
-        "buy_value": 0,
-        "sell_value": 9004000.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-03",
-      "days_to_earnings": 17,
-      "earnings_within_5d": false,
-      "stop": 38.5439,
-      "stop_pct": -0.0792,
-      "why_now": "Strong trend: 6-month +88%, 3-month vs QQQ +43%",
-      "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "ticker": "ILMN",
-      "name": "Illumina, Inc.",
-      "sector": "Health Care",
-      "price": 278.17,
-      "final_score": 81.9078,
-      "price_score": 94.562,
-      "news_score": 50.8981,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "quality_score": 50.0,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9702,
-        "relative_strength": 0.9767,
-        "volatility": 0.6712,
-        "liquidity": 0.823
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +28.0%, 3m +40.5%, 6m +114.4% (beats 97% of stocks)",
-        "3-month return vs QQQ: +38.5%",
-        "Volatility 51%/yr (unusually high/low)",
-        "Trades $1,152M/day"
-      ],
-      "headline_count_3d": 8,
-      "sentiment": 0.0524,
-      "attention_vs_normal": 0.5714,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Illumina Stock In Focus After New Genomic AI Model Launch",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGtjZWlOc1dLRmxxLVhRa29VVVBxYnVlTlJUMU5yMnNGdXpFU3MwOXFDbUZKZ2g1TTRvRmY2RVAxZlFDczJrZHZpTE1kYm8tYXJSeXpDSER0WUhhQzQtOTRaSE9mVEh5eTdlUkFBMWdOZXEyWGFFdXVBVzQyWE45SUdOdEdlNzBMN0pCUlpsX3lCWEVVVnczbktSRTBFTzY3Qm1nWEZUeFV1NjhhdU5SMVVuWVN1dzRYOTNLRklpYS0ycHhIOWI5VGZLOVRTaXBMSlhHSTRn0gHbAUFVX3lxTE1GOHJ4Y1ZoQjBNOFRUWElxMTdtQjBOSmRzRXltQmpxcXFDZDdFWGtNa3cxSkw0NDk2N1VaNXVYa0lyQU8zTjJmcXY2TWZUVFRIZ0ZOd3BJMk1HTUxmWGdGMDR1UkNUYnkySWwtRFVtSmVTbmdWcS1vX3FSQ3hDb0VwdmxiOGgwa2RHVHFYXzFRV0gzN3ZIN1ZWSlVzbEJCazVxRXlvMVV3a2ZxX0haU3p2cDR6QmN1M2J6a0hfZ0JKYUhhQzJDcVQ1NXJXSEMxV2RVdTI1OExZb2Z3Zw?oc=5",
-          "date": "2026-10-10 16:53 UTC"
-        },
-        {
-          "title": "Illumina Inc (ILMN) Stock Up 5.1% but GF Value Says Overvalued -- GF Score: 65/100",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGNBZUhnbFZ5b19HNElSZ1doWlZ1Y2c0S2lLaDd6RWZRTHpVVHVWZy1jUnBtb0o4ZGZ0RkxhOUx5aUtweWdGNThtMkdzcXBVMHpRUldZR2xuSVRiM1N4MElCSGNPbVBZR1ZNNENRbDZ5V2xtRGV4cmJ6TVpsblZmSDZQdGJSQWtUYVBnM0padThFY1RycklEQ3RTdjJ3UlAwT2NROGt6U0lsbnU1enVnM2tB?oc=5",
-          "date": "2026-10-09 21:48 UTC"
-        },
-        {
-          "title": "Illumina Inc. stock outperforms competitors on strong trading day",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3MyU2tSeDg4emtNc3lITkVELU1QSFR0cFAweW9aTjFWTWljUEJ2bnZBMDI3SHR6YVZsUkhHM2hMYjlFbUdIUWZONnMzZXNoSnRIU0JXY2U5cGlQb3EzM3NSaHk5OVZZNlhxMFZudm1NVmlYTEJ0NV84cEtMSG1wZ21yNi1kcGNiMnVFSDZwZ2h4eWxES19FQzNnYTl1LW96bEhNMy1hUDZscm1FMDJ3dmNGY1Mwbml3b3oxbThieWgtQQ?oc=5",
-          "date": "2026-10-09 20:30 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-10-29",
-      "days_to_earnings": 14,
-      "earnings_within_5d": false,
-      "stop": 254.7539,
-      "stop_pct": -0.0842,
-      "why_now": "Strong trend: 6-month +114%, 3-month vs QQQ +39%",
-      "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
       "rank": 15,
-      "ticker": "DDOG",
-      "name": "Datadog",
+      "ticker": "NTAP",
+      "name": "NetApp",
       "sector": "Information Technology",
-      "price": 293.26,
-      "final_score": 81.6912,
-      "price_score": 87.73,
-      "news_score": 74.1633,
+      "price": 237.15,
+      "final_score": 82.0918,
+      "price_score": 93.1113,
+      "news_score": 55.2614,
       "history_score": 46.7174,
       "insider_score": 50.0,
-      "quality_score": 64.4,
+      "quality_score": 62.5,
       "components": {
         "trend": 1.0,
-        "momentum": 0.9222,
-        "relative_strength": 0.8424,
-        "volatility": 0.321,
-        "liquidity": 0.751
+        "momentum": 0.9682,
+        "relative_strength": 0.9728,
+        "volatility": 1.0,
+        "liquidity": 0.6459
       },
       "price_reasons": [
         "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +32.5%, 3m +8.6%, 6m +130.3% (beats 92% of stocks)",
-        "3-month return vs QQQ: +6.6%",
-        "Volatility 66%/yr (unusually high/low)",
-        "Trades $795M/day"
+        "Momentum (to last week): 1m +25.2%, 3m +38.8%, 6m +119.6% (beats 97% of stocks)",
+        "3-month return vs QQQ: +37.2%",
+        "Volatility 43%/yr (normal)",
+        "Trades $546M/day"
       ],
-      "headline_count_3d": 33,
-      "sentiment": 0.1527,
-      "attention_vs_normal": 2.3571,
+      "headline_count_3d": 9,
+      "sentiment": 0.133,
+      "attention_vs_normal": 0.6923,
       "news_flags": [
-        "acquisition",
-        "beat",
-        "guidance raised",
         "upgrade"
       ],
       "top_headlines": [
         {
-          "title": "Datadog (DDOG) Jumps On CIBC Upgrade, Is The Stock Priced For Perfection?",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmlBaE9GYlFTQzhBd2FGN3g5OHBCR0VYX2VZUVpsaVA3eGVMVVpDLUFjbG0xc0JHVFNKVDczSmhZbS0yRGpONXlpcVh6NUJoNFgtLWpJUEl3MVAyOVZfcmFrZkQwSXA4Y2JfREUtTFdnQkxfWFI2THRzaGVSYm9hSVJodjVMaGZFV2duV0ZmbThLX1M1UjJpOEhiSHVFaW5DUjJiU3pFVkNfbTlfM1ZSaDFOVkUtTUF2MHh2U0tVUGJhRlNV0gHKAUFVX3lxTFBmMENhVTJfVGF2TlliQTBBTmFCQUZjT3o5TVgxLXRlUmlxRlJHUDJsZ043U2V3dVdmellJSjY0UFJMcGNPdGt0MW91WlVJQkZ6M3Q4YnR0NTMyMlRDV1I5Y2tiRVlTbEQ1MzllMHJub0ZPUTBjMkw3WWZfV3VlcnF4c2V5T2d6Y19HTDRIZVZhU1ZUbVJQNUpBT2M1bW5DcVI1SjMyYlUzdWR0WHJmUzhPbVR0TWQxUnA0SFBJbTFpR3FNZExGcEk2UlE?oc=5",
-          "date": "2026-10-10 20:49 UTC"
-        },
-        {
-          "title": "DDOG Stock Heads For Record Single-Day Drop Despite Q2 Earnings Beat, Raised Guidance",
+          "title": "NTAP Stock Hits Fresh Record High After Evercore Upgrade: New Products Aren\u2019t Needed For \u2018Upside\u2019, Says Analyst",
           "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcnFOT1gzNG5VV0tFOGVlN1M5RFVkS0lIUWFSdWg4eTVZbFJYNlZ0RW5oc2ZrODJTa25DY3BiUGd6YzhoVTc4S0VuRnpnQ0dzUDZhMjFrNHhhdFRhc0hwWG1UMXVxNFN5RkktejJDS3R6Vlc5WkhVXzFfc0JzRkJrVWlJSTlyTmJsczZyRWpMY3l2QkJjSU1DdzVFWEE4ZkpRc004V3NhUG9udGFMMjVCOEgzYVFyaTF4MjkwM3hsM2R5MjBFeldsU2NjWGE?oc=5",
-          "date": "2026-10-09 21:57 UTC"
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVdpOEk1cVh5bGpVRHNVTHNacXZtNTVIb0pncWxkX1VoQ3doNDVaVVhqZ19Dd042a2puLUlCM0NURkdVenZpSnJ2Ry1Ka213dEpubE9VU1N0UDJHWFF4ZldITnB1SU04Ykd2M1BuaHdjald1YTNCX01sTUhRS0I4LWtoaWQyMXY5RFRXbDE0eVdzR0JRaXpVYi1MYVZMM1N2REllUkxweVBJcmhMWEVlQjZaZzlrR0FZNEY3ZQ?oc=5",
+          "date": "2026-10-09 07:41 UTC"
         },
         {
-          "title": "Fastly Spikes 15% as Oppenheimer Upgrades to Outperform With $35 Target; Datadog Rises 4%, Cloudflare Gains 2%",
-          "source": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWdZTHl6Rkw2Wi1HbFZnY2xvVlFZeTJ0dkh3X090YmpRTjVtUlQ2Q0JCTXdSb004V0xCVG5faEZFUDEtY21yTjVVT2prelFZZE1VSVgyNTFyQjRBZUdNSEk0MGxEeWIxWjZIcm1kUXl4MThwcVhXcjhhSWlvTnlFUm1lcEtqbVhf?oc=5",
-          "date": "2026-10-09 15:52 UTC"
+          "title": "NetApp (NTAP) Stock May Trade Near Fair Value As AI Storage News Builds",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDVWTnNmQ21mUlU3ZHhMRVhPY28ya1h1NWZTdkxaTFQ3OExMN3ptRjRPSlhzU19CTU1MSzYzX1Z6cTNBUjlIWnBTU1g2ekVncnBHNDdtLXA5emZLWlFqZzB4eC1hVVBEZDBZdXNGcjZ4MUY1ZzRUQmlTVXBveTNlZ2FEVFVRaFhIdjdRRG9wV19SY1ZFYkZjYVRMYnBoUkxuQjItd2V4LUxxMWJjNWZQZjRsNzdnVGl4RGVDRERR0gHDAUFVX3lxTFAxNVNSbk1pOENNWVA3OHB0cnVtcWFkRUxSTTZUX3VuM1I0cXdlQW5pR3pCSkhWTWJRSmV6SUJfdGI1SFloZjdib1ZwRHJtX0NvYWFZX3pWRjdKSlUySFFOYlJnQXB5c0lJQ0tvXzUtS1B2ZC1IeW9jbUhWQ2stc3NpdVNIeDVhUmZIazlVS0MtS0pUb3BCdm5tVXpvekEyakZxc0tsb0Q4aFJkZUo3eFQyaUNzVF9KdVVHNGVhM3k3aUZWQQ?oc=5",
+          "date": "2026-10-11 06:37 UTC"
+        },
+        {
+          "title": "A Longtime NetApp (NTAP) Shareholder Gets a Clear Answer From Jim Cramer",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/longtime-netapp-ntap-shareholder-gets-215244661.html?.tsrc=rss",
+          "date": "2026-10-10 21:52 UTC"
         }
       ],
       "filings_7d": [],
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
-        "sells": 9,
-        "planned_sells": 9,
+        "sells": 6,
+        "planned_sells": 4,
         "buy_value": 0,
-        "sell_value": 14750067.3078
+        "sell_value": 4403040.69
       },
-      "events": [
-        "new 52-week high"
-      ],
-      "earnings_date": "2026-11-05",
-      "days_to_earnings": 19,
+      "events": [],
+      "earnings_date": "2026-12-01",
+      "days_to_earnings": 37,
       "earnings_within_5d": false,
-      "stop": 276.2207,
-      "stop_pct": -0.0581,
-      "why_now": "New 52-week high; news: beat, guidance raised, upgrade",
+      "stop": 224.4429,
+      "stop_pct": -0.0536,
+      "why_now": "News: upgrade",
       "fundamentals": {
-        "period_end": "2026-06-30",
-        "filed": "2026-08-06",
-        "rev_yoy": 0.3564,
-        "rev_ttm": 3966725000,
-        "rev_ttm_yoy": 0.3152,
-        "eps_yoy": 11.0,
-        "eps_ttm": 0.5,
-        "gross_margin": 0.7951,
-        "gross_margin_trend": "falling",
-        "op_margin": 0.0041,
+        "period_end": "2026-07-31",
+        "filed": "2026-09-02",
+        "rev_yoy": 0.3011,
+        "rev_ttm": 6497000000,
+        "rev_ttm_yoy": 0.1272,
+        "eps_yoy": 0.6348,
+        "eps_ttm": 7.09,
+        "gross_margin": 0.8034,
+        "gross_margin_trend": "flat",
+        "op_margin": 0.2846,
         "op_margin_trend": "rising",
-        "fcf_ttm": 1182109000,
-        "fcf_margin": 0.298,
-        "pe": 586.52,
+        "debt_to_equity": 1.6642,
+        "fcf_ttm": 1650000000,
+        "fcf_margin": 0.254,
+        "pe": 33.4485,
+        "ps": 7.1696,
         "stale": false,
-        "quality_score": 64.4,
-        "summary": "Revenue +36% y/y, margins flat, high debt, P/E 587"
+        "quality_score": 62.5,
+        "summary": "Revenue +30% y/y, margins rising, high debt, P/E 33"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -1657,20 +1729,20 @@
       ],
       "headline_count_3d": 4,
       "sentiment": -0.0795,
-      "attention_vs_normal": 0.2857,
+      "attention_vs_normal": 0.3077,
       "news_flags": [],
       "top_headlines": [
-        {
-          "title": "Pentair plc (PNR) latest stock news and headlines",
-          "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SSmVFNEZNUFBLR2ZIYlJ2UlVDVzlkZFFWaWphZ1VEcjQxQ19PalZMeE9RUTZabnR0VGZqNmJOUWh3cVdVM3l6cHVsQWN5V3Q1OU1XOE1aSQ?oc=5",
-          "date": "2026-10-10 14:28 UTC"
-        },
         {
           "title": "(PNR) and the Role of Price-Sensitive Allocations",
           "source": "Stock Traders Daily",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFN3Rk4wakE4aHNOWHpwRjlvdUpWNVlkOUtJWHZWQ3UxdnZpZDRTTTQ2RDdrcjRidm5DMmZVcUFScEh3a2pfVm9fM0F3akYyYlF2RDhkN2g5cFZOaWNKbGFIbEV3emQ0NUVNazBpVzhxeUYwcWprMzUwdVZzOC1uU2NRZFJJYlB1RWFERDZTV0xUWnc0cTNod0Z5d3NIUEktaVpYSGtaS3RacFpjSzUtcWc3UkRmd1pWR2xtR3BrN0lZbUJha2tR?oc=5",
           "date": "2026-10-10 00:02 UTC"
+        },
+        {
+          "title": "Pentair plc (PNR) latest stock news and headlines",
+          "source": "Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SSmVFNEZNUFBLR2ZIYlJ2UlVDVzlkZFFWaWphZ1VEcjQxQ19PalZMeE9RUTZabnR0VGZqNmJOUWh3cVdVM3l6cHVsQWN5V3Q1OU1XOE1aSQ?oc=5",
+          "date": "2026-10-09 19:20 UTC"
         },
         {
           "title": "Pentair (PNR) Looks Cheap. Is Its Pool Slump an Inventory Reset or Lost Pricing Power?",
@@ -1714,9 +1786,9 @@
       "name": "Alnylam Pharmaceuticals",
       "sector": "Health Care",
       "price": 232.68,
-      "final_score": 19.842,
+      "final_score": 19.5365,
       "price_score": 8.9173,
-      "news_score": 45.206,
+      "news_score": 43.4954,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 51.2,
@@ -1734,9 +1806,9 @@
         "Volatility 73%/yr (unusually high/low)",
         "Trades $317M/day"
       ],
-      "headline_count_3d": 6,
-      "sentiment": 0.1804,
-      "attention_vs_normal": 0.4286,
+      "headline_count_3d": 5,
+      "sentiment": 0.0664,
+      "attention_vs_normal": 0.3846,
       "news_flags": [
         "lawsuit"
       ],
@@ -1803,12 +1875,12 @@
       "name": "MGM Resorts",
       "sector": "Consumer Discretionary",
       "price": 29.27,
-      "final_score": 20.1576,
+      "final_score": 19.5861,
       "price_score": 8.0258,
-      "news_score": 50.7794,
+      "news_score": 50.8393,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 50.0,
+      "quality_score": 33.7,
       "components": {
         "trend": 0.0,
         "momentum": 0.046,
@@ -1825,7 +1897,7 @@
       ],
       "headline_count_3d": 8,
       "sentiment": 0.0455,
-      "attention_vs_normal": 0.5714,
+      "attention_vs_normal": 0.6154,
       "news_flags": [
         "acquisition"
       ],
@@ -1869,9 +1941,23 @@
         "3-month return -41% vs QQQ"
       ],
       "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
+        "period_end": "2026-06-30",
+        "filed": "2026-07-29",
+        "rev_yoy": 0.0105,
+        "rev_ttm": 17761442000,
+        "rev_ttm_yoy": 0.0319,
+        "eps_yoy": 5.1667,
+        "eps_ttm": 1.62,
+        "op_margin": 0.0573,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 2.4141,
+        "fcf_ttm": 1494547000,
+        "fcf_margin": 0.0841,
+        "pe": 18.0679,
+        "ps": 0.4146,
+        "stale": false,
+        "quality_score": 33.7,
+        "summary": "Revenue +1% y/y, margins rising, high debt, P/E 18"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -1879,13 +1965,105 @@
     },
     {
       "rank": 4,
+      "ticker": "LVS",
+      "name": "Las Vegas Sands",
+      "sector": "Consumer Discretionary",
+      "price": 36.17,
+      "final_score": 20.7149,
+      "price_score": 9.5085,
+      "news_score": 49.3695,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 43.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.0331,
+        "relative_strength": 0.0545,
+        "volatility": 1.0,
+        "liquidity": 0.2276
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -18.7%, 3m -21.7%, 6m -32.5% (beats 3% of stocks)",
+        "3-month return vs QQQ: -24.9%",
+        "Volatility 24%/yr (normal)",
+        "Trades $229M/day"
+      ],
+      "headline_count_3d": 7,
+      "sentiment": -0.039,
+      "attention_vs_normal": 0.5385,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Las Vegas Sands Corp. (LVS) Options Chain",
+          "source": "Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpiVDFHakIwblRNS2M0b3cwSEswXzg4b2F5U2FiclRELTFrZURJa1VvSzBKZTNscjh6dWNHODRuUW5JVHRJQWx5RTlETzFGaDFDa0VydjFzWFlkY2EySVZZTlFpOVdpU3VJRGpXNmxIWElOM29rd1JHV1BiU2I3MU5tUVhNdm94SDhILWw3LTM?oc=5",
+          "date": "2026-10-11 10:31 UTC"
+        },
+        {
+          "title": "Las Vegas Sands Corp. (LVS) - What Are Researchers Thinking About This Stock?",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2VaMkZCRmxGT0hOUFpBNHNlS1VRQXVlNlBmNFphbXgtZ2NqS2w1ZktSeEppM29qNnFVOUZfQTNRdElkTUxpclFTVlNUcDh6UEE0RnBGZVAyOW9KeDZYT1NpZWtMMVVKbzBhaU1HdXlnN0FoNUhycllMQ2ZsMURmcnozbVplVGFhVG16MkFoVEFtdzI5QUVtcGctV0ZMT2l6Zm5qMkFwdnhjcF95bmhHWDdGY2cwUFo4Y3djM2pDNXJUMkFHb1dVQVFuWElUQUpy?oc=5",
+          "date": "2026-10-10 06:37 UTC"
+        },
+        {
+          "title": "Las Vegas Sands (NYSE:LVS) Stock Price Target Cut by Barclays",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjhWcUlUT1JRLTFscjRqNk1oa3lzblFVbnFaaE1yRkV4Q2dYM0JFNG5UVkpEMm9kU1A0TEJuS3JZR1IwNFY1VmJxQjNRbjFrMi11MktONXJVRHBKbFl1QnZKSllxZ3pDSUstTnZkWmFDNC1fWFJQMF96NFBIUHhLeUk4X0IyV0pCRm12VUVBc2RMRHZPal9XYk85Qkw5RXVrOWJVWjZDeTl1aGtIanBiWXlCUDNjTUw5MWIzaU5B?oc=5",
+          "date": "2026-10-09 15:26 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-10-21",
+      "days_to_earnings": 8,
+      "earnings_within_5d": false,
+      "stop": 34.7964,
+      "stop_pct": -0.038,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -33%)",
+        "3-month return -25% vs QQQ"
+      ],
+      "fundamentals": {
+        "period_end": "2026-06-30",
+        "filed": "2026-07-24",
+        "rev_yoy": -0.0066,
+        "rev_ttm": 13719000000,
+        "rev_ttm_yoy": 0.1811,
+        "eps_yoy": -0.197,
+        "eps_ttm": 2.57,
+        "op_margin": 0.2149,
+        "op_margin_trend": "falling",
+        "debt_to_equity": 16.3442,
+        "fcf_ttm": 2703000000,
+        "fcf_margin": 0.197,
+        "pe": 14.0739,
+        "ps": 1.7077,
+        "stale": false,
+        "quality_score": 43.0,
+        "summary": "Revenue -1% y/y, margins falling, high debt, P/E 14"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 5,
       "ticker": "WYNN",
       "name": "Wynn Resorts",
       "sector": "Consumer Discretionary",
       "price": 75.15,
-      "final_score": 20.784,
+      "final_score": 20.8586,
       "price_score": 9.2781,
-      "news_score": 49.2783,
+      "news_score": 49.6958,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 50.0,
@@ -1903,9 +2081,9 @@
         "Volatility 25%/yr (normal)",
         "Trades $196M/day"
       ],
-      "headline_count_3d": 10,
-      "sentiment": -0.0337,
-      "attention_vs_normal": 0.7143,
+      "headline_count_3d": 9,
+      "sentiment": -0.0146,
+      "attention_vs_normal": 0.6923,
       "news_flags": [],
       "top_headlines": [
         {
@@ -1915,16 +2093,16 @@
           "date": "2026-10-10 09:15 UTC"
         },
         {
+          "title": "Wynn UAE Casino Could Be Estimate-Beater, Analyst Sees Singapore Comparisons",
+          "source": "Casino.org",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXpwV2stanBHZ0JKTE1VYjZmVEctc2g2VVFtLVlueWVBZkJ6dzRPcWQ0OXJCZVJIXy10a0ZuNHlKSm9HdHB0b0VLMERsZTdVbl9vN1hHWW1aRDIxeXVOb2NDSmZlWGxKWjI4Y3VGRFE2QmxETXhsZG40RGJIWDZBWm4tT0IyTUROaDNyNHQyS0xpVEoyUklUYVRjeHZLVUtIQUxwZTlVUQ?oc=5",
+          "date": "2026-10-10 06:07 UTC"
+        },
+        {
           "title": "WYNN Stock Price Today",
           "source": "CoinDesk",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02clFSYlF4S3h0M1FmTDYtQ3RBRFJkRE9XY0pabHh1TTVMbG0wTFpSY2JrZ21uRWl6NHJuNjZ4X0FHREFzSklJNHBVOGNKLTd3c1Zz?oc=5",
           "date": "2026-10-10 05:50 UTC"
-        },
-        {
-          "title": "Wynn Resorts Ltd. Research & Ratings | WYNN",
-          "source": "Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFktZUNoWmZnTEpWajJLcHZUS1V4OF9WVE1Nb1Z6OW4yYl9VSkQ5d0VWbFV1Vmlic1VNaWFTT0xaeEJTeXByMDBZcWMtSG1PRmlCQl9UYlU0a09DYkRWX0E3cHlVMGFZMEpUUGpBVHBHZnVoR05kZENuTUFiWnhNeVVsSm1nOTE0MTRwazlzeU8zWFBiZzdKdnl3djVGelZLVnB2WVVVTWFqYVJmSjJOek9JcVdXLTNlVjctUU9GUmxTZw?oc=5",
-          "date": "2026-10-09 19:37 UTC"
         }
       ],
       "filings_7d": [],
@@ -1956,92 +2134,14 @@
       "history_events": []
     },
     {
-      "rank": 5,
-      "ticker": "LVS",
-      "name": "Las Vegas Sands",
-      "sector": "Consumer Discretionary",
-      "price": 36.17,
-      "final_score": 20.9555,
-      "price_score": 9.5085,
-      "news_score": 49.317,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0331,
-        "relative_strength": 0.0545,
-        "volatility": 1.0,
-        "liquidity": 0.2276
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -18.7%, 3m -21.7%, 6m -32.5% (beats 3% of stocks)",
-        "3-month return vs QQQ: -24.9%",
-        "Volatility 24%/yr (normal)",
-        "Trades $229M/day"
-      ],
-      "headline_count_3d": 6,
-      "sentiment": -0.0455,
-      "attention_vs_normal": 0.4286,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Las Vegas Sands Corp. (LVS) - What Are Researchers Thinking About This Stock?",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2VaMkZCRmxGT0hOUFpBNHNlS1VRQXVlNlBmNFphbXgtZ2NqS2w1ZktSeEppM29qNnFVOUZfQTNRdElkTUxpclFTVlNUcDh6UEE0RnBGZVAyOW9KeDZYT1NpZWtMMVVKbzBhaU1HdXlnN0FoNUhycllMQ2ZsMURmcnozbVplVGFhVG16MkFoVEFtdzI5QUVtcGctV0ZMT2l6Zm5qMkFwdnhjcF95bmhHWDdGY2cwUFo4Y3djM2pDNXJUMkFHb1dVQVFuWElUQUpy?oc=5",
-          "date": "2026-10-10 06:37 UTC"
-        },
-        {
-          "title": "Las Vegas Sands (NYSE:LVS) Stock Price Target Cut by Barclays",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjhWcUlUT1JRLTFscjRqNk1oa3lzblFVbnFaaE1yRkV4Q2dYM0JFNG5UVkpEMm9kU1A0TEJuS3JZR1IwNFY1VmJxQjNRbjFrMi11MktONXJVRHBKbFl1QnZKSllxZ3pDSUstTnZkWmFDNC1fWFJQMF96NFBIUHhLeUk4X0IyV0pCRm12VUVBc2RMRHZPal9XYk85Qkw5RXVrOWJVWjZDeTl1aGtIanBiWXlCUDNjTUw5MWIzaU5B?oc=5",
-          "date": "2026-10-09 15:26 UTC"
-        },
-        {
-          "title": "Las Vegas Sands Earnings Preview: What to Expect",
-          "source": "Yahoo Finance",
-          "link": "https://www.barchart.com/story/news/5368868/las-vegas-sands-earnings-preview-what-to-expect?.tsrc=rss",
-          "date": "2026-10-09 13:53 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-10-21",
-      "days_to_earnings": 8,
-      "earnings_within_5d": false,
-      "stop": 34.7964,
-      "stop_pct": -0.038,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -33%)",
-        "3-month return -25% vs QQQ"
-      ],
-      "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
       "rank": 6,
       "ticker": "WY",
       "name": "Weyerhaeuser",
       "sector": "Real Estate",
       "price": 19.1,
-      "final_score": 21.4249,
+      "final_score": 21.3117,
       "price_score": 9.671,
-      "news_score": 51.2958,
+      "news_score": 50.6617,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 50.0,
@@ -2059,9 +2159,9 @@
         "Volatility 29%/yr (normal)",
         "Trades $182M/day"
       ],
-      "headline_count_3d": 8,
-      "sentiment": 0.0756,
-      "attention_vs_normal": 0.5714,
+      "headline_count_3d": 6,
+      "sentiment": 0.0441,
+      "attention_vs_normal": 0.4615,
       "news_flags": [
         "acquisition"
       ],
@@ -2119,12 +2219,12 @@
       "name": "Align Technology",
       "sector": "Health Care",
       "price": 142.71,
-      "final_score": 21.6153,
+      "final_score": 21.6117,
       "price_score": 11.25,
       "news_score": 49.1054,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 34.7,
+      "quality_score": 34.6,
       "components": {
         "trend": 0.0,
         "momentum": 0.1394,
@@ -2141,7 +2241,7 @@
       ],
       "headline_count_3d": 5,
       "sentiment": -0.0596,
-      "attention_vs_normal": 0.3571,
+      "attention_vs_normal": 0.3846,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2200,7 +2300,7 @@
         "pe": 24.8624,
         "ps": 2.4491,
         "stale": false,
-        "quality_score": 34.7,
+        "quality_score": 34.6,
         "summary": "Revenue +4% y/y, margins flat, high debt, P/E 25"
       },
       "insider_30d": [],
@@ -2209,352 +2309,16 @@
     },
     {
       "rank": 8,
-      "ticker": "ALB",
-      "name": "Albemarle Corporation",
-      "sector": "Materials",
-      "price": 101.27,
-      "final_score": 21.8645,
-      "price_score": 10.4473,
-      "news_score": 49.1919,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 57.3,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0227,
-        "relative_strength": 0.072,
-        "volatility": 1.0,
-        "liquidity": 0.2957
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -23.8%, 3m -21.6%, 6m -40.9% (beats 2% of stocks)",
-        "3-month return vs QQQ: -23.6%",
-        "Volatility 42%/yr (normal)",
-        "Trades $267M/day"
-      ],
-      "headline_count_3d": 4,
-      "sentiment": -0.0539,
-      "attention_vs_normal": 0.2857,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Albemarle Has Lost 52% Since April: BMO Sees 70% Upside",
-          "source": "Yahoo Finance",
-          "link": "https://www.tikr.com/blog/albemarle-has-lost-52-since-april-bmo-sees-70-upside?ref=yahoofinance&.tsrc=rss",
-          "date": "2026-10-11 14:48 UTC"
-        },
-        {
-          "title": "Albemarle: I'm Buying The World's Biggest Lithium Producer (NYSE:ALB)",
-          "source": "Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG9jYkZ0dHhzOEdTSHJxQ2ZoUDlKUnlsczBoeFRyb3dKVlZMOWlUU3JjRmMtMTU0YnpRNG82YnBueTVpcGx6bTJaYXZIdDFsdmNESGJpV1gwb2pYRjRYaXRncXcyU1hibmpXUWd0M1NfajRyelp3TnhNSTY3SW9LcEtWbDFoM3gwcS1xNTVnM2hJNm9sZEp4Rml2NA?oc=5",
-          "date": "2026-10-11 08:48 UTC"
-        },
-        {
-          "title": "Albemarle: The Number That Matters Isn't In Q3 Report (NYSE:ALB)",
-          "source": "Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnZKM3ZvZEpsc3BnV0hMWHljN2NPMng0QUNURUZ5bm1pT2YzN1FGSVBuWlYtN2IzX1JYTDBDTW9qUDhsSnJ2VEFpUlpBakM3Y0JoMk1RWkQxeFNFRWhwTHM4NmF0c3d1cjdKaUs4dDlPaTV0bnpwT2NDQjUzQm1qMl96ZjlFMmwzNW4wcE5FUHh5d2xIZm1v?oc=5",
-          "date": "2026-10-10 10:00 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-04",
-      "days_to_earnings": 18,
-      "earnings_within_5d": false,
-      "stop": 96.1121,
-      "stop_pct": -0.0509,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -41%)",
-        "3-month return -24% vs QQQ",
-        "Negative news tone (sentiment -0.05 over 4 headlines)"
-      ],
-      "fundamentals": {
-        "period_end": "2026-06-30",
-        "filed": "2026-08-05",
-        "rev_yoy": 0.3108,
-        "rev_ttm": 5907904000,
-        "rev_ttm_yoy": 0.1832,
-        "eps_ttm": 0.26,
-        "gross_margin": 0.2381,
-        "gross_margin_trend": "rising",
-        "op_margin": 0.0427,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.1827,
-        "fcf_ttm": 1342372000,
-        "fcf_margin": 0.2272,
-        "pe": 389.5,
-        "ps": 2.0228,
-        "stale": false,
-        "quality_score": 57.3,
-        "summary": "Revenue +31% y/y, margins rising, low debt, P/E 389"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 9,
-      "ticker": "ROL",
-      "name": "Rollins, Inc.",
-      "sector": "Industrials",
-      "price": 31.98,
-      "final_score": 21.9049,
-      "price_score": 9.7654,
-      "news_score": 53.606,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0279,
-        "relative_strength": 0.0136,
-        "volatility": 1.0,
-        "liquidity": 0.3132
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -15.5%, 3m -29.1%, 6m -43.6% (beats 3% of stocks)",
-        "3-month return vs QQQ: -32.3%",
-        "Volatility 33%/yr (normal)",
-        "Trades $281M/day"
-      ],
-      "headline_count_3d": 4,
-      "sentiment": 0.2404,
-      "attention_vs_normal": 0.2857,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Rollins (ROL) Stock Could Be 46% Below Fair Value On Recurring Cash Flow",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzJ4SGFqZWJ6elZ6LU04aVBqRDNfc1RvUkNUcXE1TVlCa2J0NU9oaHJQREYxbG14ZkZaTzVXRlF5TW92bzBjM0R6YlRONlZLeTJEWFFrMXJUSkNLU1lIS1p6NzBFYlA3Y090dFUzRll5a1IyS3h3cFdrUmhzRVliMzJTOFdoby04aFR6dTdRelE4MTdWa2dkRnFpYlpUMGZQd3NkTmlZOHZYZWFSbWxienBNMVVrMTFqenByZHVDUENCdHoxbS1hanh4YjhBQdIB0wFBVV95cUxQWlJqXzM5Mk4wOTZ3WmduMk1kVDdNbXdoMnFGMi1QalFnaU1kRGJ1M2FJLWxxU2NudUdmN1NFUFdBbkdUNFFsS0puNjM0OHlrU21CTDBBVm11SHBQY1JoOURhYU9wSGl1Rk42ZXZpUmZBSFRhQ0dFSmlFU01vQ01EN2FLSGdkdUxjTW9pZHI1dE5OUWJXaGljZ056TUstUWJOWTNXdWpxQmMyMGQ5TXZNaTVJSmlUT1RfV255aDhUdWpvcnNXV2taczNOZ3U3UU01aGtZ?oc=5",
-          "date": "2026-10-09 23:04 UTC"
-        },
-        {
-          "title": "Rollins Inc (ROL) Shares Surge 4.5% -- What GF Score of 84 Tells Investors",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblBwbktrWERwajdEV3hQRF9RQWMwUkxvb0RJcjIydjZDRVhmN0ZLRFlQTG1GU3JKQlNHalVzaGFwT0FXNDdnSWdaQnlITG1UcTB0VGZOY3BybnZzRlc0YWg5NGdHQnM0VGc3N3U1Nm1Kc184ZXhMMU9wN2NYWk5Yb3dKSmxEX3RGcmJaMm05Nk14S2dfMXRtLXh3cURKMDZTWVp6eVVtUERNZw?oc=5",
-          "date": "2026-10-08 22:02 UTC"
-        },
-        {
-          "title": "Rollins Stock Springs Back After Hitting Lows",
-          "source": "TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWQ3aDViVExPaGdQeTRGdHcyUFliSUZCWWRpeDRpVWlJeFZpbHNTeDJwVlZQUmhvVEkzbFNlWC0tVUQySFdxSTI4Z3pmT09aRG5EVWVDeDFzWlhkM2x4NUNmSTBjNWJ4R3VvTGp2VEtXcHVOQUVWVERnSEY4c0RsdzNPaHNUVkNyZXV3WQ?oc=5",
-          "date": "2026-10-08 18:43 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-10-21",
-      "days_to_earnings": 8,
-      "earnings_within_5d": false,
-      "stop": 30.5089,
-      "stop_pct": -0.046,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -44%)",
-        "3-month return -32% vs QQQ"
-      ],
-      "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 10,
-      "ticker": "CHTR",
-      "name": "Charter Communications",
-      "sector": "Communication Services",
-      "price": 103.38,
-      "final_score": 21.9887,
-      "price_score": 11.1046,
-      "news_score": 52.5385,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 30.9,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0279,
-        "relative_strength": 0.0447,
-        "volatility": 0.5545,
-        "liquidity": 0.4825
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -31.3%, 3m -19.3%, 6m -50.3% (beats 3% of stocks)",
-        "3-month return vs QQQ: -25.5%",
-        "Volatility 55%/yr (unusually high/low)",
-        "Trades $383M/day"
-      ],
-      "headline_count_3d": 15,
-      "sentiment": -0.0766,
-      "attention_vs_normal": 1.0714,
-      "news_flags": [
-        "beat"
-      ],
-      "top_headlines": [
-        {
-          "title": "CHTR Stock Plummets To Record Low Despite Q2 Beat \u2013 CEO Eyes Pending Cox Deal To Add Scale, New Products",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakZLUFB1aUtCUVAwaHY1RnlMVDdGSzRCSEFKWXdiVFB5S1B0NnRYN3F0b3MzQjlKV1pMVW04UTZ0bFFOY3VxRnVidEZobW1wZ01NVFVqVkxmVnY5SmVPd1NUb1NhMURhUlBfdjBPaXR6V3N1Q2tGazlWZW5IelNsSjhYWFNZQ2taTnROTDl3QmVRZGNUcW9JSnVWR0M2NEhWTl9NcGtSa1BzZ00ydHczclVpaUkxbEgzaEZSQ3FB?oc=5",
-          "date": "2026-10-10 19:31 UTC"
-        },
-        {
-          "title": "Charter Communications (CHTR) Gets a Hold from Bernstein",
-          "source": "The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa1htdFcwd21BLWZBMS1PSU0tVWE4ek5zYTJaMGhqbHZ0RzdOcWFoNEwxUEM3aUQyeWxkaElOQ0FaSlZ1TzNTUy1RWVBtMFo3OFpybXVRODQ3MlpENHFibkoxLVRibUVmOFhFSUo3N2NVbmQ2akl0cDRsZ2ZtWmZ5ZXZOWjgxbHBJWkJ0eTJpQXRvSXBmazF6dXRFOFFfb3RSUWhGTEpIS1lmcFdER3NVc0t2bjA2cVdIOXpNa2dlRnN3LVJsWFYtbjlEZWs2TFFOQ1NRWUZR?oc=5",
-          "date": "2026-10-10 12:27 UTC"
-        },
-        {
-          "title": "Is Charter Communications Inc (CHTR) a Bargain After 5.7% Drop? GF Value Says Undervalued",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHNBdXYzbDJYRGkzNmlWS1dzcjBqM2N0TG1jOVgzRURkRjVBcjBLT2FBQmstVjVOZjQxbXp6NWtMWmVadjNhdzFGN3RZYzlmUWhXZy1LSHNYeEFYbjFyQmh6d09ldmljS1NMM1pMZUZaVTQ1dHZNM09DNFo4cEREaHdYRERNQ2l4TmV5VkJuSF9iODJJdXI4ckwzNUVvMTMtQmFWZFFWT0hPQlI2M0FQcGo4ODVRYjN2ckxTU0FnY1I?oc=5",
-          "date": "2026-10-09 22:58 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [
-        "new 52-week low"
-      ],
-      "earnings_date": "2026-11-06",
-      "days_to_earnings": 20,
-      "earnings_within_5d": false,
-      "stop": 95.4654,
-      "stop_pct": -0.0766,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -50%)",
-        "3-month return -26% vs QQQ",
-        "Negative news tone (sentiment -0.08 over 15 headlines)",
-        "New 52-week low"
-      ],
-      "fundamentals": {
-        "period_end": "2026-06-30",
-        "filed": "2026-07-24",
-        "rev_yoy": -0.0174,
-        "rev_ttm": 54396000000,
-        "rev_ttm_yoy": -0.015,
-        "eps_yoy": 0.1612,
-        "eps_ttm": 38.43,
-        "op_margin": 0.2328,
-        "op_margin_trend": "falling",
-        "debt_to_equity": 5.5426,
-        "fcf_ttm": 4358000000,
-        "fcf_margin": 0.0801,
-        "pe": 2.6901,
-        "ps": 0.5149,
-        "stale": false,
-        "quality_score": 30.9,
-        "summary": "Revenue -2% y/y, margins falling, high debt, P/E 3"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 11,
-      "ticker": "PODD",
-      "name": "Insulet Corporation",
-      "sector": "Health Care",
-      "price": 135.28,
-      "final_score": 22.2176,
-      "price_score": 11.1046,
-      "news_score": 50.0,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 50.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.096,
-        "relative_strength": 0.0934,
-        "volatility": 0.6615,
-        "liquidity": 0.2121
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -11.1%, 3m -17.6%, 6m -35.5% (beats 10% of stocks)",
-        "3-month return vs QQQ: -21.0%",
-        "Volatility 52%/yr (unusually high/low)",
-        "Trades $221M/day"
-      ],
-      "headline_count_3d": 1,
-      "sentiment": 0.0,
-      "attention_vs_normal": 0.0714,
-      "news_flags": [],
-      "top_headlines": [
-        {
-          "title": "Revenue Outlook Raised Could Be A Game Changer For Insulet Stock (PODD)",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2llcWlqNWtFOThuLWx2M3ROSGtBNXJmWlhHZFB4TU5IOWZPZ0JMLXZDRDlvbGRQYmYxME1YamlOenF3VzI2VXdhQi1XN3NxM21vQ290NWt1a3I4VF85VTk5bzhydnptSmtud3pvdzVaTzN1NVhBMEJGMkdqM2NyWXd0MGlZc3JudVB6eEYydk5JM25wMVZSNTRaVkhScGVaRWNBeERPYTFYRkpERTVlTVVZS0ZYSC05UWhKRl9WZ1FscXZkY3FR0gHMAUFVX3lxTFB6M2I5R2NiVHo4bUxfSUgyUGFkNjhKNWdTU09Tejd2VDQ5WTQ5UDE2M1RWR2F5eGp3aGI2WWtOaWFKTkJFOHMxc1NWWGNIcllZbnUzTkFHUE5WVGRva0ZBY2V6ZV90N1JqN0Q4cUsxdWJfUDhqTGFIajBTVEVpU3I4NnhEenJ1X3hqZkJLVXRlSE1lc0xJV1NWYWllQ09SOEhQMUxQeHd5VThiQUY1UTVRMUZkbGVRSU93X2JUbWJxaVJiREx1QUFiTFpjVQ?oc=5",
-          "date": "2026-10-10 12:38 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-04",
-      "days_to_earnings": 18,
-      "earnings_within_5d": false,
-      "stop": 129.5854,
-      "stop_pct": -0.0421,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -36%)",
-        "3-month return -21% vs QQQ"
-      ],
-      "fundamentals": {
-        "stale": null,
-        "quality_score": 50.0,
-        "summary": "n/a"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 12,
       "ticker": "NRG",
       "name": "NRG Energy",
       "sector": "Utilities",
       "price": 107.97,
-      "final_score": 22.5496,
+      "final_score": 21.8919,
       "price_score": 10.1488,
-      "news_score": 55.6824,
+      "news_score": 56.1195,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 50.0,
+      "quality_score": 29.4,
       "components": {
         "trend": 0.0,
         "momentum": 0.0396,
@@ -2571,7 +2335,7 @@
       ],
       "headline_count_3d": 7,
       "sentiment": 0.3788,
-      "attention_vs_normal": 0.5,
+      "attention_vs_normal": 0.5385,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2613,6 +2377,349 @@
         "3-month return -26% vs QQQ"
       ],
       "fundamentals": {
+        "period_end": "2026-06-30",
+        "filed": "2026-08-04",
+        "rev_yoy": 0.1099,
+        "rev_ttm": 33125000000,
+        "rev_ttm_yoy": 0.128,
+        "eps_ttm": 3.81,
+        "gross_margin": 0.1419,
+        "op_margin": 0.0608,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 4.8181,
+        "fcf_ttm": 348000000,
+        "fcf_margin": 0.0105,
+        "pe": 28.3386,
+        "ps": 0.6852,
+        "stale": false,
+        "quality_score": 29.4,
+        "summary": "Revenue +11% y/y, margins rising, high debt, P/E 28"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 9,
+      "ticker": "ALB",
+      "name": "Albemarle Corporation",
+      "sector": "Materials",
+      "price": 101.27,
+      "final_score": 21.9076,
+      "price_score": 10.4473,
+      "news_score": 49.3535,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 57.7,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.0227,
+        "relative_strength": 0.072,
+        "volatility": 1.0,
+        "liquidity": 0.2957
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -23.8%, 3m -21.6%, 6m -40.9% (beats 2% of stocks)",
+        "3-month return vs QQQ: -23.6%",
+        "Volatility 42%/yr (normal)",
+        "Trades $267M/day"
+      ],
+      "headline_count_3d": 5,
+      "sentiment": -0.0431,
+      "attention_vs_normal": 0.3846,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Albemarle Has Lost 52% Since April: BMO Sees 70% Upside",
+          "source": "Yahoo Finance",
+          "link": "https://www.tikr.com/blog/albemarle-has-lost-52-since-april-bmo-sees-70-upside?ref=yahoofinance&.tsrc=rss",
+          "date": "2026-10-11 14:48 UTC"
+        },
+        {
+          "title": "Virtus Newfleet Multi-Sector Intermediate Bond Fund's Albemarle Corp(ALB) Holding History",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWk0tYXJPR2hncUZwRlR6YVhzM3k2STM0RlkyWk9rcGJPQWg2azlobkIzUmdqUEpUQUJYbTc0dUJXSkNGcVlUVmREN1FXSExodkd0XzB0WDFCSWVick9lVkdHbks2SXdZTzdHWld3SkpXTWJrUzNZVkdiSmRodlRIZjlDT18ya3FoN3V4V1RqUmhiU2FsZm5ubENRYldyX1ZJV1BVS0xPTDhyZw?oc=5",
+          "date": "2026-10-11 09:58 UTC"
+        },
+        {
+          "title": "Albemarle: I'm Buying The World's Biggest Lithium Producer (NYSE:ALB)",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmZISXZYN0hqVFVtNGcteTl2cEJsZ3ZucDh2bGpWdnNCOExiS1J5Q09hUXhGeW1LNmd2NWNuN2h3QlBZWUZSNHFkTjUyLVJGc0tod2RxRi02X3JWVGdkOEV6Rmw5RVRETldwdHFFb3dDX3JrZjAwLXhRMWc3TVlzbkpDT0JkS09idGxWdzhIRExZVU84MllySF9meWg?oc=5",
+          "date": "2026-10-11 08:48 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-04",
+      "days_to_earnings": 18,
+      "earnings_within_5d": false,
+      "stop": 96.1121,
+      "stop_pct": -0.0509,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -41%)",
+        "3-month return -24% vs QQQ"
+      ],
+      "fundamentals": {
+        "period_end": "2026-06-30",
+        "filed": "2026-08-05",
+        "rev_yoy": 0.3108,
+        "rev_ttm": 5907904000,
+        "rev_ttm_yoy": 0.1832,
+        "eps_ttm": 0.26,
+        "gross_margin": 0.2381,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.0427,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.1827,
+        "fcf_ttm": 1342372000,
+        "fcf_margin": 0.2272,
+        "pe": 389.5,
+        "ps": 2.0228,
+        "stale": false,
+        "quality_score": 57.7,
+        "summary": "Revenue +31% y/y, margins rising, low debt, P/E 389"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 10,
+      "ticker": "CHTR",
+      "name": "Charter Communications",
+      "sector": "Communication Services",
+      "price": 103.38,
+      "final_score": 21.9442,
+      "price_score": 11.1046,
+      "news_score": 52.3492,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 30.6,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.0279,
+        "relative_strength": 0.0447,
+        "volatility": 0.5545,
+        "liquidity": 0.4825
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -31.3%, 3m -19.3%, 6m -50.3% (beats 3% of stocks)",
+        "3-month return vs QQQ: -25.5%",
+        "Volatility 55%/yr (unusually high/low)",
+        "Trades $383M/day"
+      ],
+      "headline_count_3d": 16,
+      "sentiment": -0.0718,
+      "attention_vs_normal": 1.2308,
+      "news_flags": [
+        "beat"
+      ],
+      "top_headlines": [
+        {
+          "title": "CHTR Stock Plummets To Record Low Despite Q2 Beat \u2013 CEO Eyes Pending Cox Deal To Add Scale, New Products",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakZLUFB1aUtCUVAwaHY1RnlMVDdGSzRCSEFKWXdiVFB5S1B0NnRYN3F0b3MzQjlKV1pMVW04UTZ0bFFOY3VxRnVidEZobW1wZ01NVFVqVkxmVnY5SmVPd1NUb1NhMURhUlBfdjBPaXR6V3N1Q2tGazlWZW5IelNsSjhYWFNZQ2taTnROTDl3QmVRZGNUcW9JSnVWR0M2NEhWTl9NcGtSa1BzZ00ydHczclVpaUkxbEgzaEZSQ3FB?oc=5",
+          "date": "2026-10-10 19:31 UTC"
+        },
+        {
+          "title": "CHTR Stock Gains Premarket: What's The SpaceX Connection?",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkFqbWsyY2lDd3pwa055NUhvTXBMbGMyVWN0dmpDUlhuSTJtQS1ZMzNhWG9OcGw2dVZFN0JCUFV2YlE2SDlHN2dmNzg5Z0d2Z1VYdWdMdkdiOHpFQmJsMjduQ1Izc3FBNERtYUp2RkdMT2xDRnRVOWZFMksySTh0R1BybDJyeDQxS0Y4dzQ2YlZobXpIUlVkZkFUR1lielNHMVpFcU5WU2xKTnE0VGdXWTJlM0c1S2hqdFE?oc=5",
+          "date": "2026-10-11 09:25 UTC"
+        },
+        {
+          "title": "SpaceX Stock Breaks Out 7% as Charter Mobile Talks and $4.3B Nasdaq-100 Buying Fuel Rally",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazNUbDNRRjJfNjIzeDZfMkQxS1NzdlJ3VEpRZFVLQjdLZC1fWFBheUpjbF9xNGtpQTdEbE9JX0VFNVByelBKdW82R0ZyVDJGcVRsTlJocmxIZVdUelYycUVGQTFRb3FOQ0FEWG5nU3IyMmJUWWNqVkY2MXFjd0pFM0otUFFPWG4tZGE0SXhZb0Myb21ldkE1Q1Zsd2JaNmNqWHRlYUZueTV3ZmEzQXpMdzR3RlVRNEhsUFBtaTdR?oc=5",
+          "date": "2026-10-11 03:35 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [
+        "new 52-week low"
+      ],
+      "earnings_date": "2026-11-06",
+      "days_to_earnings": 20,
+      "earnings_within_5d": false,
+      "stop": 95.4654,
+      "stop_pct": -0.0766,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -50%)",
+        "3-month return -26% vs QQQ",
+        "Negative news tone (sentiment -0.07 over 16 headlines)",
+        "New 52-week low"
+      ],
+      "fundamentals": {
+        "period_end": "2026-06-30",
+        "filed": "2026-07-24",
+        "rev_yoy": -0.0174,
+        "rev_ttm": 54396000000,
+        "rev_ttm_yoy": -0.015,
+        "eps_yoy": 0.1612,
+        "eps_ttm": 38.43,
+        "op_margin": 0.2328,
+        "op_margin_trend": "falling",
+        "debt_to_equity": 5.5426,
+        "fcf_ttm": 4358000000,
+        "fcf_margin": 0.0801,
+        "pe": 2.6901,
+        "ps": 0.5149,
+        "stale": false,
+        "quality_score": 30.6,
+        "summary": "Revenue -2% y/y, margins falling, high debt, P/E 3"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 11,
+      "ticker": "PODD",
+      "name": "Insulet Corporation",
+      "sector": "Health Care",
+      "price": 135.28,
+      "final_score": 22.2176,
+      "price_score": 11.1046,
+      "news_score": 50.0,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 50.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.096,
+        "relative_strength": 0.0934,
+        "volatility": 0.6615,
+        "liquidity": 0.2121
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -11.1%, 3m -17.6%, 6m -35.5% (beats 10% of stocks)",
+        "3-month return vs QQQ: -21.0%",
+        "Volatility 52%/yr (unusually high/low)",
+        "Trades $221M/day"
+      ],
+      "headline_count_3d": 1,
+      "sentiment": 0.0,
+      "attention_vs_normal": 0.0769,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Revenue Outlook Raised Could Be A Game Changer For Insulet Stock (PODD)",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2llcWlqNWtFOThuLWx2M3ROSGtBNXJmWlhHZFB4TU5IOWZPZ0JMLXZDRDlvbGRQYmYxME1YamlOenF3VzI2VXdhQi1XN3NxM21vQ290NWt1a3I4VF85VTk5bzhydnptSmtud3pvdzVaTzN1NVhBMEJGMkdqM2NyWXd0MGlZc3JudVB6eEYydk5JM25wMVZSNTRaVkhScGVaRWNBeERPYTFYRkpERTVlTVVZS0ZYSC05UWhKRl9WZ1FscXZkY3FR0gHMAUFVX3lxTFB6M2I5R2NiVHo4bUxfSUgyUGFkNjhKNWdTU09Tejd2VDQ5WTQ5UDE2M1RWR2F5eGp3aGI2WWtOaWFKTkJFOHMxc1NWWGNIcllZbnUzTkFHUE5WVGRva0ZBY2V6ZV90N1JqN0Q4cUsxdWJfUDhqTGFIajBTVEVpU3I4NnhEenJ1X3hqZkJLVXRlSE1lc0xJV1NWYWllQ09SOEhQMUxQeHd5VThiQUY1UTVRMUZkbGVRSU93X2JUbWJxaVJiREx1QUFiTFpjVQ?oc=5",
+          "date": "2026-10-10 12:38 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-04",
+      "days_to_earnings": 18,
+      "earnings_within_5d": false,
+      "stop": 129.5854,
+      "stop_pct": -0.0421,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -36%)",
+        "3-month return -21% vs QQQ"
+      ],
+      "fundamentals": {
+        "stale": null,
+        "quality_score": 50.0,
+        "summary": "n/a"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 12,
+      "ticker": "ROL",
+      "name": "Rollins, Inc.",
+      "sector": "Industrials",
+      "price": 31.98,
+      "final_score": 22.4234,
+      "price_score": 9.7654,
+      "news_score": 56.5093,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 50.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.0279,
+        "relative_strength": 0.0136,
+        "volatility": 1.0,
+        "liquidity": 0.3132
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -15.5%, 3m -29.1%, 6m -43.6% (beats 3% of stocks)",
+        "3-month return vs QQQ: -32.3%",
+        "Volatility 33%/yr (normal)",
+        "Trades $281M/day"
+      ],
+      "headline_count_3d": 2,
+      "sentiment": 0.4339,
+      "attention_vs_normal": 0.1538,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "Rollins (ROL) Stock Could Be 46% Below Fair Value On Recurring Cash Flow",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzJ4SGFqZWJ6elZ6LU04aVBqRDNfc1RvUkNUcXE1TVlCa2J0NU9oaHJQREYxbG14ZkZaTzVXRlF5TW92bzBjM0R6YlRONlZLeTJEWFFrMXJUSkNLU1lIS1p6NzBFYlA3Y090dFUzRll5a1IyS3h3cFdrUmhzRVliMzJTOFdoby04aFR6dTdRelE4MTdWa2dkRnFpYlpUMGZQd3NkTmlZOHZYZWFSbWxienBNMVVrMTFqenByZHVDUENCdHoxbS1hanh4YjhBQdIB0wFBVV95cUxQWlJqXzM5Mk4wOTZ3WmduMk1kVDdNbXdoMnFGMi1QalFnaU1kRGJ1M2FJLWxxU2NudUdmN1NFUFdBbkdUNFFsS0puNjM0OHlrU21CTDBBVm11SHBQY1JoOURhYU9wSGl1Rk42ZXZpUmZBSFRhQ0dFSmlFU01vQ01EN2FLSGdkdUxjTW9pZHI1dE5OUWJXaGljZ056TUstUWJOWTNXdWpxQmMyMGQ5TXZNaTVJSmlUT1RfV255aDhUdWpvcnNXV2taczNOZ3U3UU01aGtZ?oc=5",
+          "date": "2026-10-09 23:04 UTC"
+        },
+        {
+          "title": "Rollins Inc (ROL) Shares Surge 4.5% -- What GF Score of 84 Tells Investors",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblBwbktrWERwajdEV3hQRF9RQWMwUkxvb0RJcjIydjZDRVhmN0ZLRFlQTG1GU3JKQlNHalVzaGFwT0FXNDdnSWdaQnlITG1UcTB0VGZOY3BybnZzRlc0YWg5NGdHQnM0VGc3N3U1Nm1Kc184ZXhMMU9wN2NYWk5Yb3dKSmxEX3RGcmJaMm05Nk14S2dfMXRtLXh3cURKMDZTWVp6eVVtUERNZw?oc=5",
+          "date": "2026-10-08 22:02 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-10-21",
+      "days_to_earnings": 8,
+      "earnings_within_5d": false,
+      "stop": 30.5089,
+      "stop_pct": -0.046,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -44%)",
+        "3-month return -32% vs QQQ"
+      ],
+      "fundamentals": {
         "stale": null,
         "quality_score": 50.0,
         "summary": "n/a"
@@ -2627,12 +2734,12 @@
       "name": "Fidelity National Information Services",
       "sector": "Financials",
       "price": 34.04,
-      "final_score": 22.8095,
+      "final_score": 22.5165,
       "price_score": 10.4907,
-      "news_score": 54.4105,
+      "news_score": 52.8695,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 56.8,
+      "quality_score": 56.3,
       "components": {
         "trend": 0.0,
         "momentum": 0.0428,
@@ -2647,9 +2754,9 @@
         "Volatility 35%/yr (normal)",
         "Trades $230M/day"
       ],
-      "headline_count_3d": 3,
-      "sentiment": 0.294,
-      "attention_vs_normal": 0.2143,
+      "headline_count_3d": 2,
+      "sentiment": 0.1913,
+      "attention_vs_normal": 0.1538,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2663,12 +2770,6 @@
           "source": "MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaExWU3ZOZ1lXQVQ0M1g0LWRVeDJLVFFFTXZQRDd3VU9mVlJVTTlRRWdTY1ZWVjNPY2FqaGxQeTJmMlpxWXE2c1V4NG1tVkgxUlNxNUpTUmtMRlBMNnNoNER4cXY0WFAwZm8zZ3pLRk1pS2swY0ptZXd2V25DbEVGbktMdFpwSmhlNHBWMXp1T1lvaDkyQ0k2X2VkUGcydmRUdF9QMG0xUGs5WlhxM0xWWkd5eFV3Y3lKYXAtTTJqR1JVQTkwZWo1T2ZZbzJOdEJLaHVZSVNEQ0Ytbm9WaWNQZkx6ZDZtRUt2by1yclUtT2E?oc=5",
           "date": "2026-10-09 14:56 UTC"
-        },
-        {
-          "title": "FULLER & THALER ASSET MANAGEMENT, INC.'s Fidelity National Information Services Inc(FIS) Holding History",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTERGV01BLVIyc3VTdklNd1FhWTlQQll3bTJ4NTVrNkNPVFpiTDBNNnFpNGg3Q0tNcHdjaHZWMWxWMWRvUVZRQ2YxMGFPOWNhOVBnY2U2OExTMldsbF82YXR0bTJMRVdRS3NNNmVBZGtQYWVDSnA2QzhVVTdMSzdabU5UM0xNMmNhSDJCdEtpTVdLTWREOWQtbw?oc=5",
-          "date": "2026-10-08 19:12 UTC"
         }
       ],
       "filings_7d": [],
@@ -2707,7 +2808,7 @@
         "pe": 5.2369,
         "ps": 1.4388,
         "stale": false,
-        "quality_score": 56.8,
+        "quality_score": 56.3,
         "summary": "Revenue +29% y/y, margins falling, moderate debt, P/E 5"
       },
       "insider_30d": [],
@@ -2720,12 +2821,12 @@
       "name": "Cooper Companies (The)",
       "sector": "Health Care",
       "price": 54.37,
-      "final_score": 24.3348,
+      "final_score": 24.3312,
       "price_score": 10.9592,
       "news_score": 50.0,
       "history_score": 43.1884,
       "insider_score": 100.0,
-      "quality_score": 54.8,
+      "quality_score": 54.7,
       "components": {
         "trend": 0.0,
         "momentum": 0.0597,
@@ -2742,7 +2843,7 @@
       ],
       "headline_count_3d": 2,
       "sentiment": 0.0,
-      "attention_vs_normal": 0.1429,
+      "attention_vs_normal": 0.1538,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2795,7 +2896,7 @@
         "pe": 18.6199,
         "ps": 2.4402,
         "stale": false,
-        "quality_score": 54.8,
+        "quality_score": 54.7,
         "summary": "Revenue +1% y/y, margins rising, low debt, P/E 19"
       },
       "insider_30d": [
@@ -2860,12 +2961,12 @@
       "name": "Fair Isaac",
       "sector": "Information Technology",
       "price": 667.58,
-      "final_score": 25.3834,
+      "final_score": 25.4084,
       "price_score": 11.5258,
-      "news_score": 60.3239,
+      "news_score": 60.3837,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 78.6,
+      "quality_score": 79.0,
       "components": {
         "trend": 0.0,
         "momentum": 0.0058,
@@ -2880,9 +2981,9 @@
         "Volatility 87%/yr (unusually high/low)",
         "Trades $796M/day"
       ],
-      "headline_count_3d": 12,
-      "sentiment": 0.4015,
-      "attention_vs_normal": 0.8571,
+      "headline_count_3d": 11,
+      "sentiment": 0.4091,
+      "attention_vs_normal": 0.8462,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2946,7 +3047,7 @@
         "pe": 19.2831,
         "ps": 6.0237,
         "stale": false,
-        "quality_score": 78.6,
+        "quality_score": 79.0,
         "summary": "Revenue +26% y/y, margins rising, high debt, P/E 19"
       },
       "insider_30d": [],
@@ -3185,10 +3286,10 @@
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 1030,
-      "google_rss": 2660,
+      "yahoo_rss": 1031,
+      "google_rss": 2603,
       "stocks": 55,
-      "headlines": 1242
+      "headlines": 1173
     },
     "sec": {
       "ok": 55,

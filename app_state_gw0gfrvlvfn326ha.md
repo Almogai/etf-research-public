@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-11T20:18:14Z · market session 2026-10-09 · app version dc7572a · 273 tests
+Generated 2026-10-11T20:21:24Z · market session 2026-10-09 · app version 9cc8b79 · 274 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -101,12 +101,12 @@ Alerts and what changed in my holdings after them (3 days):
 - [warn] Cash in robinhood's transactions goes negative ($-21.20): a deposit of about $21.20 on or before 2026-08-25 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
 - [warn] Concentration: 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x — fix: 💼 התיק שלי → 📊 חלוקה וחשיפה (the limit slider is there); spread the money or accept the risk knowingly (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
-- [info] Daily signals: 2 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
+- [info] Daily signals: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 - [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-11T20:17); Broker sync: success (2026-10-11T20:11); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-11T20:20); Broker sync: success (2026-10-11T20:18); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
 - Pushes today: 6 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי; push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

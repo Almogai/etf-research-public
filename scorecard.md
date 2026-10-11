@@ -35,12 +35,12 @@ Buy the top 5 every 20 trading days, equal weight, 0.10% cost per buy and per se
 
 | | Strategy | QQQ |
 |---|---|---|
-| Total return | +462.6% | +628.8% |
-| CAGR | +17.5% | +20.3% |
-| Max drawdown | -39.3% | -35.1% |
-| Sharpe | 0.77 | 0.95 |
+| Total return | +1266.9% | +628.8% |
+| CAGR | +27.6% | +20.3% |
+| Max drawdown | -54.5% | -35.1% |
+| Sharpe | 0.90 | 0.95 |
 
-135 holding periods; beat QQQ in 54% of them; average period return +1.5% vs +1.6%.
+135 holding periods; beat QQQ in 53% of them; average period return +2.4% vs +1.6%.
 
 **Read with care:** the stock list is today's index members, so companies that fell out of the index are missing (survivorship bias, which flatters the result). Earnings dates are not used in the backtest. Taxes are ignored.
 

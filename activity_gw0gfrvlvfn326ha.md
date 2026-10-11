@@ -1,9 +1,12 @@
 # My activity
 
-Generated 2026-10-11T15:05:44Z. Every event in the app, newest first (39 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-11T15:13:43Z. Every event in the app, newest first (43 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-11 15:13 | notify | workflow |  | push sent: ערב · 2026-10-09 |  |
+| 2026-10-11 15:13 | notify | workflow |  | push sent: סיכום שבועי |  |
+| 2026-10-11 15:06 | notify | workflow |  | push sent: 🚨 TQQQ |  |
 | 2026-10-11 14:12 | preferences | migrated |  | Preferences: screener preferences |  |
 | 2026-10-11 14:11 | benchmark | migrated |  | Preferences: benchmark SPY |  |
 | 2026-10-11 14:09 | import | migrated |  | My money: holdings from import (file) |  |
@@ -18,6 +21,7 @@ Generated 2026-10-11T15:05:44Z. Every event in the app, newest first (39 events)
 | 2026-10-09 23:06 | workflow_failed | migrated |  | workflow run failed: Daily signals (#•••) |  |
 | 2026-10-09 21:31 | notify | migrated | TQQQ | alert sent: floor rule WARN |  |
 | 2026-10-09 21:30 | floor_event | migrated | TQQQ | $570 floor rule WARN (TQQQ close 81.28) |  |
+| 2026-10-09 21:30 | floor_event | workflow | TQQQ | $570 floor rule WARN: value $575.90; floor price $80.45; close is +1.04% ($+0.83/share) from it |  → WARN |
 | 2026-10-08 16:00 | dividend | import | QQQ | dividend $0.02 QQQ |  |
 | 2026-10-07 16:00 | trade | import | TQQQ | buy 0.215214 TQQQ at $82.29 ($17.71) |  |
 | 2026-10-07 16:00 | trade | import | TQQQ | buy 1 TQQQ at $82.29 ($82.29) |  |

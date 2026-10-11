@@ -11,13 +11,13 @@ Which factors predicted returns vs QQQ over the following 5 and 20 trading days?
 | relative_strength | 5 days | 51 | -0.010 | -0.3 | 47% | +0.06% |
 | volatility | 5 days | 51 | -0.012 | -0.7 | 43% | -0.41% |
 | liquidity | 5 days | 51 | +0.021 | 1.0 | 65% | +0.40% |
-| price score (combined) | 5 days | 51 | +0.003 | 0.1 | 49% | +0.23% |
+| price score (combined) | 5 days | 51 | +0.003 | 0.1 | 49% | +0.22% |
 | trend | 20 days | 13 | -0.012 | -0.3 | 54% | +0.40% |
 | momentum | 20 days | 13 | -0.005 | -0.1 | 46% | +1.02% |
 | relative_strength | 20 days | 13 | -0.015 | -0.3 | 46% | +0.86% |
 | volatility | 20 days | 13 | -0.022 | -0.8 | 31% | -1.86% |
 | liquidity | 20 days | 13 | +0.030 | 0.7 | 62% | +1.68% |
-| price score (combined) | 20 days | 13 | -0.007 | -0.2 | 46% | +0.90% |
+| price score (combined) | 20 days | 13 | -0.006 | -0.1 | 46% | +0.93% |
 
 ## Live ideas log (5 ideas logged)
 
@@ -29,11 +29,11 @@ Rule: t ≥ 2 → ×1.25, t ≤ −1 → ×0.5, else unchanged; then scaled to t
 
 | Factor | Current | Suggested | Why |
 |---|---|---|---|
-| trend | 0.250 | 0.250 | no clear evidence either way |
-| momentum | 0.300 | 0.300 | no clear evidence either way |
-| relative_strength | 0.200 | 0.200 | no clear evidence either way |
-| volatility | 0.100 | 0.100 | no clear evidence either way |
-| liquidity | 0.150 | 0.150 | no clear evidence either way |
+| trend | 0.243 | 0.243 | no clear evidence either way |
+| momentum | 0.379 | 0.379 | no clear evidence either way |
+| relative_strength | 0.194 | 0.194 | no clear evidence either way |
+| volatility | 0.039 | 0.039 | no clear evidence either way |
+| liquidity | 0.146 | 0.146 | no clear evidence either way |
 
 No change suggested this week.
 

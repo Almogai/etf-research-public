@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-11T03:14:49Z",
+  "generated_utc": "2026-10-11T15:13:41Z",
   "session_date": "2026-10-09",
   "tqqq_run": "success",
   "tickers_requested": 518,
@@ -7,19 +7,19 @@
   "tickers_failed": 0,
   "data_quality": "pass",
   "eligible": 514,
-  "headlines_collected": 1332,
-  "started_utc": "2026-10-11T03:08:44Z",
-  "duration_secs": 365.2,
+  "headlines_collected": 1242,
+  "started_utc": "2026-10-11T15:07:09Z",
+  "duration_secs": 391.7,
   "status": "ok",
-  "last_success_utc": "2026-10-11T03:14:49Z",
+  "last_success_utc": "2026-10-11T15:13:41Z",
   "steps": {
     "prices": {
       "status": "ok",
-      "secs": 104.0
+      "secs": 91.1
     },
     "data_quality": {
       "status": "ok",
-      "secs": 43.6
+      "secs": 52.3
     },
     "screener": {
       "status": "ok",
@@ -35,11 +35,11 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 5.1
+      "secs": 3.7
     },
     "news": {
       "status": "ok",
-      "secs": 71.1
+      "secs": 70.9
     },
     "sec": {
       "status": "ok",
@@ -47,15 +47,15 @@
     },
     "smart_money": {
       "status": "ok",
-      "secs": 4.5
+      "secs": 3.8
     },
     "history": {
       "status": "ok",
-      "secs": 21.3
+      "secs": 14.8
     },
     "fundamentals": {
       "status": "ok",
-      "secs": 95.9
+      "secs": 135.5
     },
     "news_score": {
       "status": "ok",
@@ -107,24 +107,24 @@
     },
     "notify": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.1
     },
     "weekly_digest": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.1
     }
   },
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 1016,
-      "google_rss": 2637,
+      "yahoo_rss": 1030,
+      "google_rss": 2660,
       "stocks": 55,
-      "headlines": 1332
+      "headlines": 1242
     },
     "sec": {
       "ok": 55,
-      "requests": 118,
+      "requests": 119,
       "missing": 0
     },
     "smart_money": {
@@ -137,10 +137,10 @@
     }
   },
   "hot_top5": [
+    "AMD",
+    "CRWD",
     "ANET",
-    "VLO",
     "MPC",
-    "MSFT",
-    "AMD"
+    "VLO"
   ]
 }

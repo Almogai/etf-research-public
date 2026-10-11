@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-11T20:07:03Z · market session 2026-10-09 · app version 833a451 · 270 tests
+Generated 2026-10-11T20:18:14Z · market session 2026-10-09 · app version dc7572a · 273 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -11,16 +11,21 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Claude says (no report yet): –
 - Top 5 chips: CRWD, ANET, MPC, AMD, VLO · data check: pass
 
-## 💼 Portfolio
+## 💼 Portfolio (all accounts)
 
-| Ticker | Shares | Avg cost | Price | Value | P&L | Source |
-|---|---|---|---|---|---|---|
-| QQQ | 0.109179 | 743.00 | 751.27 | $82.02 | +0.90 | sync |
-| TQQQ | 7.08543 | 76.04 | 81.28 | $575.90 | +37.16 | sync |
-| CASH |  |  |  | $0.02 |  | sync |
+| Account | Value | Cash | Positions | Deposits |
+|---|---|---|---|---|
+| Robinhood (main: $570 floor rule) | $657.95 | $0.02 | 2 | $600.00 |
+| **All accounts** | **$657.95** | $0.02 | 2 | $600.00 |
+
+| Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
+|---|---|---|---|---|---|---|---|
+| Robinhood | QQQ | 0.109179 | 743.00 | 751.27 | $82.02 | +0.90 | sync |
+| Robinhood | TQQQ | 7.08543 | 76.04 | 81.28 | $575.90 | +37.16 | sync |
+| Robinhood | CASH |  |  |  | $0.02 |  | sync |
 
 - Net worth $657.95 · deposits $600.00 · withdrawals $0.00 · cash $0.02 · profit +57.95 (+9.7%)
-- $570 floor rule: **WARN** · TQQQ 81.28 vs floor price $80.45 · distance +1.0%
+- $570 floor rule (main account only): **WARN** · TQQQ 81.28 vs floor price $80.45 · distance +1.0%
 - Allocation: TQQQ 88%, QQQ 12%, Cash 0% · effective exposure 2.75x · 88% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.8x the market.
 - Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-11T19:59:06Z · last attempt 2026-10-11T19:59:06Z · not synced: Robinhood DIGITALASSET, Robinhood TRADITIONAL_IRA, Fidelity I, Fidelity I, Fidelity I, Fidelity I
 
@@ -38,12 +43,13 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 46 events since 2026-06-01T16:00:00Z · by type: {'trade': 19, 'notify': 7, 'import': 4, 'portfolio_change': 3, 'deposit': 3, 'workflow_failed': 2, 'floor_event': 2, 'dividend': 2, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 47 events since 2026-06-01T16:00:00Z · by type: {'trade': 19, 'notify': 7, 'import': 4, 'portfolio_change': 3, 'deposit': 3, 'workflow_failed': 2, 'floor_event': 2, 'dividend': 2, 'sync_request': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $300, trades 10, alerts 7, imports 4; 2026-09: deposits $0, trades 5, alerts 0, imports 0; 2026-08: deposits $0, trades 4, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0
 
 Last 30 days:
 - 2026-10-11 20:07 · notify (workflow): push sent: סיכום שבועי
 - 2026-10-11 20:07 · notify (workflow): push sent: ערב · 2026-10-09
+- 2026-10-11 20:06 · sync_request (manual): sync with Robinhood requested
 - 2026-10-11 19:59 · notify (workflow): push sent: 🚨 TQQQ
 - 2026-10-11 15:13 · notify (workflow): push sent: סיכום שבועי
 - 2026-10-11 15:13 · notify (workflow): push sent: ערב · 2026-10-09
@@ -96,10 +102,11 @@ Alerts and what changed in my holdings after them (3 days):
 - [warn] Concentration: 88% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.8x — fix: 💼 התיק שלי → 📊 חלוקה וחשיפה (the limit slider is there); spread the money or accept the risk knowingly (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
 - [info] Daily signals: 2 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
+- [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-11T20:06); Broker sync: in_progress (2026-10-11T20:06); Daily signals: in_progress (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-11T20:17); Broker sync: success (2026-10-11T20:11); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
 - Pushes today: 6 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09; push sent: סיכום שבועי; push sent: 🚨 TQQQ; push sent: ערב · 2026-10-09)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 
@@ -126,5 +133,5 @@ Alerts and what changed in my holdings after them (3 days):
 - **מתקדם (Advanced)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-11T20:07:01Z; TQQQ run success; data check pass
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 46 events since 2026-06-01T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 47 events since 2026-06-01T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-12T11:15:01Z · market session 2026-10-09 · app version 8e58d8b · 351 tests
+Generated 2026-10-12T11:20:28Z · market session 2026-10-09 · app version ae538f7 · 351 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -48,7 +48,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $1,230.00 · deposits $1,160.00 · withdrawals $0.00 · cash $7.34 · profit +70.00 (+6.0%)
 - $570 floor rule (main account only): **WARN** · TQQQ 81.28 vs floor price $80.45 · distance +1.0%
 - Allocation: TQQQ 48%, FXLCX 27%, FXINX 8%, QQQ 7%, FITFX 5%, FLAPX 2%, FXSCX 1%, XRP-USD 1%, Cash 1%, FXMCX 0%, FLXSX 0% · effective exposure 1.96x · 48% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-12T11:14:44Z · last attempt 2026-10-12T11:14:44Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-12T11:20:13Z · last attempt 2026-10-12T11:20:13Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -140,7 +140,7 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-12T11:14); Broker sync: in_progress (2026-10-12T11:14); Collect Claude report: success (2026-10-12T10:20); Chat eval (manual): success (2026-10-12T03:09); Claude portfolio decision: success (2026-10-12T02:55)
+- Workflows: Collect Claude report: in_progress (2026-10-12T11:19); Publish app state: success (2026-10-12T11:14); Broker sync: success (2026-10-12T11:14); Chat eval (manual): success (2026-10-12T03:09); Claude portfolio decision: success (2026-10-12T02:55)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

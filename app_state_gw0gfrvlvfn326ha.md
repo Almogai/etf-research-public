@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-12T02:55:21Z · market session 2026-10-09 · app version f70ea27 · 350 tests
+Generated 2026-10-12T03:08:51Z · market session 2026-10-09 · app version f484ed2 · 351 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -127,7 +127,7 @@ Alerts and what changed in my holdings after them (3 days):
 - [info] Fidelity · Brokerage 4: cash in the synced history dips by $19.95 around 2026-10-05 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
 - [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
-- [warn] Claude portfolio decision: 1 failed run(s) in the last 3 days — the latest run failed — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
+- [info] Claude portfolio decision: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
@@ -141,7 +141,7 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-12T02:54); Claude portfolio decision: failure (2026-10-12T02:50); Chat eval (manual): success (2026-10-12T02:47); Collect Claude report: success (2026-10-12T01:55); Broker sync: success (2026-10-12T01:55); Daily signals: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-12T03:08); Chat eval (manual): success (2026-10-12T03:01); Claude portfolio decision: success (2026-10-12T02:55); Collect Claude report: success (2026-10-12T01:55); Broker sync: success (2026-10-12T01:55); Daily signals: success (2026-10-11T19:58)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

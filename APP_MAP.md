@@ -21,6 +21,7 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 - `history` **📜 היסטוריה** (History): similar market periods since 1990 and event base rates
 - `advanced` **⚙️ מתקדם** (Advanced): the original English tables: overview, research, track record, charts, backtest, log, connections
 - `connections` **🔌 חיבורים** (Connections): is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
+- `claude_portfolio` **🤖 תיק Claude (וירטואלי)** (Claude portfolio (virtual)): the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)
 - `chat` **💬 צ'אט עם Claude** (Chat with Claude): the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve
 
 ## Screens in detail
@@ -159,6 +160,21 @@ the original English tables: overview, research, track record, charts, backtest,
 
 ### `connections` — ⋯ עוד → 🔌 חיבורים (Connections)
 is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
+
+### `claude_portfolio` — ⋯ עוד → 🤖 תיק Claude (וירטואלי) (Claude portfolio (virtual))
+the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)
+- `claude_portfolio.decision` **ההחלטה של {d}** (Decision of {d}, card): today's decision: what Claude did and why, what it watches tomorrow, the cost  
+  path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → ההחלטה של {d}
+- `claude_portfolio.positions` **פוזיציות פתוחות** (Open positions, cards): each open position + ✖️ סגור (close at the next price) and 🚫 חסום  
+  path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → פוזיציות פתוחות
+- `claude_portfolio.closed` **עסקאות סגורות ({n}) ומה Claude למד** (Closed trades ({n}) and what Claude learned, expander): closed trades, ✓/✗ vs the benchmark, Claude's lesson for each  
+  path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → עסקאות סגורות ({n}) ומה Claude למד
+- `claude_portfolio.sources` **תוצאות לפי מקור הרעיון** (Results by idea source, table): hit rate and average return by idea source  
+  path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → תוצאות לפי מקור הרעיון
+- `claude_portfolio.journal` **יומן הלמידה** (Learning journal, expander): the learning journal + weekly lessons  
+  path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → יומן הלמידה
+- `claude_portfolio.controls` **השליטה שלך** (Your controls, expander): pause/resume, unblock, suggest an idea; the safety rails  
+  path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → השליטה שלך
 
 ### `chat` — ⋯ עוד → 💬 צ'אט עם Claude (Chat with Claude)
 the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve

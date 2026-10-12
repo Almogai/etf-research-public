@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-12T00:18:04Z · market session 2026-10-09 · app version e36ed5f · 302 tests
+Generated 2026-10-12T01:49:37Z · market session 2026-10-09 · app version b747fc3 · 328 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -129,9 +129,19 @@ Alerts and what changed in my holdings after them (3 days):
 - [info] Daily signals: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 - [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
+## 🤖 Claude portfolio (VIRTUAL money, paper trading)
+
+- +0.0% vs QQQ n/a after 0 trading days · 0 closed trades, 0 winners · 0 open
+- Started 2026-10-12 with $10,000 · value $10,000.00 · cash $10,000.00 · vs benchmark n/a · QQQ n/a · max drawdown 0.0% · paused: False · blocked: -
+- ⚠️ Too early to judge: fewer than 20 closed trades.
+
+| Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
+|---|---|---|---|---|---|---|---|---|---|
+| (no positions) | | | | | | | | | |
+
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-12T00:17); Broker sync: success (2026-10-11T20:21); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-12T01:49); Broker sync: success (2026-10-11T20:21); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 
@@ -161,3 +171,4 @@ Alerts and what changed in my holdings after them (3 days):
 - **הפעילות שלי (My activity)** [`activity`]: 121 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **צ'אט עם Claude (Chat with Claude)** [`chat`]: the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve
+- **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

@@ -1,12 +1,14 @@
 # My activity
 
-Generated 2026-10-12T21:54:12Z. Every event in the app, newest first (129 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-12T21:55:55Z. Every event in the app, newest first (131 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
 | 2026-10-12 21:54 | notify | workflow |  | push sent: ערב · 2026-10-12 |  |
 | 2026-10-12 21:44 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543 | {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} → {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} |
 | 2026-10-12 21:30 | floor_event | workflow | TQQQ | $570 floor rule OK: value $720.19; floor price $63.01; close is +26.35% ($+16.60/share) from it | WARN → OK |
+| 2026-10-12 20:53 | claude_picks | workflow |  | Claude picks received (2026-10-12, 2026-10-12, 2026-10-12) |  |
+| 2026-10-12 20:53 | claude_report | workflow |  | morning report 2026-10-12: 6/6 parts |  |
 | 2026-10-12 19:15 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543 | {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 7.085433}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} → {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} |
 | 2026-10-12 19:14 | sync_request | manual |  | sync with Robinhood requested |  |
 | 2026-10-12 14:43 | claude_portfolio | workflow |  | Claude portfolio decision: 3 orders, 0 rejected ($0.036) |  |

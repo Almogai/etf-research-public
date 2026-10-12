@@ -22,7 +22,8 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 - `advanced` **⚙️ מתקדם** (Advanced): the original English tables: overview, research, track record, charts, backtest, log, connections
 - `connections` **🔌 חיבורים** (Connections): is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
 - `claude_portfolio` **🤖 תיק Claude (וירטואלי)** (Claude portfolio (virtual)): the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)
-- `chat` **💬 צ'אט עם Claude** (Chat with Claude): the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve
+- `live` **🎯 הבחירות של Claude — חי** (Claude's picks — live): morning Claude's top 5 right now: source (ntfy message, the app's archive or the Google Drive backup), average since the pick vs QQQ, a card per pick (price, today, since the pick, status: in/below/above the buy zone, stop hit, target hit, a bar from stop to target), today's 5-minute chart (refreshes every minute while the market is open), sync check vs the app's top 5
+- `chat` **💬 צ'אט עם Claude** (Chat with Claude): the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 
 ## Screens in detail
 ### `today` — 🏠 היום (Today)
@@ -176,8 +177,11 @@ the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: valu
 - `claude_portfolio.controls` **השליטה שלך** (Your controls, expander): pause/resume, unblock, suggest an idea; the safety rails  
   path: ⋯ עוד → 🤖 תיק Claude (וירטואלי) → השליטה שלך
 
+### `live` — ⋯ עוד → 🎯 הבחירות של Claude — חי (Claude's picks — live)
+morning Claude's top 5 right now: source (ntfy message, the app's archive or the Google Drive backup), average since the pick vs QQQ, a card per pick (price, today, since the pick, status: in/below/above the buy zone, stop hit, target hit, a bar from stop to target), today's 5-minute chart (refreshes every minute while the market is open), sync check vs the app's top 5
+
 ### `chat` — ⋯ עוד → 💬 צ'אט עם Claude (Chat with Claude)
-the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve
+the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - `chat.ask` **שאל אותי משהו… (אפשר לצרף צילום מסך)** (Ask me anything… (you can attach a screenshot), input): type a question; 📎 attach a screenshot (it is resized and sent with the screen data)  
   path: ⋯ עוד → 💬 צ'אט עם Claude → שאל אותי משהו… (אפשר לצרף צילום מסך)
 - `chat.review` **סקירה** (Review, button): 📋 the weekly review: what I did, decisions vs my rules, data problems, 3 ideas  
@@ -188,6 +192,8 @@ the in-app Claude analyst (also the round 💬 button on every screen): explains
   path: ⋯ עוד → 💬 צ'אט עם Claude → שאלה קשה (מודל חזק ויקר יותר)
 - `chat.approve` **אשר** (Approve, button): on a ✋ proposal card: apply the change (nothing changes without it)  
   path: ⋯ עוד → 💬 צ'אט עם Claude → אשר
+- `chat.code_fix` **אשר ופתח PR** (Approve and open PR, button): on a 🛠️ code-fix card: see the diff, then open a GitHub Pull Request (never merged by the app)  
+  path: ⋯ עוד → 💬 צ'אט עם Claude → אשר ופתח PR
 
 ## Common tasks, step by step
 ### Import a broker file

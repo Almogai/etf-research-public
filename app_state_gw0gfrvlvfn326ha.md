@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-12T19:15:18Z · market session 2026-10-09 · app version 00de38b · 351 tests
+Generated 2026-10-12T19:17:24Z · market session 2026-10-09 · app version d0ed3d6 · 351 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -123,7 +123,6 @@ Alerts and what changed in my holdings after them (3 days):
 ## ⚠️ Issues to notice
 - [info] Robinhood · Crypto: cash in the synced history dips by $297.05 around 2026-05-30 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [warn] Holdings mismatch in robinhood: TQQQ imported transactions give 7.08543 shares, the app has 9.04649 — fix: 💼 התיק שלי → 📥 ייבוא קובץ מהברוקר: import the latest activity file (choose merge), or fix the units in ✏️ עריכה → החזקות (screen: portfolio)
-- [warn] Cash in Robinhood · Brokerage's transactions goes negative ($-21.20): a deposit of about $21.20 on or before 2026-08-25 is probably missing — fix: 💼 התיק שלי → the issue card: 'הוסף הפקדה חסרה' (pre-filled, you confirm) or 'התעלם' (screen: portfolio)
 - [info] Fidelity · Brokerage 1: cash in the synced history dips by $248.50 around 2026-09-16 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [info] Fidelity · Brokerage 4: cash in the synced history dips by $19.95 around 2026-10-05 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [warn] Concentration: 54% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.1x — fix: 💼 התיק שלי → 📊 חלוקה וחשיפה (the limit slider is there); spread the money or accept the risk knowingly (screen: portfolio)
@@ -149,7 +148,7 @@ Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+1
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-12T19:14); Broker sync: in_progress (2026-10-12T19:14); Collect Claude report: success (2026-10-12T17:08); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
+- Workflows: Publish app state: in_progress (2026-10-12T19:16); Broker sync: success (2026-10-12T19:14); Collect Claude report: success (2026-10-12T17:08); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

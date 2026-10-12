@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-12T01:55:20Z · market session 2026-10-09 · app version 1a08961 · 331 tests
+Generated 2026-10-12T01:56:10Z · market session 2026-10-09 · app version 1a08961 · 331 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -126,13 +126,12 @@ Alerts and what changed in my holdings after them (3 days):
 - [info] Fidelity · Brokerage 1: cash in the synced history dips by $248.50 around 2026-09-16 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [info] Fidelity · Brokerage 4: cash in the synced history dips by $19.95 around 2026-10-05 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [warn] $570 floor rule WARN: TQQQ is +1.0% from the floor price $80.45 — fix: Decide whether to add money or follow the rule; see 🏠 היום (screen: today)
-- [info] Daily signals: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 - [info] Broker sync: 1 failed run(s) in the last 3 days — later runs succeeded — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- +0.0% vs QQQ n/a after 0 trading days · 0 closed trades, 0 winners · 0 open
-- Started 2026-10-12 with $10,000 · value $10,000.00 · cash $10,000.00 · vs benchmark n/a · QQQ n/a · max drawdown 0.0% · paused: False · blocked: -
+- +0.0% vs QQQ +0.0% after 1 trading days · 0 closed trades, 0 winners · 0 open
+- Started 2026-10-12 with $10,000 · value $10,000.00 · cash $10,000.00 · vs SPY +0.0% · QQQ +0.0% · max drawdown 0.0% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
@@ -141,7 +140,7 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-12T01:54); Broker sync: success (2026-10-11T20:21); Daily signals: success (2026-10-11T19:58); Collect Claude report: success (2026-10-11T19:58)
+- Workflows: Claude portfolio decision: in_progress (2026-10-12T01:55); Collect Claude report: in_progress (2026-10-12T01:55); Broker sync: in_progress (2026-10-12T01:55); Publish app state: success (2026-10-12T01:54); Daily signals: success (2026-10-11T19:58)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

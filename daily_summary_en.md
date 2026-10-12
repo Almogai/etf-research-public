@@ -1,9 +1,9 @@
-# Daily summary · 2026-10-09
+# Daily summary · 2026-10-12
 
-- Market today: QQQ +0.5%, S&P 500 (SPY) +0.6%.
-- Market mood: choppy 🌊, 48% of stocks in an uptrend, VIX 14.8.
-- Today's top 5: CRWD, ANET, MPC, AMD, VLO. #1 CRWD: News: beat.
+- Market today: QQQ -0.7%, S&P 500 (SPY) -0.1%.
+- Market mood: choppy 🌊, 50% of stocks in an uptrend, VIX 15.2.
+- Today's top 5: PLTR, MPC, MSFT, CRWD, SMCI. #1 PLTR: New 52-week high; news: beat, guidance raised, upgrade.
 - Insider buying: 👥 COO: 3 insiders bought $1.88M · 👑 DVN: CEO bought $200K.
-- No results for earlier picks yet.
+- Picks from 2026-10-09: 2 of 5 beat QQQ (avg -1.6% vs -0.7%).
 
 *Rule-based analysis, not financial advice.*

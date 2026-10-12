@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-12T02:13:12Z · market session 2026-10-09 · app version 11f7764 · 346 tests
+Generated 2026-10-12T02:16:13Z · market session 2026-10-09 · app version 453f8a0 · 346 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -140,7 +140,7 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## ⚙️ Health
 - Research run 2026-10-11T20:07:01Z (ok), TQQQ run success, data check pass
-- Workflows: Publish app state: in_progress (2026-10-12T02:12); Claude portfolio decision: success (2026-10-12T01:55); Collect Claude report: success (2026-10-12T01:55); Broker sync: success (2026-10-12T01:55); Daily signals: success (2026-10-11T19:58)
+- Workflows: Publish app state: in_progress (2026-10-12T02:15); Claude portfolio decision: success (2026-10-12T01:55); Collect Claude report: success (2026-10-12T01:55); Broker sync: success (2026-10-12T01:55); Daily signals: success (2026-10-11T19:58)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); workflow run failed: Daily signals (#•••)
 

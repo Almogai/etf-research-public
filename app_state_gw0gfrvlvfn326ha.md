@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-13T02:00:04Z · market session 2026-10-12 · app version 9b8dbc6 · 372 tests
+Generated 2026-10-13T02:00:15Z · market session 2026-10-12 · app version 992957b · 372 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -48,7 +48,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $1,372.97 · deposits $1,160.00 · withdrawals $0.00 · cash $7.32 · profit +212.97 (+18.4%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **OK** · TQQQ 79.61 vs 200-day average $64.44 · distance +23.5%
 - Allocation: TQQQ 54%, FXLCX 25%, FXINX 8%, QQQ 6%, FITFX 4%, FLAPX 2%, FXSCX 1%, XRP-USD 1%, Cash 1%, FXMCX 0%, FLXSX 0% · effective exposure 2.07x · 54% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.1x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-12T21:44:42Z · last attempt 2026-10-12T21:44:42Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-13T01:59:52Z · last attempt 2026-10-13T01:59:52Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -65,10 +65,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 133 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 8, 'sync_request': 5, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'reconcile': 2, 'workflow_failed': 2, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'claude_portfolio': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 134 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 8, 'sync_request': 5, 'import': 4, 'dividend': 4, 'reconcile': 3, 'floor_event': 3, 'portfolio_change': 3, 'workflow_failed': 2, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'claude_portfolio': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $507, trades 27, alerts 8, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-13 02:00 · reconcile (sync): sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543
 - 2026-10-13 01:59 · sync_request (manual): sync with Robinhood requested
 - 2026-10-12 21:54 · notify (workflow): push sent: ערב · 2026-10-12
 - 2026-10-12 21:44 · reconcile (sync): sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543
@@ -108,7 +109,6 @@ Last 30 days:
 - 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.557 FITFX @ 18.99 ($-10.57)
 - 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.059 FLAPX @ 24.88 ($-1.46)
 - 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 1.383 FXLCX @ 12.03 ($-16.64)
-- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 4 FLGXX @ 1.00 ($-4.00)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-09 21:30 $570 floor rule WARN (TQQQ close 81.28) → My money: import 21 rows (file); My money: holdings from import (file); My money: import 4 rows (file); My money: holdings from import (file)
@@ -151,7 +151,7 @@ Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+1
 
 ## ⚙️ Health
 - Research run 2026-10-12T21:54:10Z (ok), TQQQ run success, data check warn
-- Workflows: Publish app state: in_progress (2026-10-13T01:59); Broker sync: in_progress (2026-10-13T01:59); Daily signals: success (2026-10-12T21:44); Collect Claude report: success (2026-10-12T17:08); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
+- Workflows: Publish app state: success (2026-10-13T01:59); Broker sync: in_progress (2026-10-13T01:59); Daily signals: success (2026-10-12T21:44); Collect Claude report: success (2026-10-12T17:08); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); second source unreachable for: QQQ, SPY, TQQQ
 
@@ -179,7 +179,7 @@ Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+1
 - **מתקדם (Advanced)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-12T21:54:10Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 133 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 134 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **צ'אט עם Claude (Chat with Claude)** [`chat`]: the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

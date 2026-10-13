@@ -3,8 +3,8 @@
 Every screen of the app, in order, with the exact Hebrew labels (English in brackets), what each element does and the path to it. Stable ids (`page` / `page.section`) let a chat say navigate("portfolio", "import").
 
 ## Bottom tabs
-- `today` **🏠 היום** (Today): one phone screen, live: a top line '✅ הכל מסונכרן · עודכן <time> שעון מיאמי' (or what is missing) + market open/closed + 🔄 refresh now; 4 cards: my money in ALL accounts (live total, today $/% , since the start, TQQQ vs its 200-day line green/amber/red, share counts as of the last broker sync), Claude's picks (price, today, since the pick, status, stop→target bar, up/down vs SPY), the market in 2-3 Hebrew sentences, what to do (only actions). Refreshes itself every 60 s while the market is open (9:30-16:00 Miami time)
-- `money` **💼 התיק** (Portfolio): every holding in every account in one table (live prices × broker share counts), total/today/since the start, Claude's VIRTUAL portfolio vs QQQ and SPY, and the ⚙️ Advanced button
+- `today` **🏠 היום** (Today): one phone screen, live: a top line '✅ הכל מסונכרן · עודכן <time> שעון מיאמי' (or what is missing) + market open/closed + 🔄 refresh now; 4 cards: my money in ALL accounts (live total, today $/% , since the start, TQQQ vs its 200-day line green/amber/red, share counts as of the last broker sync), Claude's (virtual) portfolio (value, return vs SPY, each position with a stop→target bar and % since Claude bought, this morning's new picks), the market in 2-3 Hebrew sentences, what to do (only actions). Refreshes itself every 60 s while the market is open (9:30-16:00 Miami time)
+- `money` **💼 התיק** (Portfolio): the total (today, since the start, net return), where the money is (one bar), every holding per account with its value and gain vs the broker's average price, and the ⚙️ Advanced button
 - `chat` **💬 Claude** (Claude): the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 
 ## Under 💼 → ⚙️ מתקדם (Advanced), in order
@@ -29,11 +29,11 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 
 ## Screens in detail
 ### `today` — 🏠 היום (Today)
-one phone screen, live: a top line '✅ הכל מסונכרן · עודכן <time> שעון מיאמי' (or what is missing) + market open/closed + 🔄 refresh now; 4 cards: my money in ALL accounts (live total, today $/% , since the start, TQQQ vs its 200-day line green/amber/red, share counts as of the last broker sync), Claude's picks (price, today, since the pick, status, stop→target bar, up/down vs SPY), the market in 2-3 Hebrew sentences, what to do (only actions). Refreshes itself every 60 s while the market is open (9:30-16:00 Miami time)
+one phone screen, live: a top line '✅ הכל מסונכרן · עודכן <time> שעון מיאמי' (or what is missing) + market open/closed + 🔄 refresh now; 4 cards: my money in ALL accounts (live total, today $/% , since the start, TQQQ vs its 200-day line green/amber/red, share counts as of the last broker sync), Claude's (virtual) portfolio (value, return vs SPY, each position with a stop→target bar and % since Claude bought, this morning's new picks), the market in 2-3 Hebrew sentences, what to do (only actions). Refreshes itself every 60 s while the market is open (9:30-16:00 Miami time)
 - `today.money` **💰 הכסף שלי** (💰 My money, card): total, today, since the start; one line TQQQ vs its 200-day average: green OK / amber less than 3% above / red below = exit  
   path: 🏠 היום → 💰 הכסף שלי
-- `today.picks` **🧠 הבחירות של Claude** (🧠 Claude's picks, card): Claude's picks: price, % today, % since the pick, a bar from stop to target; how many up/down vs SPY; tap -> 📊 stock  
-  path: 🏠 היום → 🧠 הבחירות של Claude
+- `today.claude` **🤖 התיק של Claude** (🤖 Claude's portfolio, card): Claude's virtual portfolio: value vs SPY, each position with a stop→target bar and % since bought, this morning's new picks; tap -> 🤖  
+  path: 🏠 היום → 🤖 התיק של Claude
 - `today.market` **🌎 השוק במשפט** (🌎 The market in a sentence, card): 2-3 lines from this morning's report; 'Full report' opens 📰  
   path: 🏠 היום → 🌎 השוק במשפט
 - `today.todo` **✅ מה לעשות** (✅ What to do, card): only actions that need me (rule says exit, signal changed, reconnect Robinhood, a held pick hit stop/target); otherwise 'אין מה לעשות היום'  
@@ -42,13 +42,13 @@ one phone screen, live: a top line '✅ הכל מסונכרן · עודכן <tim
   path: 🏠 היום → רענן עכשיו: מחירים חדשים ובקשת סנכרון מהברוקר
 
 ### `money` — 💼 התיק (Portfolio)
-every holding in every account in one table (live prices × broker share counts), total/today/since the start, Claude's VIRTUAL portfolio vs QQQ and SPY, and the ⚙️ Advanced button
+the total (today, since the start, net return), where the money is (one bar), every holding per account with its value and gain vs the broker's average price, and the ⚙️ Advanced button
 - `money.total` **💰 הכסף שלי · כל החשבונות** (💰 My money · all accounts, card): all accounts: total, today, money in, since the start, share counts as of  
   path: 💼 התיק → 💰 הכסף שלי · כל החשבונות
 - `money.holdings` **מניה** (Holding, table): every holding per account: units, today %, value  
   path: 💼 התיק → מניה
-- `money.virtual` **התיק הווירטואלי של Claude (כסף לא אמיתי)** (Claude's virtual portfolio (not real money), card): Claude's virtual $10,000: value, return, vs QQQ and SPY; link to its screen  
-  path: 💼 התיק → התיק הווירטואלי של Claude (כסף לא אמיתי)
+- `money.where` **איפה הכסף** (Where the money is, bar): share of each holding in the total  
+  path: 💼 התיק → איפה הכסף
 - `money.advanced` **מתקדם: סורק, בדיקת עבר, הגדרות, יומנים ועוד** (Advanced: screener, backtest, settings, logs and more, link): ⚙️ Advanced: every other screen  
   path: 💼 התיק → מתקדם: סורק, בדיקת עבר, הגדרות, יומנים ועוד
 
@@ -265,7 +265,7 @@ the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening 
 ### Write an instruction to Claude
 1. ⚙️ מתקדם → 🎯 כוונון → 🧠 הנחיה ל-Claude
 2. type it (no personal details: it is public)
-3. שלח ל-Claude; the answer appears there after the next 7:20 collection (Miami time)
+3. שלח ל-Claude; the answer appears there after the next 6:55 collection (Miami time)
 
 ### Download a backup
 1. 💼 → ⚙️ מתקדם → 📦 הורד את הנתונים שלי (zip)

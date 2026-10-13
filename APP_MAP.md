@@ -3,13 +3,14 @@
 Every screen of the app, in order, with the exact Hebrew labels (English in brackets), what each element does and the path to it. Stable ids (`page` / `page.section`) let a chat say navigate("portfolio", "import").
 
 ## Bottom tabs
-- `today` **🏠 היום** (Today): one screen: status light + TQQQ/$570 sentence, my money, what changed, Claude says, today's top 5
+- `today` **🏠 היום** (Today): 4 big cards: my money (+ TQQQ vs its 200-day average, green/amber/red), Claude's picks (price, today, since the pick, stop→target bar, up/down vs SPY), the market in a sentence, what to do (only actions that need me)
 - `top5` **🔥 Top 5** (Top 5): the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist
 - `portfolio` **💼 התיק שלי** (My money): net worth, a card per holding, allocation, broker import, editing (trade, deposits, holdings, accounts, undo), TQQQ rules
 - `tune` **🎯 כוונון** (Tune): benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat
 - `more` **⋯ עוד** (More): the list of every other screen + language + reload + download my data
 
 ## Under ⋯ עוד (More), in order
+- `status` **📋 סטטוס מלא** (Full status): what Today used to show: pre-open checklist, traffic light + TQQQ/200-day sentence, my money, what changed since yesterday, Claude says, today's top 5 chips
 - `overview` **📋 סקירה מלאה** (Full overview): the previous home page: summary, mood, hot 5 cards, stay-away 5
 - `stock` **📊 מניה** (Stock details): any stock: score + plain sentence, fundamentals, chart, factor bars, news vs Claude, insiders, headlines
 - `report` **📰 דוח הבוקר** (Morning report): morning Claude's full report, archive by date, that day's picks, Open in Google Drive
@@ -27,17 +28,30 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 
 ## Screens in detail
 ### `today` — 🏠 היום (Today)
-one screen: status light + TQQQ/$570 sentence, my money, what changed, Claude says, today's top 5
-- `today.status` **הכול בסדר** (All good, card): traffic light: green ok / yellow close to a rule / red rule broken or signal changed  
-  path: 🏠 היום → הכול בסדר
-- `today.money` **שווי החשבון** (Account value, card): account value, today's change, profit vs deposits  
-  path: 🏠 היום → שווי החשבון
-- `today.changed` **🔄 מה השתנה מאתמול** (🔄 What changed since yesterday, card): up to 5 bullets of what changed since yesterday  
-  path: 🏠 היום → 🔄 מה השתנה מאתמול
-- `today.claude` **🧠 Claude אומר** (🧠 Claude says, card): 3 lines from the morning report; 'Full report' opens 📰  
-  path: 🏠 היום → 🧠 Claude אומר
-- `today.top5` **ה-Top 5 של היום** (Today's top 5, chips): today's top 5 tickers; tap -> 🔥 Top 5  
-  path: 🏠 היום → ה-Top 5 של היום
+4 big cards: my money (+ TQQQ vs its 200-day average, green/amber/red), Claude's picks (price, today, since the pick, stop→target bar, up/down vs SPY), the market in a sentence, what to do (only actions that need me)
+- `today.money` **💰 הכסף שלי** (💰 My money, card): total, today, since the start; one line TQQQ vs its 200-day average: green OK / amber less than 3% above / red below = exit  
+  path: 🏠 היום → 💰 הכסף שלי
+- `today.picks` **🧠 הבחירות של Claude** (🧠 Claude's picks, card): Claude's picks: price, % today, % since the pick, a bar from stop to target; how many up/down vs SPY; tap -> 📊 stock  
+  path: 🏠 היום → 🧠 הבחירות של Claude
+- `today.market` **🌎 השוק במשפט** (🌎 The market in a sentence, card): 2-3 lines from this morning's report; 'Full report' opens 📰  
+  path: 🏠 היום → 🌎 השוק במשפט
+- `today.todo` **✅ מה לעשות** (✅ What to do, card): only actions that need me (rule says exit, signal changed, reconnect Robinhood, a held pick hit stop/target); otherwise 'אין מה לעשות היום'  
+  path: 🏠 היום → ✅ מה לעשות
+- `today.details` **כל הפרטים** (All the details, link): 📋 Full status (the old Today page)  
+  path: 🏠 היום → כל הפרטים
+
+### `status` — ⋯ עוד → 📋 סטטוס מלא (Full status)
+what Today used to show: pre-open checklist, traffic light + TQQQ/200-day sentence, my money, what changed since yesterday, Claude says, today's top 5 chips
+- `status.status` **הכול בסדר** (All good, card): traffic light: green ok / yellow close to a rule / red rule broken or signal changed  
+  path: ⋯ עוד → 📋 סטטוס מלא → הכול בסדר
+- `status.money` **שווי החשבון** (Account value, card): account value, today's change, profit vs deposits  
+  path: ⋯ עוד → 📋 סטטוס מלא → שווי החשבון
+- `status.changed` **🔄 מה השתנה מאתמול** (🔄 What changed since yesterday, card): up to 5 bullets of what changed since yesterday  
+  path: ⋯ עוד → 📋 סטטוס מלא → 🔄 מה השתנה מאתמול
+- `status.claude` **🧠 Claude אומר** (🧠 Claude says, card): 3 lines from the morning report; 'Full report' opens 📰  
+  path: ⋯ עוד → 📋 סטטוס מלא → 🧠 Claude אומר
+- `status.top5` **ה-Top 5 של היום** (Today's top 5, chips): today's top 5 tickers; tap -> 🔥 Top 5  
+  path: ⋯ עוד → 📋 סטטוס מלא → ה-Top 5 של היום
 
 ### `top5` — 🔥 Top 5 (Top 5)
 the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist
@@ -78,7 +92,7 @@ net worth, a card per holding, allocation, broker import, editing (trade, deposi
   path: 💼 התיק שלי → היסטוריה
 - `portfolio.charts` **חלוקה ושווי לאורך זמן** (Allocation and value over time, expander): pies and value over time  
   path: 💼 התיק שלי → חלוקה ושווי לאורך זמן
-- `portfolio.rules` **TQQQ והכללים** (TQQQ and the rules, expander): TQQQ positions, exposure gauge, $570 floor and rules A-E  
+- `portfolio.rules` **TQQQ והכללים** (TQQQ and the rules, expander): TQQQ positions, exposure gauge, the 200-day exit rule and rules A-E  
   path: 💼 התיק שלי → TQQQ והכללים
 - `portfolio.download` **הורד את הנתונים שלי (zip)** (Download my data (zip), button): download every data file as a zip  
   path: 💼 התיק שלי → הורד את הנתונים שלי (zip)
@@ -254,7 +268,7 @@ the in-app Claude analyst (also the round 💬 button on every screen): explains
 | Sign | Meaning | What to do |
 |---|---|---|
 | 🟢 / green | all good (traffic light, data check pass, connection ok) | nothing |
-| 🟡 / yellow | close to a rule (e.g. TQQQ within 2% of the $570 floor) or a data warning | watch; no action needed yet |
+| 🟡 / yellow | close to a rule (e.g. TQQQ less than 3% above its 200-day average) or a data warning | watch; no action needed yet |
 | 🔴 / red | a rule is broken, the signal changed, or a check failed | read the sentence on 🏠; decide (sell / add money) per your rules |
 | ⚠️ לא מאומת / unverified | today's QQQ/TQQQ prices didn't match a second source | don't act on the TQQQ signal until the next check |
 | ⚠️ in the import preview | differences with the app, negative cash (missing deposit), or an option that overwrites data | read it before אשר ושמור |

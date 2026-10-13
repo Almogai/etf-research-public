@@ -1,6 +1,6 @@
 # My activity
 
-Generated 2026-10-12T21:55:55Z. Every event in the app, newest first (131 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-13T01:41:31Z. Every event in the app, newest first (132 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@ Generated 2026-10-12T21:55:55Z. Every event in the app, newest first (131 events
 | 2026-10-12 20:53 | claude_picks | workflow |  | Claude picks received (2026-10-12, 2026-10-12, 2026-10-12) |  |
 | 2026-10-12 20:53 | claude_report | workflow |  | morning report 2026-10-12: 6/6 parts |  |
 | 2026-10-12 19:15 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543 | {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 7.085433}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} → {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} |
+| 2026-10-12 19:15 | trade_detected | sync | TQQQ | Robinhood · Brokerage: Detected: you bought about 1.96 TQQQ at about $79.55 | 7.085433 → 9.046493 |
 | 2026-10-12 19:14 | sync_request | manual |  | sync with Robinhood requested |  |
 | 2026-10-12 14:43 | claude_portfolio | workflow |  | Claude portfolio decision: 3 orders, 0 rejected ($0.036) |  |
 | 2026-10-12 11:14 | sync_request | manual |  | sync with Robinhood requested |  |

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-13T01:41:30Z · market session 2026-10-12 · app version 5c013a8 · 372 tests
+Generated 2026-10-13T02:00:04Z · market session 2026-10-12 · app version 9b8dbc6 · 372 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -65,10 +65,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 132 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 8, 'sync_request': 4, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'reconcile': 2, 'workflow_failed': 2, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'claude_portfolio': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 133 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 8, 'sync_request': 5, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'reconcile': 2, 'workflow_failed': 2, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'claude_portfolio': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $507, trades 27, alerts 8, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-13 01:59 · sync_request (manual): sync with Robinhood requested
 - 2026-10-12 21:54 · notify (workflow): push sent: ערב · 2026-10-12
 - 2026-10-12 21:44 · reconcile (sync): sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543
 - 2026-10-12 21:30 · floor_event (workflow): $570 floor rule OK: value $720.19; floor price $63.01; close is +26.35% ($+16.60/share) from it
@@ -108,7 +109,6 @@ Last 30 days:
 - 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.059 FLAPX @ 24.88 ($-1.46)
 - 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 1.383 FXLCX @ 12.03 ($-16.64)
 - 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 4 FLGXX @ 1.00 ($-4.00)
-- 2026-10-08 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.057 FLXSX @ 20.27 ($-1.15)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-09 21:30 $570 floor rule WARN (TQQQ close 81.28) → My money: import 21 rows (file); My money: holdings from import (file); My money: import 4 rows (file); My money: holdings from import (file)
@@ -151,7 +151,7 @@ Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+1
 
 ## ⚙️ Health
 - Research run 2026-10-12T21:54:10Z (ok), TQQQ run success, data check warn
-- Workflows: Publish app state: cancelled (2026-10-13T01:40); Daily signals: success (2026-10-12T21:44); Broker sync: success (2026-10-12T19:14); Collect Claude report: success (2026-10-12T17:08); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
+- Workflows: Publish app state: in_progress (2026-10-13T01:59); Broker sync: in_progress (2026-10-13T01:59); Daily signals: success (2026-10-12T21:44); Collect Claude report: success (2026-10-12T17:08); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); second source unreachable for: QQQ, SPY, TQQQ
 
@@ -179,7 +179,7 @@ Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+1
 - **מתקדם (Advanced)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-12T21:54:10Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 132 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 133 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **צ'אט עם Claude (Chat with Claude)** [`chat`]: the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

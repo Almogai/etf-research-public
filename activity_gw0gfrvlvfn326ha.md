@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-13T18:40:35Z. Every event in the app, newest first (142 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-13T18:51:49Z. Every event in the app, newest first (143 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-13 18:51 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-13 18:39 | sync_request | manual |  | broker sync requested |  |
 | 2026-10-13 18:12 | deposit_inferred | sync |  | inferred deposit of $155.95 in Robinhood · Brokerage from the broker's cash (not in the movement list yet) | 0.0 → 155.95 |
 | 2026-10-13 16:49 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543 | {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} → {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}} |

@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-13T18:51:49Z. Every event in the app, newest first (143 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-13T19:00:49Z. Every event in the app, newest first (144 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-13 19:00 | sync_request | manual |  | broker sync requested |  |
 | 2026-10-13 18:51 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-13 18:39 | sync_request | manual |  | broker sync requested |  |
 | 2026-10-13 18:12 | deposit_inferred | sync |  | inferred deposit of $155.95 in Robinhood · Brokerage from the broker's cash (not in the movement list yet) | 0.0 → 155.95 |

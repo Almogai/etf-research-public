@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-13T18:51:49Z · market session 2026-10-12 · app version a06a9d7 · 405 tests
+Generated 2026-10-13T19:00:49Z · market session 2026-10-12 · app version bc3d344 · 405 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -65,10 +65,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 143 events since 2026-05-30T16:00:00Z · by type: {'trade': 82, 'deposit': 13, 'notify': 8, 'sync_request': 7, 'reconcile': 6, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'claude_portfolio': 2, 'workflow_failed': 2, 'price_source': 1, 'deposit_inferred': 1, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 144 events since 2026-05-30T16:00:00Z · by type: {'trade': 82, 'deposit': 13, 'sync_request': 8, 'notify': 8, 'reconcile': 6, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'claude_portfolio': 2, 'workflow_failed': 2, 'price_source': 1, 'deposit_inferred': 1, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $507, trades 28, alerts 8, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-13 19:00 · sync_request (manual): broker sync requested
 - 2026-10-13 18:51 · price_source (manual): app prices: finnhub (2 real-time)
 - 2026-10-13 18:39 · sync_request (manual): broker sync requested
 - 2026-10-13 18:12 · deposit_inferred (sync): inferred deposit of $155.95 in Robinhood · Brokerage from the broker's cash (not in the movement list yet)
@@ -108,7 +109,6 @@ Last 30 days:
 - 2026-10-11 03:04 · backup (migrated): weekly backup backup-2026-10-11
 - 2026-10-10 20:13 · portfolio_change (migrated): My money: restore deposit note after the app save test
 - 2026-10-10 20:12 · portfolio_change (migrated): My money: edit deposits
-- 2026-10-10 03:35 · portfolio_change (migrated): Phase 4: My money - data/portfolio.yaml as account source of truth, trades/deposits/holdings editing with GitHub save + undo, net worth history, TWR
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-09 21:30 $570 floor rule WARN (TQQQ close 81.28) → My money: import 21 rows (file); My money: holdings from import (file); My money: import 4 rows (file); My money: holdings from import (file); sync (Robinhood · Brokerage): buy 1.96106 TQQQ @ 79.55 ($-156.00)
@@ -150,7 +150,7 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 
 ## ⚙️ Health
 - Research run 2026-10-12T21:54:10Z (ok), TQQQ run success, data check warn
-- Workflows: Publish app state: in_progress (2026-10-13T18:51); Intraday move alert: success (2026-10-13T18:44); Broker sync: success (2026-10-13T18:39); Claude portfolio decision: success (2026-10-13T17:01); Collect Claude report: success (2026-10-13T14:13); Daily signals: success (2026-10-12T21:44)
+- Workflows: Publish app state: in_progress (2026-10-13T19:00); Broker sync: in_progress (2026-10-13T19:00); Intraday move alert: success (2026-10-13T18:44); Claude portfolio decision: success (2026-10-13T17:01); Collect Claude report: success (2026-10-13T14:13); Daily signals: success (2026-10-12T21:44)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); second source unreachable for: QQQ, SPY, TQQQ
 
@@ -179,7 +179,7 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 - **טבלאות באנגלית (English tables)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-12T21:54:10Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 143 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 144 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

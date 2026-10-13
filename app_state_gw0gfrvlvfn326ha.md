@@ -1,14 +1,14 @@
 # My app — current state
 
-Generated 2026-10-13T14:14:23Z · market session 2026-10-12 · app version 6fa761e · 372 tests
+Generated 2026-10-13T14:41:36Z · market session 2026-10-12 · app version 6fa761e · 372 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
 - Status light: **green** — TQQQ is IN, 23.5% above its 200-day average. 54% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.1x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source
-- Account value $1,371.34 · today -15.65 · profit vs deposits +211.34 (+18.2%) · deposited $1,160.00
+- Account value $1,371.29 · today -15.65 · profit vs deposits +211.29 (+18.2%) · deposited $1,160.00
 - What changed since yesterday: Top 5: in PLTR, MSFT, SMCI; out ANET, AMD, VLO; Big move in in the top 5: SMCI -4.5%, CRWD -4.4%
-- Claude says (2026-10-12): Data covers the session of Monday, October 12, 2026 (close). Pre-market check at about 6:50 AM ET Tuesday, October 13. This replaces last night's after-close version of the same session. New this morning: pre-market futures, bank earnings, a verified 200-day average from full price history, the new Oct 12 research feed, and your new 200-day rule. / SIGNAL: IN, UNCHANGED (rule E, hold). Stop $66.92. Your 200-day rule: OK. TQQQ closed at $79.61. Its 200-day average is $64.44, so the close is +23.5% (+$15.17/share) above it. Not broken, and not inside the 3% warning zone. / Session (Mon Oct 12): TQQQ $79.61 (-2.05%), QQQ $746.04 (-0.70%), S&P 500 -0.06%. Money rotated out of chips and optical names into energy, banks and industrials. VIX 15.44.
+- Claude says (2026-10-12): Session covered: Monday, October 12, 2026 (close). This run started late, at about 4:35 PM ET Monday, after the close, so there is no pre-market read for Tuesday yet (index futures reopen at 6 PM ET). The bond market was closed for Columbus Day. / SIGNAL: IN, UNCHANGED (rule E, hold). System stop $66.92. $570 FLOOR RULE: NOT BROKEN on the broker-synced share count, but check your shares. The app now shows 9.04649 TQQQ shares in the main Robinhood account (broker sync). That puts the floor price at $63.01, and TQQQ closed $79.61, +$16.60 (+26.3%) above it. Position value is $720.19. ⚠ The app also flags that your imported transactions give only 7.08543 shares. On that count the floor would be $80.45, and today's close would BREAK it (-1.04%, value $564.07). / Session (Mon Oct 12): TQQQ $79.61 (-2.05%), QQQ $746.04 (-0.70%). Nasdaq -0.44%, S&P 500 -0.06%, Dow +0.38%. Money rotated out of chips and optical names into energy, industrials and banks. The SOX fell as much as 2.7% to a 3-week low. Brent rose to $106.65 and the dollar index hit an 18-month high (102.59).
 - Top 5 chips: PLTR, MPC, MSFT, CRWD, SMCI · data check: warn
 
 ## 💼 Portfolio (all accounts)
@@ -18,15 +18,15 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Robinhood · Brokerage (main: TQQQ 200-day rule) | $801.64 | $0.00 | 2 | $600.00 |
 | Fidelity · Brokerage 1 | $541.37 | $7.27 | 7 | $540.00 |
 | Fidelity · Brokerage 4 | $19.40 | $0.05 | 1 | $20.00 |
-| Robinhood · Crypto | $8.93 | $0.00 | 1 | $0.00 |
+| Robinhood · Crypto | $8.88 | $0.00 | 1 | $0.00 |
 | Robinhood · IRA | $0.00 | $0.00 | 0 | $0.00 |
 | Fidelity · Brokerage 2 | $0.00 | $0.00 | 0 | $0.00 |
 | Fidelity · Brokerage 3 | $0.00 | $0.00 | 0 | $0.00 |
-| **All accounts** | **$1,371.34** | $7.32 | 11 | $1,160.00 |
+| **All accounts** | **$1,371.29** | $7.32 | 11 | $1,160.00 |
 
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.37 | $8.93 | -0.44 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.36 | $8.88 | -0.49 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · Brokerage | QQQ | 0.109179 | 743.00 | 746.04 | $81.45 | +0.33 | sync |
@@ -45,10 +45,10 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Fidelity · Brokerage 4 | CASH |  |  |  | $0.05 |  | sync |
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
 
-- Net worth $1,371.34 · deposits $1,160.00 · withdrawals $0.00 · cash $7.32 · profit +211.34 (+18.2%)
+- Net worth $1,371.29 · deposits $1,160.00 · withdrawals $0.00 · cash $7.32 · profit +211.29 (+18.2%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **OK** · TQQQ 79.61 vs 200-day average $64.44 · distance +23.5%
 - Allocation: TQQQ 54%, FXLCX 25%, FXINX 8%, QQQ 6%, FITFX 4%, FLAPX 1%, FXSCX 1%, XRP-USD 1%, Cash 1%, FXMCX 0%, FLXSX 0% · effective exposure 2.07x · 54% of your money is in TQQQ, which moves 3x its index: your real exposure is about 2.1x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-13T14:14:05Z · last attempt 2026-10-13T14:14:05Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-13T13:41:44Z · last attempt 2026-10-13T13:41:44Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -65,13 +65,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 139 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 8, 'sync_request': 6, 'reconcile': 5, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'claude_picks': 2, 'claude_report': 2, 'workflow_failed': 2, 'trade_detected': 1, 'claude_portfolio': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 137 events since 2026-05-30T16:00:00Z · by type: {'trade': 81, 'deposit': 13, 'notify': 8, 'sync_request': 6, 'reconcile': 4, 'import': 4, 'dividend': 4, 'floor_event': 3, 'portfolio_change': 3, 'claude_portfolio': 2, 'workflow_failed': 2, 'claude_picks': 1, 'claude_report': 1, 'trade_detected': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $507, trades 27, alerts 8, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
-- 2026-10-13 14:14 · claude_report (workflow): morning report 2026-10-12: 6/6 parts
-- 2026-10-13 14:14 · claude_picks (workflow): Claude picks received (2026-10-13)
-- 2026-10-13 14:14 · reconcile (sync): sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543
+- 2026-10-13 14:41 · claude_portfolio (workflow): Claude portfolio decision: 0 orders, 0 rejected ($0.036)
 - 2026-10-13 13:41 · reconcile (sync): sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543
 - 2026-10-13 13:41 · sync_request (manual): sync with Robinhood requested
 - 2026-10-13 02:00 · reconcile (sync): sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.04649 shares, transactions give 7.08543
@@ -109,6 +107,8 @@ Last 30 days:
 - 2026-10-09 21:31 · notify (migrated): alert sent: floor rule WARN
 - 2026-10-09 21:30 · floor_event (workflow): $570 floor rule WARN: value $575.90; floor price $80.45; close is +1.04% ($+0.83/share) from it
 - 2026-10-09 21:30 · floor_event (migrated): $570 floor rule WARN (TQQQ close 81.28)
+- 2026-10-09 16:00 · trade (sync): sync (Fidelity · Brokerage 1): sell 29.82 FLGXX @ 1.00 ($29.82)
+- 2026-10-08 16:00 · deposit (sync): sync (Fidelity · Brokerage 1): deposit  ($4.00)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-09 21:30 $570 floor rule WARN (TQQQ close 81.28) → My money: import 21 rows (file); My money: holdings from import (file); My money: import 4 rows (file); My money: holdings from import (file)
@@ -135,32 +135,35 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.1% vs QQQ -0.7% after 2 trading days · 0 closed trades, 0 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,993.06 · cash $7,000.00 · vs SPY -0.1% · QQQ -0.7% · max drawdown -0.1% · paused: False · blocked: -
+- -0.4% vs QQQ -1.1% after 3 trading days · 1 closed trades, 0 winners · 2 open
+- Started 2026-10-12 with $10,000 · value $9,964.12 · cash $7,927.69 · vs SPY -0.1% · QQQ -1.1% · max drawdown -0.4% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| ANET | 4.68528 | $213.43 | $210.88 | -1.2% | 198.0 | 250.0 | 2026-10-12 | app_top5 | אריסטה: מגמה חזקה, איכות גבוהה (90), פחות מתוח מהשאר ברשימה |
-| MSFT | 1.85199 | $539.96 | $541.15 | +0.2% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| MPC | 2.1857 | $457.52 | $458.81 | +0.3% | 418.0 | 520.0 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
+| MSFT | 1.85199 | $539.96 | $548.71 | +1.6% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| MPC | 2.1857 | $457.52 | $466.77 | +2.0% | 418.0 | 520.0 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
 
-Latest decision (2026-10-12, claude-sonnet-5-5, $0.036): Day one, no history, choppy regime. Three small (~10%) positions in higher-quality names from the HOT list across different sectors; ~70% cash. Avoiding the most extended parabolic names.
+Closed: 1 · hit rate 0% · avg -7.2% · beat benchmark 0%
+By source: app_top5 n=1 hit 0% avg -7.2%
+- 2026-10-13 ANET -7.2% (stop): ANET נסגרה בסטופ אחרי יום אחד (‎-7.2%) בעוד המדד כמעט ללא שינוי, כלומר זו תנועה ספציפית למניה ולא של השוק. דירוג גבוה באפליקציה לא מגן מפני ירידה חדה בטווח קצר. עסקה אחת היא מקרה בודד ואין ממנה מסקנה סטטיסטית, אבל כדאי לשקול סטופ מותאם לתנודתיות המניה וגודל פוזיציה קטן יותר במניות מומנטום מתוחות.
 
-Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+150% ב-6 חודשים) עלולות להיות תנודתיות יותר בשוק מעורב
+Latest decision (2026-10-13, claude-sonnet-5-5, $0.036): No new buys today. Holding about 80% cash in a choppy regime. ANET was stopped out after one day, and the two open positions (MSFT, MPC) are flat. Waiting for more evidence before adding risk.
+
+Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות עלולות להיות תנודתיות יותר בשוק מעורב
 
 ## ⚙️ Health
 - Research run 2026-10-12T21:54:10Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-10-13T14:13); Publish app state: success (2026-10-13T13:41); Broker sync: success (2026-10-13T13:41); Daily signals: success (2026-10-12T21:44); Claude portfolio decision: success (2026-10-12T16:00); Chat eval (manual): success (2026-10-12T03:09)
+- Workflows: Claude portfolio decision: in_progress (2026-10-13T14:40); Collect Claude report: success (2026-10-13T14:13); Publish app state: success (2026-10-13T13:41); Broker sync: success (2026-10-13T13:41); Daily signals: success (2026-10-12T21:44); Chat eval (manual): success (2026-10-12T03:09)
 - Pushes today: 0
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); second source unreachable for: QQQ, SPY, TQQQ
 
 ## 🗺️ Screens: what each shows and the open choices
-- **היום (Today)** [`today`]: 💰 my money: account value $1,371.34, today -15.65, since the start +211.34; TQQQ vs its 200-day average: OK (+23.5%, average $64.44) · 🧠 Claude's picks: price, today, since the pick, stop→target bar, how many up/down vs SPY · 🌎 the market in a sentence: Data covers the session of Monday, October 12, 2026 (close). Pre-market check at about 6:50 AM ET Tuesday, October 13. This replaces last night's after-close version of the same session. New this morning: pre-market futures, bank earnings, a verified 200-day average from full price history, the new Oct 12 research feed, and your new 200-day rule. / SIGNAL: IN, UNCHANGED (rule E, hold). Stop $66.92. Your 200-day rule: OK. TQQQ closed at $79.61. Its 200-day average is $64.44, so the close is +23.5% (+$15.17/share) above it. Not broken, and not inside the 3% warning zone. / Session (Mon Oct 12): TQQQ $79.61 (-2.05%), QQQ $746.04 (-0.70%), S&P 500 -0.06%. Money rotated out of chips and optical names into energy, banks and industrials. VIX 15.44. · ✅ what to do: only actions that need me, else 'אין מה לעשות היום'
-- **סטטוס מלא (Full status)** [`status`]: status light green: TQQQ is IN, 23.5% above its 200-day average. 54% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.1x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source · account value $1,371.34, today -15.65, profit vs deposits +211.34 · what changed: Top 5: in PLTR, MSFT, SMCI; out ANET, AMD, VLO; Big move in in the top 5: SMCI -4.5%, CRWD -4.4% · Claude says: Data covers the session of Monday, October 12, 2026 (close). Pre-market check at about 6:50 AM ET Tuesday, October 13. This replaces last night's after-close version of the same session. New this morning: pre-market futures, bank earnings, a verified 200-day average from full price history, the new Oct 12 research feed, and your new 200-day rule. / SIGNAL: IN, UNCHANGED (rule E, hold). Stop $66.92. Your 200-day rule: OK. TQQQ closed at $79.61. Its 200-day average is $64.44, so the close is +23.5% (+$15.17/share) above it. Not broken, and not inside the 3% warning zone. / Session (Mon Oct 12): TQQQ $79.61 (-2.05%), QQQ $746.04 (-0.70%), S&P 500 -0.06%. Money rotated out of chips and optical names into energy, banks and industrials. VIX 15.44. · top 5 chips: PLTR, MPC, MSFT, CRWD, SMCI
+- **היום (Today)** [`today`]: 💰 my money: account value $1,371.29, today -15.65, since the start +211.29; TQQQ vs its 200-day average: OK (+23.5%, average $64.44) · 🧠 Claude's picks: price, today, since the pick, stop→target bar, how many up/down vs SPY · 🌎 the market in a sentence: Session covered: Monday, October 12, 2026 (close). This run started late, at about 4:35 PM ET Monday, after the close, so there is no pre-market read for Tuesday yet (index futures reopen at 6 PM ET). The bond market was closed for Columbus Day. / SIGNAL: IN, UNCHANGED (rule E, hold). System stop $66.92. $570 FLOOR RULE: NOT BROKEN on the broker-synced share count, but check your shares. The app now shows 9.04649 TQQQ shares in the main Robinhood account (broker sync). That puts the floor price at $63.01, and TQQQ closed $79.61, +$16.60 (+26.3%) above it. Position value is $720.19. ⚠ The app also flags that your imported transactions give only 7.08543 shares. On that count the floor would be $80.45, and today's close would BREAK it (-1.04%, value $564.07). / Session (Mon Oct 12): TQQQ $79.61 (-2.05%), QQQ $746.04 (-0.70%). Nasdaq -0.44%, S&P 500 -0.06%, Dow +0.38%. Money rotated out of chips and optical names into energy, industrials and banks. The SOX fell as much as 2.7% to a 3-week low. Brent rose to $106.65 and the dollar index hit an 18-month high (102.59). · ✅ what to do: only actions that need me, else 'אין מה לעשות היום'
+- **סטטוס מלא (Full status)** [`status`]: status light green: TQQQ is IN, 23.5% above its 200-day average. 54% of the portfolio is in TQQQ (over your 50% limit), effective exposure ~2.1x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source · account value $1,371.29, today -15.65, profit vs deposits +211.29 · what changed: Top 5: in PLTR, MSFT, SMCI; out ANET, AMD, VLO; Big move in in the top 5: SMCI -4.5%, CRWD -4.4% · Claude says: Session covered: Monday, October 12, 2026 (close). This run started late, at about 4:35 PM ET Monday, after the close, so there is no pre-market read for Tuesday yet (index futures reopen at 6 PM ET). The bond market was closed for Columbus Day. / SIGNAL: IN, UNCHANGED (rule E, hold). System stop $66.92. $570 FLOOR RULE: NOT BROKEN on the broker-synced share count, but check your shares. The app now shows 9.04649 TQQQ shares in the main Robinhood account (broker sync). That puts the floor price at $63.01, and TQQQ closed $79.61, +$16.60 (+26.3%) above it. Position value is $720.19. ⚠ The app also flags that your imported transactions give only 7.08543 shares. On that count the floor would be $80.45, and today's close would BREAK it (-1.04%, value $564.07). / Session (Mon Oct 12): TQQQ $79.61 (-2.05%), QQQ $746.04 (-0.70%). Nasdaq -0.44%, S&P 500 -0.06%, Dow +0.38%. Money rotated out of chips and optical names into energy, industrials and banks. The SOX fell as much as 2.7% to a 3-week low. Brent rose to $106.65 and the dollar index hit an 18-month high (102.59). · top 5 chips: PLTR, MPC, MSFT, CRWD, SMCI
 - **Top 5 (Top 5)** [`top5`]: app: $9,964 (-0.4%) vs SPY -0.1%; beat 0/0 closed trades · claude: $9,998 (-0.0%) vs SPY +0.0%; beat 0/0 closed trades
   - choice האפליקציה / Claude: app → the app's daily top 5; claude → the morning Claude's picks
-- **התיק שלי (My money)** [`portfolio`]: net worth $1,371.34; money in $1,160.00; profit +211.34 · XRP-USD: 6.506 @ avg 1.44 = $8.93 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · QQQ: 0.109179 @ avg 743.0 = $81.45 (sync) · TQQQ: 9.046493 @ avg 76.798 = $720.19 (sync) · CASH:  @ avg None = $0.00 (sync) · FITFX: 2.945 @ avg 19.3243 = $56.16 (sync) · FLAPX: 0.823 @ avg 24.7752 = $20.49 (sync) · FLXSX: 0.057 @ avg 20.1754 = $1.15 (sync) · FXINX: 8.479 @ avg 12.426 = $103.36 (sync) · FXLCX: 27.89 @ avg 11.9598 = $337.19 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.02 (sync) · FXSCX: 1.14 @ avg 12.2281 = $13.73 (sync) · CASH:  @ avg None = $7.27 (sync) · CASH:  @ avg None = $0.00 (sync) · TQQQ: 0.243 @ avg 82.0988 = $19.35 (sync) · CASH:  @ avg None = $0.05 (sync) · CASH:  @ avg None = $0.00 (sync)
+- **התיק שלי (My money)** [`portfolio`]: net worth $1,371.29; money in $1,160.00; profit +211.29 · XRP-USD: 6.506 @ avg 1.44 = $8.88 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · QQQ: 0.109179 @ avg 743.0 = $81.45 (sync) · TQQQ: 9.046493 @ avg 76.798 = $720.19 (sync) · CASH:  @ avg None = $0.00 (sync) · FITFX: 2.945 @ avg 19.3243 = $56.16 (sync) · FLAPX: 0.823 @ avg 24.7752 = $20.49 (sync) · FLXSX: 0.057 @ avg 20.1754 = $1.15 (sync) · FXINX: 8.479 @ avg 12.426 = $103.36 (sync) · FXLCX: 27.89 @ avg 11.9598 = $337.19 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.02 (sync) · FXSCX: 1.14 @ avg 12.2281 = $13.73 (sync) · CASH:  @ avg None = $7.27 (sync) · CASH:  @ avg None = $0.00 (sync) · TQQQ: 0.243 @ avg 82.0988 = $19.35 (sync) · CASH:  @ avg None = $0.05 (sync) · CASH:  @ avg None = $0.00 (sync)
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
@@ -179,7 +182,7 @@ Hypotheses / rules: [hypothesis, n=0] מניות מומנטום מתוחות (+1
 - **מתקדם (Advanced)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-12T21:54:10Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 139 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 137 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **צ'אט עם Claude (Chat with Claude)** [`chat`]: the in-app Claude analyst (also the round 💬 button on every screen): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

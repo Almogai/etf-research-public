@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-14T11:42:13Z. Every event in the app, newest first (149 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-14T14:07:31Z. Every event in the app, newest first (150 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-14 14:06 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-14 11:15 | claude_picks | workflow |  | Claude picks received (2026-10-14) |  |
 | 2026-10-14 11:15 | claude_report | workflow |  | morning report 2026-10-13: 6/7 parts |  |
 | 2026-10-13 22:04 | notify | workflow |  | push sent: ערב · 2026-10-13 |  |

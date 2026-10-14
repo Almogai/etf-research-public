@@ -1,9 +1,12 @@
 # My activity
 
-Generated 2026-10-14T16:15:41Z. Every event in the app, newest first (153 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-14T17:04:46Z. Every event in the app, newest first (156 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-14 17:04 | trade_detected | sync | TQQQ | Robinhood · Brokerage: Detected: you bought about 0.03 TQQQ at about $74.82 | 9.046493 → 9.079155 |
+| 2026-10-14 17:04 | deposit_inferred | sync |  | the inferred deposit in Robinhood · Brokerage arrived in the movement list - gap closed | 155.95 → 0.0 |
+| 2026-10-14 17:04 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 9.07916 shares, transactions give 9.04649 | {'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.046493}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}} → {'robinhood': {'QQQ': 0.109179, 'TQQQ': 9.079155}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}} |
 | 2026-10-14 16:15 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-14 15:13 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-14 14:49 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.036) |  |

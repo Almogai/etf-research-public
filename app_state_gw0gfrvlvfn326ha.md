@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-14T14:49:56Z · market session 2026-10-13 · app version d6111c0 · 406 tests
+Generated 2026-10-14T16:15:41Z · market session 2026-10-13 · app version a044290 · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -65,10 +65,12 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 151 events since 2026-05-30T16:00:00Z · by type: {'trade': 82, 'deposit': 13, 'notify': 9, 'sync_request': 8, 'reconcile': 6, 'import': 4, 'dividend': 4, 'claude_portfolio': 3, 'claude_picks': 3, 'claude_report': 3, 'floor_event': 3, 'portfolio_change': 3, 'price_source': 2, 'workflow_failed': 2, 'deposit_inferred': 1, 'trade_detected': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
-- Monthly: 2026-10: deposits $507, trades 28, alerts 9, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
+- 153 events since 2026-05-30T16:00:00Z · by type: {'trade': 82, 'deposit': 13, 'notify': 11, 'sync_request': 8, 'reconcile': 6, 'import': 4, 'dividend': 4, 'claude_portfolio': 3, 'claude_picks': 3, 'claude_report': 3, 'floor_event': 3, 'portfolio_change': 3, 'price_source': 2, 'workflow_failed': 2, 'deposit_inferred': 1, 'trade_detected': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- Monthly: 2026-10: deposits $507, trades 28, alerts 11, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-14 16:15 · notify (workflow): push sent: תנועה חדה היום
+- 2026-10-14 15:13 · notify (workflow): push sent: תנועה חדה היום
 - 2026-10-14 14:49 · claude_portfolio (workflow): Claude portfolio decision: 1 orders, 0 rejected ($0.036)
 - 2026-10-14 14:06 · price_source (manual): app prices: finnhub (2 real-time)
 - 2026-10-14 11:15 · claude_report (workflow): morning report 2026-10-13: 6/7 parts
@@ -107,8 +109,6 @@ Last 30 days:
 - 2026-10-11 15:13 · notify (workflow): push sent: ערב · 2026-10-09
 - 2026-10-11 15:06 · notify (workflow): push sent: 🚨 TQQQ
 - 2026-10-11 14:12 · preferences (migrated): Preferences: screener preferences
-- 2026-10-11 14:11 · benchmark (migrated): Preferences: benchmark SPY
-- 2026-10-11 14:09 · import (migrated): My money: holdings from import (file)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-09 21:30 $570 floor rule WARN (TQQQ close 81.28) → My money: import 21 rows (file); My money: holdings from import (file); My money: import 4 rows (file); My money: holdings from import (file); sync (Robinhood · Brokerage): buy 1.96106 TQQQ @ 79.55 ($-156.00)
@@ -123,6 +123,8 @@ Alerts and what changed in my holdings after them (3 days):
 - 2026-10-12 21:30 $570 floor rule OK: value $720.19; floor price $63.01; close is +26.35% ($+16.60/share) from it → no change in holdings
 - 2026-10-12 21:54 push sent: ערב · 2026-10-12 → no change in holdings
 - 2026-10-13 22:04 push sent: ערב · 2026-10-13 → no change in holdings
+- 2026-10-14 15:13 push sent: תנועה חדה היום → no change in holdings
+- 2026-10-14 16:15 push sent: תנועה חדה היום → no change in holdings
 
 ## ⚠️ Issues to notice
 - [info] Fidelity · Brokerage 1: cash in the synced history dips by $248.50 around 2026-09-16 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
@@ -132,16 +134,15 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.3% vs QQQ -2.1% after 4 trading days · 1 closed trades, 0 winners · 2 open
-- Started 2026-10-12 with $10,000 · value $9,968.08 · cash $7,927.69 · vs SPY -0.8% · QQQ -2.1% · max drawdown -0.3% · paused: False · blocked: -
+- -0.3% vs QQQ -2.8% after 4 trading days · 1 closed trades, 0 winners · 3 open
+- Started 2026-10-12 with $10,000 · value $9,968.22 · cash $7,127.69 · vs SPY -1.2% · QQQ -2.8% · max drawdown -0.3% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $538.07 | -0.3% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| MPC | 2.1857 | $457.52 | $477.60 | +4.4% | 452 | 520 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
-
-Pending orders (fill at the next price): buy TMO $800
+| MSFT | 1.85199 | $539.96 | $535.64 | -0.8% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| MPC | 2.1857 | $457.52 | $478.74 | +4.6% | 452 | 520 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
+| TMO | 1.19313 | $670.51 | $672.30 | +0.3% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
 
 Closed: 1 · hit rate 0% · avg -7.2% · beat benchmark 0%
 By source: app_top5 n=1 hit 0% avg -7.2%
@@ -153,8 +154,8 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 
 ## ⚙️ Health
 - Research run 2026-10-13T22:04:12Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-14T14:48); Intraday move alert: success (2026-10-14T14:11); Publish app state: success (2026-10-14T14:06); Broker sync: success (2026-10-14T14:06); Collect Claude report: success (2026-10-14T12:47); Daily signals: success (2026-10-13T22:52)
-- Pushes today: 0
+- Workflows: Claude portfolio decision: in_progress (2026-10-14T16:14); Intraday move alert: success (2026-10-14T16:14); Publish app state: success (2026-10-14T14:06); Broker sync: success (2026-10-14T14:06); Collect Claude report: success (2026-10-14T12:47); Daily signals: success (2026-10-13T22:52)
+- Pushes today: 2 (push sent: תנועה חדה היום; push sent: תנועה חדה היום)
 - Errors/warnings (3 days): workflow run failed: Daily signals (#•••); second source unreachable for: QQQ, SPY, TQQQ
 
 ## 🗺️ Screens: what each shows and the open choices
@@ -182,7 +183,7 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 - **טבלאות באנגלית (English tables)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-13T22:04:12Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 151 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 153 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

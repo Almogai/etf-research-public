@@ -1,4 +1,4 @@
-# Research desk track record — as of 2026-10-13
+# Research desk track record — as of 2026-10-14
 
 Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 trading days. Returns include dividends. Hit rate = share of ideas that went up. Excess = idea return minus QQQ over the same days. Ideas newer than a horizon are not counted for it yet.
 
@@ -6,28 +6,28 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 15 | 10 | 40% | -0.7% | -0.2% | 50% | 0% |
-| 5 days | 15 | 0 | – | – | – | – | – |
-| 20 days | 15 | 0 | – | – | – | – | – |
-| 60 days | 15 | 0 | – | – | – | – | – |
+| 1 days | 20 | 15 | 40% | -1.5% | -0.5% | 47% | 13% |
+| 5 days | 20 | 0 | – | – | – | – | – |
+| 20 days | 20 | 0 | – | – | – | – | – |
+| 60 days | 20 | 0 | – | – | – | – | – |
 
 ## Last 3 months
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 15 | 10 | 40% | -0.7% | -0.2% | 50% | 0% |
-| 5 days | 15 | 0 | – | – | – | – | – |
-| 20 days | 15 | 0 | – | – | – | – | – |
-| 60 days | 15 | 0 | – | – | – | – | – |
+| 1 days | 20 | 15 | 40% | -1.5% | -0.5% | 47% | 13% |
+| 5 days | 20 | 0 | – | – | – | – | – |
+| 20 days | 20 | 0 | – | – | – | – | – |
+| 60 days | 20 | 0 | – | – | – | – | – |
 
 ## All time
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 15 | 10 | 40% | -0.7% | -0.2% | 50% | 0% |
-| 5 days | 15 | 0 | – | – | – | – | – |
-| 20 days | 15 | 0 | – | – | – | – | – |
-| 60 days | 15 | 0 | – | – | – | – | – |
+| 1 days | 20 | 15 | 40% | -1.5% | -0.5% | 47% | 13% |
+| 5 days | 20 | 0 | – | – | – | – | – |
+| 20 days | 20 | 0 | – | – | – | – | – |
+| 60 days | 20 | 0 | – | – | – | – | – |
 
 ## Backtest (history, not live results)
 

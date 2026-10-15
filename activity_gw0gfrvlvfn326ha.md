@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-15T11:41:11Z. Every event in the app, newest first (169 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-15T14:50:27Z. Every event in the app, newest first (170 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-15 14:50 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.035) |  |
 | 2026-10-15 11:41 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 0 shares, transactions give 9.04649 | {'robinhood': {'QQQ': 0.109179}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}} → {'robinhood': {'QQQ': 0.109179}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}} |
 | 2026-10-15 11:15 | claude_picks | workflow |  | Claude picks received (2026-10-15) |  |
 | 2026-10-15 11:15 | claude_report | workflow |  | morning report 2026-10-14: 7/7 parts |  |

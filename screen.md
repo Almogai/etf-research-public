@@ -1,49 +1,49 @@
-# Research screen — 2026-10-14
+# Research screen — 2026-10-15
 
 ## Market regime: **CHOPPY**
-- SPY above its 200-day (+6.3%)
-- QQQ above its 200-day (+8.2%)
-- Breadth 48% of stocks above their 200-day (bull needs ≥55%, bear <40%)
-- VIX 16.9 (bull needs <25, bear ≥30)
+- SPY above its 200-day (+6.5%)
+- QQQ above its 200-day (+7.9%)
+- Breadth 52% of stocks above their 200-day (bull needs ≥55%, bear <40%)
+- VIX 16.5 (bull needs <25, bear ≥30)
 
 ## HOT
 
 | # | Ticker | Name | Sector | Price | Final | Stop | Why now |
 |---|---|---|---|---|---|---|---|
-| 1 | AMD | Advanced Micro Devices | Information Technology | 570.82 | 86 | 534.41 | Strong trend: 6-month +179%, 3-month vs QQQ +10% |
-| 2 | VLO | Valero Energy | Energy | 459.78 | 86 | 435.56 | New 52-week high |
-| 3 | MPC | Marathon Petroleum | Energy | 484.92 | 85 | 460.73 | New 52-week high; news: upgrade |
-| 4 | PLTR | Palantir Technologies | Information Technology | 200.97 | 85 | 191.67 | News: beat, upgrade |
-| 5 | ILMN | Illumina, Inc. | Health Care | 271.76 | 84 | 250.62 | Strong trend: 6-month +109%, 3-month vs QQQ +38% |
-| 6 | P | Everpure | Information Technology | 141.49 | 84 | 131.33 | Strong trend: 6-month +145%, 3-month vs QQQ +100% |
-| 7 | MSFT | Microsoft | Information Technology | 533.69 | 83 | 515.35 | Strong trend: 6-month +42%, 3-month vs QQQ +29% |
-| 8 | FTNT | Fortinet | Information Technology | 184.05 | 83 | 175.57 | News: beat, upgrade |
-| 9 | HPE | Hewlett Packard Enterprise | Information Technology | 63.11 | 83 | 57.48 | News: upgrade |
-| 10 | PSX | Phillips 66 | Energy | 297.29 | 82 | 284.48 | New 52-week high; news: upgrade |
-| 11 | MRNA | Moderna | Health Care | 226.30 | 82 | 202.07 | News: upgrade |
-| 12 | NTAP | NetApp | Information Technology | 222.20 | 82 | 208.84 | News: upgrade |
-| 13 | MRVL | Marvell Technology | Information Technology | 245.28 | 82 | 221.45 | News: upgrade |
-| 14 | NOW | ServiceNow | Information Technology | 139.98 | 82 | 131.63 | News: upgrade |
-| 15 | CRWD | CrowdStrike | Information Technology | 249.29 | 82 | 232.73 | Strong trend: 6-month +149%, 3-month vs QQQ +18% |
+| 1 | MPC | Marathon Petroleum | Energy | 476.92 | 86 | 452.53 | News: upgrade |
+| 2 | AMD | Advanced Micro Devices | Information Technology | 562.23 | 84 | 522.90 | Strong trend: 6-month +162%, 3-month vs QQQ +8% |
+| 3 | P | Everpure | Information Technology | 133.40 | 84 | 122.48 | Strong trend: 6-month +150%, 3-month vs QQQ +83% |
+| 4 | MSFT | Microsoft | Information Technology | 539.44 | 84 | 522.41 | News: beat |
+| 5 | TWLO | Twilio | Information Technology | 273.40 | 84 | 250.27 | News: beat, upgrade |
+| 6 | ILMN | Illumina, Inc. | Health Care | 267.93 | 84 | 245.82 | Strong trend: 6-month +114%, 3-month vs QQQ +37% |
+| 7 | NOW | ServiceNow | Information Technology | 148.57 | 83 | 139.64 | News: beat, guidance raised |
+| 8 | CRWD | CrowdStrike | Information Technology | 244.57 | 83 | 227.89 | News: beat |
+| 9 | PLTR | Palantir Technologies | Information Technology | 200.50 | 83 | 190.82 | News: beat |
+| 10 | PTC | PTC Inc. | Information Technology | 193.15 | 83 | 183.68 | Strong trend: 6-month +39%, 3-month vs QQQ +48% |
+| 11 | PSX | Phillips 66 | Energy | 289.20 | 83 | 275.98 | News: upgrade |
+| 12 | FTNT | Fortinet | Information Technology | 181.91 | 82 | 173.44 | News: beat, upgrade |
+| 13 | VEEV | Veeva Systems | Health Care | 313.03 | 82 | 297.67 | New 52-week high |
+| 14 | MRVL | Marvell Technology | Information Technology | 241.24 | 82 | 216.56 | News: upgrade |
+| 15 | MRNA | Moderna | Health Care | 236.50 | 82 | 210.65 | New 52-week high; news: upgrade |
 
 ## COLD
 
 | # | Ticker | Name | Sector | Price | Final | Reasons |
 |---|---|---|---|---|---|---|
-| 1 | ROL | Rollins, Inc. | Industrials | 32.63 | 14 | Falling trend: below its 50- and 200-day (6-month -43%); 3-month return -30% vs QQQ |
-| 2 | LVS | Las Vegas Sands | Consumer Discretionary | 37.02 | 14 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -21% vs QQQ |
-| 3 | MGM | MGM Resorts | Consumer Discretionary | 28.96 | 19 | Falling trend: below its 50- and 200-day (6-month -19%); 3-month return -40% vs QQQ; News flags: lawsuit |
-| 4 | PNR | Pentair | Industrials | 52.11 | 19 | Falling trend: below its 50- and 200-day (6-month -42%); 3-month return -23% vs QQQ; Negative news tone (sentiment -0.14 over 5 headlines) |
-| 5 | FER | Ferrovial | Industrials | 50.19 | 19 | Falling trend: below its 50- and 200-day (6-month -27%); 3-month return -24% vs QQQ; Negative news tone (sentiment -0.14 over 2 headlines) |
-| 6 | WYNN | Wynn Resorts | Consumer Discretionary | 73.73 | 20 | Falling trend: below its 50- and 200-day (6-month -28%); 3-month return -27% vs QQQ; News flags: miss; New 52-week low |
-| 7 | LII | Lennox International | Industrials | 348.84 | 20 | Falling trend: below its 50- and 200-day (6-month -25%); 3-month return -39% vs QQQ; News flags: downgrade |
-| 8 | CHRW | C.H. Robinson | Industrials | 139.45 | 21 | Falling trend: below its 50- and 200-day (6-month -21%); 3-month return -34% vs QQQ; News flags: downgrade |
-| 9 | WY | Weyerhaeuser | Real Estate | 18.90 | 21 | Falling trend: below its 50- and 200-day (6-month -24%); 3-month return -25% vs QQQ; Negative news tone (sentiment -0.06 over 5 headlines) |
-| 10 | ALNY | Alnylam Pharmaceuticals | Health Care | 224.47 | 21 | Falling trend: below its 50- and 200-day (6-month -31%); 3-month return -23% vs QQQ |
-| 11 | CHTR | Charter Communications | Communication Services | 105.14 | 22 | Falling trend: below its 50- and 200-day (6-month -52%); 3-month return -24% vs QQQ |
-| 12 | COO | Cooper Companies (The) | Health Care | 54.88 | 24 | Falling trend: below its 50- and 200-day (6-month -24%); 3-month return -27% vs QQQ |
-| 13 | ALGN | Align Technology | Health Care | 144.44 | 24 | Falling trend: below its 50- and 200-day (6-month -21%); 3-month return -22% vs QQQ |
-| 14 | ALB | Albemarle Corporation | Materials | 97.97 | 24 | Falling trend: below its 50- and 200-day (6-month -42%); 3-month return -20% vs QQQ |
-| 15 | FICO | Fair Isaac | Information Technology | 719.63 | 25 | Falling trend: below its 50- and 200-day (6-month -38%); 3-month return -44% vs QQQ |
+| 1 | LVS | Las Vegas Sands | Consumer Discretionary | 38.32 | 13 | Falling trend: below its 50- and 200-day (6-month -33%); 3-month return -19% vs QQQ; News flags: downgrade |
+| 2 | ROL | Rollins, Inc. | Industrials | 33.89 | 16 | Falling trend: below its 50- and 200-day (6-month -42%); 3-month return -28% vs QQQ |
+| 3 | MGM | MGM Resorts | Consumer Discretionary | 29.48 | 17 | Falling trend: below its 50- and 200-day (6-month -19%); 3-month return -39% vs QQQ; News flags: downgrade, lawsuit |
+| 4 | PNR | Pentair | Industrials | 53.45 | 19 | Falling trend: below its 50- and 200-day (6-month -42%); 3-month return -18% vs QQQ; Negative news tone (sentiment -0.16 over 7 headlines); News flags: guidance cut; Volume 2.3× normal |
+| 5 | FER | Ferrovial | Industrials | 48.86 | 19 | Falling trend: below its 50- and 200-day (6-month -29%); 3-month return -27% vs QQQ; New 52-week low; Volume 2.7× normal |
+| 6 | WYNN | Wynn Resorts | Consumer Discretionary | 76.97 | 20 | Falling trend: below its 50- and 200-day (6-month -28%); 3-month return -24% vs QQQ; News flags: downgrade |
+| 7 | WY | Weyerhaeuser | Real Estate | 19.38 | 20 | Falling trend: below its 50- and 200-day (6-month -21%); 3-month return -24% vs QQQ; Negative news tone (sentiment -0.11 over 5 headlines) |
+| 8 | LII | Lennox International | Industrials | 358.50 | 21 | Falling trend: below its 50- and 200-day (6-month -26%); 3-month return -37% vs QQQ; News flags: downgrade |
+| 9 | TXT | Textron | Industrials | 75.15 | 21 | Falling trend: below its 50- and 200-day (6-month -20%); 3-month return -22% vs QQQ |
+| 10 | ALGN | Align Technology | Health Care | 149.34 | 22 | Falling trend: below its 50- and 200-day (6-month -19%); 3-month return -19% vs QQQ; News flags: downgrade |
+| 11 | ALNY | Alnylam Pharmaceuticals | Health Care | 234.03 | 23 | Falling trend: below its 50- and 200-day (6-month -30%); 3-month return -17% vs QQQ |
+| 12 | NRG | NRG Energy | Utilities | 102.86 | 23 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -24% vs QQQ |
+| 13 | ALB | Albemarle Corporation | Materials | 98.18 | 24 | Falling trend: below its 50- and 200-day (6-month -40%); 3-month return -22% vs QQQ |
+| 14 | COO | Cooper Companies (The) | Health Care | 57.40 | 24 | Falling trend: below its 50- and 200-day (6-month -24%); 3-month return -24% vs QQQ |
+| 15 | FICO | Fair Isaac | Information Technology | 769.93 | 25 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -42% vs QQQ; News flags: downgrade |
 
 Full details: research_input.md · *Rule-based analysis, not financial advice. Past patterns do not guarantee future results.*

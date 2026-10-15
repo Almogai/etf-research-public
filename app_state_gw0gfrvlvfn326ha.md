@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-15T14:50:27Z · market session 2026-10-14 · app version c6e6b2a · 406 tests
+Generated 2026-10-15T16:13:38Z · market session 2026-10-14 · app version 9f5595e · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -137,15 +137,15 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.2% vs QQQ -3.9% after 5 trading days · 1 closed trades, 0 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,979.70 · cash $7,127.69 · vs SPY -1.3% · QQQ -3.9% · max drawdown -0.2% · paused: False · blocked: -
+- -0.0% vs QQQ -3.6% after 5 trading days · 1 closed trades, 0 winners · 3 open
+- Started 2026-10-12 with $10,000 · value $9,995.66 · cash $7,127.69 · vs SPY -1.1% · QQQ -3.6% · max drawdown -0.2% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $536.65 | -0.6% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| MPC | 2.1857 | $457.52 | $474.10 | +3.6% | 470 | 520 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
-| TMO | 1.19313 | $670.51 | $688.86 | +2.7% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
+| MSFT | 1.85199 | $539.96 | $539.79 | -0.0% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| MPC | 2.1857 | $457.52 | $477.62 | +4.4% | 470 | 520 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
+| TMO | 1.19313 | $670.51 | $690.91 | +3.0% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
 
 Closed: 1 · hit rate 0% · avg -7.2% · beat benchmark 0%
 By source: app_top5 n=1 hit 0% avg -7.2%
@@ -157,7 +157,7 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 
 ## ⚙️ Health
 - Research run 2026-10-14T22:03:58Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-15T14:49); Intraday move alert: success (2026-10-15T14:17); Collect Claude report: success (2026-10-15T12:49); Daily signals: success (2026-10-14T22:52); Broker sync: success (2026-10-14T21:40); Publish app state: success (2026-10-14T14:06)
+- Workflows: Claude portfolio decision: in_progress (2026-10-15T16:12); Intraday move alert: success (2026-10-15T16:11); Collect Claude report: success (2026-10-15T12:49); Daily signals: success (2026-10-14T22:52); Broker sync: success (2026-10-14T21:40); Publish app state: success (2026-10-14T14:06)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

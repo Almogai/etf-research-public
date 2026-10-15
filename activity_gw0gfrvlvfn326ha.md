@@ -1,9 +1,12 @@
 # My activity
 
-Generated 2026-10-15T17:05:00Z. Every event in the app, newest first (176 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-15T20:21:41Z. Every event in the app, newest first (179 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-15 20:21 | trade_detected | sync | QQQ | Robinhood · Brokerage: Detected: you bought about 0.92 QQQ at about $729.09 | 0.109179 → 1.028139 |
+| 2026-10-15 20:21 | deposit_inferred | sync |  | the inferred deposit in Robinhood · Brokerage arrived in the movement list - gap closed | 155.91 → 0.0 |
+| 2026-10-15 20:21 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: QQQ: broker 1.02814 shares, transactions give 0.109179 | {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 0.109179}} → {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 1.028139}} |
 | 2026-10-15 17:04 | deposit_inferred | sync |  | inferred deposit of $155.91 in Robinhood · Brokerage from the broker's cash (not in the movement list yet) | 0.0 → 155.91 |
 | 2026-10-15 14:50 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.035) |  |
 | 2026-10-15 11:41 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: TQQQ: broker 0 shares, transactions give 9.04649 | {'robinhood': {'QQQ': 0.109179}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}} → {'robinhood': {'QQQ': 0.109179}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.823, 'FLXSX': 0.057, 'FXINX': 8.479, 'FXLCX': 27.89, 'FXMCX': 0.175, 'FXSCX': 1.14}} |

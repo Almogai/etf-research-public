@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-16T14:50:56Z · market session 2026-10-15 · app version 53c03f0 · 406 tests
+Generated 2026-10-16T16:13:35Z · market session 2026-10-15 · app version b46c04b · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -138,17 +138,16 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.1% vs QQQ -3.7% after 6 trading days · 1 closed trades, 0 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,986.56 · cash $7,127.69 · vs SPY -0.8% · QQQ -3.7% · max drawdown -0.2% · paused: False · blocked: -
+- -0.4% vs QQQ -4.6% after 6 trading days · 1 closed trades, 0 winners · 4 open
+- Started 2026-10-12 with $10,000 · value $9,957.50 · cash $6,527.69 · vs SPY -1.5% · QQQ -4.6% · max drawdown -0.4% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $536.92 | -0.6% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| MPC | 2.1857 | $457.52 | $477.16 | +4.3% | 470 | 520 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
-| TMO | 1.19313 | $670.51 | $688.58 | +2.7% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
-
-Pending orders (fill at the next price): buy VEEV $600
+| MSFT | 1.85199 | $539.96 | $528.86 | -2.1% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| MPC | 2.1857 | $457.52 | $476.28 | +4.1% | 470 | 520 | 2026-10-12 | app_top5 | מראתון פטרוליום: מומנטום ואנרגיה לגיוון מול הטכנולוגיה, העלאת יעד מחיר |
+| TMO | 1.19313 | $670.51 | $685.84 | +2.3% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
+| VEEV | 1.90659 | $314.70 | $310.01 | -1.5% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
 
 Closed: 1 · hit rate 0% · avg -7.2% · beat benchmark 0%
 By source: app_top5 n=1 hit 0% avg -7.2%
@@ -160,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 
 ## ⚙️ Health
 - Research run 2026-10-15T22:05:56Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-16T14:49); Intraday move alert: success (2026-10-16T14:14); Collect Claude report: success (2026-10-16T12:47); Daily signals: success (2026-10-15T22:51); Broker sync: success (2026-10-15T21:41)
+- Workflows: Claude portfolio decision: in_progress (2026-10-16T16:12); Intraday move alert: success (2026-10-16T16:12); Collect Claude report: success (2026-10-16T12:47); Daily signals: success (2026-10-15T22:51); Broker sync: success (2026-10-15T21:41)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

@@ -1,9 +1,12 @@
 # My activity
 
-Generated 2026-10-16T10:39:03Z. Every event in the app, newest first (188 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-16T11:15:26Z. Every event in the app, newest first (191 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-16 11:15 | claude_picks | workflow |  | Claude picks received (2026-10-16) |  |
+| 2026-10-16 11:15 | claude_report | workflow |  | morning report 2026-10-15: 8/8 parts |  |
+| 2026-10-16 11:15 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FLAPX: broker 0.874 shares, transactions give 0.823; Fidelity · Brokerage 1: FLXSX: broker 0.116 shares, transactions give 0.057; Fidelity · Brokerage 1: FXINX: broker 9.342 shares, transactions give 8.479; Fidelity · Brokerage 1: FXLCX: broker 29.639 shares, transactions give 27.89; Robinhood · Brokerage: QQQ: broker 1.02814 shares, transactions give 0.109179 | {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 1.028139}} → {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {'QQQ': 1.028139}} |
 | 2026-10-16 10:38 | trade_detected | sync | FLAPX | Fidelity · Brokerage 1: Detected: you bought about 0.05 FLAPX at about $24.90 | 0.823 → 0.874 |
 | 2026-10-16 10:38 | trade_detected | sync | FLXSX | Fidelity · Brokerage 1: Detected: you bought about 0.06 FLXSX at about $20.00 | 0.057 → 0.116 |
 | 2026-10-16 10:38 | trade_detected | sync | FXINX | Fidelity · Brokerage 1: Detected: you bought about 0.86 FXINX at about $12.13 | 8.479 → 9.342 |

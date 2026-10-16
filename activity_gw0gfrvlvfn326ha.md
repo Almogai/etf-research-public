@@ -1,9 +1,11 @@
 # My activity
 
-Generated 2026-10-16T17:01:09Z. Every event in the app, newest first (203 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-16T20:45:45Z. Every event in the app, newest first (205 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-16 20:45 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: QQQ: broker 0 shares, transactions give 1.02814 | {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood': {}, 'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}} → {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood': {}, 'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}} |
+| 2026-10-16 17:11 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-16 17:01 | trade_detected | sync | QQQ | Robinhood · Brokerage: Detected: you sold about 1.03 QQQ | 1.028139 → 0.0 |
 | 2026-10-16 17:01 | deposit_inferred | sync |  | inferred deposit of $76.13 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 76.13 |
 | 2026-10-16 17:01 | reconcile | sync |  | sync reconcile: Robinhood · Brokerage: QQQ: broker 0 shares, transactions give 1.02814 | {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood': {'QQQ': 1.028139}, 'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}} → {'fidelity_brokerage_3': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}, 'robinhood': {}, 'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}} |

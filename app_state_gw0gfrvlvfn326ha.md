@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-19T11:16:34Z · market session 2026-10-15 · app version 11236e9 · 406 tests
+Generated 2026-10-19T11:42:06Z · market session 2026-10-15 · app version 3f420cb · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -46,7 +46,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $1,330.68 · deposits $1,350.89 · withdrawals $0.00 · cash $747.25 · profit -20.21 (-1.5%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **OK** · TQQQ 68.20999908447266 vs 200-day average $64.82 · distance +5.2%
 - Allocation: Cash 56%, FXLCX 26%, FXINX 8%, FITFX 4%, FLAPX 2%, TQQQ 1%, FXSCX 1%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 0.46x · 56% of your money is in Cash: your real exposure is about 0.5x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-19T11:16:11Z · last attempt 2026-10-19T11:16:11Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-19T11:41:42Z · last attempt 2026-10-19T11:41:42Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -154,7 +154,7 @@ Hypotheses / rules: [hypothesis, n=1] מניות מומנטום מתוחות ע�
 
 ## ⚙️ Health
 - Research run 2026-10-15T22:05:56Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-10-19T11:15); Daily signals: success (2026-10-16T22:52); Broker sync: success (2026-10-16T21:39); Intraday move alert: success (2026-10-16T21:09); Claude portfolio decision: success (2026-10-16T17:12)
+- Workflows: Collect Claude report: in_progress (2026-10-19T11:40); Daily signals: success (2026-10-16T22:52); Broker sync: success (2026-10-16T21:39); Intraday move alert: success (2026-10-16T21:09); Claude portfolio decision: success (2026-10-16T17:12)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research; second source unreachable for: QQQ, SPY, TQQQ
 

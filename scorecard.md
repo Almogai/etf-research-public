@@ -1,4 +1,4 @@
-# Research desk track record — as of 2026-10-15
+# Research desk track record — as of 2026-10-19
 
 Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 trading days. Returns include dividends. Hit rate = share of ideas that went up. Excess = idea return minus QQQ over the same days. Ideas newer than a horizon are not counted for it yet.
 
@@ -6,28 +6,28 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 25 | 20 | 30% | -1.5% | -0.7% | 35% | 15% |
-| 5 days | 25 | 0 | – | – | – | – | – |
-| 20 days | 25 | 0 | – | – | – | – | – |
-| 60 days | 25 | 0 | – | – | – | – | – |
+| 1 days | 30 | 25 | 28% | -2.2% | -1.1% | 36% | 16% |
+| 5 days | 30 | 10 | 30% | -7.9% | -3.3% | 40% | 60% |
+| 20 days | 30 | 0 | – | – | – | – | – |
+| 60 days | 30 | 0 | – | – | – | – | – |
 
 ## Last 3 months
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 25 | 20 | 30% | -1.5% | -0.7% | 35% | 15% |
-| 5 days | 25 | 0 | – | – | – | – | – |
-| 20 days | 25 | 0 | – | – | – | – | – |
-| 60 days | 25 | 0 | – | – | – | – | – |
+| 1 days | 30 | 25 | 28% | -2.2% | -1.1% | 36% | 16% |
+| 5 days | 30 | 10 | 30% | -7.9% | -3.3% | 40% | 60% |
+| 20 days | 30 | 0 | – | – | – | – | – |
+| 60 days | 30 | 0 | – | – | – | – | – |
 
 ## All time
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 25 | 20 | 30% | -1.5% | -0.7% | 35% | 15% |
-| 5 days | 25 | 0 | – | – | – | – | – |
-| 20 days | 25 | 0 | – | – | – | – | – |
-| 60 days | 25 | 0 | – | – | – | – | – |
+| 1 days | 30 | 25 | 28% | -2.2% | -1.1% | 36% | 16% |
+| 5 days | 30 | 10 | 30% | -7.9% | -3.3% | 40% | 60% |
+| 20 days | 30 | 0 | – | – | – | – | – |
+| 60 days | 30 | 0 | – | – | – | – | – |
 
 ## Backtest (history, not live results)
 

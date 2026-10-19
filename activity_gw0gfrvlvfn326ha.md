@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-19T16:15:15Z. Every event in the app, newest first (217 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-19T17:03:24Z. Every event in the app, newest first (219 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-19 17:03 | deposit_inferred | sync |  | the inferred deposit in Robinhood · Brokerage arrived in the movement list - gap closed | 155.89 → 0.0 |
 | 2026-10-19 15:19 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-19 14:53 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.035) |  |
 | 2026-10-19 11:16 | claude_picks | workflow |  | Claude picks received (2026-10-19) |  |
@@ -97,6 +98,7 @@ Generated 2026-10-19T16:15:15Z. Every event in the app, newest first (217 events
 | 2026-10-12 19:15 | trade_detected | sync | TQQQ | Robinhood · Brokerage: Detected: you bought about 1.96 TQQQ at about $79.55 | 7.085433 → 9.046493 |
 | 2026-10-12 19:14 | sync_request | manual |  | sync with Robinhood requested |  |
 | 2026-10-12 16:00 | trade | sync | TQQQ | sync (Robinhood · Brokerage): buy 1.96106 TQQQ @ 79.55 ($-156.00) |  |
+| 2026-10-12 16:00 | deposit | sync |  | sync (Robinhood · Brokerage): deposit  ($155.98) |  |
 | 2026-10-12 14:43 | claude_portfolio | workflow |  | Claude portfolio decision: 3 orders, 0 rejected ($0.036) |  |
 | 2026-10-12 11:14 | sync_request | manual |  | sync with Robinhood requested |  |
 | 2026-10-12 11:10 | sync_request | manual |  | sync with Robinhood requested |  |

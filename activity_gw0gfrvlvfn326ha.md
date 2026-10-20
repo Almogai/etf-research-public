@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-20T11:40:51Z. Every event in the app, newest first (222 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-20T14:51:28Z. Every event in the app, newest first (223 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-20 14:51 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.042) |  |
 | 2026-10-20 11:15 | claude_report | workflow |  | morning report 2026-10-19: 4/7 parts |  |
 | 2026-10-20 10:37 | deposit_inferred | sync |  | inferred withdrawal of $738.88 in Robinhood · Brokerage from the broker's cash (not in the movement list yet) | 0.0 → -738.88 |
 | 2026-10-19 22:06 | notify | workflow |  | push sent: ערב · 2026-10-19 |  |

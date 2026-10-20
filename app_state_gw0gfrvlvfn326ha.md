@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-20T14:51:27Z · market session 2026-10-19 · app version 0a02a29 · 406 tests
+Generated 2026-10-20T16:18:04Z · market session 2026-10-19 · app version af7ffb6 · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -133,17 +133,16 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.4% vs QQQ -4.0% after 8 trading days · 2 closed trades, 1 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,960.75 · cash $7,554.97 · vs SPY -0.9% · QQQ -4.0% · max drawdown -0.4% · paused: False · blocked: -
+- -0.3% vs QQQ -4.4% after 8 trading days · 2 closed trades, 1 winners · 4 open
+- Started 2026-10-12 with $10,000 · value $9,965.09 · cash $6,754.97 · vs SPY -1.3% · QQQ -4.4% · max drawdown -0.4% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $530.92 | -1.7% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| TMO | 1.19313 | $670.51 | $682.01 | +1.7% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
-| VEEV | 1.90659 | $314.70 | $319.31 | +1.5% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-
-Pending orders (fill at the next price): buy AMGN $800
+| MSFT | 1.85199 | $539.96 | $531.70 | -1.5% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| TMO | 1.19313 | $670.51 | $687.22 | +2.5% | 634.0 | 700.0 | 2026-10-14 | morning_claude, app_top5 | תרמו פישר: מומנטום ושדרוג דירוג, גיוון מחוץ לטכנולוגיה; גודל קטן כי הביטחון נמוך |
+| VEEV | 1.90659 | $314.70 | $319.83 | +1.6% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| AMGN | 1.8334 | $436.35 | $434.00 | -0.5% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
 
 Closed: 2 · hit rate 50% · avg -2.2% · beat benchmark 50%
 By source: app_top5 n=2 hit 50% avg -2.2%
@@ -156,7 +155,7 @@ Hypotheses / rules: [hypothesis, n=5] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-19T22:06:02Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-20T14:50); Intraday move alert: success (2026-10-20T14:16); Collect Claude report: success (2026-10-20T12:47); Daily signals: success (2026-10-19T22:54); Broker sync: success (2026-10-19T21:40)
+- Workflows: Claude portfolio decision: in_progress (2026-10-20T16:17); Intraday move alert: success (2026-10-20T16:16); Collect Claude report: success (2026-10-20T12:47); Daily signals: success (2026-10-19T22:54); Broker sync: success (2026-10-19T21:40)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

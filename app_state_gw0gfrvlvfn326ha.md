@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-21T14:51:03Z · market session 2026-10-19 · app version 160ac35 · 406 tests
+Generated 2026-10-21T16:16:45Z · market session 2026-10-19 · app version cfe424a · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -133,15 +133,15 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.1% vs QQQ -3.7% after 9 trading days · 3 closed trades, 2 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,985.54 · cash $7,590.16 · vs SPY -1.0% · QQQ -3.7% · max drawdown -0.3% · paused: False · blocked: -
+- -0.2% vs QQQ -3.4% after 9 trading days · 3 closed trades, 2 winners · 3 open
+- Started 2026-10-12 with $10,000 · value $9,980.14 · cash $7,590.16 · vs SPY -0.8% · QQQ -3.4% · max drawdown -0.3% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $529.92 | -1.9% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| VEEV | 1.90659 | $314.70 | $320.83 | +1.9% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-| AMGN | 1.8334 | $436.35 | $437.59 | +0.3% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
+| MSFT | 1.85199 | $539.96 | $531.49 | -1.6% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| VEEV | 1.90659 | $314.70 | $318.58 | +1.2% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| AMGN | 1.8334 | $436.35 | $435.40 | -0.2% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
 
 Closed: 3 · hit rate 67% · avg -0.0% · beat benchmark 67%
 By source: app_top5 n=3 hit 67% avg -0.0%; morning_claude n=1 hit 100% avg +4.4%
@@ -155,7 +155,7 @@ Hypotheses / rules: [hypothesis, n=6] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-19T22:06:02Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-21T14:49); Intraday move alert: success (2026-10-21T14:17); Collect Claude report: success (2026-10-21T12:47); Daily signals: success (2026-10-20T22:54); Broker sync: success (2026-10-20T21:41)
+- Workflows: Claude portfolio decision: in_progress (2026-10-21T16:15); Intraday move alert: success (2026-10-21T16:15); Collect Claude report: success (2026-10-21T12:47); Daily signals: success (2026-10-20T22:54); Broker sync: success (2026-10-20T21:41)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ
 

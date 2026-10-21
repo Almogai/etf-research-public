@@ -1,9 +1,14 @@
 # My activity
 
-Generated 2026-10-20T20:47:24Z. Every event in the app, newest first (223 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-21T10:40:08Z. Every event in the app, newest first (228 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-20 21:59 | workflow_failed | workflow |  | Daily signals: failed step(s) research-tests |  |
+| 2026-10-20 21:59 | notify | workflow |  | push sent: הרצת הערב |  |
+| 2026-10-20 21:58 | claude_report | workflow |  | morning report 2026-10-19: 4/7 parts |  |
+| 2026-10-20 21:58 | notify | workflow |  | push sent: 🚨 TQQQ |  |
+| 2026-10-20 21:30 | signal_change | workflow | TQQQ | TQQQ signal changed to OUT (rule C): C: signal 717.63 vs 200d exit 662.43; 3 closes below 50d, 50d falling=True | IN → OUT |
 | 2026-10-20 14:51 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.042) |  |
 | 2026-10-20 11:15 | claude_report | workflow |  | morning report 2026-10-19: 4/7 parts |  |
 | 2026-10-20 10:37 | deposit_inferred | sync |  | inferred withdrawal of $738.88 in Robinhood · Brokerage from the broker's cash (not in the movement list yet) | 0.0 → -738.88 |

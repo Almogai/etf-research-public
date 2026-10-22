@@ -1,9 +1,11 @@
 # My activity
 
-Generated 2026-10-22T10:39:10Z. Every event in the app, newest first (233 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-22T11:18:07Z. Every event in the app, newest first (235 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-22 11:17 | claude_picks | workflow |  | Claude picks received (2026-10-22) |  |
+| 2026-10-22 11:17 | claude_report | workflow |  | morning report 2026-10-21: 6/6 parts |  |
 | 2026-10-22 10:39 | deposit_inferred | sync |  | inferred deposit of $38.41 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 38.41 |
 | 2026-10-21 22:08 | notify | workflow |  | push sent: ערב · 2026-10-21 |  |
 | 2026-10-21 14:50 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.036) |  |

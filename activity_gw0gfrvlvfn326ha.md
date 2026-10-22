@@ -1,9 +1,12 @@
 # My activity
 
-Generated 2026-10-22T20:45:18Z. Every event in the app, newest first (238 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-22T22:07:17Z. Every event in the app, newest first (241 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-22 22:07 | notify | workflow |  | push sent: ערב · 2026-10-22 |  |
+| 2026-10-22 21:58 | notify | workflow |  | push sent: 🚨 TQQQ |  |
+| 2026-10-22 21:30 | floor_event | workflow | TQQQ | TQQQ 200-day rule WARN: close $66.42 vs 200-day average $65.15 (+1.95%); exit below it, warning under +3% | OK → WARN |
 | 2026-10-22 14:18 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-22 11:17 | claude_picks | workflow |  | Claude picks received (2026-10-22) |  |
 | 2026-10-22 11:17 | claude_report | workflow |  | morning report 2026-10-21: 6/6 parts |  |

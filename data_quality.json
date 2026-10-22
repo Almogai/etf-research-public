@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-21T22:02:44Z",
- "session_date": "2026-10-21",
+ "generated_utc": "2026-10-22T22:01:37Z",
+ "session_date": "2026-10-22",
  "status": "warn",
  "reasons": [
   "second source unreachable for: QQQ, SPY, TQQQ"
@@ -10,21 +10,21 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 725.2,
+   "ours": 704.47,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 773.09,
+   "ours": 763.96,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 72.61,
+   "ours": 66.42,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -32,141 +32,141 @@
  ],
  "sample": [
   {
-   "ticker": "QCOM",
-   "ours": 177.96,
+   "ticker": "OTIS",
+   "ours": 75.6,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ADSK",
-   "ours": 244.84,
+   "ticker": "LLY",
+   "ours": 1306.6899,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PTC",
-   "ours": 194.38,
+   "ticker": "EXC",
+   "ours": 44.85,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "SHOP",
-   "ours": 174.29,
+   "ticker": "AVY",
+   "ours": 184.66,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "MRK",
-   "ours": 149.88,
+   "ticker": "IEX",
+   "ours": 226.88,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HST",
-   "ours": 25.09,
+   "ticker": "HPQ",
+   "ours": 33.76,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "VZ",
-   "ours": 43.56,
+   "ticker": "HUBB",
+   "ours": 445.8,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "RSG",
-   "ours": 230.32,
+   "ticker": "ABBV",
+   "ours": 285.19,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "SHW",
-   "ours": 337.27,
+   "ticker": "DDOG",
+   "ours": 257.75,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "A",
-   "ours": 177.75,
+   "ticker": "BE",
+   "ours": 217.77,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HAS",
-   "ours": 114.0,
+   "ticker": "FTV",
+   "ours": 60.05,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "AJG",
-   "ours": 258.37,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "BAC",
-   "ours": 50.78,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "BG",
-   "ours": 102.23,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "CSGP",
-   "ours": 32.9,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "ULTA",
-   "ours": 606.99,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "SLB",
-   "ours": 51.1,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "CHD",
-   "ours": 105.0,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "COP",
-   "ours": 145.67,
+   "ticker": "FOX",
+   "ours": 60.82,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "MMM",
-   "ours": 174.74,
+   "ours": 175.56,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "COIN",
+   "ours": 169.09,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "DVN",
+   "ours": 49.18,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "CRL",
+   "ours": 339.66,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "GS",
+   "ours": 891.3,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "TSN",
+   "ours": 57.07,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "ACGL",
+   "ours": 102.69,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "CRH",
+   "ours": 86.43,
    "theirs": null,
    "diff": null,
    "status": "unverified"

@@ -1,9 +1,13 @@
 # My activity
 
-Generated 2026-10-23T20:47:10Z. Every event in the app, newest first (259 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-23T22:06:00Z. Every event in the app, newest first (263 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-23 22:05 | notify | workflow |  | push sent: 📋 סקירה שבועית |  |
+| 2026-10-23 22:05 | notify | workflow |  | push sent: ערב · 2026-10-23 |  |
+| 2026-10-23 22:05 | notify | workflow |  | push sent: סיכום שבועי |  |
+| 2026-10-23 21:58 | notify | workflow |  | push sent: 🚨 TQQQ |  |
 | 2026-10-23 16:52 | deposit_inferred | sync |  | inferred deposit of $79.17 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 79.17 |
 | 2026-10-23 16:51 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-23 14:54 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.048) |  |

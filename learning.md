@@ -1,4 +1,4 @@
-# Weekly learning — 2026-10-09
+# Weekly learning — 2026-10-23
 
 Which factors predicted returns vs QQQ over the following 5 and 20 trading days? **IC** = rank correlation between a factor and the later excess return (+0.05 is useful, 0 is nothing, negative is the wrong way). **Spread** = how much the top 20% of stocks on the factor beat the bottom 20% on average. **t** above 2 means the result was consistent.
 
@@ -6,22 +6,22 @@ Which factors predicted returns vs QQQ over the following 5 and 20 trading days?
 
 | Factor | Horizon | Samples | IC | t | IC > 0 | Top–bottom spread |
 |---|---|---|---|---|---|---|
-| trend | 5 days | 51 | +0.004 | 0.2 | 45% | +0.13% |
-| momentum | 5 days | 51 | +0.003 | 0.1 | 49% | +0.30% |
-| relative_strength | 5 days | 51 | -0.010 | -0.3 | 47% | +0.06% |
-| volatility | 5 days | 51 | -0.012 | -0.7 | 43% | -0.41% |
-| liquidity | 5 days | 51 | +0.021 | 1.0 | 65% | +0.40% |
-| price score (combined) | 5 days | 51 | +0.003 | 0.1 | 49% | +0.22% |
-| trend | 20 days | 13 | -0.012 | -0.3 | 54% | +0.40% |
-| momentum | 20 days | 13 | -0.005 | -0.1 | 46% | +1.02% |
-| relative_strength | 20 days | 13 | -0.015 | -0.3 | 46% | +0.86% |
-| volatility | 20 days | 13 | -0.022 | -0.8 | 31% | -1.86% |
-| liquidity | 20 days | 13 | +0.030 | 0.7 | 62% | +1.68% |
-| price score (combined) | 20 days | 13 | -0.006 | -0.1 | 46% | +0.93% |
+| trend | 5 days | 51 | +0.002 | 0.1 | 45% | +0.06% |
+| momentum | 5 days | 51 | -0.006 | -0.2 | 47% | +0.11% |
+| relative_strength | 5 days | 51 | -0.008 | -0.3 | 47% | +0.08% |
+| volatility | 5 days | 51 | -0.004 | -0.2 | 45% | -0.25% |
+| liquidity | 5 days | 51 | +0.009 | 0.4 | 63% | +0.16% |
+| price score (combined) | 5 days | 51 | -0.002 | -0.1 | 49% | +0.11% |
+| trend | 20 days | 13 | -0.002 | -0.0 | 54% | +0.07% |
+| momentum | 20 days | 13 | +0.012 | 0.2 | 54% | +1.06% |
+| relative_strength | 20 days | 13 | -0.010 | -0.2 | 62% | +0.39% |
+| volatility | 20 days | 13 | +0.009 | 0.2 | 54% | -1.10% |
+| liquidity | 20 days | 13 | +0.008 | 0.2 | 54% | +0.58% |
+| price score (combined) | 20 days | 13 | +0.003 | 0.1 | 54% | +0.26% |
 
-## Live ideas log (5 ideas logged)
+## Live ideas log (45 ideas logged)
 
-Not enough scored ideas yet (0 scored at 5 days; at least 30 needed). The news score can only be judged here, because there is no free news history.
+Not enough scored ideas yet (25 scored at 5 days; at least 30 needed). The news score can only be judged here, because there is no free news history.
 
 ## Suggested price-score weights (NOT applied)
 

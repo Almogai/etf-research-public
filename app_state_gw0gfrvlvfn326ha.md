@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-23T14:55:01Z · market session 2026-10-22 · app version e89fd11 · 406 tests
+Generated 2026-10-23T16:19:09Z · market session 2026-10-22 · app version 0fc2b0d · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -136,17 +136,16 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.1% vs QQQ -5.7% after 11 trading days · 3 closed trades, 2 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,988.43 · cash $7,590.16 · vs SPY -2.0% · QQQ -5.7% · max drawdown -0.3% · paused: False · blocked: -
+- -0.1% vs QQQ -5.8% after 11 trading days · 3 closed trades, 2 winners · 4 open
+- Started 2026-10-12 with $10,000 · value $9,990.06 · cash $6,690.16 · vs SPY -2.1% · QQQ -5.8% · max drawdown -0.3% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $525.15 | -2.7% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| VEEV | 1.90659 | $314.70 | $322.39 | +2.4% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-| AMGN | 1.8334 | $436.35 | $442.36 | +1.4% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
-
-Pending orders (fill at the next price): buy MPC $900
+| MSFT | 1.85199 | $539.96 | $524.82 | -2.8% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| VEEV | 1.90659 | $314.70 | $322.86 | +2.6% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| AMGN | 1.8334 | $436.35 | $442.49 | +1.4% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
+| MPC | 1.94953 | $461.65 | $462.22 | +0.1% | 433.0 | 495.0 | 2026-10-23 | app_top5, morning_claude | מרתון פטרוליום: מומנטום חזק ודירוג ראשון, גיוון לאנרגיה; גודל קטן כי המניה כבר ע |
 
 Closed: 3 · hit rate 67% · avg -0.0% · beat benchmark 67%
 By source: app_top5 n=3 hit 67% avg -0.0%; morning_claude n=1 hit 100% avg +4.4%
@@ -160,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-22T22:07:14Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-23T14:53); Intraday move alert: success (2026-10-23T14:20); Collect Claude report: success (2026-10-23T12:45); Daily signals: success (2026-10-22T22:55); Broker sync: success (2026-10-22T21:39)
+- Workflows: Claude portfolio decision: in_progress (2026-10-23T16:18); Intraday move alert: success (2026-10-23T16:17); Collect Claude report: success (2026-10-23T12:45); Daily signals: success (2026-10-22T22:55); Broker sync: success (2026-10-22T21:39)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ
 

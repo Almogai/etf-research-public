@@ -1,9 +1,17 @@
 # My activity
 
-Generated 2026-10-23T10:37:33Z. Every event in the app, newest first (241 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-23T11:16:35Z. Every event in the app, newest first (249 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-23 11:16 | claude_picks | workflow |  | Claude picks received (2026-10-23) |  |
+| 2026-10-23 11:16 | claude_report | workflow |  | morning report 2026-10-22: 7/7 parts |  |
+| 2026-10-23 11:16 | trade_detected | sync | FITFX | Fidelity · Brokerage 1: Detected: you bought about 0.53 FITFX at about $18.74 | 2.945 → 3.476 |
+| 2026-10-23 11:16 | trade_detected | sync | FLAPX | Fidelity · Brokerage 1: Detected: you bought about 0.04 FLAPX at about $25.11 | 0.874 → 0.919 |
+| 2026-10-23 11:16 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 1.92 FXLCX at about $11.83 | 29.639 → 31.56 |
+| 2026-10-23 11:16 | trade_detected | sync | FXSCX | Fidelity · Brokerage 1: Detected: you bought about 0.08 FXSCX at about $11.85 | 1.14 → 1.221 |
+| 2026-10-23 11:16 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 38.41 → 0.0 |
+| 2026-10-23 11:16 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 3.476 shares, transactions give 2.945; Fidelity · Brokerage 1: FLAPX: broker 0.919 shares, transactions give 0.874; Fidelity · Brokerage 1: FXLCX: broker 31.56 shares, transactions give 29.639; Fidelity · Brokerage 1: FXSCX: broker 1.221 shares, transactions give 1.14 | {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage': {'FITFX': 2.945, 'FLAPX': 0.874, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 29.639, 'FXMCX': 0.175, 'FXSCX': 1.14}} → {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage': {'FITFX': 3.476, 'FLAPX': 0.919, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 31.56, 'FXMCX': 0.175, 'FXSCX': 1.221}} |
 | 2026-10-22 22:07 | notify | workflow |  | push sent: ערב · 2026-10-22 |  |
 | 2026-10-22 21:58 | notify | workflow |  | push sent: 🚨 TQQQ |  |
 | 2026-10-22 21:30 | floor_event | workflow | TQQQ | TQQQ 200-day rule WARN: close $66.42 vs 200-day average $65.15 (+1.95%); exit below it, warning under +3% | OK → WARN |

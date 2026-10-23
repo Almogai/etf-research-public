@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-23T16:52:43Z. Every event in the app, newest first (252 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-23T16:53:05Z. Every event in the app, newest first (259 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-23 16:52 | deposit_inferred | sync |  | inferred deposit of $79.17 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 79.17 |
 | 2026-10-23 16:51 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-23 14:54 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.048) |  |
 | 2026-10-23 11:42 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 3.476 shares, transactions give 2.945; Fidelity · Brokerage 1: FLAPX: broker 0.919 shares, transactions give 0.874; Fidelity · Brokerage 1: FXLCX: broker 31.56 shares, transactions give 29.639; Fidelity · Brokerage 1: FXSCX: broker 1.221 shares, transactions give 1.14 | {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage': {'FITFX': 3.476, 'FLAPX': 0.919, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 31.56, 'FXMCX': 0.175, 'FXSCX': 1.221}} → {'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'robinhood': {}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage': {'FITFX': 3.476, 'FLAPX': 0.919, 'FLXSX': 0.116, 'FXINX': 9.342, 'FXLCX': 31.56, 'FXMCX': 0.175, 'FXSCX': 1.221}} |
@@ -18,6 +19,12 @@ Generated 2026-10-23T16:52:43Z. Every event in the app, newest first (252 events
 | 2026-10-22 22:07 | notify | workflow |  | push sent: ערב · 2026-10-22 |  |
 | 2026-10-22 21:58 | notify | workflow |  | push sent: 🚨 TQQQ |  |
 | 2026-10-22 21:30 | floor_event | workflow | TQQQ | TQQQ 200-day rule WARN: close $66.42 vs 200-day average $65.15 (+1.95%); exit below it, warning under +3% | OK → WARN |
+| 2026-10-22 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 6 FLGXX @ 1.00 ($-6.00) |  |
+| 2026-10-22 16:00 | trade | sync | FITFX | sync (Fidelity · Brokerage 1): buy 0.531 FITFX @ 18.73 ($-9.95) |  |
+| 2026-10-22 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 1.921 FXLCX @ 11.83 ($-22.72) |  |
+| 2026-10-22 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.045 FLAPX @ 25.09 ($-1.13) |  |
+| 2026-10-22 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.081 FXSCX @ 11.91 ($-0.96) |  |
+| 2026-10-22 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($6.00) |  |
 | 2026-10-22 14:18 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-22 11:17 | claude_picks | workflow |  | Claude picks received (2026-10-22) |  |
 | 2026-10-22 11:17 | claude_report | workflow |  | morning report 2026-10-21: 6/6 parts |  |

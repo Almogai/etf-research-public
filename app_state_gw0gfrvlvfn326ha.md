@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-23T11:42:28Z · market session 2026-10-22 · app version b1dea98 · 406 tests
+Generated 2026-10-23T14:55:01Z · market session 2026-10-22 · app version e89fd11 · 406 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -39,12 +39,12 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Fidelity · Brokerage 1 | FLXSX | 0.116 | 20.09 | 20.00 | $2.32 | -0.01 | sync |
 | Fidelity · Brokerage 1 | FXINX | 9.342 | 12.40 | 12.00 | $112.10 | -3.73 | sync |
 | Fidelity · Brokerage 1 | FXLCX | 31.56 | 11.95 | 11.83 | $373.35 | -3.87 | sync |
-| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.63 | $2.04 | +0.04 | sync |
+| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.66 | $2.04 | +0.04 | sync |
 | Fidelity · Brokerage 1 | FXSCX | 1.221 | 12.20 | 11.91 | $14.54 | -0.36 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $44.41 |  | sync |
 
 - Net worth $661.70 · deposits $1,380.98 · withdrawals $738.88 · cash $44.46 · profit +19.60 (+3.1%)
-- TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **WARN** · TQQQ 66.41999816894531 vs 200-day average $65.15 · distance +1.9%
+- TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **WARN** · TQQQ 66.42 vs 200-day average $65.15 · distance +1.9%
 - Allocation: FXLCX 56%, FXINX 17%, FITFX 10%, Cash 7%, FLAPX 3%, TQQQ 2%, FXSCX 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 0.98x · 56% of your money is in FXLCX: your real exposure is about 1.0x the market.
 - Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-23T11:42:05Z · last attempt 2026-10-23T11:42:05Z
 
@@ -63,10 +63,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 250 events since 2026-05-30T16:00:00Z · by type: {'trade': 95, 'notify': 25, 'reconcile': 24, 'deposit': 17, 'trade_detected': 13, 'deposit_inferred': 13, 'claude_report': 12, 'claude_picks': 9, 'claude_portfolio': 8, 'sync_request': 8, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'price_source': 2, 'signal_change': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 251 events since 2026-05-30T16:00:00Z · by type: {'trade': 95, 'notify': 25, 'reconcile': 24, 'deposit': 17, 'trade_detected': 13, 'deposit_inferred': 13, 'claude_report': 12, 'claude_portfolio': 9, 'claude_picks': 9, 'sync_request': 8, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'price_source': 2, 'signal_change': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $728, trades 41, alerts 25, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-23 14:54 · claude_portfolio (workflow): Claude portfolio decision: 1 orders, 0 rejected ($0.048)
 - 2026-10-23 11:42 · reconcile (sync): sync reconcile: Fidelity · Brokerage 1: FITFX: broker 3.476 shares, transactions give 2.945; Fidelity · Brokerage 1: FLAPX: broker 0.919 shares, transactions give 0.874; Fidelity · Brokerage 1: FXLCX: broker 31.56 shares, transactions give 29.639; Fidelity · Brokerage 1: FXSCX: broker 1.221 shares, transactions give 1.14
 - 2026-10-23 11:16 · claude_report (workflow): morning report 2026-10-22: 7/7 parts
 - 2026-10-23 11:16 · claude_picks (workflow): Claude picks received (2026-10-23)
@@ -106,7 +107,6 @@ Last 30 days:
 - 2026-10-19 10:39 · deposit_inferred (sync): inferred deposit of $155.89 in Robinhood · Brokerage from the broker's cash (not in the movement list yet)
 - 2026-10-19 10:39 · deposit_inferred (sync): the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed
 - 2026-10-16 22:09 · notify (workflow): push sent: הרצת הערב
-- 2026-10-16 22:09 · workflow_failed (workflow): Daily signals: failed step(s) research
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-14 22:03 push sent: ערב · 2026-10-14 → sync (Fidelity · Brokerage 1): buy 5 FLGXX @ 1.00 ($-5.00); sync (Fidelity · Brokerage 1): buy 0.059 FLXSX @ 20.00 ($-1.18); sync (Fidelity · Brokerage 1): buy 1.749 FXLCX @ 11.97 ($-20.94); sync (Fidelity · Brokerage 1): buy 0.051 FLAPX @ 25.02 ($-1.27); sync (Fidelity · Brokerage 1): buy 0.863 FXINX @ 12.13 ($-10.47)
@@ -136,15 +136,17 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.1% vs QQQ -6.2% after 10 trading days · 3 closed trades, 2 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,990.21 · cash $7,590.16 · vs SPY -1.9% · QQQ -6.2% · max drawdown -0.3% · paused: False · blocked: -
+- -0.1% vs QQQ -5.7% after 11 trading days · 3 closed trades, 2 winners · 3 open
+- Started 2026-10-12 with $10,000 · value $9,988.43 · cash $7,590.16 · vs SPY -2.0% · QQQ -5.7% · max drawdown -0.3% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $521.08 | -3.5% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| VEEV | 1.90659 | $314.70 | $322.55 | +2.5% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-| AMGN | 1.8334 | $436.35 | $447.28 | +2.5% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
+| MSFT | 1.85199 | $539.96 | $525.15 | -2.7% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| VEEV | 1.90659 | $314.70 | $322.39 | +2.4% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| AMGN | 1.8334 | $436.35 | $442.36 | +1.4% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
+
+Pending orders (fill at the next price): buy MPC $900
 
 Closed: 3 · hit rate 67% · avg -0.0% · beat benchmark 67%
 By source: app_top5 n=3 hit 67% avg -0.0%; morning_claude n=1 hit 100% avg +4.4%
@@ -152,13 +154,13 @@ By source: app_top5 n=3 hit 67% avg -0.0%; morning_claude n=1 hit 100% avg +4.4%
 - 2026-10-20 MPC +2.7% (stop): MPC נסגרה בסטופ ברווח של +2.7% מול מדד של -0.9%, כלומר הסטופ שמר על רווח ולא הפך להפסד. מניית אנרגיה עם מומנטום חזק עבדה בשבוע הראשון, אבל זה מקרה בודד (n=1) ולא מוכיח שגיוון לאנרגיה עובד. כדאי להמשיך להצמיד סטופ קרוב לרווח כשהמניה עולה.
 - 2026-10-21 TMO +4.4% (target): TMO הגיעה ליעד אחרי 7 ימים ברווח של 4.4% מול מדד של 0.2%, עם ירידה מקסימלית של 1.2% בלבד. הגודל הקטן והיעד הקרוב עבדו, אבל זו עסקה בודדת (n=1) ואין לראות בה הוכחה לכך שבריאות או מניות דפנסיביות עדיפות.
 
-Latest decision (2026-10-21, claude-sonnet-5-5, $0.036): No new buys. Portfolio is about 76% cash with three small positions that are near flat. TMO hit its target for +4.4%. The regime is choppy and the HOT-list names are extended, so we wait.
+Latest decision (2026-10-23, claude-sonnet-5-5, $0.048): Small re-entry into MPC (~9%), top of the app's list and a morning pick; hold the other positions and keep cash high given the tiny sample.
 
-Hypotheses / rules: [hypothesis, n=6] גיוון מחוץ לטכנולוגיה (אנרגיה, בריאות) הניב תוצאות טובות יותר מטכנולוגיה מתוחה בשבועות הראשונים
+Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (אנרגיה, בריאות) הניב תוצאות טובות יותר מטכנולוגיה מתוחה בשבועות הראשונים; [hypothesis, n=1] סטופ צמוד אחרי עלייה שומר רווח, אבל עלול להוציא מניות מומנטום לפני שהמהלך נגמר (MPC המשיכה לעלות אחרי היציאה)
 
 ## ⚙️ Health
 - Research run 2026-10-22T22:07:14Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-10-23T11:41); Daily signals: success (2026-10-22T22:55); Broker sync: success (2026-10-22T21:39); Intraday move alert: success (2026-10-22T21:13); Claude portfolio decision: success (2026-10-22T17:13)
+- Workflows: Claude portfolio decision: in_progress (2026-10-23T14:53); Intraday move alert: success (2026-10-23T14:20); Collect Claude report: success (2026-10-23T12:45); Daily signals: success (2026-10-22T22:55); Broker sync: success (2026-10-22T21:39)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ
 
@@ -187,7 +189,7 @@ Hypotheses / rules: [hypothesis, n=6] גיוון מחוץ לטכנולוגיה (
 - **טבלאות באנגלית (English tables)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-22T22:07:14Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 250 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 251 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

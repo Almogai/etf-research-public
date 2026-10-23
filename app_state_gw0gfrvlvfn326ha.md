@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-23T16:19:09Z · market session 2026-10-22 · app version 0fc2b0d · 406 tests
+Generated 2026-10-23T16:52:43Z · market session 2026-10-22 · app version 4716b8 · 409 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -63,10 +63,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 251 events since 2026-05-30T16:00:00Z · by type: {'trade': 95, 'notify': 25, 'reconcile': 24, 'deposit': 17, 'trade_detected': 13, 'deposit_inferred': 13, 'claude_report': 12, 'claude_portfolio': 9, 'claude_picks': 9, 'sync_request': 8, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'price_source': 2, 'signal_change': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 252 events since 2026-05-30T16:00:00Z · by type: {'trade': 95, 'notify': 25, 'reconcile': 24, 'deposit': 17, 'trade_detected': 13, 'deposit_inferred': 13, 'claude_report': 12, 'claude_portfolio': 9, 'claude_picks': 9, 'sync_request': 8, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'price_source': 3, 'portfolio_change': 3, 'signal_change': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $728, trades 41, alerts 25, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-23 16:51 · price_source (manual): app prices: finnhub (2 real-time)
 - 2026-10-23 14:54 · claude_portfolio (workflow): Claude portfolio decision: 1 orders, 0 rejected ($0.048)
 - 2026-10-23 11:42 · reconcile (sync): sync reconcile: Fidelity · Brokerage 1: FITFX: broker 3.476 shares, transactions give 2.945; Fidelity · Brokerage 1: FLAPX: broker 0.919 shares, transactions give 0.874; Fidelity · Brokerage 1: FXLCX: broker 31.56 shares, transactions give 29.639; Fidelity · Brokerage 1: FXSCX: broker 1.221 shares, transactions give 1.14
 - 2026-10-23 11:16 · claude_report (workflow): morning report 2026-10-22: 7/7 parts
@@ -106,7 +107,6 @@ Last 30 days:
 - 2026-10-19 11:16 · claude_picks (workflow): Claude picks received (2026-10-19)
 - 2026-10-19 10:39 · deposit_inferred (sync): inferred deposit of $155.89 in Robinhood · Brokerage from the broker's cash (not in the movement list yet)
 - 2026-10-19 10:39 · deposit_inferred (sync): the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed
-- 2026-10-16 22:09 · notify (workflow): push sent: הרצת הערב
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-14 22:03 push sent: ערב · 2026-10-14 → sync (Fidelity · Brokerage 1): buy 5 FLGXX @ 1.00 ($-5.00); sync (Fidelity · Brokerage 1): buy 0.059 FLXSX @ 20.00 ($-1.18); sync (Fidelity · Brokerage 1): buy 1.749 FXLCX @ 11.97 ($-20.94); sync (Fidelity · Brokerage 1): buy 0.051 FLAPX @ 25.02 ($-1.27); sync (Fidelity · Brokerage 1): buy 0.863 FXINX @ 12.13 ($-10.47)
@@ -159,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-22T22:07:14Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-23T16:18); Intraday move alert: success (2026-10-23T16:17); Collect Claude report: success (2026-10-23T12:45); Daily signals: success (2026-10-22T22:55); Broker sync: success (2026-10-22T21:39)
+- Workflows: Publish app state: in_progress (2026-10-23T16:51); Broker sync: in_progress (2026-10-23T16:51); Claude portfolio decision: success (2026-10-23T16:18); Intraday move alert: success (2026-10-23T16:17); Collect Claude report: success (2026-10-23T12:45); Daily signals: success (2026-10-22T22:55)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ
 
@@ -188,7 +188,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 - **טבלאות באנגלית (English tables)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-22T22:07:14Z; TQQQ run success; data check warn
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary
-- **הפעילות שלי (My activity)** [`activity`]: 251 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 252 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

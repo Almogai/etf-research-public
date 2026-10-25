@@ -9,23 +9,24 @@ Every screen of the app, in order, with the exact Hebrew labels (English in brac
 
 ## Under 💼 → ⚙️ מתקדם (Advanced), in order
 - `status` **📋 סטטוס מלא** (Full status): what Today used to show: pre-open checklist, traffic light + TQQQ/200-day sentence, my money, what changed since yesterday, Claude says, today's top 5 chips
-- `top5` **🔥 Top 5** (Top 5): the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist
+- `top5` **🔥 Top 5** (Top 5): the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist (off the screen since Oct 24 2026: opens only from a link or the chat)
 - `portfolio` **✏️ ניהול התיק** (Manage my money): (under ⚙️ Advanced) net worth, a card per holding, allocation, broker import, editing (trade, deposits, holdings, accounts, undo), TQQQ rules
-- `tune` **🎯 כוונון** (Tune): benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat
-- `more` **⚙️ מתקדם** (Advanced): ⚙️ Advanced (from 💼): every other screen in groups + language + reload + download my data + copy for Claude
+- `tune` **🎯 כוונון** (Tune): benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat (off the screen since Oct 24 2026: opens only from a link or the chat)
+- `more` **⚙️ מתקדם** (Advanced): ⚙️ Advanced (from 💼): 3 entries (Claude · a stock · my portfolio), each opening its pages with a button row on top + language + reload + download my data + copy for Claude
 - `overview` **📋 סקירה מלאה** (Full overview): the previous home page: summary, mood, hot 5 cards, stay-away 5
 - `stock` **📊 מניה** (Stock details): any stock: score + plain sentence, fundamentals, chart, factor bars, news vs Claude, insiders, headlines
 - `report` **📰 דוח הבוקר** (Morning report): morning Claude's full report, archive by date, that day's picks, Open in Google Drive
-- `weekly` **📅 סיכום שבועי** (Weekly summary): every Friday's weekly summary
+- `weekly` **📅 סיכום שבועי** (Weekly summary): every Friday's weekly summary (off the screen since Oct 24 2026: opens only from a link or the chat)
 - `activity` **📜 הפעילות שלי** (My activity): my full activity timeline: filters, search, monthly summary, CSV/Excel
-- `track` **🏆 הצלחה** (Track record): hit rate over time, what the app learned, paper portfolio, App vs Claude vs benchmark, Claude's journal
-- `smart` **💰 כסף חכם** (Smart money): insider buys, buybacks, big funds (13F)
-- `sectors` **🌍 סקטורים** (Sectors): which sectors are hot or cold
-- `history` **📜 היסטוריה** (History): similar market periods since 1990 and event base rates
+- `track` **🏆 הצלחה** (Track record): hit rate over time, what the app learned, paper portfolio, App vs Claude vs benchmark, Claude's journal (off the screen since Oct 24 2026: opens only from a link or the chat)
+- `smart` **💰 כסף חכם** (Smart money): insider buys, buybacks, big funds (13F) (off the screen since Oct 24 2026: opens only from a link or the chat)
+- `sectors` **🌍 סקטורים** (Sectors): which sectors are hot or cold (off the screen since Oct 24 2026: opens only from a link or the chat)
+- `history` **📜 היסטוריה** (History): similar market periods since 1990 and event base rates (off the screen since Oct 24 2026: opens only from a link or the chat)
 - `advanced` **🗂️ טבלאות באנגלית** (English tables): the original English tables: overview, research, track record, charts, backtest, log, connections
 - `connections` **🔌 חיבורים** (Connections): is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
+- `questions` **📝 השאלות היומיות לאנליסט** (The analyst's daily questions): the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days
 - `claude_portfolio` **🤖 תיק Claude (וירטואלי)** (Claude portfolio (virtual)): the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)
-- `live` **🎯 הבחירות של Claude — חי** (Claude's picks — live): morning Claude's top 5 right now: source (ntfy message, the app's archive or the Google Drive backup), average since the pick vs QQQ, a card per pick (price, today, since the pick, status: in/below/above the buy zone, stop hit, target hit, a bar from stop to target), today's 5-minute chart (refreshes every minute while the market is open), sync check vs the app's top 5
+- `live` **🎯 הבחירות של Claude — חי** (Claude's picks — live): morning Claude's top 5 right now: source (ntfy message, the app's archive or the Google Drive backup), average since the pick vs QQQ, a card per pick (price, today, since the pick, status: in/below/above the buy zone, stop hit, target hit, a bar from stop to target), today's 5-minute chart (refreshes every minute while the market is open), sync check vs the app's top 5 (off the screen since Oct 24 2026: opens only from a link or the chat)
 
 ## Screens in detail
 ### `today` — 🏠 היום (Today)
@@ -66,7 +67,7 @@ what Today used to show: pre-open checklist, traffic light + TQQQ/200-day senten
   path: 💼 התיק → ⚙️ מתקדם → 📋 סטטוס מלא → ה-Top 5 של היום
 
 ### `top5` — 💼 התיק → ⚙️ מתקדם → 🔥 Top 5 (Top 5)
-the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist
+the virtual $10,000 test of the daily top 5 (App / Claude), open and closed positions, my watchlist (off the screen since Oct 24 2026: opens only from a link or the chat)
 - `top5.who` **האפליקציה** (App, toggle): App / Claude: whose picks the test shows  
   path: 💼 התיק → ⚙️ מתקדם → 🔥 Top 5 → האפליקציה
 - `top5.value` **שווי התיק הווירטואלי** (Virtual portfolio value, card): virtual value, return, vs the benchmark  
@@ -110,7 +111,7 @@ the virtual $10,000 test of the daily top 5 (App / Claude), open and closed posi
   path: 💼 התיק → ⚙️ מתקדם → ✏️ ניהול התיק → הורד את הנתונים שלי (zip)
 
 ### `tune` — 💼 התיק → ⚙️ מתקדם → 🎯 כוונון (Tune)
-benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat
+benchmark, screener preferences + preview, my own alerts, instructions to Claude, a link to the live chat (off the screen since Oct 24 2026: opens only from a link or the chat)
 - `tune.benchmark` **מול מה משווים** (What we compare with, select): QQQ / SPY / cash / sector ETF: every 'vs' number uses it (saved at once)  
   path: 💼 התיק → ⚙️ מתקדם → 🎯 כוונון → מול מה משווים
 - `tune.preferences` **ההעדפות שלך** (Your preferences, form): focus/avoid sectors, risk, horizon, picks per day, watchlist, exclude -> save; preview of today's top  
@@ -123,7 +124,7 @@ benchmark, screener preferences + preview, my own alerts, instructions to Claude
   path: 💼 התיק → ⚙️ מתקדם → 🎯 כוונון → צ'אט עם Claude
 
 ### `more` — 💼 התיק → ⚙️ מתקדם (Advanced)
-⚙️ Advanced (from 💼): every other screen in groups + language + reload + download my data + copy for Claude
+⚙️ Advanced (from 💼): 3 entries (Claude · a stock · my portfolio), each opening its pages with a button row on top + language + reload + download my data + copy for Claude
 - `more.list` **מתקדם** (Advanced, list): every other screen, in groups  
   path: 💼 התיק → ⚙️ מתקדם → מתקדם
 - `more.language` **שפה** (Language, radio): עברית / English  
@@ -155,7 +156,7 @@ morning Claude's full report, archive by date, that day's picks, Open in Google 
   path: 💼 התיק → ⚙️ מתקדם → 📰 דוח הבוקר → הבחירות של Claude ליום הזה
 
 ### `weekly` — 💼 התיק → ⚙️ מתקדם → 📅 סיכום שבועי (Weekly summary)
-every Friday's weekly summary
+every Friday's weekly summary (off the screen since Oct 24 2026: opens only from a link or the chat)
 
 ### `activity` — 💼 התיק → ⚙️ מתקדם → 📜 הפעילות שלי (My activity)
 my full activity timeline: filters, search, monthly summary, CSV/Excel
@@ -167,26 +168,29 @@ my full activity timeline: filters, search, monthly summary, CSV/Excel
   path: 💼 התיק → ⚙️ מתקדם → 📜 הפעילות שלי → סיכום חודשי
 
 ### `track` — 💼 התיק → ⚙️ מתקדם → 🏆 הצלחה (Track record)
-hit rate over time, what the app learned, paper portfolio, App vs Claude vs benchmark, Claude's journal
+hit rate over time, what the app learned, paper portfolio, App vs Claude vs benchmark, Claude's journal (off the screen since Oct 24 2026: opens only from a link or the chat)
 - `track.vs` **האפליקציה מול Claude מול {b}** (App vs Claude vs {b}, cards): App vs Claude vs benchmark per horizon  
   path: 💼 התיק → ⚙️ מתקדם → 🏆 הצלחה → האפליקציה מול Claude מול {b}
 - `track.journal` **📓 היומן של Claude** (📓 Claude's journal, table): every Claude pick and its results  
   path: 💼 התיק → ⚙️ מתקדם → 🏆 הצלחה → 📓 היומן של Claude
 
 ### `smart` — 💼 התיק → ⚙️ מתקדם → 💰 כסף חכם (Smart money)
-insider buys, buybacks, big funds (13F)
+insider buys, buybacks, big funds (13F) (off the screen since Oct 24 2026: opens only from a link or the chat)
 
 ### `sectors` — 💼 התיק → ⚙️ מתקדם → 🌍 סקטורים (Sectors)
-which sectors are hot or cold
+which sectors are hot or cold (off the screen since Oct 24 2026: opens only from a link or the chat)
 
 ### `history` — 💼 התיק → ⚙️ מתקדם → 📜 היסטוריה (History)
-similar market periods since 1990 and event base rates
+similar market periods since 1990 and event base rates (off the screen since Oct 24 2026: opens only from a link or the chat)
 
 ### `advanced` — 💼 התיק → ⚙️ מתקדם → 🗂️ טבלאות באנגלית (English tables)
 the original English tables: overview, research, track record, charts, backtest, log, connections
 
 ### `connections` — 💼 התיק → ⚙️ מתקדם → 🔌 חיבורים (Connections)
 is everything connected: data, GitHub run, public feed, data check, Claude picks/report today
+
+### `questions` — 💼 התיק → ⚙️ מתקדם → 📝 השאלות היומיות לאנליסט (The analyst's daily questions)
+the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days
 
 ### `claude_portfolio` — 💼 התיק → ⚙️ מתקדם → 🤖 תיק Claude (וירטואלי) (Claude portfolio (virtual))
 the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)
@@ -204,7 +208,7 @@ the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: valu
   path: 💼 התיק → ⚙️ מתקדם → 🤖 תיק Claude (וירטואלי) → השליטה שלך
 
 ### `live` — 💼 התיק → ⚙️ מתקדם → 🎯 הבחירות של Claude — חי (Claude's picks — live)
-morning Claude's top 5 right now: source (ntfy message, the app's archive or the Google Drive backup), average since the pick vs QQQ, a card per pick (price, today, since the pick, status: in/below/above the buy zone, stop hit, target hit, a bar from stop to target), today's 5-minute chart (refreshes every minute while the market is open), sync check vs the app's top 5
+morning Claude's top 5 right now: source (ntfy message, the app's archive or the Google Drive backup), average since the pick vs QQQ, a card per pick (price, today, since the pick, status: in/below/above the buy zone, stop hit, target hit, a bar from stop to target), today's 5-minute chart (refreshes every minute while the market is open), sync check vs the app's top 5 (off the screen since Oct 24 2026: opens only from a link or the chat)
 
 ### `chat` — 💬 Claude (Claude)
 the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-25T23:02:52Z · market session 2026-10-23 · app version c96508 · 522 tests
+Generated 2026-10-25T23:06:18Z · market session 2026-10-23 · app version 7995d8 · 522 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -27,7 +27,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
-| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 66.29 | $16.11 | -3.84 | sync |
+| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 66.30 | $16.11 | -3.84 | sync |
 | Fidelity · Brokerage 4 | CASH |  |  |  | $0.05 |  | sync |
 | Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
@@ -44,7 +44,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Fidelity · Brokerage 1 | CASH |  |  |  | $9.65 |  | sync |
 
 - Net worth $630.41 · deposits $1,402.66 · withdrawals $738.88 · cash $9.70 · profit -33.37 (-5.0%)
-- TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **WARN** · TQQQ 66.29000091552734 vs 200-day average $65.21 · distance +1.7%
+- TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **WARN** · TQQQ 66.29 vs 200-day average $65.21 · distance +1.7%
 - Allocation: FXLCX 59%, FXINX 18%, FITFX 11%, FLAPX 4%, TQQQ 3%, FXSCX 2%, Cash 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.04x · 59% of your money is in FXLCX: your real exposure is about 1.0x the market.
 - Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-25T22:52:25Z · last attempt 2026-10-25T22:52:25Z
 
@@ -63,10 +63,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 277 events since 2026-05-30T16:00:00Z · by type: {'trade': 103, 'notify': 36, 'reconcile': 24, 'deposit': 18, 'trade_detected': 15, 'deposit_inferred': 15, 'claude_report': 12, 'sync_request': 9, 'claude_portfolio': 9, 'claude_picks': 9, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'price_source': 3, 'portfolio_change': 3, 'signal_change': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 278 events since 2026-05-30T16:00:00Z · by type: {'trade': 103, 'notify': 36, 'reconcile': 24, 'deposit': 18, 'trade_detected': 15, 'deposit_inferred': 15, 'claude_report': 12, 'sync_request': 10, 'claude_portfolio': 9, 'claude_picks': 9, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'price_source': 3, 'portfolio_change': 3, 'signal_change': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $734, trades 49, alerts 36, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-25 23:05 · sync_request (manual): broker sync requested
 - 2026-10-25 23:02 · notify (workflow): push sent: ערב · 2026-10-23
 - 2026-10-25 15:49 · notify (workflow): push sent: סיכום שבועי
 - 2026-10-25 15:49 · notify (workflow): push sent: ערב · 2026-10-23
@@ -106,7 +107,6 @@ Last 30 days:
 - 2026-10-22 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 1.921 FXLCX @ 11.83 ($-22.72)
 - 2026-10-22 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.531 FITFX @ 18.73 ($-9.95)
 - 2026-10-22 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 6 FLGXX @ 1.00 ($-6.00)
-- 2026-10-22 14:18 · notify (workflow): push sent: תנועה חדה היום
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-22 14:18 push sent: תנועה חדה היום → sync (Fidelity · Brokerage 1): buy 6 FLGXX @ 1.00 ($-6.00); sync (Fidelity · Brokerage 1): buy 0.531 FITFX @ 18.73 ($-9.95); sync (Fidelity · Brokerage 1): buy 1.921 FXLCX @ 11.83 ($-22.72); sync (Fidelity · Brokerage 1): buy 0.045 FLAPX @ 25.09 ($-1.13); sync (Fidelity · Brokerage 1): buy 0.081 FXSCX @ 11.91 ($-0.96)
@@ -155,7 +155,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-25T23:02:39Z (ok), TQQQ run success, data check pass
-- Workflows: Daily signals: in_progress (2026-10-25T22:51); Tests: success (2026-10-25T22:51); Analyst forecast (before the open): success (2026-10-25T15:56); FMP probe (what our plan includes): success (2026-10-25T15:21); Publish app state: success (2026-10-25T03:22); Broker sync: success (2026-10-25T03:22); Long test (2000 -> today): success (2026-10-24T06:14)
+- Workflows: Publish app state: in_progress (2026-10-25T23:05); Broker sync: in_progress (2026-10-25T23:05); Daily signals: success (2026-10-25T22:51); Tests: success (2026-10-25T22:51); Analyst forecast (before the open): success (2026-10-25T15:56); FMP probe (what our plan includes): success (2026-10-25T15:21); Long test (2000 -> today): success (2026-10-24T06:14)
 - Pushes today: 7 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-23; push sent: סיכום שבועי; push sent: 📋 סקירה שבועית; push sent: ערב · 2026-10-23)
 - Errors/warnings (3 days): none
 
@@ -184,7 +184,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 - **טבלאות באנגלית (English tables)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-25T23:02:39Z; TQQQ run success; data check pass
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary (off the screen since Oct 24 2026: opens only from a link or the chat)
-- **הפעילות שלי (My activity)** [`activity`]: 277 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 278 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **תיק Claude (וירטואלי) (Claude portfolio (virtual))** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)

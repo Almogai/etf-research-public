@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-25T15:49:53Z. Every event in the app, newest first (276 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-25T23:02:53Z. Every event in the app, newest first (277 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-25 23:02 | notify | workflow |  | push sent: ערב · 2026-10-23 |  |
 | 2026-10-25 15:49 | notify | workflow |  | push sent: סיכום שבועי |  |
 | 2026-10-25 15:49 | notify | workflow |  | push sent: ערב · 2026-10-23 |  |
 | 2026-10-25 15:03 | notify | workflow |  | push sent: 📋 סקירה שבועית |  |

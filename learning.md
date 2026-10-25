@@ -13,7 +13,7 @@ Which factors predicted returns vs QQQ over the following 5 and 20 trading days?
 | liquidity | 5 days | 51 | +0.009 | 0.4 | 63% | +0.16% |
 | price score (combined) | 5 days | 51 | -0.002 | -0.1 | 49% | +0.11% |
 | trend | 20 days | 13 | -0.002 | -0.0 | 54% | +0.07% |
-| momentum | 20 days | 13 | +0.012 | 0.2 | 54% | +1.06% |
+| momentum | 20 days | 13 | +0.012 | 0.2 | 54% | +1.05% |
 | relative_strength | 20 days | 13 | -0.010 | -0.2 | 62% | +0.39% |
 | volatility | 20 days | 13 | +0.009 | 0.2 | 54% | -1.10% |
 | liquidity | 20 days | 13 | +0.008 | 0.2 | 54% | +0.58% |

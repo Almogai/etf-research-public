@@ -1,178 +1,176 @@
 {
- "generated_utc": "2026-10-23T22:00:55Z",
+ "generated_utc": "2026-10-25T14:58:17Z",
  "session_date": "2026-10-23",
- "status": "warn",
- "reasons": [
-  "second source unreachable for: QQQ, SPY, TQQQ"
- ],
+ "status": "pass",
+ "reasons": [],
  "second_source": "Nasdaq (api.nasdaq.com)",
  "tolerance": 0.005,
  "core": [
   {
    "ticker": "QQQ",
    "ours": 704.4,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 704.4,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "SPY",
    "ours": 759.97,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 759.97,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "TQQQ",
    "ours": 66.29,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 66.29,
+   "diff": 0.0,
+   "status": "ok"
   }
  ],
  "sample": [
   {
    "ticker": "IT",
    "ours": 230.28,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 230.28,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "KEY",
    "ours": 21.08,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 21.08,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "GE",
    "ours": 285.64,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 285.64,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "OTIS",
    "ours": 75.15,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 75.15,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "IDXX",
    "ours": 560.38,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 560.38,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "PH",
    "ours": 880.57,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 880.57,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "ALL",
    "ours": 253.19,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 253.19,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "SJM",
    "ours": 129.98,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 129.98,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "CARR",
    "ours": 56.24,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 56.24,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "RSG",
    "ours": 240.45,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 240.45,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "GEV",
    "ours": 815.0,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 815.0,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "MPC",
    "ours": 457.22,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 457.22,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "O",
    "ours": 56.89,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 56.89,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "MCD",
    "ours": 248.46,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 248.46,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "JCI",
    "ours": 143.96,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 143.96,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "P",
    "ours": 123.33,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 123.33,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "ARES",
    "ours": 122.08,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 122.08,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "SBUX",
    "ours": 100.8,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 100.8,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "ALAB",
    "ours": 257.16,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 257.16,
+   "diff": 0.0,
+   "status": "ok"
   },
   {
    "ticker": "DOW",
    "ours": 32.61,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
+   "theirs": 32.61,
+   "diff": 0.0,
+   "status": "ok"
   }
  ],
- "tqqq_verified": false,
+ "tqqq_verified": true,
  "problems": {
   "stale": [],
   "stopped": [],

@@ -1,17 +1,17 @@
 {
-  "generated_utc": "2026-10-23T22:05:58Z",
+  "generated_utc": "2026-10-25T15:03:48Z",
   "session_date": "2026-10-23",
   "tqqq_run": "success",
   "tickers_requested": 518,
   "tickers_screened": 518,
   "tickers_failed": 0,
-  "data_quality": "warn",
+  "data_quality": "pass",
   "eligible": 514,
-  "headlines_collected": 1146,
-  "started_utc": "2026-10-23T21:59:05Z",
-  "duration_secs": 412.9,
+  "headlines_collected": 836,
+  "started_utc": "2026-10-25T14:56:21Z",
+  "duration_secs": 446.1,
   "status": "ok",
-  "last_success_utc": "2026-10-23T22:05:58Z",
+  "last_success_utc": "2026-10-25T15:03:48Z",
   "steps": {
     "prices": {
       "status": "ok",
@@ -19,7 +19,7 @@
     },
     "data_quality": {
       "status": "ok",
-      "secs": 42.9
+      "secs": 48.9
     },
     "screener": {
       "status": "ok",
@@ -35,27 +35,27 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 3.3
+      "secs": 2.9
     },
     "news": {
       "status": "ok",
-      "secs": 70.4
+      "secs": 64.4
     },
     "sec": {
       "status": "ok",
-      "secs": 11.9
+      "secs": 11.0
     },
     "smart_money": {
       "status": "ok",
-      "secs": 20.4
+      "secs": 7.8
     },
     "history": {
       "status": "ok",
-      "secs": 9.3
+      "secs": 10.7
     },
     "fundamentals": {
       "status": "ok",
-      "secs": 182.4
+      "secs": 185.9
     },
     "news_score": {
       "status": "ok",
@@ -79,11 +79,11 @@
     },
     "track": {
       "status": "ok",
-      "secs": 0.4
+      "secs": 0.5
     },
     "learning": {
       "status": "ok",
-      "secs": 1.4
+      "secs": 1.6
     },
     "self_learning": {
       "status": "ok",
@@ -96,6 +96,18 @@
     "feed": {
       "status": "ok",
       "secs": 0.0
+    },
+    "analyst": {
+      "status": "ok",
+      "secs": 39.4
+    },
+    "lookthrough": {
+      "status": "ok",
+      "secs": 1.0
+    },
+    "momtest": {
+      "status": "ok",
+      "secs": 1.5
     },
     "summary": {
       "status": "ok",
@@ -121,30 +133,30 @@
   "sources": {
     "headlines": {
       "yfinance": 0,
-      "yahoo_rss": 973,
-      "google_rss": 2630,
+      "yahoo_rss": 988,
+      "google_rss": 2465,
       "stocks": 55,
-      "headlines": 1146
+      "headlines": 836
     },
     "sec": {
       "ok": 55,
-      "requests": 96,
+      "requests": 86,
       "missing": 0
     },
     "smart_money": {
-      "requests": 80,
+      "requests": 53,
       "errors": {},
-      "filings_in_window": 2001,
-      "downloaded": 58,
+      "filings_in_window": 2038,
+      "downloaded": 37,
       "backlog": 0,
-      "index_days_missing": 1
+      "index_days_missing": 0
     }
   },
   "hot_top5": [
     "VLO",
     "MPC",
+    "VEEV",
     "ACN",
-    "TMO",
-    "VEEV"
+    "COP"
   ]
 }

@@ -1,9 +1,13 @@
 # My activity
 
-Generated 2026-10-25T03:23:51Z. Every event in the app, newest first (270 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-25T15:03:52Z. Every event in the app, newest first (274 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-25 15:03 | notify | workflow |  | push sent: 📋 סקירה שבועית |  |
+| 2026-10-25 15:03 | notify | workflow |  | push sent: ערב · 2026-10-23 |  |
+| 2026-10-25 15:03 | notify | workflow |  | push sent: סיכום שבועי |  |
+| 2026-10-25 14:55 | notify | workflow |  | push sent: 🚨 TQQQ |  |
 | 2026-10-25 03:23 | trade_detected | sync | FITFX | Fidelity · Brokerage 1: Detected: you bought about 0.12 FITFX at about $18.69 | 3.476 → 3.598 |
 | 2026-10-25 03:23 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.32 FXLCX at about $11.75 | 31.56 → 31.879 |
 | 2026-10-25 03:23 | deposit_inferred | sync |  | inferred deposit of $15.68 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 79.17 → 15.68 |

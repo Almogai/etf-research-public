@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "session_date": "2026-10-23",
-  "generated_utc": "2026-10-25 14:56 UTC",
+  "generated_utc": "2026-10-25 15:16 UTC",
   "benchmark": "QQQ",
   "universe_size": 518,
   "eligible": 514,
@@ -155,9 +155,9 @@
       "name": "Valero Energy",
       "sector": "Energy",
       "price": 419.28,
-      "final_score": 87.6441,
+      "final_score": 87.6774,
       "price_score": 94.3032,
-      "news_score": 83.4766,
+      "news_score": 83.6631,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "quality_score": 52.9,
@@ -175,9 +175,9 @@
         "Volatility 35%/yr (normal)",
         "Trades $1,050M/day"
       ],
-      "headline_count_3d": 39,
-      "sentiment": 0.3913,
-      "attention_vs_normal": 2.4186,
+      "headline_count_3d": 38,
+      "sentiment": 0.3944,
+      "attention_vs_normal": 2.3566,
       "news_flags": [
         "acquisition",
         "beat",
@@ -285,9 +285,9 @@
         "Volatility 36%/yr (normal)",
         "Trades $885M/day"
       ],
-      "headline_count_3d": 13,
-      "sentiment": 0.1772,
-      "attention_vs_normal": 0.6887,
+      "headline_count_3d": 12,
+      "sentiment": 0.192,
+      "attention_vs_normal": 0.6358,
       "news_flags": [
         "acquisition"
       ],
@@ -476,9 +476,9 @@
       "name": "Accenture",
       "sector": "Information Technology",
       "price": 249.37,
-      "final_score": 82.7154,
+      "final_score": 82.8741,
       "price_score": 93.9217,
-      "news_score": 56.3822,
+      "news_score": 57.2704,
       "history_score": 46.9181,
       "insider_score": 50.0,
       "quality_score": 58.0,
@@ -496,9 +496,9 @@
         "Volatility 56%/yr (unusually high/low)",
         "Trades $1,784M/day"
       ],
-      "headline_count_3d": 18,
-      "sentiment": 0.1809,
-      "attention_vs_normal": 1.6364,
+      "headline_count_3d": 19,
+      "sentiment": 0.1714,
+      "attention_vs_normal": 1.9,
       "news_flags": [
         "acquisition"
       ],
@@ -512,7 +512,7 @@
         {
           "title": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names",
           "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTVlTUkhwZE9PV1RUVFpWNkNJU1RRS2UxVDBVODZnMEMzdVJ1ekdyS2duVEtVSjdwb2Z6dklaUTAtcU51aU5icUw2SnZkbkpmZk1tc1hHRThYNWQ2OUVhaWpST2dyd1NuWUVNbll6RkJ2NVdGZXZhQS1uMzdvZXlIVVUwMWhNeF9qR0gtdzB5QWRya3NTM1hFemdNRC1jRGRhdld6cW1ENWl0NzJEOWpBY21FNnJvaTVSeWNCZkdXYXpGWWpYdHdjQ3E3ek4wVDVPWEFiag?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3J0Zm1ZR3paRHJkbzFfTXhpUnZneGktYkg1TWhWS2NzTTJ0WXE1RHJBLXo3R2JvRGlrWWFzU01pLWg2X3g5amFfN2Y4dWF5bzBWRGV1OW9hMEtoU1pnbGZjQ1BRdDFacjJZbUVkMUxUVHRJOUd2QlRuVU03RzNBVk9ubkpwRl9VS2RWWm5TVzhXM0djc1JCSkFpcDNJVHVUX0JYbTBKRkFabTRfa1lZQ3Nkd0MwdTlza3JXbzZ5UG52Z1JMQlN4WWhwcldvaTNzbzZ1NDhB?oc=5",
           "date": "2026-10-24 18:29 UTC"
         },
         {
@@ -578,9 +578,9 @@
       "name": "ConocoPhillips",
       "sector": "Energy",
       "price": 150.8,
-      "final_score": 82.5056,
+      "final_score": 81.5246,
       "price_score": 92.5617,
-      "news_score": 58.737,
+      "news_score": 53.2437,
       "history_score": 46.7174,
       "insider_score": 50.0,
       "quality_score": 67.7,
@@ -598,30 +598,28 @@
         "Volatility 30%/yr (normal)",
         "Trades $815M/day"
       ],
-      "headline_count_3d": 18,
-      "sentiment": 0.1246,
-      "attention_vs_normal": 1.0,
-      "news_flags": [
-        "upgrade"
-      ],
+      "headline_count_3d": 10,
+      "sentiment": 0.1946,
+      "attention_vs_normal": 0.5556,
+      "news_flags": [],
       "top_headlines": [
         {
-          "title": "ConocoPhillips stock: Susquehanna raises target to USD 175.00 for ConocoPhillips stock stock? Hmm",
+          "title": "Could ConocoPhillips (NYSE:COP) Gain From Shifting Energy Trends?",
+          "source": "Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTk3NndFcDhmMGhQZlNwWmlmT3VDVzkyUGJ4bEdod2R2NzFoWTFSN2hDRVk0MGdjdUplcnRyeXFtaWNoUmhTcElTalZibXVTMWd2RnByUTZYbTdvQ3AwM0RXTHF6bXlLeXVBSF82ZE95eWtVM2R3NEV5WkNBSEhmZ1E4MGZrdk5IdW5YYXE0QWRkd0dfNXl4RzJHT0Z2NFhIbnplUFM1Yw?oc=5",
+          "date": "2026-10-24 18:46 UTC"
+        },
+        {
+          "title": "Chevron, Exxon, Shell and ConocoPhillips Hit Record Highs as Crude Rally Powers On Into Earnings",
+          "source": "Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcm9scFZwYm9IQ0x6Y284QmhuejJCTExSRkZrREZleWNzc1RaM0p1T0E1RElBQlExbGVJeFdwWVRQWXR1OXVrMkZ3V2dmQVhHWWd2RmV3dXRXLXNDQ1ZJYzgtUXZ4dVRKR1pndTVJWUpFM2kteVAzRFM0dFIyVjdGaWM3N3ZlZlJjVXNpLTI3dk5oQ2k3UU4yNi1ZSUFsMFh1TFJWOW1qdm9HVTE3WjZUNVp6VDQ1c2FFOHlEZXNCbDlZWVV4MFhWZUN4VF9yR1RHdU1Qc040VWhYYW1fcGMxYnQ4U0hmQQ?oc=5",
+          "date": "2026-10-24 15:15 UTC"
+        },
+        {
+          "title": "ConocoPhillips stock trades at EUR 134.63 in weekend trading",
           "source": "ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb3pSQlAwRFFYQXN4SU4xbS04ZnNGamhvdTJyVDlYakhHN0tiS2NwTkFYeFdRVFh2VEhXQ3k5RWFEVThCbGFyajllNmpIVmJUVnpnSDFYSXZLLU9jOFZOZXFXS01ERDNoT0s4dnkwRmpXNUs4ak5JX2ZDdHRCYWJ6NTdsRVFOUWlWdFhxblc0WWFQTHh0SlFSck9lcFlzSGM5cDJNWFpwRDZENFBmWmlDcXc3dDFnbWJpLW9neXNfQ3IycFpwX2pZU0VKeVpoaWV4SnVncnFmS3RfTXdYRm1pSEpfUV93eDc3ZzU3MjJTYw?oc=5",
-          "date": "2026-10-23 14:35 UTC"
-        },
-        {
-          "title": "Susquehanna raises target for ConocoPhillips stock to USD 175.00",
-          "source": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN0MtSDE1TU1yVDY2NzYwZVRZcVFFbWhpUFNwOUtjcm1nMEppRnhydnkyTDVkajdhdGhOWHNQWG1qV3FrLTZJdUYtemI1Si10MVgtNnU0eGYxb1M1Ui11RWRRbzVaendBaWJneE9pdEltQ1pqc2tybFJqNGZLM21ib2lDSDllMGQxWGtxZmFOUDhtV2cweUkxUHVhVUtiYWh0OEl3S3Y0YV9sc3hoTFh0UnY4V2VBQ2s2RmFaR0ZYc0xpS3JtTGc?oc=5",
-          "date": "2026-10-23 08:44 UTC"
-        },
-        {
-          "title": "ConocoPhillips (NYSE:COP) Share Price, Forecast & Analysis",
-          "source": "Stocks Down Under",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlQmlPQmhQWnVuTklqaE16SjR5XzRQUkxLbTVFbndpeGFCd0V6TUE5ajdlY1lzUzlNN3p6RU9BM2E5ZDJkTkk3VEdJRGxmR3NHRWZ3NkJEOTBVOGRLeVcyeg?oc=5",
-          "date": "2026-10-25 05:59 UTC"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjkyVG5qS2Z2Q2JQN0JUdDh2SnFmUlh3UjRaRzRhdjM4ZWRCcE5iTXBBQnZZb3N3cENSUjlxdHlLSEhuczVtdUVqZXgtd1d2c1BIWVNVZEdkRHNHUGpEcUN5bDUwRHEtbUxCVXN1dVhYQloyTEhnY1dHbHVITlNhczVDSHpBZGRDeDFhVFRlczJSNy0tS3lNT1U5N3NaSW1XMGZLZDFKanRURzl0VnMwRldldGpnSjRHTllyWTlCUm8?oc=5",
+          "date": "2026-10-24 08:37 UTC"
         }
       ],
       "filings_7d": [],
@@ -641,7 +639,7 @@
       "earnings_within_5d": false,
       "stop": 145.3593,
       "stop_pct": -0.0361,
-      "why_now": "New 52-week high; news: upgrade",
+      "why_now": "New 52-week high",
       "fundamentals": {
         "period_end": "2026-06-30",
         "filed": "2026-08-06",
@@ -684,109 +682,6 @@
     },
     {
       "rank": 6,
-      "ticker": "P",
-      "name": "Everpure",
-      "sector": "Information Technology",
-      "price": 123.33,
-      "final_score": 81.6072,
-      "price_score": 91.5776,
-      "news_score": 59.7925,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "quality_score": 56.8,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9864,
-        "relative_strength": 0.9981,
-        "volatility": 0.214,
-        "liquidity": 0.6693
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +19.3%, 3m +77.3%, 6m +85.2% (beats 99% of stocks)",
-        "3-month return vs QQQ: +60.8%",
-        "Volatility 73%/yr (unusually high/low)",
-        "Trades $566M/day"
-      ],
-      "headline_count_3d": 5,
-      "sentiment": 0.3195,
-      "attention_vs_normal": 0.4545,
-      "news_flags": [
-        "acquisition",
-        "upgrade"
-      ],
-      "top_headlines": [
-        {
-          "title": "Everpure (P) Upgraded to Buy: Here's What You Should Know",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/everpure-p-upgraded-buy-heres-150002551.html?.tsrc=rss",
-          "date": "2026-10-22 15:00 UTC"
-        },
-        {
-          "title": "LON Global Stock 100/100 (P) FE (465780A2) (ZINIHX) company profile and facts",
-          "source": "Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SMkRvUXRSWUJNbEZ6cGd0TUlGRGZQbmVzal9KY1prSHVIRU1pTFk5NTlkdUY1aWViWjNSVzdKcDlvXzdVQ3kyVGg2M1EzdUVIOW9CdHF0OVV6OV9EM2ow?oc=5",
-          "date": "2026-10-24 15:36 UTC"
-        },
-        {
-          "title": "Everpure, Inc. $P Stock Sold by Robeco Institutional Asset Management B.V.",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDJnVUdJUkFjbDlnM0RzZTdXUGZWYUVIcjRNa2pOZVRXZHAwdVl0Y2lzVXhWS2RWS1dycTNRZzVVLXd4RnNHWUNwRi1TWHpVVTB0MWxSNDVLMHYyQzdWZmlXaWZfU3RLODVuYWhlV1VqNzNUZnBwTXhqdzRsbzNRenhjUzlxNHc5ZEFlZkROcUJfQk5ncGRxSGVwR0l3N0JGcGM3WGNhd3dXSkFwcTZ1RGlLVWtTXzBpdzg0LXY0NnF6VnhVOVNiWEZB?oc=5",
-          "date": "2026-10-24 15:01 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": null,
-      "days_to_earnings": null,
-      "earnings_within_5d": false,
-      "stop": 110.7242,
-      "stop_pct": -0.1022,
-      "why_now": "News: upgrade",
-      "fundamentals": {
-        "period_end": "2026-08-02",
-        "filed": "2026-09-04",
-        "rev_yoy": 0.3773,
-        "rev_ttm": 4262150000,
-        "rev_ttm_yoy": 0.2721,
-        "eps_yoy": 0.5,
-        "eps_ttm": 0.73,
-        "gross_margin": 0.6973,
-        "gross_margin_trend": "falling",
-        "op_margin": 0.0526,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.0,
-        "fcf_ttm": 128169000,
-        "fcf_margin": 0.0301,
-        "pe": 168.9452,
-        "ps": 9.6423,
-        "stale": false,
-        "quality_score": 56.8,
-        "summary": "Revenue +38% y/y, margins flat, low debt, P/E 169"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "ticker": "SHOP",
       "name": "Shopify",
       "sector": "Information Technology",
@@ -820,9 +715,9 @@
       "top_headlines": [
         {
           "title": "Shopify Down 3% as ATB Cormark Downgrades the Stock After a 56% Three-Month Run",
-          "source": "Yahoo Finance",
-          "link": "https://www.tikr.com/blog/shopify-down-3-as-atb-cormark-downgrades-the-stock-after-a-56-three-month-run?ref=yahoofinance&.tsrc=rss",
-          "date": "2026-10-22 21:13 UTC"
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmRtSFIxRVBnTmNwcGRYeXNScU9PX01aRlRyNEtBdUhhR25kakt4dUVsc1hHcllkN2lCdlRxaF9XME16ekxLZnlpNmM5RzExaDhwU2lERDRPUVRneVpjeFBDUFBMVncyQ1FpaThwU09vTTVrb1k0NFJHRUhIZkZOb25ERGFVby12TUdaNkQzS19ORHJ2RnZwV0JhNkZ6WVJKTU5EZjFR?oc=5",
+          "date": "2026-10-22 22:30 UTC"
         },
         {
           "title": "Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks \u2014 But Loads Up On PACB, FRNM And Other Biotech Firms",
@@ -871,6 +766,106 @@
         "stale": false,
         "quality_score": 62.0,
         "summary": "Revenue +34% y/y, margins rising, high debt, P/E 114"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "P",
+      "name": "Everpure",
+      "sector": "Information Technology",
+      "price": 123.33,
+      "final_score": 80.9283,
+      "price_score": 91.5776,
+      "news_score": 55.9906,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "quality_score": 56.8,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9864,
+        "relative_strength": 0.9981,
+        "volatility": 0.214,
+        "liquidity": 0.6693
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +19.3%, 3m +77.3%, 6m +85.2% (beats 99% of stocks)",
+        "3-month return vs QQQ: +60.8%",
+        "Volatility 73%/yr (unusually high/low)",
+        "Trades $566M/day"
+      ],
+      "headline_count_3d": 4,
+      "sentiment": 0.3994,
+      "attention_vs_normal": 0.3636,
+      "news_flags": [],
+      "top_headlines": [
+        {
+          "title": "LON Global Stock 100/100 (P) FE (465780A2) (ZINIHX) company profile and facts",
+          "source": "Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SMkRvUXRSWUJNbEZ6cGd0TUlGRGZQbmVzal9KY1prSHVIRU1pTFk5NTlkdUY1aWViWjNSVzdKcDlvXzdVQ3kyVGg2M1EzdUVIOW9CdHF0OVV6OV9EM2ow?oc=5",
+          "date": "2026-10-24 15:36 UTC"
+        },
+        {
+          "title": "Everpure, Inc. $P Stock Sold by Robeco Institutional Asset Management B.V.",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDJnVUdJUkFjbDlnM0RzZTdXUGZWYUVIcjRNa2pOZVRXZHAwdVl0Y2lzVXhWS2RWS1dycTNRZzVVLXd4RnNHWUNwRi1TWHpVVTB0MWxSNDVLMHYyQzdWZmlXaWZfU3RLODVuYWhlV1VqNzNUZnBwTXhqdzRsbzNRenhjUzlxNHc5ZEFlZkROcUJfQk5ncGRxSGVwR0l3N0JGcGM3WGNhd3dXSkFwcTZ1RGlLVWtTXzBpdzg0LXY0NnF6VnhVOVNiWEZB?oc=5",
+          "date": "2026-10-24 15:01 UTC"
+        },
+        {
+          "title": "40,325 Everpure, Inc. $P Shares Sold by Inspire Investing LLC",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbldMendMclVEZWg5SFlsX2duQ0FUazBHVkE2a3pyUnN5RTNxS1FkSDU1UU0zcW5SV3gtRHZtWGJuakEyQTIwN0ctbFowU21iR0RoenpHYjlsVklBQW5BcndGSUZiVkdYanFrdUZtamgzMndaTUhmS3hDLUNVSGtFdlVUYllMUWpfZ3JLSFNiYTJYZ29BWTVXbVF3czg2d1d3OVo5Z0tqZDBVaXRyd0hQQm9tcTBSb0o4ZUE?oc=5",
+          "date": "2026-10-24 13:55 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "earnings_within_5d": false,
+      "stop": 110.7242,
+      "stop_pct": -0.1022,
+      "why_now": "Strong trend: 6-month +85%, 3-month vs QQQ +61%",
+      "fundamentals": {
+        "period_end": "2026-08-02",
+        "filed": "2026-09-04",
+        "rev_yoy": 0.3773,
+        "rev_ttm": 4262150000,
+        "rev_ttm_yoy": 0.2721,
+        "eps_yoy": 0.5,
+        "eps_ttm": 0.73,
+        "gross_margin": 0.6973,
+        "gross_margin_trend": "falling",
+        "op_margin": 0.0526,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.0,
+        "fcf_ttm": 128169000,
+        "fcf_margin": 0.0301,
+        "pe": 168.9452,
+        "ps": 9.6423,
+        "stale": false,
+        "quality_score": 56.8,
+        "summary": "Revenue +38% y/y, margins flat, low debt, P/E 169"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -1280,222 +1275,13 @@
     },
     {
       "rank": 12,
-      "ticker": "DHR",
-      "name": "Danaher Corporation",
-      "sector": "Health Care",
-      "price": 230.5,
-      "final_score": 80.0348,
-      "price_score": 88.6234,
-      "news_score": 62.6815,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 55.1,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.8372,
-        "relative_strength": 0.8658,
-        "volatility": 1.0,
-        "liquidity": 0.821
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +8.0%, 3m +14.1%, 6m +18.1% (beats 84% of stocks)",
-        "3-month return vs QQQ: +13.7%",
-        "Volatility 29%/yr (normal)",
-        "Trades $1,095M/day"
-      ],
-      "headline_count_3d": 6,
-      "sentiment": 0.1788,
-      "attention_vs_normal": 0.2381,
-      "news_flags": [
-        "FDA",
-        "beat",
-        "guidance raised"
-      ],
-      "top_headlines": [
-        {
-          "title": "What Does Danaher (DHR) FDA Clearance For AI AFib Detection Mean Now?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/healthcare/articles/does-danaher-dhr-fda-clearance-201336101.html?.tsrc=rss",
-          "date": "2026-10-22 20:13 UTC"
-        },
-        {
-          "title": "Danaher Analysts Raise Their Forecasts Following Better-Than-Expected Q3 Earnings",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUVNeU94T2xsNjI4R3dEMHRmV3lGdWdUUHlzdExzU183b010OHZBalM4T2JsZnhkQ0ZRNmZuS0E1cTltOXpVaFNwem5fMXhUZ0xNOGhjTGh5RzNtWWZZRVBJcWFnWHpiVWRqV1hUeVppNjRvMEROMDUzZ2h1T0ZwZWd1ekNPNEZNbXNPSmlpRkpTR2FVTGF2UjBKOUpQeDA3eHkybnFCRXBDRmV5ek1PdklxbUxOaHNxX1gySTRscVBpWU9FMmNGRUFERkV2YkxLTXduSWtuZWduN0J5NFpQN0s4VnZpNXNaQVYxMg?oc=5",
-          "date": "2026-10-22 19:07 UTC"
-        },
-        {
-          "title": "Danaher (DHR) Brings Back Daniel Comas As Robert Hershberg Joins Board",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUpsQmdCZ1JsWFVEbzNnaXBydWg4ZmNPeGJPR1J0b1h4NFpMbHVpZ2hpRGtvWFBLeFNTLTh5eDRVcWFWTEhFVEVja1BJR2oySkNGNTBNeEVsSmN3b2Y1WlJPLXlEbU5hb3dDZXZCOWJoQU5ZeUpCcy1nR2lESTBJbjBCdnBHR2hTaENrQW94dkk0R0Nlanp2WTVPb3RmVE11STk4UE01eklBa2FYdnFNN2ZHYmN2VHlQa0lSWTZsRVhCM3Y1TVZnUGpnWVJRaWE2VEJRQdIB2gFBVV95cUxQX193NS0wSHA3Z0FhRXdyT0RvTEdWRC1TRFBjWEh1R3pCQUxvX2J3ZEZqd1RyUko0eHNNYnpJMVN5LTdUUlVjaXFDYmxVUjRmd09yeUh2UkUwaUZtdUdRd0ZWaHNSVFJ3UEsyOWUydVc3YzBtRlVOQlZjQUVCamthQ0tBMGwxYXFJMktSdUc3Rk1RZWNtYzI2QVBfM1p2WHEwZllhR2EtaHNfZmJ5MzdOMnhzUGVGWTRhT3FrelVnY1VPODAxbjdhaE9HaGQydkx6ZHMtWXhFUnFUQQ?oc=5",
-          "date": "2026-10-25 13:04 UTC"
-        }
-      ],
-      "filings_7d": [
-        {
-          "form": "8-K",
-          "date": "2026-10-21",
-          "items": "2.02,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000201/"
-        },
-        {
-          "form": "10-Q",
-          "date": "2026-10-21",
-          "items": "",
-          "link": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000199/"
-        }
-      ],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": null,
-      "days_to_earnings": null,
-      "earnings_within_5d": false,
-      "stop": 219.8018,
-      "stop_pct": -0.0464,
-      "why_now": "News: beat, guidance raised",
-      "fundamentals": {
-        "period_end": "2026-09-25",
-        "filed": "2026-10-21",
-        "rev_yoy": 0.0828,
-        "rev_ttm": 25608000000,
-        "rev_ttm_yoy": 0.0552,
-        "eps_yoy": 0.378,
-        "eps_ttm": 6.11,
-        "gross_margin": 0.5859,
-        "gross_margin_trend": "flat",
-        "op_margin": 0.2038,
-        "op_margin_trend": "flat",
-        "debt_to_equity": 0.4939,
-        "fcf_ttm": 5727000000,
-        "fcf_margin": 0.2236,
-        "pe": 37.725,
-        "ps": 6.3325,
-        "stale": false,
-        "quality_score": 55.1,
-        "summary": "Revenue +8% y/y, margins flat, low debt, P/E 38"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 13,
-      "ticker": "MRNA",
-      "name": "Moderna",
-      "sector": "Health Care",
-      "price": 200.1,
-      "final_score": 79.0378,
-      "price_score": 95.6386,
-      "news_score": 35.0195,
-      "history_score": 46.9181,
-      "insider_score": 50.0,
-      "quality_score": 27.5,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.9994,
-        "relative_strength": 1.0,
-        "volatility": 0.0,
-        "liquidity": 0.9689
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +37.9%, 3m +266.5%, 6m +305.8% (beats 100% of stocks)",
-        "3-month return vs QQQ: +248.0%",
-        "Volatility 367%/yr (unusually high/low)",
-        "Trades $4,163M/day"
-      ],
-      "headline_count_3d": 57,
-      "sentiment": -0.2291,
-      "attention_vs_normal": 1.4522,
-      "news_flags": [
-        "FDA",
-        "miss"
-      ],
-      "top_headlines": [
-        {
-          "title": "MRNA, LNTH, BMY, CAPR, RARE Stocks In Focus \u2014 These FDA Decisions Could Shape August Trading",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcENPalFzUF9XZWpRX3p6U3NzRGhGaFFibm1abExONTRHeXV4UFFGZzlxRmpPdVFhVTNzRHNiR2JkbVdMRHBLVnViVFZYYkducXNHZVNFQk9NQWx1THhXQkQyOXpwZnVqYlJwTXJNTjVFMkZlaGMzYlZRWTV0ZHVlQVZfU2dQYjVXMVhGOTJmaEwwVHFpb0U2UnRZMllqRTdnaHR3Vjd3NThmalpNeHp4SE9OeTd2RTl4Q1JFdlNJS0VPYWRsTFljYWEzbHY2dTBhUW5DQUM4YlhhM0xaSXphMXB3ank?oc=5",
-          "date": "2026-10-24 21:50 UTC"
-        },
-        {
-          "title": "FDA Showdown Week: CAPR, NRXP, REPL And MRNA Face Make-Or-Break Regulatory Decisions",
-          "source": "Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbnV6ZmFFNjk3bnRaU3J2dHRPTHRhbE1VNjBhOE1KeXhJRG9CTVZwLU5fejNVR0dPbkpodFRhNEdmWW1qLVBRcWFUYVl3Mk5aclEzNTgzU0hvSHpKblpISGx5WUdrXzFzMjdwOUlmbXNLX3ljcUw4YjU2NW5paGtvcUVNTWZDVk9TbEdjNm92ZjhmV09XeTRqZmZVWFNnMG4wcDFYU0hUZXFVcGF5d0drekRfZ01yRGxvRFdXT3JDRnYwRmFVSFdfeWg1Z2xLNWF1MDdxUlgyVmRRSzVVMWc?oc=5",
-          "date": "2026-10-24 20:41 UTC"
-        },
-        {
-          "title": "MRNA Stock Plunges 18% After Leaked Melanoma Vaccine Data Misses High Hopes",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHk3Mmw3Tkg0OXFZblRNc3huSklrbVVUbG5rS2s1MEVtMHZBU0pWdE9Od3RlQUt1YXU4d3JPY1YzY19kYndqMjRaRjhmOTQ1ZkFrSFBiSkRnR09mcmR2ZGdYanNveXg5TnF4czZ3cndYYzRheTJnTW5udGtmVzk1RnFNUGttLXNyaTQ3QklIUFV6TzQzMmpxZQ?oc=5",
-          "date": "2026-10-22 20:45 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2026-11-06",
-      "days_to_earnings": 10,
-      "earnings_within_5d": false,
-      "stop": 164.906,
-      "stop_pct": -0.1759,
-      "why_now": "Strong trend: 6-month +306%, 3-month vs QQQ +248%",
-      "fundamentals": {
-        "period_end": "2026-06-30",
-        "filed": "2026-07-31",
-        "rev_yoy": 0.0211,
-        "rev_ttm": 2228000000,
-        "rev_ttm_yoy": -0.2762,
-        "eps_ttm": -7.99,
-        "gross_margin": 0.2338,
-        "gross_margin_trend": "rising",
-        "op_margin": -1.4901,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.0874,
-        "fcf_ttm": -1244000000,
-        "fcf_margin": -0.5583,
-        "ps": 35.856,
-        "stale": false,
-        "quality_score": 27.5,
-        "summary": "Revenue +2% y/y, margins rising, low debt, P/E nan"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "momentum_top10",
-          "name": "Momentum in the top 10%",
-          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-          "n": 4056,
-          "beat": 0.4692,
-          "median": -0.0061
-        }
-      ]
-    },
-    {
-      "rank": 14,
       "ticker": "MDT",
       "name": "Medtronic",
       "sector": "Health Care",
       "price": 95.41,
-      "final_score": 78.8536,
+      "final_score": 79.1645,
       "price_score": 85.7769,
-      "news_score": 67.4125,
+      "news_score": 69.1538,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 55.3,
@@ -1513,9 +1299,9 @@
         "Volatility 25%/yr (normal)",
         "Trades $3,077M/day"
       ],
-      "headline_count_3d": 21,
-      "sentiment": 0.304,
-      "attention_vs_normal": 1.9091,
+      "headline_count_3d": 20,
+      "sentiment": 0.3192,
+      "attention_vs_normal": 2.0,
       "news_flags": [
         "acquisition"
       ],
@@ -1587,7 +1373,108 @@
       "history_events": []
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "ticker": "MRNA",
+      "name": "Moderna",
+      "sector": "Health Care",
+      "price": 200.1,
+      "final_score": 78.9897,
+      "price_score": 95.6386,
+      "news_score": 34.75,
+      "history_score": 46.9181,
+      "insider_score": 50.0,
+      "quality_score": 27.5,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.9994,
+        "relative_strength": 1.0,
+        "volatility": 0.0,
+        "liquidity": 0.9689
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +37.9%, 3m +266.5%, 6m +305.8% (beats 100% of stocks)",
+        "3-month return vs QQQ: +248.0%",
+        "Volatility 367%/yr (unusually high/low)",
+        "Trades $4,163M/day"
+      ],
+      "headline_count_3d": 59,
+      "sentiment": -0.2273,
+      "attention_vs_normal": 1.5032,
+      "news_flags": [
+        "FDA",
+        "miss"
+      ],
+      "top_headlines": [
+        {
+          "title": "MRNA, LNTH, BMY, CAPR, RARE Stocks In Focus \u2014 These FDA Decisions Could Shape August Trading",
+          "source": "Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcENPalFzUF9XZWpRX3p6U3NzRGhGaFFibm1abExONTRHeXV4UFFGZzlxRmpPdVFhVTNzRHNiR2JkbVdMRHBLVnViVFZYYkducXNHZVNFQk9NQWx1THhXQkQyOXpwZnVqYlJwTXJNTjVFMkZlaGMzYlZRWTV0ZHVlQVZfU2dQYjVXMVhGOTJmaEwwVHFpb0U2UnRZMllqRTdnaHR3Vjd3NThmalpNeHp4SE9OeTd2RTl4Q1JFdlNJS0VPYWRsTFljYWEzbHY2dTBhUW5DQUM4YlhhM0xaSXphMXB3ank?oc=5",
+          "date": "2026-10-24 21:50 UTC"
+        },
+        {
+          "title": "MRNA Stock Plunges 18% After Leaked Melanoma Vaccine Data Misses High Hopes",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHk3Mmw3Tkg0OXFZblRNc3huSklrbVVUbG5rS2s1MEVtMHZBU0pWdE9Od3RlQUt1YXU4d3JPY1YzY19kYndqMjRaRjhmOTQ1ZkFrSFBiSkRnR09mcmR2ZGdYanNveXg5TnF4czZ3cndYYzRheTJnTW5udGtmVzk1RnFNUGttLXNyaTQ3QklIUFV6TzQzMmpxZQ?oc=5",
+          "date": "2026-10-22 20:45 UTC"
+        },
+        {
+          "title": "Moderna (MRNA) Stock May Be Fully Priced As Melanoma Vaccine Data Leaks",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-stock-may-fully-130749749.html?.tsrc=rss",
+          "date": "2026-10-25 13:07 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2026-11-06",
+      "days_to_earnings": 10,
+      "earnings_within_5d": false,
+      "stop": 164.906,
+      "stop_pct": -0.1759,
+      "why_now": "Strong trend: 6-month +306%, 3-month vs QQQ +248%",
+      "fundamentals": {
+        "period_end": "2026-06-30",
+        "filed": "2026-07-31",
+        "rev_yoy": 0.0211,
+        "rev_ttm": 2228000000,
+        "rev_ttm_yoy": -0.2762,
+        "eps_ttm": -7.99,
+        "gross_margin": 0.2338,
+        "gross_margin_trend": "rising",
+        "op_margin": -1.4901,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.0874,
+        "fcf_ttm": -1244000000,
+        "fcf_margin": -0.5583,
+        "ps": 35.856,
+        "stale": false,
+        "quality_score": 27.5,
+        "summary": "Revenue +2% y/y, margins rising, low debt, P/E nan"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "momentum_top10",
+          "name": "Momentum in the top 10%",
+          "name_he": "\u05ea\u05e0\u05d5\u05e4\u05d4 \u05d1-10% \u05d4\u05e2\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
+          "n": 4056,
+          "beat": 0.4692,
+          "median": -0.0061
+        }
+      ]
+    },
+    {
+      "rank": 14,
       "ticker": "NTAP",
       "name": "NetApp",
       "sector": "Information Technology",
@@ -1668,6 +1555,112 @@
         "stale": false,
         "quality_score": 61.3,
         "summary": "Revenue +30% y/y, margins rising, high debt, P/E 30"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 15,
+      "ticker": "DHR",
+      "name": "Danaher Corporation",
+      "sector": "Health Care",
+      "price": 230.5,
+      "final_score": 78.3449,
+      "price_score": 88.6234,
+      "news_score": 53.2178,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 55.1,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.8372,
+        "relative_strength": 0.8658,
+        "volatility": 1.0,
+        "liquidity": 0.821
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +8.0%, 3m +14.1%, 6m +18.1% (beats 84% of stocks)",
+        "3-month return vs QQQ: +13.7%",
+        "Volatility 29%/yr (normal)",
+        "Trades $1,095M/day"
+      ],
+      "headline_count_3d": 5,
+      "sentiment": 0.2145,
+      "attention_vs_normal": 0.1984,
+      "news_flags": [
+        "FDA"
+      ],
+      "top_headlines": [
+        {
+          "title": "What Does Danaher (DHR) FDA Clearance For AI AFib Detection Mean Now?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/healthcare/articles/does-danaher-dhr-fda-clearance-201336101.html?.tsrc=rss",
+          "date": "2026-10-22 20:13 UTC"
+        },
+        {
+          "title": "Danaher (NYSE:DHR) Stock Slips 1.76%: EPS Growth, P/E and Technicals",
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOelZuZ3NISnZ5OGtlTG5FeGNRdWJBZDN1T3lERVpvOURFUTlnbnF2eGVfNEd3c2p2VGtSOWRhNm9ZRFNCODQ5YXBXaC1nOFJzSGRmM3VxMW1EQ1RUd0lDV25zS0Jad2F5anpOenpPYUYzZU8wNmR4aFMtazdWazR4RXVhV2VGeHhqUXUybUZnal9sV0x5ekN0aEdleC1KMzlMOVVNNmVpVU9ncjg0MXM2dXVLZDNIMXU4QnV6SGREX3pjMDF1Vjh5MjBKV3U3T0Z6QzJWZ21YQTNBU190?oc=5",
+          "date": "2026-10-23 18:35 UTC"
+        },
+        {
+          "title": "Danaher (NYSE:DHR) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3UyQ2lWemcxbTUxdEU4YmdpUnkxQWdzeVBKQWxFaUR5Umd2Z3NzOERoaXMweUhxdzZMNFV2RmZUVVNDMlpkZlA5RFphYndsSmR1cDlzRmcxbFIzQXFVNTJsNzd5ekdRbDlCd1oza0lnOG5QN216VE5YM2s2M1JQSmRKNlAxUQ?oc=5",
+          "date": "2026-10-23 07:00 UTC"
+        }
+      ],
+      "filings_7d": [
+        {
+          "form": "8-K",
+          "date": "2026-10-21",
+          "items": "2.02,9.01",
+          "link": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000201/"
+        },
+        {
+          "form": "10-Q",
+          "date": "2026-10-21",
+          "items": "",
+          "link": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000199/"
+        }
+      ],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "earnings_within_5d": false,
+      "stop": 219.8018,
+      "stop_pct": -0.0464,
+      "why_now": "Strong trend: 6-month +18%, 3-month vs QQQ +14%",
+      "fundamentals": {
+        "period_end": "2026-09-25",
+        "filed": "2026-10-21",
+        "rev_yoy": 0.0828,
+        "rev_ttm": 25608000000,
+        "rev_ttm_yoy": 0.0552,
+        "eps_yoy": 0.378,
+        "eps_ttm": 6.11,
+        "gross_margin": 0.5859,
+        "gross_margin_trend": "flat",
+        "op_margin": 0.2038,
+        "op_margin_trend": "flat",
+        "debt_to_equity": 0.4939,
+        "fcf_ttm": 5727000000,
+        "fcf_margin": 0.2236,
+        "pe": 37.725,
+        "ps": 6.3325,
+        "stale": false,
+        "quality_score": 55.1,
+        "summary": "Revenue +8% y/y, margins flat, low debt, P/E 38"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -1781,9 +1774,9 @@
       "name": "Alexandria Real Estate Equities",
       "sector": "Real Estate",
       "price": 43.02,
-      "final_score": 14.167,
+      "final_score": 14.5131,
       "price_score": 0.5833,
-      "news_score": 48.062,
+      "news_score": 50.0,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 44.7,
@@ -1802,17 +1795,11 @@
         "Trades $102M/day",
         "\u26a0 Earnings in 1 trading days (2026-10-26): \u221210 points"
       ],
-      "headline_count_3d": 2,
-      "sentiment": -0.1292,
-      "attention_vs_normal": 0.1818,
+      "headline_count_3d": 1,
+      "sentiment": 0.0,
+      "attention_vs_normal": 0.1,
       "news_flags": [],
       "top_headlines": [
-        {
-          "title": "Alexandria Real Estate Equities Inc. stock underperforms Thursday when compared to competitors despite daily gains",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYVJXWnlTU1dqR1pXbWh2M1EwSVEydHNvQk9lam9sZnQ5YWNmZ19OT2J1T3lvM3FoS2JBSXA4ZkFjWm96Tjc2MFVmMmFBemdQQ05XeHhsRHJpSS05ZXVSMlNQclBPdld5MHhXamlnb3NWNWxtZ2FjUE1VYnNPdGRTcHRXdk92ZlJ1Z2o1VUthZTZ6UGN0SjRfVjJMdG5nV3JWMFQ2TGNtSWZkdUJPT0dZTHpMZkVYLVBXUHJUSGFZbnFYTjFTdGZWd2o4SWs3N3dZbkhMWEhhdWd6UjYzTldFOUI5ZENtVWZMN3dUMVhLUzZmWXdnUG5maDY1Uk0tMWZRODJ1NENrbzBLeTQtNmVmbm1JeHVHRUFZS1RJ?oc=5",
-          "date": "2026-10-22 21:14 UTC"
-        },
         {
           "title": "Alexandria Real Estate Equities (ARE) Stock forecasts",
           "source": "Yahoo Finance UK",
@@ -1839,8 +1826,7 @@
       "stop_pct": -0.0567,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -12%)",
-        "3-month return -18% vs QQQ",
-        "Negative news tone (sentiment -0.13 over 2 headlines)"
+        "3-month return -18% vs QQQ"
       ],
       "fundamentals": {
         "period_end": "2026-06-30",
@@ -2255,7 +2241,7 @@
       ],
       "headline_count_3d": 1,
       "sentiment": 0.5106,
-      "attention_vs_normal": 0.0909,
+      "attention_vs_normal": 0.1,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2390,9 +2376,9 @@
       "name": "Wynn Resorts",
       "sector": "Consumer Discretionary",
       "price": 72.73,
-      "final_score": 19.6402,
+      "final_score": 18.8467,
       "price_score": 8.8701,
-      "news_score": 44.8046,
+      "news_score": 40.3611,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 48.5,
@@ -2410,11 +2396,10 @@
         "Volatility 27%/yr (normal)",
         "Trades $171M/day"
       ],
-      "headline_count_3d": 12,
-      "sentiment": -0.1678,
-      "attention_vs_normal": 1.0323,
+      "headline_count_3d": 5,
+      "sentiment": -0.3093,
+      "attention_vs_normal": 0.4301,
       "news_flags": [
-        "beat",
         "downgrade"
       ],
       "top_headlines": [
@@ -2425,16 +2410,16 @@
           "date": "2026-10-25 12:39 UTC"
         },
         {
-          "title": "WYNN Q2 2026 Earnings: EPS Beat of 9.4% Meets a Muted Stock Reaction - Earnings Call Highlights",
-          "source": "www.siam.in",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUt4WmhKbGlPQ0ctMUI1YmZlMWlzc21VMEZzcmxXeDZXUTZYdkI0cWZVVGp1NGxQaFY5MjFVSmNDbGFFZnBldFpCTzhYREI2bU9wVkRxX0Q3cjc3RHpLSFBiamdORWhNMGNjQmZYV3djZlp0R2NXZlpaSFN0Skp3QndEOGVMVWYxWHc4b2hXOTg0azd1YmFfMDZITEpkN2JTRjk3NFhZMjZGVFJm?oc=5",
-          "date": "2026-10-23 21:34 UTC"
-        },
-        {
           "title": "What Wynn Resorts Holders Got Wrong Before The Slide",
           "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU0ZsMEFUcnBneXhLVTZYU3hQN1A3aXVzMjc2Qk5fcThYRWZSLUN1dGZvc2xaZmNJSElkNHplQm9Sck5pMmJmWlFDM0l3c1UyalBsTlNJZzQzVDBVUFJCenRGUlNEQnp5Z25xa0ZCQ3ZlRUxSU0prRGEweG9pajNTaVVJUGNFYWtDVmk4Z3ctdTdLazMzWjdwc3VuWlhrZjdwU2tpOHRtQUc4Ym44VVI5YzFISENMZ21adFg0dG5qYVhCLXUzVlVMMFNMVGhlVE4zbXfSAdIBQVVfeXFMTlNGbDBBVHJwZ3l4S1U2WFN4UDdQN2l1czI3NkJOX3E4WEVmUi1DdXRmb3NsWmZjSUhJZDR6ZUJvUnJOaTJiZlpRQzNJd3NVMmpQbE5TSWc0M1QwVVBSQnp0RlJTREJ6eWducWtGQkN2ZUVMUlNKa0RhMHhvaWozU2lVSVBjRWFrQ1ZpOGd3LXU3S2szM1o3cHN1blpYa2Y3cFNraTh0bUFHOGJuOFVSOWMxSEhDTGdtWnRYNHRuamFYQi11M1ZVTDBTTFRoZVROM213?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWJpdWRWdmV5eFJ3UXBUQ2xfV3publVCZ1FjTHJWbVNhWVFYdlFWMFBUWTBKNl9sM2w3ZDdaWlRjVDB4Nkdkc05ySHg5Q3J3VU9iSzMyVUFnaXJsN29ES3pEa0MxWi1mYXB0OUlNUzVETUdRWE5ja29UZFNqb0I2X2dEV1dIUUVmX3BkZElLQ0ZmTkhWZmFTYk9ZNHpBZW53V3k1ZTE3bnZjX01nSVZTRWpVRnBhWTZqSnRnZjdQaGNzSDdOSTZBVWFmaV_SAdIBQVVfeXFMTlNGbDBBVHJwZ3l4S1U2WFN4UDdQN2l1czI3NkJOX3E4WEVmUi1DdXRmb3NsWmZjSUhJZDR6ZUJvUnJOaTJiZlpRQzNJd3NVMmpQbE5TSWc0M1QwVVBSQnp0RlJTREJ6eWducWtGQkN2ZUVMUlNKa0RhMHhvaWozU2lVSVBjRWFrQ1ZpOGd3LXU3S2szM1o3cHN1blpYa2Y3cFNraTh0bUFHOGJuOFVSOWMxSEhDTGdtWnRYNHRuamFYQi11M1ZVTDBTTFRoZVROM213?oc=5",
           "date": "2026-10-25 12:34 UTC"
+        },
+        {
+          "title": "Wynn Resorts stock slides while seller pressure dominates short-term trading",
+          "source": "Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaExWdlNDU1RLWHkyOHoyTWpKVGMtU0dwQVE1blpKaDFjdHBweHdpZHBOY1NJM0RMbFVEbXdyOFRpY2M4VFprWWw0U1hpV1VKSXdZaGJuQVFjR196cGNRLW90V3p2SERLdHdLckxNU3I0U1p5RGVLXzQ0aEFQYjBwenYwakdTYUZYVmhCc3V3?oc=5",
+          "date": "2026-10-23 20:00 UTC"
         }
       ],
       "filings_7d": [
@@ -2464,7 +2449,7 @@
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -30%)",
         "3-month return -29% vs QQQ",
-        "Negative news tone (sentiment -0.17 over 12 headlines)",
+        "Negative news tone (sentiment -0.31 over 5 headlines)",
         "News flags: downgrade",
         "New 52-week low"
       ],
@@ -2991,9 +2976,9 @@
       "name": "Fair Isaac",
       "sector": "Information Technology",
       "price": 815.31,
-      "final_score": 25.5693,
+      "final_score": 24.9237,
       "price_score": 12.7914,
-      "news_score": 56.3424,
+      "news_score": 52.7274,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 78.4,
@@ -3011,28 +2996,28 @@
         "Volatility 91%/yr (unusually high/low)",
         "Trades $896M/day"
       ],
-      "headline_count_3d": 13,
-      "sentiment": 0.2277,
-      "attention_vs_normal": 0.9286,
+      "headline_count_3d": 7,
+      "sentiment": 0.1818,
+      "attention_vs_normal": 0.5,
       "news_flags": [],
       "top_headlines": [
         {
-          "title": "Is Fair Isaac (FICO) Cheap As Its $10 Mortgage Score Move Lifts Sentiment?",
-          "source": "Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTnZscWw5UDBfVXphc3dDQWtiUS15VzBtZHFkT0lKamdDSnl6R0xZREFqeU0wZUlRdU5URDA5b3lHdGNNQUMxaDYzckdSZHRHeVZneklrWXlNTHB1cFBOWE00UHU1dzFWUTRZU0tPMDV2bUhKZnNBbmJfdFUyNTJJVXRFdlluR2RtUjNJcE5hVWJCc0VCMFZPTlQtdmRjS1hreFNXNGo2MDg2SFJPY29CNTZBYUYybXpwV2l6eDlMeEJhcGFONHfSAcsBQVVfeXFMTm45X2FRZHpJN0F6VkZ6RlROek8yZUt6V1NrOG5JLUlRdG16MUxnZ3NQTTI0S1lndng3eV9JVkhRZlZXb2h6VUpNOXN0WDNHQlNnaENVaGVUOHFtMkc0QnlPbmlxZUc5ZlhlaElJeVJPUnBfZzhBQ3I4Y1hiazdzUlNrdWdfSmw2WWUwUS1FSXNVU0c0T3RmU1lGN2xLMW5DeXQwRThqNG10XzRlZW12bG56U2ZQVng0TFZsY3NZZXBLdWc2Vk81aDBjQTA?oc=5",
-          "date": "2026-10-24 23:42 UTC"
+          "title": "Fair Isaac Falls as Mortgage-Score Competition Overhang Persists",
+          "source": "Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDRXckpsOGtsM0xCblR0M19wMkdTekwwcGVpUVBHZHRZNlBCSE5BazFCOWl6OUZTM3B3dXBpd0R4bjgxWGVuVDJKYmNtSnJhYk5tX3RRS0p4Y0dpUGIyNEtCeW5uVkUtc2lweE9SQ2ptRllaX2hQd0VFdzVuUDh0MndYeVFrTGwtSmJLa1ZJQ3U1VGhCcTVpX25JQjk1QQ?oc=5",
+          "date": "2026-10-23 21:20 UTC"
         },
         {
-          "title": "Fair Isaac (FICO) - Portfolio Killers: 10 US stocks that wiped out up to 66% of investors\u2019 wealth in 2026",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNM24tblJ0MWt2OFhyclhjTHZYR0NDVWJueENLZGVSbVNuTE41NXc1VFBkamNGcHp1cTlLOFROS3R6amZ2M2FUYW1FTjNMTDd1VlR1bkgzMC15VVhQUXJ4bFotMVJQOHd2dnp3LTlaeElnUFBBdFFBb2owZmxsYzVGUjNBYkVnTGlZcWdKOWxJNXVxN29UUnBEb3piTzRwdC1MRmZ3aFEyVUlpR2hxUF96cENJT3E5V0FXVVJ5dnBxVXNZcEpiWWVUTGUtRWlSSzNNQlpvalRXbWZjUVU3UmZJSXdfeGg3ODhHb25zZm50UnZsZURxNXY1V2g5dDMzakFEMjdV?oc=5",
-          "date": "2026-10-24 10:08 UTC"
+          "title": "FICO Holds $10 Pricing for Mortgage Lenders Amid New Competition",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmFVR3NVWVM2WS1ldlhUNDFVaHlSMHVtekRUVW52b1VCOG9CQ3EycC1JSVlEMklWdTV4NVFFUEhpQmN6NHFhUVBGQlRzaFJpb05VZmdjSmxuNEt0bUk1dGswN3daT2JvdGYybWtXempka3RBUV9nemgxSWpydDdyYkxIem5jSFVnZ0d0UUR6ZHRBZlpNYklwSUUzOFM1WEFtTDZr?oc=5",
+          "date": "2026-10-23 21:19 UTC"
         },
         {
-          "title": "Fair Isaac: Mortgage Headline Score Price Held at $10 per Score in 2027",
-          "source": "Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3c0aW9Jb1J1SnFadXBjazVYb1NJMU9DN0kzR2NaWjhCUjZJVGZFN2RjNlA1MVdiOXRZUUpsSl93RUVSNG5VTFlKUktpX2stMFpXcl8zc2I2SzlaeTBQVUoyMHJWdFNqVmloV3V2TS04dm1NdEhrak5yeTQ3eGxVc0RoZlpSMWtBc3lDS0pEXzRmbk9raUU5OW1pYmZGbGZsbnJRSTctZXpsVlNEdllqTVUtREFNZWwxZ2V4ZXln?oc=5",
-          "date": "2026-10-24 05:48 UTC"
+          "title": "Fair Isaac Maintains Mortgage Score Pricing for Lenders in Preferred Program",
+          "source": "marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1lpZjV5QVJ3aG9aUkdoc0lHX04zeXV3dGN2TFJPNHZyaVN5V0UwMjJ6WmlGaFlxalZudHFaR0llV3dmN3NWSWVCamtKWlZhWFpHMld5MXpfcEZlYmUwaGQ1SXh1R1BXNUZGMG92dXI0T2tTbnJSX3phWHJFM08wT1hXVWNTNi1GcWVyeWhNNnFlcWRsd21jcnY1Z3NpTk02T3BZS1RqY3BXclNEZWtxVDFKR05HSGxRY1BCa0tTcUNOYldfRHFHTA?oc=5",
+          "date": "2026-10-23 20:33 UTC"
         }
       ],
       "filings_7d": [],
@@ -3506,9 +3491,9 @@
     "headlines": {
       "yfinance": 0,
       "yahoo_rss": 988,
-      "google_rss": 2465,
+      "google_rss": 2435,
       "stocks": 55,
-      "headlines": 836
+      "headlines": 808
     },
     "sec": {
       "ok": 55,
@@ -3516,10 +3501,10 @@
       "missing": 0
     },
     "smart_money": {
-      "requests": 53,
+      "requests": 16,
       "errors": {},
       "filings_in_window": 2038,
-      "downloaded": 37,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 0
     }
@@ -4085,7 +4070,7 @@
     ],
     "coverage": {
       "filings_in_window": 2038,
-      "downloaded": 37,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 0
     }

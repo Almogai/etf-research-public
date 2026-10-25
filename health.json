@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-25T15:03:48Z",
+  "generated_utc": "2026-10-25T15:24:29Z",
   "session_date": "2026-10-23",
   "tqqq_run": "success",
   "tickers_requested": 518,
@@ -7,19 +7,19 @@
   "tickers_failed": 0,
   "data_quality": "pass",
   "eligible": 514,
-  "headlines_collected": 836,
-  "started_utc": "2026-10-25T14:56:21Z",
-  "duration_secs": 446.1,
+  "headlines_collected": 808,
+  "started_utc": "2026-10-25T15:16:12Z",
+  "duration_secs": 497.3,
   "status": "ok",
-  "last_success_utc": "2026-10-25T15:03:48Z",
+  "last_success_utc": "2026-10-25T15:24:29Z",
   "steps": {
     "prices": {
       "status": "ok",
-      "secs": 67.1
+      "secs": 112.8
     },
     "data_quality": {
       "status": "ok",
-      "secs": 48.9
+      "secs": 56.4
     },
     "screener": {
       "status": "ok",
@@ -35,27 +35,27 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 2.9
+      "secs": 4.4
     },
     "news": {
       "status": "ok",
-      "secs": 64.4
+      "secs": 73.9
     },
     "sec": {
       "status": "ok",
-      "secs": 11.0
+      "secs": 10.9
     },
     "smart_money": {
       "status": "ok",
-      "secs": 7.8
+      "secs": 3.8
     },
     "history": {
       "status": "ok",
-      "secs": 10.7
+      "secs": 10.8
     },
     "fundamentals": {
       "status": "ok",
-      "secs": 185.9
+      "secs": 164.2
     },
     "news_score": {
       "status": "ok",
@@ -79,11 +79,11 @@
     },
     "track": {
       "status": "ok",
-      "secs": 0.5
+      "secs": 0.4
     },
     "learning": {
       "status": "ok",
-      "secs": 1.6
+      "secs": 1.5
     },
     "self_learning": {
       "status": "ok",
@@ -99,15 +99,23 @@
     },
     "analyst": {
       "status": "ok",
-      "secs": 39.4
+      "secs": 40.7
     },
     "lookthrough": {
       "status": "ok",
-      "secs": 1.0
+      "secs": 0.7
+    },
+    "macro": {
+      "status": "ok",
+      "secs": 12.0
     },
     "momtest": {
       "status": "ok",
-      "secs": 1.5
+      "secs": 1.6
+    },
+    "market": {
+      "status": "ok",
+      "secs": 0.1
     },
     "summary": {
       "status": "ok",
@@ -119,24 +127,24 @@
     },
     "notify": {
       "status": "ok",
-      "secs": 0.1
+      "secs": 0.0
     },
     "weekly_digest": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.1
     },
     "weekly_review": {
       "status": "ok",
-      "secs": 0.4
+      "secs": 0.3
     }
   },
   "sources": {
     "headlines": {
       "yfinance": 0,
       "yahoo_rss": 988,
-      "google_rss": 2465,
+      "google_rss": 2435,
       "stocks": 55,
-      "headlines": 836
+      "headlines": 808
     },
     "sec": {
       "ok": 55,
@@ -144,10 +152,10 @@
       "missing": 0
     },
     "smart_money": {
-      "requests": 53,
+      "requests": 16,
       "errors": {},
       "filings_in_window": 2038,
-      "downloaded": 37,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 0
     }

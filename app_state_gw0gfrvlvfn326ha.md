@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-25T15:03:52Z · market session 2026-10-23 · app version 28ca40 · 490 tests
+Generated 2026-10-25T15:24:33Z · market session 2026-10-23 · app version 9a1d3e · 500 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -46,7 +46,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $630.40 · deposits $1,402.66 · withdrawals $738.88 · cash $9.70 · profit -33.38 (-5.0%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **WARN** · TQQQ 66.29000091552734 vs 200-day average $65.21 · distance +1.7%
 - Allocation: FXLCX 59%, FXINX 18%, FITFX 11%, FLAPX 4%, TQQQ 3%, FXSCX 2%, Cash 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.04x · 59% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-25T14:55:21Z · last attempt 2026-10-25T14:55:21Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-25T15:15:11Z · last attempt 2026-10-25T15:15:11Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -154,8 +154,8 @@ Latest decision (2026-10-23, claude-sonnet-5-5, $0.048): Small re-entry into MPC
 Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (אנרגיה, בריאות) הניב תוצאות טובות יותר מטכנולוגיה מתוחה בשבועות הראשונים; [hypothesis, n=1] סטופ צמוד אחרי עלייה שומר רווח, אבל עלול להוציא מניות מומנטום לפני שהמהלך נגמר (MPC המשיכה לעלות אחרי היציאה)
 
 ## ⚙️ Health
-- Research run 2026-10-25T15:03:48Z (ok), TQQQ run success, data check pass
-- Workflows: Analyst forecast (before the open): success (2026-10-25T14:55); Daily signals: in_progress (2026-10-25T14:54); Publish app state: success (2026-10-25T03:22); Broker sync: success (2026-10-25T03:22); Tests: success (2026-10-24T20:39); Long test (2000 -> today): success (2026-10-24T06:14); Long test - fetch delisted companies (Tiingo): success (2026-10-23T23:31); Intraday move alert: success (2026-10-23T21:11)
+- Research run 2026-10-25T15:24:29Z (ok), TQQQ run success, data check pass
+- Workflows: FMP probe (what our plan includes): success (2026-10-25T15:21); Tests: success (2026-10-25T15:21); Analyst forecast (before the open): success (2026-10-25T15:14); Daily signals: in_progress (2026-10-25T15:14); Publish app state: success (2026-10-25T03:22); Broker sync: success (2026-10-25T03:22); Long test (2000 -> today): success (2026-10-24T06:14); Long test - fetch delisted companies (Tiingo): success (2026-10-23T23:31)
 - Pushes today: 4 (push sent: 🚨 TQQQ; push sent: ערב · 2026-10-23; push sent: סיכום שבועי; push sent: 📋 סקירה שבועית)
 - Errors/warnings (3 days): none
 
@@ -182,7 +182,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 - **סקטורים (Sectors)** [`sectors`]: which sectors are hot or cold (off the screen since Oct 24 2026: opens only from a link or the chat)
 - **היסטוריה (History)** [`history`]: similar market periods since 1990 and event base rates (off the screen since Oct 24 2026: opens only from a link or the chat)
 - **טבלאות באנגלית (English tables)** [`advanced`]: the original English tables: overview, research, track record, charts, backtest, log, connections
-- **חיבורים (Connections)** [`connections`]: research ok at 2026-10-25T15:03:48Z; TQQQ run success; data check pass
+- **חיבורים (Connections)** [`connections`]: research ok at 2026-10-25T15:24:29Z; TQQQ run success; data check pass
 - **סיכום שבועי (Weekly summary)** [`weekly`]: every Friday's weekly summary (off the screen since Oct 24 2026: opens only from a link or the chat)
 - **הפעילות שלי (My activity)** [`activity`]: 274 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline

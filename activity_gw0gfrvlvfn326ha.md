@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-26T20:48:15Z. Every event in the app, newest first (284 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-26T22:08:06Z. Every event in the app, newest first (285 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-26 22:07 | notify | workflow |  | push sent: ערב · 2026-10-26 |  |
 | 2026-10-26 19:28 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-26 17:14 | deposit_inferred | sync |  | the inferred deposit in Robinhood · Brokerage arrived in the movement list - gap closed | -738.88 → 0.0 |
 | 2026-10-26 15:45 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.048) |  |

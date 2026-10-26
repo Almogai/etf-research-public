@@ -1,4 +1,4 @@
-# Research desk track record — as of 2026-10-23
+# Research desk track record — as of 2026-10-26
 
 Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 trading days. Returns include dividends. Hit rate = share of ideas that went up. Excess = idea return minus QQQ over the same days. Ideas newer than a horizon are not counted for it yet.
 
@@ -6,28 +6,28 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 45 | 40 | 30% | -1.9% | -0.8% | 40% | 15% |
-| 5 days | 45 | 25 | 20% | -6.5% | -3.2% | 28% | 76% |
-| 20 days | 45 | 0 | – | – | – | – | – |
-| 60 days | 45 | 0 | – | – | – | – | – |
+| 1 days | 50 | 45 | 33% | -1.6% | -0.8% | 40% | 13% |
+| 5 days | 50 | 30 | 23% | -5.3% | -2.4% | 37% | 67% |
+| 20 days | 50 | 0 | – | – | – | – | – |
+| 60 days | 50 | 0 | – | – | – | – | – |
 
 ## Last 3 months
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 45 | 40 | 30% | -1.9% | -0.8% | 40% | 15% |
-| 5 days | 45 | 25 | 20% | -6.5% | -3.2% | 28% | 76% |
-| 20 days | 45 | 0 | – | – | – | – | – |
-| 60 days | 45 | 0 | – | – | – | – | – |
+| 1 days | 50 | 45 | 33% | -1.6% | -0.8% | 40% | 13% |
+| 5 days | 50 | 30 | 23% | -5.3% | -2.4% | 37% | 67% |
+| 20 days | 50 | 0 | – | – | – | – | – |
+| 60 days | 50 | 0 | – | – | – | – | – |
 
 ## All time
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 45 | 40 | 30% | -1.9% | -0.8% | 40% | 15% |
-| 5 days | 45 | 25 | 20% | -6.5% | -3.2% | 28% | 76% |
-| 20 days | 45 | 0 | – | – | – | – | – |
-| 60 days | 45 | 0 | – | – | – | – | – |
+| 1 days | 50 | 45 | 33% | -1.6% | -0.8% | 40% | 13% |
+| 5 days | 50 | 30 | 23% | -5.3% | -2.4% | 37% | 67% |
+| 20 days | 50 | 0 | – | – | – | – | – |
+| 60 days | 50 | 0 | – | – | – | – | – |
 
 ## Backtest (history, not live results)
 

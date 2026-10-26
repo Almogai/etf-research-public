@@ -1,176 +1,178 @@
 {
- "generated_utc": "2026-10-25T22:56:23Z",
- "session_date": "2026-10-23",
- "status": "pass",
- "reasons": [],
+ "generated_utc": "2026-10-26T22:02:50Z",
+ "session_date": "2026-10-26",
+ "status": "warn",
+ "reasons": [
+  "second source unreachable for: QQQ, SPY, TQQQ"
+ ],
  "second_source": "Nasdaq (api.nasdaq.com)",
  "tolerance": 0.005,
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 704.4,
-   "theirs": 704.4,
-   "diff": 0.0,
-   "status": "ok"
+   "ours": 712.2,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 759.97,
-   "theirs": 759.97,
-   "diff": 0.0,
-   "status": "ok"
+   "ours": 765.37,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 66.29,
-   "theirs": 66.29,
-   "diff": 0.0,
-   "status": "ok"
+   "ours": 68.43,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   }
  ],
  "sample": [
   {
-   "ticker": "IT",
-   "ours": 230.28,
-   "theirs": 230.28,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "CPT",
+   "ours": 102.0,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "KEY",
-   "ours": 21.08,
-   "theirs": 21.08,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "HOOD",
+   "ours": 92.84,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "GE",
-   "ours": 285.64,
-   "theirs": 285.64,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "DECK",
+   "ours": 80.37,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "OTIS",
-   "ours": 75.15,
-   "theirs": 75.15,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "WDC",
+   "ours": 356.13,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "IDXX",
-   "ours": 560.38,
-   "theirs": 560.38,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "SHOP",
+   "ours": 168.18,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "PH",
-   "ours": 880.57,
-   "theirs": 880.57,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "CFG",
+   "ours": 65.37,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "ALL",
-   "ours": 253.19,
-   "theirs": 253.19,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "ADI",
+   "ours": 407.93,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "SJM",
-   "ours": 129.98,
-   "theirs": 129.98,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "CARR",
-   "ours": 56.24,
-   "theirs": 56.24,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "RSG",
-   "ours": 240.45,
-   "theirs": 240.45,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "GEV",
-   "ours": 815.0,
-   "theirs": 815.0,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "MPC",
-   "ours": 457.22,
-   "theirs": 457.22,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "O",
-   "ours": 56.89,
-   "theirs": 56.89,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "MCD",
-   "ours": 248.46,
-   "theirs": 248.46,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "JCI",
-   "ours": 143.96,
-   "theirs": 143.96,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "RVTY",
+   "ours": 160.39,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
    "ticker": "P",
-   "ours": 123.33,
-   "theirs": 123.33,
-   "diff": 0.0,
-   "status": "ok"
+   "ours": 131.33,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "ARES",
-   "ours": 122.08,
-   "theirs": 122.08,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "NEM",
+   "ours": 110.39,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "SBUX",
-   "ours": 100.8,
-   "theirs": 100.8,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "NVDA",
+   "ours": 216.0,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "ALAB",
-   "ours": 257.16,
-   "theirs": 257.16,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "FIX",
+   "ours": 1244.1899,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   },
   {
-   "ticker": "DOW",
-   "ours": 32.61,
-   "theirs": 32.61,
-   "diff": 0.0,
-   "status": "ok"
+   "ticker": "KMI",
+   "ours": 33.94,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "XEL",
+   "ours": 77.86,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "PNC",
+   "ours": 225.84,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "BA",
+   "ours": 188.31,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "HAL",
+   "ours": 35.44,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "PNR",
+   "ours": 55.22,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "WY",
+   "ours": 19.58,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "GIS",
+   "ours": 33.7,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
   }
  ],
- "tqqq_verified": true,
+ "tqqq_verified": false,
  "problems": {
   "stale": [],
   "stopped": [],

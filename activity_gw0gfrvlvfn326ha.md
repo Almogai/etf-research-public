@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-26T16:33:40Z. Every event in the app, newest first (281 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-26T17:14:23Z. Every event in the app, newest first (283 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-26 17:14 | deposit_inferred | sync |  | the inferred deposit in Robinhood · Brokerage arrived in the movement list - gap closed | -738.88 → 0.0 |
 | 2026-10-26 15:45 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.048) |  |
 | 2026-10-26 11:25 | claude_picks | workflow |  | Claude picks received (2026-10-26) |  |
 | 2026-10-26 11:25 | claude_report | workflow |  | morning report 2026-10-23: 6/6 parts |  |
@@ -62,6 +63,7 @@ Generated 2026-10-26T16:33:40Z. Every event in the app, newest first (281 events
 | 2026-10-20 21:58 | claude_report | workflow |  | morning report 2026-10-19: 4/7 parts |  |
 | 2026-10-20 21:58 | notify | workflow |  | push sent: 🚨 TQQQ |  |
 | 2026-10-20 21:30 | signal_change | workflow | TQQQ | TQQQ signal changed to OUT (rule C): C: signal 717.63 vs 200d exit 662.43; 3 closes below 50d, 50d falling=True | IN → OUT |
+| 2026-10-20 16:00 | withdrawal | sync |  | sync (Robinhood · Brokerage): withdrawal  ($-738.79) |  |
 | 2026-10-20 14:51 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.042) |  |
 | 2026-10-20 11:15 | claude_report | workflow |  | morning report 2026-10-19: 4/7 parts |  |
 | 2026-10-20 10:37 | deposit_inferred | sync |  | inferred withdrawal of $738.88 in Robinhood · Brokerage from the broker's cash (not in the movement list yet) | 0.0 → -738.88 |

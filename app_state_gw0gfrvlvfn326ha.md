@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-26T15:45:19Z · market session 2026-10-23 · app version e0efbf · 524 tests
+Generated 2026-10-26T16:33:40Z · market session 2026-10-23 · app version 94bc56 · 524 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -132,18 +132,17 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- +0.1% vs QQQ -4.9% after 12 trading days · 3 closed trades, 2 winners · 4 open
-- Started 2026-10-12 with $10,000 · value $10,008.74 · cash $6,690.16 · vs SPY -1.5% · QQQ -4.9% · max drawdown -0.3% · paused: False · blocked: -
+- -0.0% vs QQQ -5.1% after 12 trading days · 3 closed trades, 2 winners · 5 open
+- Started 2026-10-12 with $10,000 · value $9,998.60 · cash $5,890.16 · vs SPY -1.7% · QQQ -5.1% · max drawdown -0.3% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $529.69 | -1.9% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| VEEV | 1.90659 | $314.70 | $321.39 | +2.1% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-| AMGN | 1.8334 | $436.35 | $440.55 | +1.0% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
-| MPC | 1.94953 | $461.65 | $470.45 | +1.9% | 433.0 | 495.0 | 2026-10-23 | app_top5, morning_claude | מרתון פטרוליום: מומנטום חזק ודירוג ראשון, גיוון לאנרגיה; גודל קטן כי המניה כבר ע |
-
-Pending orders (fill at the next price): buy TMO $800
+| MSFT | 1.85199 | $539.96 | $530.33 | -1.8% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| VEEV | 1.90659 | $314.70 | $318.35 | +1.2% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| AMGN | 1.8334 | $436.35 | $440.75 | +1.0% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
+| MPC | 1.94953 | $461.65 | $470.21 | +1.9% | 433.0 | 495.0 | 2026-10-23 | app_top5, morning_claude | מרתון פטרוליום: מומנטום חזק ודירוג ראשון, גיוון לאנרגיה; גודל קטן כי המניה כבר ע |
+| TMO | 1.17578 | $680.40 | $675.77 | -0.7% | 640.0 | 708.0 | 2026-10-26 | morning_claude, app_top5 | תרמו פישר: בחירה ראשונה של Claude הבוקר, מגמה חיובית והעלאת תחזית; גודל קטן כי ה |
 
 Closed: 3 · hit rate 67% · avg -0.0% · beat benchmark 67%
 By source: app_top5 n=3 hit 67% avg -0.0%; morning_claude n=1 hit 100% avg +4.4%
@@ -157,7 +156,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-25T23:02:39Z (ok), TQQQ run success, data check pass
-- Workflows: Claude portfolio decision: in_progress (2026-10-26T15:44); Analyst forecast (before the open): success (2026-10-26T15:22); Intraday move alert: success (2026-10-26T15:19); Collect Claude report: success (2026-10-26T14:50); Tests: success (2026-10-25T23:13); Publish app state: success (2026-10-25T23:05); Broker sync: success (2026-10-25T23:05); Daily signals: success (2026-10-25T22:51); FMP probe (what our plan includes): success (2026-10-25T15:21)
+- Workflows: Claude portfolio decision: in_progress (2026-10-26T16:32); Intraday move alert: success (2026-10-26T16:31); Analyst forecast (before the open): success (2026-10-26T15:22); Collect Claude report: success (2026-10-26T14:50); Tests: success (2026-10-25T23:13); Publish app state: success (2026-10-25T23:05); Broker sync: success (2026-10-25T23:05); Daily signals: success (2026-10-25T22:51); FMP probe (what our plan includes): success (2026-10-25T15:21)
 - Pushes today: 0
 - Errors/warnings (3 days): none
 

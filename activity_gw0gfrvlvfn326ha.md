@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-26T11:50:07Z. Every event in the app, newest first (280 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-26T15:45:19Z. Every event in the app, newest first (281 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-26 15:45 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.048) |  |
 | 2026-10-26 11:25 | claude_picks | workflow |  | Claude picks received (2026-10-26) |  |
 | 2026-10-26 11:25 | claude_report | workflow |  | morning report 2026-10-23: 6/6 parts |  |
 | 2026-10-25 23:05 | sync_request | manual |  | broker sync requested |  |

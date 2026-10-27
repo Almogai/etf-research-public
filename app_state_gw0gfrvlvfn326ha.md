@@ -1,12 +1,12 @@
 # My app — current state
 
-Generated 2026-10-27T11:23:08Z · market session 2026-10-26 · app version e6a2f1 · 578 tests
+Generated 2026-10-27T11:43:59Z · market session 2026-10-26 · app version 046f51 · 578 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
 - Status light: **green** — TQQQ is OUT, 4.8% above its 200-day average. 60% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source
-- Account value $628.17 · today +0.00 · profit vs deposits -20.02 (-3.1%) · deposited $648.19
+- Account value $628.14 · today +0.00 · profit vs deposits -20.05 (-3.1%) · deposited $648.19
 - What changed since yesterday: No important changes
 - Claude says (2026-10-26): Data covers the session of Monday, October 26, 2026 (close). Pre-market check about 5:30-7:00 AM ET, Tuesday, October 27. / SIGNAL: OUT, UNCHANGED (rule E; rule D fails: QQQ is 1.8% below its 50-day). Stop: n/a. Your 200-day rule: OK (out of the warning zone). TQQQ $68.43 vs its 200-day $65.28: +4.83% (+$3.15/share). Warning line (+3%) is $67.24; the rule breaks on a close below $65.28. / Session (Mon Oct 26): TQQQ $68.43 (+3.23%), QQQ $712.20 (+1.11%). Nasdaq Composite +0.82%, S&P 500 +0.70%, Dow +0.28%. Anthropic's public IPO filing revived the AI trade (chip index SOX +2.8%); Brent fell 1.8% to $114.57; VIX fell 6% to 18.27.
 - Top 5 chips: VLO, MPC, ACN, COP, VEEV · data check: warn
@@ -17,12 +17,12 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 |---|---|---|---|---|
 | Fidelity · Brokerage 1 | $603.01 | $3.62 | 7 | $611.00 |
 | Fidelity · Brokerage 4 | $16.68 | $0.05 | 1 | $20.00 |
-| Robinhood · Crypto | $8.48 | $0.00 | 1 | $0.00 |
+| Robinhood · Crypto | $8.45 | $0.00 | 1 | $0.00 |
 | Fidelity · Brokerage 3 | $0.00 | $0.00 | 0 | $0.00 |
 | Fidelity · Brokerage 2 | $0.00 | $0.00 | 0 | $0.00 |
 | Robinhood · IRA | $0.00 | $0.00 | 0 | $0.00 |
 | Robinhood · Brokerage (main: TQQQ 200-day rule) | $0.00 | $0.00 | 0 | $17.19 |
-| **All accounts** | **$628.17** | $3.67 | 9 | $648.19 |
+| **All accounts** | **$628.14** | $3.67 | 9 | $648.19 |
 
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
@@ -38,15 +38,15 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.62 | $2.03 | +0.03 | sync |
 | Fidelity · Brokerage 1 | FXSCX | 1.221 | 12.20 | 11.94 | $14.58 | -0.32 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $3.62 |  | sync |
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.30 | $8.48 | -0.89 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.30 | $8.45 | -0.92 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
 
-- Net worth $628.17 · deposits $648.19 · withdrawals $0.00 · cash $3.67 · profit -20.02 (-3.1%)
+- Net worth $628.14 · deposits $648.19 · withdrawals $0.00 · cash $3.67 · profit -20.05 (-3.1%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **OK** · TQQQ 68.43000030517578 vs 200-day average $65.28 · distance +4.8%
 - Allocation: FXLCX 60%, FXINX 18%, FITFX 11%, FLAPX 4%, TQQQ 3%, FXSCX 2%, XRP-USD 1%, Cash 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.05x · 60% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-27T11:22:38Z · last attempt 2026-10-27T11:22:38Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-27T11:43:35Z · last attempt 2026-10-27T11:43:35Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -158,17 +158,17 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-26T22:07:54Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-10-27T11:21); Tests: success (2026-10-27T03:30); DCF check (one stock, by hand): success (2026-10-27T03:15); Publish app state: success (2026-10-27T02:52); Daily signals: success (2026-10-26T22:59); Broker sync: success (2026-10-26T21:41); Intraday move alert: success (2026-10-26T21:13); Refresh the stock list (by hand): success (2026-10-26T19:50)
+- Workflows: Collect Claude report: in_progress (2026-10-27T11:42); Tests: success (2026-10-27T03:30); DCF check (one stock, by hand): success (2026-10-27T03:15); Publish app state: success (2026-10-27T02:52); Daily signals: success (2026-10-26T22:59); Broker sync: success (2026-10-26T21:41); Intraday move alert: success (2026-10-26T21:13); Refresh the stock list (by hand): success (2026-10-26T19:50)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 
 ## 🗺️ Screens: what each shows and the open choices
-- **היום (Today)** [`today`]: 💰 my money: account value $628.17, today +0.00, since the start -20.02; TQQQ vs its 200-day average: OK (+4.8%, average $65.28) · 🧠 Claude's picks: price, today, since the pick, stop→target bar, how many up/down vs SPY · 🌎 the market in a sentence: Data covers the session of Monday, October 26, 2026 (close). Pre-market check about 5:30-7:00 AM ET, Tuesday, October 27. / SIGNAL: OUT, UNCHANGED (rule E; rule D fails: QQQ is 1.8% below its 50-day). Stop: n/a. Your 200-day rule: OK (out of the warning zone). TQQQ $68.43 vs its 200-day $65.28: +4.83% (+$3.15/share). Warning line (+3%) is $67.24; the rule breaks on a close below $65.28. / Session (Mon Oct 26): TQQQ $68.43 (+3.23%), QQQ $712.20 (+1.11%). Nasdaq Composite +0.82%, S&P 500 +0.70%, Dow +0.28%. Anthropic's public IPO filing revived the AI trade (chip index SOX +2.8%); Brent fell 1.8% to $114.57; VIX fell 6% to 18.27. · ✅ what to do: only actions that need me, else 'אין מה לעשות היום'
-- **התיק (Portfolio)** [`money`]: all accounts: net worth $628.17; money in $648.19; profit -20.02 (live on the screen: Yahoo prices × broker share counts) · CASH:  = $0.00 · CASH:  = $0.00 · TQQQ: 0.243 = $16.63 · CASH:  = $0.05 · FITFX: 3.598 = $67.46 · FLAPX: 0.919 = $23.03 · FLXSX: 0.116 = $2.32 · FXINX: 9.342 = $112.20 · FXLCX: 31.879 = $377.77 · FXMCX: 0.175 = $2.03 · FXSCX: 1.221 = $14.58 · CASH:  = $3.62 · XRP-USD: 6.506 = $8.48 · CASH:  = $0.00 · CASH:  = $0.00 · CASH:  = $0.00 · 🤖 Claude's VIRTUAL portfolio vs QQQ and SPY (paper money) · ⚙️ Advanced: every other screen
-- **סטטוס מלא (Full status)** [`status`]: status light green: TQQQ is OUT, 4.8% above its 200-day average. 60% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source · account value $628.17, today +0.00, profit vs deposits -20.02 · what changed: No important changes · Claude says: Data covers the session of Monday, October 26, 2026 (close). Pre-market check about 5:30-7:00 AM ET, Tuesday, October 27. / SIGNAL: OUT, UNCHANGED (rule E; rule D fails: QQQ is 1.8% below its 50-day). Stop: n/a. Your 200-day rule: OK (out of the warning zone). TQQQ $68.43 vs its 200-day $65.28: +4.83% (+$3.15/share). Warning line (+3%) is $67.24; the rule breaks on a close below $65.28. / Session (Mon Oct 26): TQQQ $68.43 (+3.23%), QQQ $712.20 (+1.11%). Nasdaq Composite +0.82%, S&P 500 +0.70%, Dow +0.28%. Anthropic's public IPO filing revived the AI trade (chip index SOX +2.8%); Brent fell 1.8% to $114.57; VIX fell 6% to 18.27. · top 5 chips: VLO, MPC, ACN, COP, VEEV
+- **היום (Today)** [`today`]: 💰 my money: account value $628.14, today +0.00, since the start -20.05; TQQQ vs its 200-day average: OK (+4.8%, average $65.28) · 🧠 Claude's picks: price, today, since the pick, stop→target bar, how many up/down vs SPY · 🌎 the market in a sentence: Data covers the session of Monday, October 26, 2026 (close). Pre-market check about 5:30-7:00 AM ET, Tuesday, October 27. / SIGNAL: OUT, UNCHANGED (rule E; rule D fails: QQQ is 1.8% below its 50-day). Stop: n/a. Your 200-day rule: OK (out of the warning zone). TQQQ $68.43 vs its 200-day $65.28: +4.83% (+$3.15/share). Warning line (+3%) is $67.24; the rule breaks on a close below $65.28. / Session (Mon Oct 26): TQQQ $68.43 (+3.23%), QQQ $712.20 (+1.11%). Nasdaq Composite +0.82%, S&P 500 +0.70%, Dow +0.28%. Anthropic's public IPO filing revived the AI trade (chip index SOX +2.8%); Brent fell 1.8% to $114.57; VIX fell 6% to 18.27. · ✅ what to do: only actions that need me, else 'אין מה לעשות היום'
+- **התיק (Portfolio)** [`money`]: all accounts: net worth $628.14; money in $648.19; profit -20.05 (live on the screen: Yahoo prices × broker share counts) · CASH:  = $0.00 · CASH:  = $0.00 · TQQQ: 0.243 = $16.63 · CASH:  = $0.05 · FITFX: 3.598 = $67.46 · FLAPX: 0.919 = $23.03 · FLXSX: 0.116 = $2.32 · FXINX: 9.342 = $112.20 · FXLCX: 31.879 = $377.77 · FXMCX: 0.175 = $2.03 · FXSCX: 1.221 = $14.58 · CASH:  = $3.62 · XRP-USD: 6.506 = $8.45 · CASH:  = $0.00 · CASH:  = $0.00 · CASH:  = $0.00 · 🤖 Claude's VIRTUAL portfolio vs QQQ and SPY (paper money) · ⚙️ Advanced: every other screen
+- **סטטוס מלא (Full status)** [`status`]: status light green: TQQQ is OUT, 4.8% above its 200-day average. 60% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source · account value $628.14, today +0.00, profit vs deposits -20.05 · what changed: No important changes · Claude says: Data covers the session of Monday, October 26, 2026 (close). Pre-market check about 5:30-7:00 AM ET, Tuesday, October 27. / SIGNAL: OUT, UNCHANGED (rule E; rule D fails: QQQ is 1.8% below its 50-day). Stop: n/a. Your 200-day rule: OK (out of the warning zone). TQQQ $68.43 vs its 200-day $65.28: +4.83% (+$3.15/share). Warning line (+3%) is $67.24; the rule breaks on a close below $65.28. / Session (Mon Oct 26): TQQQ $68.43 (+3.23%), QQQ $712.20 (+1.11%). Nasdaq Composite +0.82%, S&P 500 +0.70%, Dow +0.28%. Anthropic's public IPO filing revived the AI trade (chip index SOX +2.8%); Brent fell 1.8% to $114.57; VIX fell 6% to 18.27. · top 5 chips: VLO, MPC, ACN, COP, VEEV
 - **Top 5 (Top 5)** [`top5`]: app: $9,295 (-7.0%) vs SPY -1.7%; beat 6/25 closed trades · claude: $9,741 (-2.6%) vs SPY -1.6%; beat 7/19 closed trades
   - choice האפליקציה / Claude: app → the app's daily top 5; claude → the morning Claude's picks
-- **ניהול התיק (Manage my money)** [`portfolio`]: net worth $628.17; money in $648.19; profit -20.02 · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · TQQQ: 0.243 @ avg 82.0988 = $16.63 (sync) · CASH:  @ avg None = $0.05 (sync) · FITFX: 3.598 @ avg 19.2162 = $67.46 (sync) · FLAPX: 0.919 @ avg 24.7987 = $23.03 (sync) · FLXSX: 0.116 @ avg 20.0862 = $2.32 (sync) · FXINX: 9.342 @ avg 12.3988 = $112.20 (sync) · FXLCX: 31.879 @ avg 11.9505 = $377.77 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.03 (sync) · FXSCX: 1.221 @ avg 12.2031 = $14.58 (sync) · CASH:  @ avg None = $3.62 (sync) · XRP-USD: 6.506 @ avg 1.44 = $8.48 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync)
+- **ניהול התיק (Manage my money)** [`portfolio`]: net worth $628.14; money in $648.19; profit -20.05 · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · TQQQ: 0.243 @ avg 82.0988 = $16.63 (sync) · CASH:  @ avg None = $0.05 (sync) · FITFX: 3.598 @ avg 19.2162 = $67.46 (sync) · FLAPX: 0.919 @ avg 24.7987 = $23.03 (sync) · FLXSX: 0.116 @ avg 20.0862 = $2.32 (sync) · FXINX: 9.342 @ avg 12.3988 = $112.20 (sync) · FXLCX: 31.879 @ avg 11.9505 = $377.77 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.03 (sync) · FXSCX: 1.221 @ avg 12.2031 = $14.58 (sync) · CASH:  @ avg None = $3.62 (sync) · XRP-USD: 6.506 @ avg 1.44 = $8.45 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync)
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'

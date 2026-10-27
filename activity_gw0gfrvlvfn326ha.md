@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-27T11:43:59Z. Every event in the app, newest first (289 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-27T14:02:22Z. Every event in the app, newest first (290 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-27 14:01 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-27 11:22 | claude_picks | workflow |  | Claude picks received (2026-10-27) |  |
 | 2026-10-27 11:22 | claude_report | workflow |  | morning report 2026-10-26: 7/7 parts |  |
 | 2026-10-27 10:42 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 15.68 → 0.0 |

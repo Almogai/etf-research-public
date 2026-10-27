@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T22:02:50Z",
- "session_date": "2026-10-26",
+ "generated_utc": "2026-10-27T22:04:21Z",
+ "session_date": "2026-10-27",
  "status": "warn",
  "reasons": [
   "second source unreachable for: QQQ, SPY, TQQQ"
@@ -10,21 +10,21 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 712.2,
+   "ours": 721.25,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 765.37,
+   "ours": 769.66,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 68.43,
+   "ours": 71.04,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -32,141 +32,141 @@
  ],
  "sample": [
   {
-   "ticker": "CPT",
-   "ours": 102.0,
+   "ticker": "ECHO",
+   "ours": 90.39,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HOOD",
-   "ours": 92.84,
+   "ticker": "AXON",
+   "ours": 425.87,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "DECK",
-   "ours": 80.37,
+   "ticker": "DASH",
+   "ours": 170.56,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "WDC",
-   "ours": 356.13,
+   "ticker": "FITB",
+   "ours": 53.59,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "SHOP",
-   "ours": 168.18,
+   "ticker": "FICO",
+   "ours": 691.74,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "CFG",
-   "ours": 65.37,
+   "ticker": "SLB",
+   "ours": 54.08,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ADI",
-   "ours": 407.93,
+   "ticker": "CMI",
+   "ours": 530.61,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "RVTY",
-   "ours": 160.39,
+   "ticker": "HONA",
+   "ours": 167.9,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "P",
-   "ours": 131.33,
+   "ticker": "AMAT",
+   "ours": 395.93,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "NEM",
-   "ours": 110.39,
+   "ticker": "AMD",
+   "ours": 560.26,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "NVDA",
-   "ours": 216.0,
+   "ticker": "WRB",
+   "ours": 72.38,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "FIX",
-   "ours": 1244.1899,
+   "ticker": "STT",
+   "ours": 170.89,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "KMI",
-   "ours": 33.94,
+   "ticker": "STLD",
+   "ours": 246.8,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "XEL",
-   "ours": 77.86,
+   "ticker": "APP",
+   "ours": 262.82,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PNC",
-   "ours": 225.84,
+   "ticker": "CAT",
+   "ours": 713.31,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "BA",
-   "ours": 188.31,
+   "ticker": "TECH",
+   "ours": 72.6,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HAL",
-   "ours": 35.44,
+   "ticker": "HST",
+   "ours": 25.22,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PNR",
-   "ours": 55.22,
+   "ticker": "WST",
+   "ours": 398.29,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "WY",
-   "ours": 19.58,
+   "ticker": "GL",
+   "ours": 156.99,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GIS",
-   "ours": 33.7,
+   "ticker": "IVZ",
+   "ours": 28.43,
    "theirs": null,
    "diff": null,
    "status": "unverified"

@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-27T02:53:00Z. Every event in the app, newest first (286 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-27T10:43:00Z. Every event in the app, newest first (287 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-27 10:42 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 15.68 → 0.0 |
 | 2026-10-27 02:52 | dcf_model | manual | VLO | valuation model for VLO: $255.50 (-40%, DCF) |  |
 | 2026-10-26 22:07 | notify | workflow |  | push sent: ערב · 2026-10-26 |  |
 | 2026-10-26 19:28 | price_source | manual |  | app prices: finnhub (2 real-time) |  |

@@ -1,9 +1,11 @@
 # My activity
 
-Generated 2026-10-28T10:51:11Z. Every event in the app, newest first (294 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-28T11:25:48Z. Every event in the app, newest first (296 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-28 11:25 | claude_picks | workflow |  | Claude picks received (2026-10-28) |  |
+| 2026-10-28 11:25 | claude_report | workflow |  | morning report 2026-10-27: 5/6 parts |  |
 | 2026-10-27 22:10 | notify | workflow |  | push sent: ערב · 2026-10-27 |  |
 | 2026-10-27 21:03 | dcf_model | manual | VLO | valuation model for VLO: $331.90 (-14%, DCF) |  |
 | 2026-10-27 15:03 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.048) |  |

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-28T15:08:05Z · market session 2026-10-27 · app version 39893e · 584 tests
+Generated 2026-10-28T16:32:49Z · market session 2026-10-27 · app version 86a399 · 584 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -134,18 +134,17 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.2% vs QQQ -3.9% after 14 trading days · 5 closed trades, 3 winners · 4 open
-- Started 2026-10-12 with $10,000 · value $9,982.33 · cash $6,720.93 · vs SPY -1.0% · QQQ -3.9% · max drawdown -0.7% · paused: False · blocked: -
+- -0.3% vs QQQ -3.9% after 14 trading days · 5 closed trades, 3 winners · 5 open
+- Started 2026-10-12 with $10,000 · value $9,973.28 · cash $6,020.93 · vs SPY -1.0% · QQQ -3.9% · max drawdown -0.7% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $528.32 | -2.2% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| VEEV | 1.90659 | $314.70 | $316.94 | +0.7% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-| AMGN | 1.8334 | $436.35 | $452.42 | +3.7% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
-| MPC | 1.94953 | $461.65 | $435.61 | -5.6% | 433.0 | 495.0 | 2026-10-23 | app_top5, morning_claude | מרתון פטרוליום: מומנטום חזק ודירוג ראשון, גיוון לאנרגיה; גודל קטן כי המניה כבר ע |
-
-Pending orders (fill at the next price): buy DHR $700
+| MSFT | 1.85199 | $539.96 | $527.91 | -2.2% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| VEEV | 1.90659 | $314.70 | $315.79 | +0.3% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| AMGN | 1.8334 | $436.35 | $450.02 | +3.1% | 400.0 | 460.0 | 2026-10-20 | app_top5 | אמגן: מגמה חיובית, תנודתיות נמוכה ושדרוג דירוג, גיוון בבריאות דפנסיבית; גודל קטן |
+| MPC | 1.94953 | $461.65 | $438.15 | -5.1% | 433.0 | 495.0 | 2026-10-23 | app_top5, morning_claude | מרתון פטרוליום: מומנטום חזק ודירוג ראשון, גיוון לאנרגיה; גודל קטן כי המניה כבר ע |
+| DHR | 2.95729 | $236.70 | $234.45 | -1.0% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
 
 Closed: 5 · hit rate 60% · avg +0.7% · beat benchmark 60%
 By source: app_top5 n=5 hit 60% avg +0.7%; morning_claude n=3 hit 67% avg +2.7%
@@ -161,7 +160,7 @@ Hypotheses / rules: [hypothesis, n=2] סטופים צמודים מאוד (פחו
 
 ## ⚙️ Health
 - Research run 2026-10-27T22:10:27Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-28T15:06); Analyst forecast (before the open): success (2026-10-28T14:36); Intraday move alert: success (2026-10-28T14:32); Publish app state: success (2026-10-28T13:52); Broker sync: success (2026-10-28T13:52); Collect Claude report: success (2026-10-28T12:58); Daily signals: success (2026-10-27T22:57); Tests: success (2026-10-27T19:07); Valuation bias (sample, by hand): success (2026-10-27T19:05); DCF check (one stock, by hand): success (2026-10-27T15:30)
+- Workflows: Claude portfolio decision: in_progress (2026-10-28T16:31); Intraday move alert: success (2026-10-28T16:31); Analyst forecast (before the open): success (2026-10-28T14:36); Publish app state: success (2026-10-28T13:52); Broker sync: success (2026-10-28T13:52); Collect Claude report: success (2026-10-28T12:58); Daily signals: success (2026-10-27T22:57); Tests: success (2026-10-27T19:07); Valuation bias (sample, by hand): success (2026-10-27T19:05)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

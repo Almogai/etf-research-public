@@ -1,6 +1,6 @@
 # My activity
 
-Generated 2026-10-28T22:21:56Z. Every event in the app, newest first (301 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-28T23:14:10Z. Every event in the app, newest first (301 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|

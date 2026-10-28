@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-28T11:25:48Z · market session 2026-10-27 · app version b309bb · 584 tests
+Generated 2026-10-28T11:50:36Z · market session 2026-10-27 · app version 18545c · 584 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -46,7 +46,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $633.31 · deposits $648.19 · withdrawals $0.00 · cash $3.67 · profit -14.88 (-2.3%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **OK** · TQQQ 71.04000091552734 vs 200-day average $65.35 · distance +8.7%
 - Allocation: FXLCX 60%, FXINX 18%, FITFX 11%, FLAPX 4%, TQQQ 3%, FXSCX 2%, XRP-USD 1%, Cash 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.05x · 60% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-28T11:25:09Z · last attempt 2026-10-28T11:25:09Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-28T11:50:01Z · last attempt 2026-10-28T11:50:01Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -159,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=7] גיוון מחוץ לטכנולוגיה (
 
 ## ⚙️ Health
 - Research run 2026-10-27T22:10:27Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-10-28T11:24); Daily signals: success (2026-10-27T22:57); Broker sync: success (2026-10-27T21:42); Intraday move alert: success (2026-10-27T21:16); Publish app state: success (2026-10-27T21:04); Tests: success (2026-10-27T19:07); Valuation bias (sample, by hand): success (2026-10-27T19:05); Analyst forecast (before the open): success (2026-10-27T18:18); Claude portfolio decision: success (2026-10-27T17:27); DCF check (one stock, by hand): success (2026-10-27T15:30)
+- Workflows: Collect Claude report: in_progress (2026-10-28T11:49); Daily signals: success (2026-10-27T22:57); Broker sync: success (2026-10-27T21:42); Intraday move alert: success (2026-10-27T21:16); Publish app state: success (2026-10-27T21:04); Tests: success (2026-10-27T19:07); Valuation bias (sample, by hand): success (2026-10-27T19:05); Analyst forecast (before the open): success (2026-10-27T18:18); Claude portfolio decision: success (2026-10-27T17:27); DCF check (one stock, by hand): success (2026-10-27T15:30)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

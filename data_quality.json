@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T22:04:21Z",
- "session_date": "2026-10-27",
+ "generated_utc": "2026-10-28T22:11:49Z",
+ "session_date": "2026-10-28",
  "status": "warn",
  "reasons": [
   "second source unreachable for: QQQ, SPY, TQQQ"
@@ -10,21 +10,21 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 721.25,
+   "ours": 725.61,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 769.66,
+   "ours": 772.31,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 71.04,
+   "ours": 72.36,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -32,141 +32,141 @@
  ],
  "sample": [
   {
-   "ticker": "ECHO",
-   "ours": 90.39,
+   "ticker": "ASML",
+   "ours": 1662.85,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "AXON",
-   "ours": 425.87,
+   "ticker": "GOOGL",
+   "ours": 324.89,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "DASH",
-   "ours": 170.56,
+   "ticker": "APD",
+   "ours": 307.2,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "FITB",
-   "ours": 53.59,
+   "ticker": "XOM",
+   "ours": 182.02,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "FICO",
-   "ours": 691.74,
+   "ticker": "DOC",
+   "ours": 18.55,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "SLB",
-   "ours": 54.08,
+   "ticker": "KDP",
+   "ours": 34.93,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "CMI",
-   "ours": 530.61,
+   "ticker": "ADBE",
+   "ours": 249.76,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HONA",
-   "ours": 167.9,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "AMAT",
-   "ours": 395.93,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "AMD",
-   "ours": 560.26,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "WRB",
-   "ours": 72.38,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "STT",
-   "ours": 170.89,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "STLD",
-   "ours": 246.8,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "APP",
-   "ours": 262.82,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "CAT",
-   "ours": 713.31,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "TECH",
-   "ours": 72.6,
+   "ticker": "UDR",
+   "ours": 34.71,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "HST",
-   "ours": 25.22,
+   "ours": 25.27,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "WST",
-   "ours": 398.29,
+   "ticker": "GS",
+   "ours": 925.17,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GL",
-   "ours": 156.99,
+   "ticker": "ANET",
+   "ours": 186.72,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "IVZ",
-   "ours": 28.43,
+   "ticker": "AAPL",
+   "ours": 343.83,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "SKYD",
+   "ours": 7.77,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "OTIS",
+   "ours": 72.87,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "GEN",
+   "ours": 24.35,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "GPN",
+   "ours": 83.55,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "UNP",
+   "ours": 297.8,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "CDW",
+   "ours": 162.66,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "GNRC",
+   "ours": 201.34,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "CCI",
+   "ours": 87.74,
    "theirs": null,
    "diff": null,
    "status": "unverified"

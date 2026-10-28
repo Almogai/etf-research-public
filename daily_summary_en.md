@@ -1,9 +1,9 @@
-# Daily summary · 2026-10-27
+# Daily summary · 2026-10-28
 
-- Market today: QQQ +1.3%, S&P 500 (SPY) +0.6%.
-- Market mood: bull 🐂, 59% of stocks in an uptrend, VIX 17.5.
-- Today's top 5: ACN, VEEV, COP, PTC, MRNA. #1 ACN: News: beat.
+- Market today: QQQ +0.6%, S&P 500 (SPY) +0.3%.
+- Market mood: bull 🐂, 58% of stocks in an uptrend, VIX 16.9.
+- Today's top 5: ACN, VEEV, COP, NTAP, VLO. #1 ACN: News: beat; 3 insider buy(s) this week.
 - Insider buying: 👥 SPG: 11 insiders bought $461K.
-- Picks from 2026-10-26: 0 of 5 beat QQQ (avg -5.0% vs +1.3%).
+- Picks from 2026-10-27: 4 of 5 beat QQQ (avg +1.8% vs +0.6%).
 
 *Rule-based analysis, not financial advice.*

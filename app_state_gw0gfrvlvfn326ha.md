@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-29T15:09:54Z · market session 2026-10-28 · app version 64443d · 621 tests
+Generated 2026-10-29T16:35:10Z · market session 2026-10-28 · app version 60f204 · 621 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -63,10 +63,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 305 events since 2026-05-30T16:00:00Z · by type: {'trade': 104, 'notify': 39, 'reconcile': 24, 'deposit_inferred': 18, 'deposit': 18, 'claude_report': 17, 'trade_detected': 15, 'claude_portfolio': 13, 'claude_picks': 13, 'sync_request': 10, 'price_source': 6, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'signal_change': 2, 'dcf_model': 2, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 306 events since 2026-05-30T16:00:00Z · by type: {'trade': 104, 'notify': 39, 'reconcile': 24, 'deposit_inferred': 18, 'deposit': 18, 'claude_report': 17, 'trade_detected': 15, 'claude_portfolio': 14, 'claude_picks': 13, 'sync_request': 10, 'price_source': 6, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'signal_change': 2, 'dcf_model': 2, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $734, trades 50, alerts 39, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-29 16:04 · claude_portfolio (workflow): Claude portfolio decision (intraday 12:03): 0 orders, 1 rejected ($0.052)
 - 2026-10-29 15:09 · claude_portfolio (workflow): Claude portfolio decision: 2 orders, 1 rejected ($0.061)
 - 2026-10-29 11:25 · claude_report (workflow): morning report 2026-10-28: 5/7 parts
 - 2026-10-29 11:25 · claude_picks (workflow): Claude picks received (2026-10-29)
@@ -106,7 +107,6 @@ Last 30 days:
 - 2026-10-25 03:23 · trade_detected (sync): Fidelity · Brokerage 1: Detected: you bought about 0.12 FITFX at about $18.69
 - 2026-10-25 03:22 · sync_request (manual): broker sync requested
 - 2026-10-23 22:05 · notify (workflow): push sent: 📋 סקירה שבועית
-- 2026-10-23 22:05 · notify (workflow): push sent: סיכום שבועי
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-23 21:58 push sent: 🚨 TQQQ → sync (Fidelity · Brokerage 1): sell 6.03 FLGXX @ 1.00 ($6.03)
@@ -133,17 +133,18 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -0.2% vs QQQ -4.7% after 15 trading days · 7 closed trades, 4 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,982.32 · cash $7,718.65 · vs SPY -1.2% · QQQ -4.7% · max drawdown -0.7% · paused: False · blocked: -
+- -0.1% vs QQQ -4.8% after 15 trading days · 7 closed trades, 4 winners · 4 open
+- Started 2026-10-12 with $10,000 · value $9,988.10 · cash $7,018.65 · vs SPY -1.3% · QQQ -4.8% · max drawdown -0.7% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $524.17 | -2.9% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| VEEV | 1.90659 | $314.70 | $312.05 | -0.8% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
-| DHR | 2.95729 | $236.70 | $236.01 | -0.3% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| MSFT | 1.85199 | $539.96 | $524.44 | -2.9% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| VEEV | 1.90659 | $314.70 | $312.33 | -0.8% | 296.0 | 340.0 | 2026-10-16 | morning_claude, app_top5 | ויווה: מומנטום חזק מעל הממוצעים, נבחרה גם בבוקר; גודל קטן כי הביטחון נמוך והמניה |
+| DHR | 2.95729 | $236.70 | $236.95 | +0.1% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| COP | 4.70416 | $148.80 | $149.23 | +0.3% | 143.76 | 158.0 | 2026-10-29 | morning_claude, app_top5 | קונוקופיליפס: מומנטום ושדרוגי יעד, גיוון לאנרגיה; גודל קטן, סטופ קרוב יחסית ודוח |
 
-Pending orders (fill at the next price): buy V $800; buy COP $700
+Pending orders (fill at the next price): buy V $800
 
 Closed: 7 · hit rate 57% · avg +0.6% · beat benchmark 57%
 By source: app_top5 n=7 hit 57% avg +0.6%; morning_claude n=4 hit 50% avg +0.5%
@@ -153,13 +154,13 @@ By source: app_top5 n=7 hit 57% avg +0.6%; morning_claude n=4 hit 50% avg +0.5%
 - 2026-10-29 AMGN +6.7% (target): AMGN הגיעה ליעד אחרי 9 ימים ברווח של 6.7% עם ירידה מקסימלית קטנה (0.6%-) מול מדד כמעט שטוח. מניה דפנסיבית בתנודתיות נמוכה עם גודל קטן והחזקה של כשבוע עבדה, אבל זו עסקה בודדת (n=1) ולא הוכחה.
 - 2026-10-29 MPC -6.2% (stop): MPC נעצרה בסטופ ב-6.2%- אחרי 6 ימים, בעוד המדד עלה 1.2%. המניה כבר הייתה מתוחה אחרי עלייה גדולה וירדה ממומנטום חזק; דירוג ראשון לא מגן מכניסה אחרי ריצה. לפני דוחות (3.11) כדאי להיזהר. מקרה בודד (n=1), לא מסקנה.
 
-Latest decision (2026-10-29, claude-sonnet-5-5, $0.061): Add three small positions from the morning picks that sit inside their entry ranges (V, COP, HAS). Keep high cash; hold existing positions.
+Latest decision (2026-10-29, claude-sonnet-5-5, $0.052): HAS entered its morning entry range; executing the small buy planned this morning. Small size, low confidence, stock extended after +31% month. Hold everything else.
 
 Hypotheses / rules: [hypothesis, n=4] כניסה למניות שכבר עלו חדות (מתוחות) נעצרת בסטופ יותר מכניסה למניות דפנסיביות בתנודתיות נמוכה
 
 ## ⚙️ Health
 - Research run 2026-10-28T22:19:00Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-29T15:08); Analyst forecast (before the open): success (2026-10-29T14:37); Intraday move alert: success (2026-10-29T14:33); Tests: success (2026-10-29T13:45); Broker sync: success (2026-10-29T13:10); Collect Claude report: success (2026-10-29T12:59); Long test (2000 -> today): success (2026-10-29T12:14); DCF check (one stock, by hand): success (2026-10-29T02:27); Valuation bias (sample, by hand): success (2026-10-29T01:52)
+- Workflows: Claude portfolio decision: in_progress (2026-10-29T16:34); Intraday move alert: success (2026-10-29T16:33); Claude portfolio intraday check: success (2026-10-29T16:03); Analyst forecast (before the open): success (2026-10-29T14:37); Tests: success (2026-10-29T13:45); Broker sync: success (2026-10-29T13:10); Collect Claude report: success (2026-10-29T12:59); Long test (2000 -> today): success (2026-10-29T12:14); DCF check (one stock, by hand): success (2026-10-29T02:27)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 
@@ -173,7 +174,7 @@ Hypotheses / rules: [hypothesis, n=4] כניסה למניות שכבר עלו ח
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
-- **הפעילות שלי (My activity)** [`activity`]: 305 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 306 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-28T22:19:00Z; TQQQ run success; data check warn
 - **השאלות היומיות לאנליסט (The analyst's daily questions)** [`questions`]: the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days

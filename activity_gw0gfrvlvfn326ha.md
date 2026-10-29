@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-28T23:14:10Z. Every event in the app, newest first (301 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-29T10:52:55Z. Every event in the app, newest first (302 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-29 10:52 | deposit_inferred | sync |  | inferred deposit of $33.62 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 33.62 |
 | 2026-10-28 22:19 | notify | workflow |  | push sent: ערב · 2026-10-28 |  |
 | 2026-10-28 22:07 | claude_report | workflow |  | morning report 2026-10-27: 5/6 parts |  |
 | 2026-10-28 21:30 | signal_change | workflow | TQQQ | TQQQ signal changed to IN (rule D): D: signal 725.61 > entry line 692.29, > 50d 725.42, VIX 16.91 < 25, 50d trend ok | OUT → IN |

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-30T20:35:23Z · market session 2026-10-29 · app version 1fc47d · 623 tests
+Generated 2026-10-30T20:53:13Z · market session 2026-10-29 · app version edf872 · 623 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -46,7 +46,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $698.91 · deposits $755.56 · withdrawals $0.00 · cash $40.67 · profit -56.65 (-7.5%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **BROKEN** · TQQQ 62.0099983215332 vs 200-day average $65.50 · distance -5.3%
 - Allocation: FXLCX 57%, FXINX 17%, FITFX 10%, Cash 6%, FLAPX 4%, FXSCX 2%, TQQQ 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 0.98x · 57% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-30T20:34:56Z · last attempt 2026-10-30T20:34:56Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-10-30T20:52:52Z · last attempt 2026-10-30T20:52:52Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -161,7 +161,7 @@ Hypotheses / rules: [hypothesis, n=5] כניסה למניות שכבר עלו ח
 
 ## ⚙️ Health
 - Research run 2026-10-29T22:18:42Z (ok), TQQQ run success, data check warn
-- Workflows: Broker sync: in_progress (2026-10-30T20:34); Intraday move alert: success (2026-10-30T20:18); Claude portfolio intraday check: success (2026-10-30T19:53); Analyst forecast (before the open): success (2026-10-30T18:17); Publish app state: success (2026-10-30T18:08); Claude portfolio decision: success (2026-10-30T17:25); Collect Claude report: success (2026-10-30T12:57); Daily signals: success (2026-10-29T23:03)
+- Workflows: Broker sync: in_progress (2026-10-30T20:52); Claude portfolio intraday check: success (2026-10-30T20:51); Intraday move alert: success (2026-10-30T20:18); Analyst forecast (before the open): success (2026-10-30T18:17); Publish app state: success (2026-10-30T18:08); Claude portfolio decision: success (2026-10-30T17:25); Collect Claude report: success (2026-10-30T12:57)
 - Pushes today: 1 (push sent: תנועה חדה היום)
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

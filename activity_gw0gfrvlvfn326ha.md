@@ -1,9 +1,14 @@
 # My activity
 
-Generated 2026-10-30T20:53:13Z. Every event in the app, newest first (338 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-30T22:17:20Z. Every event in the app, newest first (343 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-30 22:14 | notify | workflow |  | push sent: 📋 סקירה שבועית |  |
+| 2026-10-30 22:14 | notify | workflow |  | push sent: ערב · 2026-10-30 |  |
+| 2026-10-30 22:14 | notify | workflow |  | push sent: סיכום שבועי |  |
+| 2026-10-30 22:02 | claude_report | workflow |  | morning report 2026-10-29: 6/7 parts |  |
+| 2026-10-30 21:30 | signal_change | workflow | TQQQ | TQQQ signal changed to OUT (rule B): B: VIX 19.42 (limit 30) / close 62.01 vs crash line 67.40 | IN → OUT |
 | 2026-10-30 19:54 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 15:54): 0 orders, 0 rejected ($0.049) |  |
 | 2026-10-30 18:08 | sync_request | manual |  | broker sync requested |  |
 | 2026-10-30 16:36 | deposit_inferred | sync |  | inferred deposit of $70.37 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 70.37 |

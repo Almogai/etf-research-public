@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-10-30T16:35:46Z. Every event in the app, newest first (329 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-10-30T16:36:13Z. Every event in the app, newest first (336 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-10-30 16:36 | deposit_inferred | sync |  | inferred deposit of $70.37 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 70.37 |
 | 2026-10-30 16:34 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-30 15:59 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:59): 0 orders, 0 rejected ($0.050) |  |
 | 2026-10-30 14:36 | notify | workflow |  | push sent: תנועה חדה היום |  |
@@ -26,6 +27,12 @@ Generated 2026-10-30T16:35:46Z. Every event in the app, newest first (329 events
 | 2026-10-29 17:57 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 13:57): 0 orders, 0 rejected ($0.048) |  |
 | 2026-10-29 17:33 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
 | 2026-10-29 16:04 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 12:03): 0 orders, 1 rejected ($0.052) |  |
+| 2026-10-29 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 7 FLGXX @ 1.00 ($-7.00) |  |
+| 2026-10-29 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 0.683 FXINX @ 12.15 ($-8.30) |  |
+| 2026-10-29 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.073 FXSCX @ 12.30 ($-0.90) |  |
+| 2026-10-29 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 1.614 FXLCX @ 11.94 ($-19.27) |  |
+| 2026-10-29 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.05 FLAPX @ 25.53 ($-1.28) |  |
+| 2026-10-29 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($7.00) |  |
 | 2026-10-29 15:09 | claude_portfolio | workflow |  | Claude portfolio decision: 2 orders, 1 rejected ($0.061) |  |
 | 2026-10-29 11:25 | claude_picks | workflow |  | Claude picks received (2026-10-29) |  |
 | 2026-10-29 11:25 | claude_report | workflow |  | morning report 2026-10-28: 5/7 parts |  |

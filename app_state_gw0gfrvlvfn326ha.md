@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-10-30T16:30:14Z · market session 2026-10-29 · app version 5ce95c · 623 tests
+Generated 2026-10-30T16:35:46Z · market session 2026-10-29 · app version daeb49 · 623 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -63,10 +63,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 328 events since 2026-05-30T16:00:00Z · by type: {'trade': 105, 'notify': 42, 'reconcile': 27, 'claude_report': 19, 'trade_detected': 19, 'deposit_inferred': 19, 'deposit': 19, 'claude_portfolio': 18, 'claude_picks': 14, 'sync_request': 10, 'price_source': 7, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'signal_change': 2, 'dcf_model': 2, 'doctor': 1, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 329 events since 2026-05-30T16:00:00Z · by type: {'trade': 105, 'notify': 42, 'reconcile': 27, 'claude_report': 19, 'trade_detected': 19, 'deposit_inferred': 19, 'deposit': 19, 'claude_portfolio': 18, 'claude_picks': 14, 'sync_request': 10, 'price_source': 8, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'dividend': 4, 'portfolio_change': 3, 'signal_change': 2, 'dcf_model': 2, 'doctor': 1, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-10: deposits $764, trades 51, alerts 42, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0; 2026-05: deposits $0, trades 1, alerts 0, imports 0
 
 Last 30 days:
+- 2026-10-30 16:34 · price_source (manual): app prices: finnhub (2 real-time)
 - 2026-10-30 15:59 · claude_portfolio (workflow): Claude portfolio decision (intraday 11:59): 0 orders, 0 rejected ($0.050)
 - 2026-10-30 14:36 · notify (workflow): push sent: תנועה חדה היום
 - 2026-10-30 14:33 · doctor (workflow): doctor: the daily questions were not answered this morning
@@ -106,7 +107,6 @@ Last 30 days:
 - 2026-10-27 15:03 · claude_portfolio (workflow): Claude portfolio decision: 1 orders, 0 rejected ($0.048)
 - 2026-10-27 14:01 · price_source (manual): app prices: finnhub (2 real-time)
 - 2026-10-27 11:22 · claude_report (workflow): morning report 2026-10-26: 7/7 parts
-- 2026-10-27 11:22 · claude_picks (workflow): Claude picks received (2026-10-27)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-23 22:05 push sent: 📋 סקירה שבועית → sync (Fidelity · Brokerage 1): sell 6.03 FLGXX @ 1.00 ($6.03)
@@ -162,7 +162,7 @@ Hypotheses / rules: [hypothesis, n=5] כניסה למניות שכבר עלו ח
 
 ## ⚙️ Health
 - Research run 2026-10-29T22:18:42Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-10-30T16:29); Intraday move alert: success (2026-10-30T16:28); Claude portfolio intraday check: success (2026-10-30T15:58); Analyst forecast (before the open): success (2026-10-30T14:38); Collect Claude report: success (2026-10-30T12:57); Daily signals: success (2026-10-29T23:03); Broker sync: success (2026-10-29T21:50); Tests: success (2026-10-29T19:15); Publish app state: success (2026-10-29T17:33)
+- Workflows: Publish app state: in_progress (2026-10-30T16:35); Broker sync: in_progress (2026-10-30T16:34); Claude portfolio decision: success (2026-10-30T16:29); Intraday move alert: success (2026-10-30T16:28); Claude portfolio intraday check: success (2026-10-30T15:58); Analyst forecast (before the open): success (2026-10-30T14:38); Collect Claude report: success (2026-10-30T12:57); Daily signals: success (2026-10-29T23:03); Tests: success (2026-10-29T19:15)
 - Pushes today: 1 (push sent: תנועה חדה היום)
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 
@@ -176,7 +176,7 @@ Hypotheses / rules: [hypothesis, n=5] כניסה למניות שכבר עלו ח
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
-- **הפעילות שלי (My activity)** [`activity`]: 328 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 329 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-29T22:18:42Z; TQQQ run success; data check warn
 - **השאלות היומיות לאנליסט (The analyst's daily questions)** [`questions`]: the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days

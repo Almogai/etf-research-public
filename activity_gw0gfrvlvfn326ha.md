@@ -1,9 +1,13 @@
 # My activity
 
-Generated 2026-10-30T22:17:20Z. Every event in the app, newest first (343 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-01T15:34:22Z. Every event in the app, newest first (352 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-01 15:34 | doctor | workflow |  | doctor fixed: the daily questions were not answered this morning |  |
+| 2026-11-01 15:34 | trade_detected | sync | FXINX | Fidelity · Brokerage 1: Detected: you bought about 0.20 FXINX at about $11.96 | 10.025 → 10.229 |
+| 2026-11-01 15:34 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.39 FXLCX at about $11.73 | 33.493 → 33.88 |
+| 2026-11-01 15:34 | deposit_inferred | sync |  | inferred deposit of $17.92 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 70.37 → 17.92 |
 | 2026-10-30 22:14 | notify | workflow |  | push sent: 📋 סקירה שבועית |  |
 | 2026-10-30 22:14 | notify | workflow |  | push sent: ערב · 2026-10-30 |  |
 | 2026-10-30 22:14 | notify | workflow |  | push sent: סיכום שבועי |  |
@@ -13,6 +17,11 @@ Generated 2026-10-30T22:17:20Z. Every event in the app, newest first (343 events
 | 2026-10-30 18:08 | sync_request | manual |  | broker sync requested |  |
 | 2026-10-30 16:36 | deposit_inferred | sync |  | inferred deposit of $70.37 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 70.37 |
 | 2026-10-30 16:34 | price_source | manual |  | app prices: finnhub (2 real-time) |  |
+| 2026-10-30 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 0.387 FXLCX @ 11.73 ($-4.54) |  |
+| 2026-10-30 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 0.07 FLGXX @ 1.00 ($-0.07) |  |
+| 2026-10-30 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 0.204 FXINX @ 11.96 ($-2.44) |  |
+| 2026-10-30 16:00 | dividend | sync | FLGXX | sync (Fidelity · Brokerage 1): dividend FLGXX ($0.07) |  |
+| 2026-10-30 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 29.75 FLGXX @ 1.00 ($29.75) |  |
 | 2026-10-30 15:59 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:59): 0 orders, 0 rejected ($0.050) |  |
 | 2026-10-30 14:36 | notify | workflow |  | push sent: תנועה חדה היום |  |
 | 2026-10-30 14:33 | doctor | workflow |  | doctor: the daily questions were not answered this morning |  |

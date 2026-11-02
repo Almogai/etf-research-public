@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-01T23:18:39Z · market session 2026-10-30 · app version ab197f · 656 tests
+Generated 2026-11-02T11:59:05Z · market session 2026-10-30 · app version 48a9cc · 656 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -28,7 +28,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 |---|---|---|---|---|---|---|---|
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.25 | $8.12 | -1.24 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 1.25 | $8.12 | -1.25 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
@@ -46,7 +46,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $665.52 · deposits $703.11 · withdrawals $0.00 · cash $10.99 · profit -37.59 (-5.3%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **BROKEN** · TQQQ 62.0099983215332 vs 200-day average $65.54 · distance -5.4%
 - Allocation: FXLCX 60%, FXINX 18%, FITFX 10%, FLAPX 4%, FXSCX 2%, TQQQ 2%, Cash 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.03x · 60% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-01T23:18:13Z · last attempt 2026-11-01T23:18:13Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-02T11:58:39Z · last attempt 2026-11-02T11:58:39Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -159,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=5] כניסה למניות שכבר עלו ח
 
 ## ⚙️ Health
 - Research run 2026-10-30T22:14:01Z (ok), TQQQ run success, data check warn
-- Workflows: Broker sync: in_progress (2026-11-01T23:17); Web app: success (2026-11-01T23:12); Tests: success (2026-11-01T23:12); DCF check (one stock, by hand): success (2026-11-01T22:01); Valuation bias (sample, by hand): success (2026-11-01T22:01); Analyst forecast (before the open): success (2026-10-30T23:45)
+- Workflows: Collect Claude report: in_progress (2026-11-02T11:57); Broker sync: success (2026-11-01T23:17); Web app: success (2026-11-01T23:12); Tests: success (2026-11-01T23:12); DCF check (one stock, by hand): success (2026-11-01T22:01); Valuation bias (sample, by hand): success (2026-11-01T22:01)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 

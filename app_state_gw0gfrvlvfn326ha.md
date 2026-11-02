@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-02T11:59:05Z · market session 2026-10-30 · app version 48a9cc · 656 tests
+Generated 2026-11-02T12:40:28Z · market session 2026-10-30 · app version b19e07 · 656 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -8,7 +8,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Status light: **red** — Signal changed to OUT (rule B). TQQQ is OUT, 5.4% below its 200-day average. 60% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source
 - Account value $665.52 · today +0.00 · profit vs deposits -37.59 (-5.3%) · deposited $703.11
 - What changed since yesterday: Top 5: in VLO, CTSH; out V, NTAP; TQQQ signal changed: IN → OUT; Big move in your holdings: TQQQ -10.5%; Big move in in the top 5: ACN +4.5%, CTSH +4.1%; New insider buy: 👑 TFC: CEO bought $1.21M
-- Claude says (2026-10-29): Data covers the session of Thursday, October 29, 2026 (close). Pre-market check about 4:00-5:40 AM ET, Friday, October 30. / Hit-rate warning (Friday scorecard): my daily view has been right 9 of 20 times = 45%, below 55%. / SIGNAL: IN, UNCHANGED (rule E). Entry $72.36, stop $61.51. Your 200-day rule: OK at the close, but PRE-MARKET ALERT. TQQQ $69.26 vs its 200-day $65.51: +5.73% (+$3.75/share). Nasdaq-100 futures are -2.2%, which implies TQQQ about $64.7 at the open (estimate), below its 200-day. The rule only breaks on a close below $65.51; the warning line (+3%) is $67.47.
+- Claude says (2026-10-30): Data covers the session of Friday, October 30, 2026 (close). Pre-market check about 5:00-5:40 AM ET, Monday, November 2. / SIGNAL: OUT, CHANGED (rule B, crash filter). Stop: n/a. YOUR 200-DAY RULE: BROKEN. TQQQ closed $62.01 vs its 200-day $65.55: -5.40% (-$3.54/share). Your rule says exit TQQQ (you hold 0.243 sh in Fidelity Brokerage 4). Nasdaq-100 futures +0.84% imply TQQQ about $63.6 at the open (estimate), still about 3% below its 200-day. / Session (Fri Oct 30): TQQQ $62.01 (-10.47%), QQQ $690.49 (-3.47%, volume 2.3x normal). S&P 500 -1.82% (7,580.07), Nasdaq Composite -2.86%, Dow -1.09%, Russell 2000 -1.66%. Intel -28.6% (worst day since 1974), chip index -7.2%. VIX 19.42.
 - Top 5 chips: ACN, PSX, VEEV, VLO, CTSH · data check: warn
 
 ## 💼 Portfolio (all accounts)
@@ -46,7 +46,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Net worth $665.52 · deposits $703.11 · withdrawals $0.00 · cash $10.99 · profit -37.59 (-5.3%)
 - TQQQ 200-day rule (exit below the 200-day average, warning under +3%): **BROKEN** · TQQQ 62.0099983215332 vs 200-day average $65.54 · distance -5.4%
 - Allocation: FXLCX 60%, FXINX 18%, FITFX 10%, FLAPX 4%, FXSCX 2%, TQQQ 2%, Cash 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.03x · 60% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-02T11:58:39Z · last attempt 2026-11-02T11:58:39Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-02T12:39:55Z · last attempt 2026-11-02T12:39:55Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -63,10 +63,12 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Watchlist: empty · alert rules: none
 
 ## 📜 My history
-- 352 events since 2026-05-30T16:00:00Z · by type: {'trade': 114, 'notify': 45, 'reconcile': 27, 'trade_detected': 21, 'deposit_inferred': 21, 'claude_report': 20, 'deposit': 20, 'claude_portfolio': 19, 'claude_picks': 14, 'sync_request': 11, 'price_source': 8, 'dividend': 5, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'signal_change': 3, 'portfolio_change': 3, 'doctor': 2, 'dcf_model': 2, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 354 events since 2026-05-30T16:00:00Z · by type: {'trade': 114, 'notify': 45, 'reconcile': 27, 'claude_report': 21, 'trade_detected': 21, 'deposit_inferred': 21, 'deposit': 20, 'claude_portfolio': 19, 'claude_picks': 15, 'sync_request': 11, 'price_source': 8, 'dividend': 5, 'floor_event': 4, 'workflow_failed': 4, 'import': 4, 'signal_change': 3, 'portfolio_change': 3, 'doctor': 2, 'dcf_model': 2, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-11: deposits $0, trades 0, alerts 0, imports 0; 2026-10: deposits $771, trades 60, alerts 45, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0
 
 Last 30 days:
+- 2026-11-02 12:40 · claude_report (workflow): morning report 2026-10-30: 6/6 parts
+- 2026-11-02 12:40 · claude_picks (workflow): Claude picks received (2026-11-02)
 - 2026-11-01 15:34 · doctor (workflow): doctor fixed: the daily questions were not answered this morning
 - 2026-11-01 15:34 · deposit_inferred (sync): inferred deposit of $17.92 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet)
 - 2026-11-01 15:34 · trade_detected (sync): Fidelity · Brokerage 1: Detected: you bought about 0.39 FXLCX at about $11.73
@@ -105,8 +107,6 @@ Last 30 days:
 - 2026-10-29 18:24 · notify (workflow): push sent: תנועה חדה היום
 - 2026-10-29 17:57 · claude_portfolio (workflow): Claude portfolio decision (intraday 13:57): 0 orders, 0 rejected ($0.048)
 - 2026-10-29 17:33 · price_source (manual): app prices: finnhub (2 real-time)
-- 2026-10-29 16:04 · claude_portfolio (workflow): Claude portfolio decision (intraday 12:03): 0 orders, 1 rejected ($0.052)
-- 2026-10-29 16:00 · deposit (sync): sync (Fidelity · Brokerage 1): deposit  ($7.00)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-25 15:03 push sent: 📋 סקירה שבועית → sync (Fidelity · Brokerage 1): sell 6.03 FLGXX @ 1.00 ($6.03)
@@ -159,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=5] כניסה למניות שכבר עלו ח
 
 ## ⚙️ Health
 - Research run 2026-10-30T22:14:01Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-02T11:57); Broker sync: success (2026-11-01T23:17); Web app: success (2026-11-01T23:12); Tests: success (2026-11-01T23:12); DCF check (one stock, by hand): success (2026-11-01T22:01); Valuation bias (sample, by hand): success (2026-11-01T22:01)
+- Workflows: Collect Claude report: in_progress (2026-11-02T12:39); Analyst forecast (before the open): success (2026-11-02T12:06); Broker sync: success (2026-11-01T23:17); Web app: success (2026-11-01T23:12); Tests: success (2026-11-01T23:12); DCF check (one stock, by hand): success (2026-11-01T22:01); Valuation bias (sample, by hand): success (2026-11-01T22:01)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ
 
@@ -173,7 +173,7 @@ Hypotheses / rules: [hypothesis, n=5] כניסה למניות שכבר עלו ח
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
-- **הפעילות שלי (My activity)** [`activity`]: 352 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 354 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-10-30T22:14:01Z; TQQQ run success; data check warn
 - **השאלות היומיות לאנליסט (The analyst's daily questions)** [`questions`]: the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days

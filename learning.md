@@ -55,6 +55,7 @@ Final-score mix stays {'price': 0.8, 'news': 0.2, 'insider': 0.05, 'history': 0.
 Monthly, walk-forward (learn on older picks, test on the newest month), applied only if better, each weight moves at most 20% a month, auto-revert if the next month is worse.
 
 - Weights in use: config.yaml baseline (no automatic change yet)
+- 2026-11-02: **waiting** — 50 scored picks, need 60
 - 2026-10-09: **waiting** — 0 scored picks, need 60
 
 ## Claude vs app: headline ratings
@@ -63,8 +64,8 @@ Does a stock's headline rating predict its return vs QQQ? Spearman rank correlat
 
 | Horizon | Rater | Cases | IC |
 |---|---|---|---|
-| 5 days | Claude | 120 | +0.16 |
-| 5 days | App (VADER) | 120 | -0.09 |
+| 5 days | Claude | 135 | +0.12 |
+| 5 days | App (VADER) | 135 | -0.17 |
 | 20 days | Claude | 0 | n/a |
 | 20 days | App (VADER) | 0 | n/a |
 

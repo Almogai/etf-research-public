@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-03T13:05:15Z. Every event in the app, newest first (362 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-03T15:27:20Z. Every event in the app, newest first (363 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-03 15:27 | claude_portfolio | workflow |  | Claude portfolio decision: 2 orders, 0 rejected ($0.063) |  |
 | 2026-11-03 12:39 | claude_picks | workflow |  | Claude picks received (2026-11-03) |  |
 | 2026-11-03 12:39 | claude_report | workflow |  | morning report 2026-11-02: 7/7 parts |  |
 | 2026-11-03 12:39 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 10.94 → 0.0 |

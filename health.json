@@ -1,33 +1,33 @@
 {
-  "generated_utc": "2026-11-02T23:15:41Z",
-  "session_date": "2026-11-02",
+  "generated_utc": "2026-11-03T23:27:40Z",
+  "session_date": "2026-11-03",
   "tqqq_run": "success",
   "tickers_requested": 518,
   "tickers_screened": 518,
   "tickers_failed": 0,
   "data_quality": "warn",
-  "eligible": 514,
-  "headlines_collected": 712,
-  "started_utc": "2026-11-02T23:05:44Z",
-  "duration_secs": 597.8,
+  "eligible": 513,
+  "headlines_collected": 1073,
+  "started_utc": "2026-11-03T23:14:43Z",
+  "duration_secs": 776.8,
   "status": "ok",
-  "last_success_utc": "2026-11-02T23:15:41Z",
+  "last_success_utc": "2026-11-03T23:27:40Z",
   "steps": {
     "prices": {
       "status": "ok",
-      "secs": 69.6
+      "secs": 88.3
     },
     "data_quality": {
       "status": "ok",
-      "secs": 50.1
+      "secs": 43.2
     },
     "screener": {
       "status": "ok",
-      "secs": 1.3
+      "secs": 2.5
     },
     "events": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.4
     },
     "sectors": {
       "status": "ok",
@@ -35,43 +35,43 @@
     },
     "earnings": {
       "status": "ok",
-      "secs": 3.0
+      "secs": 3.6
     },
     "news": {
       "status": "ok",
-      "secs": 61.5
+      "secs": 69.5
     },
     "sec": {
       "status": "ok",
-      "secs": 12.2
+      "secs": 16.7
     },
     "smart_money": {
       "status": "ok",
-      "secs": 28.1
+      "secs": 37.2
     },
     "history": {
       "status": "ok",
-      "secs": 11.3
+      "secs": 18.3
     },
     "fundamentals": {
       "status": "ok",
-      "secs": 277.6
+      "secs": 414.4
     },
     "news_score": {
       "status": "ok",
-      "secs": 0.1
+      "secs": 0.2
     },
     "hot_cold": {
       "status": "ok",
-      "secs": 0.0
+      "secs": 0.1
     },
     "ideas": {
       "status": "ok",
-      "secs": 0.2
+      "secs": 0.5
     },
     "backtest": {
       "status": "ok",
-      "secs": 0.4
+      "secs": 0.8
     },
     "scorecard": {
       "status": "ok",
@@ -79,7 +79,7 @@
     },
     "track": {
       "status": "ok",
-      "secs": 0.6
+      "secs": 1.4
     },
     "learning": {
       "status": "skipped",
@@ -91,31 +91,35 @@
     },
     "learning_notes": {
       "status": "ok",
-      "secs": 0.0
+      "secs": 0.1
     },
     "feed": {
       "status": "ok",
-      "secs": 0.0
+      "secs": 0.1
     },
     "analyst": {
       "status": "ok",
-      "secs": 50.8
+      "secs": 51.7
     },
     "options": {
       "status": "ok",
-      "secs": 9.9
+      "secs": 11.8
     },
     "lookthrough": {
       "status": "ok",
-      "secs": 0.9
+      "secs": 0.5
     },
     "macro": {
       "status": "ok",
-      "secs": 17.7
+      "secs": 10.3
     },
     "momtest": {
       "status": "ok",
-      "secs": 1.7
+      "secs": 3.1
+    },
+    "tqqq_virtual": {
+      "status": "ok",
+      "secs": 0.6
     },
     "market": {
       "status": "ok",
@@ -123,7 +127,7 @@
     },
     "summary": {
       "status": "ok",
-      "secs": 0.3
+      "secs": 0.5
     },
     "changes": {
       "status": "ok",
@@ -136,31 +140,31 @@
   },
   "sources": {
     "headlines": {
-      "yfinance": 0,
-      "yahoo_rss": 1029,
-      "google_rss": 1691,
+      "yfinance": 550,
+      "yahoo_rss": 1043,
+      "google_rss": 2067,
       "stocks": 55,
-      "headlines": 712
+      "headlines": 1073
     },
     "sec": {
       "ok": 55,
-      "requests": 88,
+      "requests": 132,
       "missing": 0
     },
     "smart_money": {
-      "requests": 75,
+      "requests": 155,
       "errors": {},
-      "filings_in_window": 1412,
-      "downloaded": 50,
+      "filings_in_window": 1536,
+      "downloaded": 124,
       "backlog": 0,
       "index_days_missing": 1
     }
   },
   "hot_top5": [
     "ACN",
-    "CVX",
     "XOM",
+    "CVX",
     "ABBV",
-    "PSX"
+    "VEEV"
   ]
 }

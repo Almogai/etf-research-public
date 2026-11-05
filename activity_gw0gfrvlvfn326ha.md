@@ -1,9 +1,11 @@
 # My activity
 
-Generated 2026-11-05T18:10:56Z. Every event in the app, newest first (379 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-05T21:55:06Z. Every event in the app, newest first (381 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-05 20:58 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 15:58): 0 orders, 0 rejected ($0.055) |  |
+| 2026-11-05 19:07 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 14:06): 0 orders, 0 rejected ($0.052) |  |
 | 2026-11-05 17:28 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 12:27): 0 orders, 0 rejected ($0.054) |  |
 | 2026-11-05 15:24 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 1 rejected ($0.059) |  |
 | 2026-11-05 12:43 | doctor | workflow |  | doctor: The evening run didn't cover 2026-11-04 |  |

@@ -1,10 +1,16 @@
 # My activity
 
-Generated 2026-11-04T21:55:22Z. Every event in the app, newest first (370 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-05T12:01:43Z. Every event in the app, newest first (376 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-05 12:01 | claude_picks | workflow |  | Claude picks received (2026-11-05) |  |
+| 2026-11-05 12:01 | claude_report | workflow |  | morning report 2026-11-04: 6/6 parts |  |
+| 2026-11-05 12:01 | deposit_inferred | sync |  | inferred deposit of $33.96 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 33.96 |
+| 2026-11-04 23:12 | workflow_failed | workflow |  | Daily signals: failed step(s) research-tests |  |
 | 2026-11-04 17:04 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 12:04): 0 orders, 0 rejected ($0.054) |  |
+| 2026-11-04 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 30 FLGXX @ 1.00 ($-30.00) |  |
+| 2026-11-04 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($30.00) |  |
 | 2026-11-04 15:35 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.060) |  |
 | 2026-11-04 12:36 | instruction_answer | workflow |  | Claude answered instruction #1 |  |
 | 2026-11-04 12:36 | claude_picks | workflow |  | Claude picks received (2026-11-04) |  |

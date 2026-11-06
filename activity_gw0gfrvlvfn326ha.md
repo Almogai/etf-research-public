@@ -1,12 +1,24 @@
 # My activity
 
-Generated 2026-11-06T00:30:04Z. Every event in the app, newest first (381 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-06T11:58:06Z. Every event in the app, newest first (393 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-06 11:57 | trade_detected | sync | FLAPX | Fidelity · Brokerage 1: Detected: you bought about 0.04 FLAPX at about $24.79 | 0.969 → 1.013 |
+| 2026-11-06 11:57 | trade_detected | sync | FXINX | Fidelity · Brokerage 1: Detected: you bought about 0.72 FXINX at about $11.73 | 10.229 → 10.954 |
+| 2026-11-06 11:57 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 1.71 FXLCX at about $11.37 | 33.88 → 35.585 |
+| 2026-11-06 11:57 | trade_detected | sync | FXSCX | Fidelity · Brokerage 1: Detected: you bought about 0.08 FXSCX at about $11.67 | 1.294 → 1.372 |
+| 2026-11-06 11:57 | deposit_inferred | sync |  | inferred deposit of $71.84 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 33.96 → 71.84 |
+| 2026-11-06 00:30 | doctor | workflow |  | doctor fixed: The evening run didn't cover 2026-11-04 |  |
 | 2026-11-05 20:58 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 15:58): 0 orders, 0 rejected ($0.055) |  |
 | 2026-11-05 19:07 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 14:06): 0 orders, 0 rejected ($0.052) |  |
 | 2026-11-05 17:28 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 12:27): 0 orders, 0 rejected ($0.054) |  |
+| 2026-11-05 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 8 FLGXX @ 1.00 ($-8.00) |  |
+| 2026-11-05 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.078 FXSCX @ 11.64 ($-0.91) |  |
+| 2026-11-05 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.044 FLAPX @ 24.79 ($-1.08) |  |
+| 2026-11-05 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 1.705 FXLCX @ 11.37 ($-19.39) |  |
+| 2026-11-05 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 0.725 FXINX @ 11.72 ($-8.50) |  |
+| 2026-11-05 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($8.00) |  |
 | 2026-11-05 15:24 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 1 rejected ($0.059) |  |
 | 2026-11-05 12:43 | doctor | workflow |  | doctor: The evening run didn't cover 2026-11-04 |  |
 | 2026-11-05 12:01 | claude_picks | workflow |  | Claude picks received (2026-11-05) |  |

@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-06T13:08:35Z. Every event in the app, newest first (395 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-06T15:28:22Z. Every event in the app, newest first (396 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-06 15:28 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.068) |  |
 | 2026-11-06 13:08 | doctor | workflow |  | doctor: Today's Claude picks haven't arrived |  |
 | 2026-11-06 12:41 | claude_report | workflow |  | morning report 2026-11-05: 7/7 parts |  |
 | 2026-11-06 11:57 | trade_detected | sync | FLAPX | Fidelity · Brokerage 1: Detected: you bought about 0.04 FLAPX at about $24.79 | 0.969 → 1.013 |

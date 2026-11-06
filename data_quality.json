@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-03T23:16:55Z",
- "session_date": "2026-11-03",
+ "generated_utc": "2026-11-06T00:20:26Z",
+ "session_date": "2026-11-05",
  "status": "warn",
  "reasons": [
   "second source unreachable for: QQQ, SPY, TQQQ"
@@ -10,21 +10,21 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 685.28,
+   "ours": 647.05,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 754.35,
+   "ours": 733.0,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 60.55,
+   "ours": 50.465,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -32,141 +32,141 @@
  ],
  "sample": [
   {
-   "ticker": "CFG",
-   "ours": 64.37,
+   "ticker": "DAL",
+   "ours": 85.36,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "DOW",
-   "ours": 33.79,
+   "ticker": "DXCM",
+   "ours": 84.46,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "EOG",
-   "ours": 155.17,
+   "ticker": "CMCSA",
+   "ours": 24.95,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "FOX",
-   "ours": 59.63,
+   "ticker": "SNA",
+   "ours": 366.44,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "DECK",
-   "ours": 84.09,
+   "ticker": "ETR",
+   "ours": 110.3,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "BAC",
-   "ours": 49.66,
+   "ticker": "STZ",
+   "ours": 144.56,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ITW",
-   "ours": 286.64,
+   "ticker": "MCHP",
+   "ours": 64.85,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "CRH",
-   "ours": 93.53,
+   "ticker": "EVRG",
+   "ours": 87.41,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "FANG",
-   "ours": 192.34,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "TTWO",
-   "ours": 194.99,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "FIS",
-   "ours": 38.99,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "MU",
-   "ours": 855.1,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "XYZ",
-   "ours": 76.0,
-   "theirs": null,
-   "diff": null,
-   "status": "unverified"
-  },
-  {
-   "ticker": "FAST",
-   "ours": 52.33,
+   "ticker": "TYL",
+   "ours": 430.37,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "MPWR",
-   "ours": 1328.3,
+   "ours": 1131.4301,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "MSI",
-   "ours": 491.0,
+   "ticker": "FE",
+   "ours": 47.1,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "TXN",
-   "ours": 312.49,
+   "ticker": "AMCR",
+   "ours": 45.84,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "NTRS",
-   "ours": 172.6,
+   "ticker": "MLM",
+   "ours": 527.83,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "TWLO",
-   "ours": 213.77,
+   "ticker": "KKR",
+   "ours": 98.3,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GEV",
-   "ours": 918.2,
+   "ticker": "NSC",
+   "ours": 329.25,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "AVY",
+   "ours": 189.7,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "WDC",
+   "ours": 267.63,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "BNY",
+   "ours": 147.49,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "VST",
+   "ours": 112.89,
+   "theirs": null,
+   "diff": null,
+   "status": "unverified"
+  },
+  {
+   "ticker": "FERG",
+   "ours": 235.65,
    "theirs": null,
    "diff": null,
    "status": "unverified"

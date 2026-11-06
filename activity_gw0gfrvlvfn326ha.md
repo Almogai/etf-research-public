@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-06T11:58:06Z. Every event in the app, newest first (393 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-06T12:41:41Z. Every event in the app, newest first (394 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-06 12:41 | claude_report | workflow |  | morning report 2026-11-05: 7/7 parts |  |
 | 2026-11-06 11:57 | trade_detected | sync | FLAPX | Fidelity · Brokerage 1: Detected: you bought about 0.04 FLAPX at about $24.79 | 0.969 → 1.013 |
 | 2026-11-06 11:57 | trade_detected | sync | FXINX | Fidelity · Brokerage 1: Detected: you bought about 0.72 FXINX at about $11.73 | 10.229 → 10.954 |
 | 2026-11-06 11:57 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 1.71 FXLCX at about $11.37 | 33.88 → 35.585 |

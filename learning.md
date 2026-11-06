@@ -1,4 +1,4 @@
-# Weekly learning — 2026-10-30
+# Weekly learning — 2026-11-06
 
 Which factors predicted returns vs QQQ over the following 5 and 20 trading days? **IC** = rank correlation between a factor and the later excess return (+0.05 is useful, 0 is nothing, negative is the wrong way). **Spread** = how much the top 20% of stocks on the factor beat the bottom 20% on average. **t** above 2 means the result was consistent.
 
@@ -6,31 +6,32 @@ Which factors predicted returns vs QQQ over the following 5 and 20 trading days?
 
 | Factor | Horizon | Samples | IC | t | IC > 0 | Top–bottom spread |
 |---|---|---|---|---|---|---|
-| trend | 5 days | 51 | -0.000 | -0.0 | 43% | +0.03% |
-| momentum | 5 days | 51 | -0.011 | -0.4 | 45% | +0.06% |
-| relative_strength | 5 days | 51 | -0.012 | -0.4 | 45% | +0.01% |
-| volatility | 5 days | 51 | -0.004 | -0.2 | 45% | -0.21% |
-| liquidity | 5 days | 51 | +0.006 | 0.3 | 61% | +0.09% |
-| price score (combined) | 5 days | 51 | -0.007 | -0.2 | 47% | +0.05% |
-| trend | 20 days | 13 | -0.038 | -0.9 | 54% | -0.66% |
-| momentum | 20 days | 13 | -0.030 | -0.7 | 54% | -0.25% |
-| relative_strength | 20 days | 13 | -0.051 | -1.1 | 46% | -0.41% |
-| volatility | 20 days | 13 | +0.009 | 0.2 | 54% | -0.97% |
-| liquidity | 20 days | 13 | -0.007 | -0.2 | 38% | +0.72% |
-| price score (combined) | 20 days | 13 | -0.041 | -0.9 | 54% | -0.14% |
+| trend | 5 days | 51 | -0.007 | -0.3 | 41% | -0.04% |
+| momentum | 5 days | 51 | -0.016 | -0.6 | 45% | -0.03% |
+| relative_strength | 5 days | 51 | -0.019 | -0.7 | 43% | -0.09% |
+| volatility | 5 days | 51 | +0.002 | 0.1 | 47% | -0.08% |
+| liquidity | 5 days | 51 | -0.004 | -0.2 | 59% | -0.12% |
+| price score (combined) | 5 days | 51 | -0.014 | -0.5 | 45% | -0.06% |
+| trend | 20 days | 13 | -0.037 | -0.8 | 54% | -0.79% |
+| momentum | 20 days | 13 | -0.043 | -0.9 | 38% | -0.82% |
+| relative_strength | 20 days | 13 | -0.036 | -0.7 | 38% | +0.05% |
+| volatility | 20 days | 13 | +0.007 | 0.2 | 31% | -0.56% |
+| liquidity | 20 days | 13 | -0.006 | -0.1 | 54% | -0.07% |
+| price score (combined) | 20 days | 13 | -0.041 | -0.8 | 38% | -0.71% |
 
-## Live ideas log (70 ideas logged)
+## Live ideas log (90 ideas logged)
 
 | Factor | Horizon | Ideas | IC |
 |---|---|---|---|
-| score | 5 days | 45 | -0.045 |
-| price_score | 5 days | 45 | +0.393 |
-| news_score | 5 days | 45 | -0.490 |
-| s_momentum | 5 days | 45 | -0.157 |
-| s_relative_strength | 5 days | 45 | +0.204 |
-| s_volatility | 5 days | 45 | +0.364 |
-| s_liquidity | 5 days | 45 | -0.098 |
-| sentiment | 5 days | 45 | -0.377 |
+| score | 5 days | 70 | -0.104 |
+| price_score | 5 days | 70 | +0.250 |
+| news_score | 5 days | 70 | -0.345 |
+| s_trend | 5 days | 70 | +0.009 |
+| s_momentum | 5 days | 70 | +0.093 |
+| s_relative_strength | 5 days | 70 | +0.259 |
+| s_volatility | 5 days | 70 | +0.076 |
+| s_liquidity | 5 days | 70 | +0.000 |
+| sentiment | 5 days | 70 | -0.297 |
 
 ## Suggested price-score weights (NOT applied)
 
@@ -38,13 +39,13 @@ Rule: t ≥ 2 → ×1.25, t ≤ −1 → ×0.5, else unchanged; then scaled to t
 
 | Factor | Current | Suggested | Why |
 |---|---|---|---|
-| trend | 0.243 | 0.269 | no clear evidence either way |
-| momentum | 0.379 | 0.419 | no clear evidence either way |
-| relative_strength | 0.194 | 0.108 | pointed the wrong way over the last year (t = -1.1) |
-| volatility | 0.039 | 0.043 | no clear evidence either way |
-| liquidity | 0.146 | 0.161 | no clear evidence either way |
+| trend | 0.243 | 0.243 | no clear evidence either way |
+| momentum | 0.379 | 0.379 | no clear evidence either way |
+| relative_strength | 0.194 | 0.194 | no clear evidence either way |
+| volatility | 0.039 | 0.039 | no clear evidence either way |
+| liquidity | 0.146 | 0.146 | no clear evidence either way |
 
-To use them, copy the Suggested column into `config.yaml` → `research.weights`.
+No change suggested this week.
 
 Final-score mix stays {'price': 0.8, 'news': 0.2, 'insider': 0.05, 'history': 0.03, 'quality': 0.04} until the live log has at least 30 scored ideas to judge the news score.
 
@@ -64,8 +65,8 @@ Does a stock's headline rating predict its return vs QQQ? Spearman rank correlat
 
 | Horizon | Rater | Cases | IC |
 |---|---|---|---|
-| 5 days | Claude | 180 | +0.14 |
-| 5 days | App (VADER) | 180 | -0.14 |
+| 5 days | Claude | 195 | +0.14 |
+| 5 days | App (VADER) | 195 | -0.14 |
 | 20 days | Claude | 0 | n/a |
 | 20 days | App (VADER) | 0 | n/a |
 

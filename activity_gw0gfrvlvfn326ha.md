@@ -1,9 +1,11 @@
 # My activity
 
-Generated 2026-11-09T12:01:13Z. Every event in the app, newest first (404 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-09T12:44:41Z. Every event in the app, newest first (406 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-09 12:44 | claude_picks | workflow |  | Claude picks received (2026-11-09) |  |
+| 2026-11-09 12:44 | claude_report | workflow |  | morning report 2026-11-06: 6/6 parts |  |
 | 2026-11-09 12:01 | doctor | workflow |  | doctor fixed: Today's Claude picks haven't arrived |  |
 | 2026-11-09 12:01 | trade_detected | sync | FXINX | Fidelity · Brokerage 1: Detected: you bought about 0.15 FXINX at about $11.75 | 10.954 → 11.102 |
 | 2026-11-09 12:01 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.56 FXLCX at about $11.42 | 35.585 → 36.144 |

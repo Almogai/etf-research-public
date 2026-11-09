@@ -1,431 +1,430 @@
-# Research input — session 2026-11-06
+# Research input — session 2026-11-09
 
-Generated 2026-11-06 23:07 UTC from free data (Yahoo Finance, Google News RSS, SEC EDGAR). Screened 513 of 518 stocks. Benchmark: QQQ.
+Generated 2026-11-09 23:10 UTC from free data (Yahoo Finance, Google News RSS, SEC EDGAR). Screened 513 of 518 stocks. Benchmark: QQQ.
 
 ## Daily summary
-- Market today: QQQ +1.4%, S&P 500 (SPY) +0.3%.
-- Market mood: choppy 🌊, 55% of stocks in an uptrend, VIX 25.6.
-- Today's top 5: ACN, AMGN, ABBV, LLY, GILD. #1 ACN: CEO bought $3M; news: beat.
+- Market today: QQQ +3.5%, S&P 500 (SPY) +2.4%.
+- Market mood: choppy 🌊, 62% of stocks in an uptrend, VIX 19.9.
+- Today's top 5: ACN, LLY, MRNA, MA, REGN. #1 ACN: CEO bought $3M; news: beat.
 - Insider buying: 👑 ACN: CEO bought $3M · 👑 INTC: CEO bought $9.71M.
-- Picks from 2026-11-05: 0 of 5 beat QQQ (avg -0.8% vs +1.4%).
+- Picks from 2026-11-06: 1 of 5 beat QQQ (avg +1.0% vs +3.5%).
 
 ## Market regime: CHOPPY
-- SPY above its 200-day (+0.7%)
-- QQQ below its 200-day (-3.6%)
-- Breadth 55% of stocks above their 200-day (bull needs ≥55%, bear <40%)
-- VIX 25.6 (bull needs <25, bear ≥30)
+- SPY above its 200-day (+3.0%)
+- QQQ below its 200-day (-0.3%)
+- Breadth 62% of stocks above their 200-day (bull needs ≥55%, bear <40%)
+- VIX 19.9 (bull needs <25, bear ≥30)
 
 ## Sectors (hot → cold by average price score)
 
 | Sector | Stocks | Avg score | Above 200-day | 1 week | 1 month | 3 months | View |
 |---|---|---|---|---|---|---|---|
-| Health Care | 61 | 71 | 89% | +1.3% | +8.9% | +10.2% | hot |
-| Consumer Staples | 35 | 63 | 69% | +1.7% | +10.2% | +5.4% | hot |
-| Energy | 21 | 56 | 43% | -12.0% | -6.4% | -3.7% | hot |
-| Financials | 76 | 56 | 70% | +0.7% | +4.6% | -3.5% | neutral |
-| Materials | 24 | 54 | 62% | -1.8% | +7.2% | -2.3% | neutral |
-| Consumer Discretionary | 48 | 52 | 52% | +3.5% | +10.4% | -1.1% | neutral |
-| Information Technology | 84 | 47 | 39% | -8.9% | -17.6% | -13.3% | neutral |
-| Utilities | 31 | 46 | 39% | -0.2% | +7.3% | +3.2% | neutral |
-| Industrials | 85 | 46 | 45% | -0.6% | +5.5% | -6.2% | cold |
-| Real Estate | 30 | 43 | 43% | +2.6% | +9.0% | -2.9% | cold |
-| Communication Services | 23 | 40 | 22% | +2.1% | +0.1% | -5.1% | cold |
+| Health Care | 61 | 72 | 90% | +3.1% | +9.7% | +13.0% | hot |
+| Consumer Staples | 35 | 63 | 69% | +0.7% | +10.8% | +7.2% | hot |
+| Financials | 76 | 59 | 76% | +0.5% | +7.3% | -1.6% | hot |
+| Consumer Discretionary | 48 | 55 | 58% | +2.9% | +12.2% | +0.5% | neutral |
+| Materials | 24 | 54 | 67% | -0.9% | +8.9% | -0.6% | neutral |
+| Energy | 21 | 51 | 43% | -8.0% | -5.1% | -5.0% | neutral |
+| Industrials | 85 | 49 | 54% | -0.4% | +8.9% | -1.9% | neutral |
+| Utilities | 31 | 47 | 48% | +0.0% | +8.6% | +2.6% | neutral |
+| Information Technology | 84 | 47 | 49% | -2.7% | -15.1% | -10.5% | cold |
+| Real Estate | 30 | 45 | 53% | +2.2% | +7.6% | +0.0% | cold |
+| Communication Services | 23 | 42 | 35% | +4.9% | +3.7% | -3.6% | cold |
 
 ## HOT list (top 15 by final score)
 
 | # | Ticker | Name | Sector | Price | Final | Price | News | Stop | Earnings |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | ACN | Accenture | Information Technology | 260.50 | 86 | 96 | 59 | 242.92 (-6.8%) | 2026-12-17 |
-| 2 | AMGN | Amgen | Health Care | 460.42 | 84 | 91 | 72 | 440.58 (-4.3%) | 2027-02-02 |
-| 3 | ABBV | AbbVie | Health Care | 291.31 | 82 | 93 | 58 | 279.35 (-4.1%) | – |
-| 4 | LLY | Lilly (Eli) | Health Care | 1354.00 | 82 | 94 | 51 | 1274.78 (-5.9%) | – |
-| 5 | GILD | Gilead Sciences | Health Care | 166.89 | 82 | 94 | 59 | 158.61 (-5.0%) | – |
-| 6 | REGN | Regeneron Pharmaceuticals | Health Care | 904.35 | 82 | 91 | 58 | 853.75 (-5.6%) | 2027-01-28 |
-| 7 | MA | Mastercard | Financials | 652.70 | 81 | 92 | 50 | 628.71 (-3.7%) | 2027-01-28 |
-| 8 | VEEV | Veeva Systems | Health Care | 303.73 | 81 | 89 | 62 | 290.01 (-4.5%) | 2026-11-25 |
-| 9 | CRL | Charles River Laboratories | Health Care | 337.52 | 81 | 91 | 64 | 307.34 (-8.9%) | – |
-| 10 | ROP | Roper Technologies | Information Technology | 476.60 | 81 | 90 | 57 | 451.26 (-5.3%) | 2027-01-26 |
-| 11 | EL | Estée Lauder Companies (The) | Consumer Staples | 110.06 | 80 | 90 | 63 | 102.91 (-6.5%) | 2027-02-03 |
-| 12 | MCK | McKesson | Health Care | 1060.84 | 80 | 88 | 72 | 1018.27 (-4.0%) | 2027-02-03 |
-| 13 | PTC | PTC Inc. | Information Technology | 195.07 | 80 | 89 | 62 | 193.58 (-0.8%) | – |
-| 14 | KDP | Keurig Dr Pepper | Consumer Staples | 36.63 | 80 | 90 | 60 | 35.01 (-4.4%) | – |
-| 15 | V | Visa Inc. | Financials | 422.65 | 80 | 92 | 50 | 408.19 (-3.4%) | 2027-01-26 |
+| 1 | ACN | Accenture | Information Technology | 254.37 | 86 | 96 | 57 | 236.61 (-7.0%) | 2026-12-17 |
+| 2 | LLY | Lilly (Eli) | Health Care | 1411.95 | 86 | 96 | 64 | 1333.36 (-5.6%) | – |
+| 3 | MRNA | Moderna | Health Care | 269.00 | 83 | 94 | 65 | 233.52 (-13.2%) | – |
+| 4 | MA | Mastercard | Financials | 655.81 | 83 | 92 | 56 | 631.26 (-3.7%) | 2027-01-28 |
+| 5 | REGN | Regeneron Pharmaceuticals | Health Care | 919.96 | 82 | 92 | 57 | 868.64 (-5.6%) | 2027-01-28 |
+| 6 | GILD | Gilead Sciences | Health Care | 169.32 | 81 | 93 | 55 | 161.07 (-4.9%) | – |
+| 7 | V | Visa Inc. | Financials | 422.16 | 81 | 92 | 55 | 407.34 (-3.5%) | 2027-01-26 |
+| 8 | ROP | Roper Technologies | Information Technology | 471.64 | 81 | 91 | 55 | 446.76 (-5.3%) | 2027-01-26 |
+| 9 | AMGN | Amgen | Health Care | 465.23 | 81 | 91 | 58 | 445.68 (-4.2%) | 2027-02-02 |
+| 10 | ABBV | AbbVie | Health Care | 293.30 | 80 | 89 | 59 | 281.70 (-4.0%) | – |
+| 11 | KDP | Keurig Dr Pepper | Consumer Staples | 36.94 | 80 | 91 | 54 | 35.30 (-4.4%) | – |
+| 12 | VEEV | Veeva Systems | Health Care | 306.40 | 80 | 89 | 55 | 293.11 (-4.3%) | 2026-11-25 |
+| 13 | MDT | Medtronic | Health Care | 102.79 | 80 | 90 | 56 | 98.74 (-3.9%) | 2026-11-24 |
+| 14 | SPGI | S&P Global | Financials | 471.09 | 79 | 89 | 55 | 451.51 (-4.2%) | – |
+| 15 | PTC | PTC Inc. | Information Technology | 195.87 | 78 | 88 | 53 | 194.32 (-0.8%) | – |
 
 ### 1. ACN — Accenture (final 86)
 **Why now:** CEO bought $3M; news: beat
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +22.6%, 3m +57.0%, 6m +46.5% (beats 97% of stocks)
-- 3-month return vs QQQ: +61.7%
+- Momentum (to last week): 1m +32.2%, 3m +54.3%, 6m +47.8% (beats 98% of stocks)
+- 3-month return vs QQQ: +50.6%
 - Volatility 55%/yr (unusually high/low)
-- Trades $1,595M/day
-- News: 16 headlines in 3 days, sentiment +0.12, flags: beat
+- Trades $1,579M/day
+- News: 10 headlines in 3 days, sentiment +0.10, flags: beat
 - Filings (7 days): none
-- Insiders (7 days): 1 sale(s) ≈ $2.7M, 1 pre-planned
+- Insiders (7 days): no open-market buys or sells
 - Insider buys (30 days): CEO Sweet Julie Spellman $3M on 2026-10-26 👑 💵; Director Price Paula A $200K on 2026-10-26
-- Earnings: 2026-12-17; stop 242.92 (-6.8%, 2×ATR)
+- Earnings: 2026-12-17; stop 236.61 (-7.0%, 2×ATR)
 - Top headlines:
-  - [Does Earnings Beat Change The Bull Case For Accenture Stock (ACN)?](https://finance.yahoo.com/markets/stocks/articles/does-earnings-beat-change-bull-150940387.html?.tsrc=rss) (Yahoo Finance, 2026-11-04)
-  - [Accenture (ACN) Stock Sinks As Market Gains: What You Should Know](https://finance.yahoo.com/markets/stocks/articles/accenture-acn-stock-sinks-market-215001724.html) (Zacks, 2026-11-06)
-  - [Accenture Is Up 33% in a Month but Still Down 2% This Year. Is the Stock Cheap?](https://news.google.com/rss/articles/CBMid0FVX3lxTE93OHh0bDJibmIwVDQyRERIc3gwQ2FxUFptMG9qNXRlOEwzYTczbnFjNTlRYzBJQ1p0N2lTcXIySEtVY01jdkdyWHBLUEZxdWYwckd3TVpZM2N6amRQZFE5ZERHMUdZT3ZETVZIcWxRam1jckg5dGJR?oc=5) (TIKR.com, 2026-11-06)
+  - [Take the Zacks Approach to Beat the Markets: Ulta Beauty, Accenture, HCA in Focus](https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-ulta-110300678.html) (Zacks, 2026-11-09)
+  - [Liquidity Mapping Around (ACN) Price Events](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMFZ5TUNEUTdzRW5LRTBXV0FXLWxDbi1YMENWbXpTbkROOUhIMkdnZDVkUTFTbzd0X1VrekYxdmRQcnJPa3VUaFJaWnNfdXlzYkxwc0tMM0tWSDZELWs1aGpuTFFTenNMZG10dl9kcXBmbHlnVkd0UXZhQkpTSkk5LVlhVnlYbnBpM1Nnbm42R1BEVXBRZndjVXo4eEdHXzBXTzVURDR1NzRNYmVUTlYxUWIydE9MbHFFZFkxbWVBQQ?oc=5) (Stock Traders Daily, 2026-11-09)
+  - [39 ETFs Add to Accenture (ACN) on Thursday](https://finance.yahoo.com/markets/stocks/articles/39-etfs-add-accenture-acn-110215274.html) (GuruFocus.com, 2026-11-09)
 
-### 2. AMGN — Amgen (final 84)
-**Why now:** News: beat, guidance raised, upgrade
+### 2. LLY — Lilly (Eli) (final 86)
+**Why now:** News: guidance raised, upgrade
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +14.4%, 3m +23.7%, 6m +43.2% (beats 91% of stocks)
-- 3-month return vs QQQ: +21.8%
-- Volatility 34%/yr (normal)
-- Trades $1,272M/day
-- News: 71 headlines in 3 days, sentiment +0.22, flags: beat, downgrade, guidance raised, upgrade
-- Filings (7 days): [10-Q 2026-11-04](https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/); [8-K 2026-11-03 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/318154/000031815426000153/)
-- Insiders (7 days): no open-market buys or sells
-- Earnings: 2027-02-02; stop 440.58 (-4.3%, 2×ATR)
+- Momentum (to last week): 1m +23.5%, 3m +26.7%, 6m +46.2% (beats 95% of stocks)
+- 3-month return vs QQQ: +22.9%
+- Volatility 32%/yr (normal)
+- Trades $4,073M/day
+- News: 27 headlines in 3 days, sentiment +0.16, flags: FDA, acquisition, guidance raised, upgrade
+- Filings (7 days): none
+- Insiders (7 days): 1 sale(s) ≈ $7.0M, 1 pre-planned
+- Earnings: unknown; stop 1333.36 (-5.6%, 2×ATR)
 - Top headlines:
-  - [Freedom Broker downgrades Amgen stock rating on valuation despite raising price target](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHA1MEwwU1hiUWpTTjkzNGotbldDd1k5d081Qmhha2t4VmZzSEllckw4Q2V5azI1X2piS3QxcmlxV1pBSjBoZ3JPQzctM0c0dEcwb0NKTllEVkZFV3Q4dVIwbGYwNkMyOUl2NDVQY3NOSXhES09vSGxzbFU4YWRwSUFoMWs4Rm1zVWxnZXlZUmRNMXBfRkFVZk9HTVlmN0hIRlQ1RkVOTGtkV1o0TkZqS3FrN2hFaUdURzlKa3ZkRlMwOEdMcFd0X3JaNTQyX3N6YXd5Qi0xMFE4aGhQdFlj?oc=5) (Investing.com, 2026-11-06)
-  - [What Comes Next For Amgen (NASDAQ:AMGN) After Its Guidance Upgrade?](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVZGWkZHWVlLMm1qRk13dkcwMFVZTDhfUDlVazZMZXhTS1JMU1NWMTl5UWcwRjZaZGxJOVBETUNycU5BSjNoZ0RyaFVIRU9Rd1lkS255V1NQdHJTRmRIbVNoaFlrbmF0c201aFNza1hyVEZOMlVhcGtCRDZTdXNZSzBDUF9YbTNlUEJUSWtFdjN0eThfMlp4RjNNUEpqWlViUVBzVUk5VXJZc0JjbXc?oc=5) (Kalkine Media, 2026-11-05)
-  - [Key facts: Amgen Q3 beat; guidance raised; trials succeed; targets rise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1lYdWhNbGhaczJleTl5V3RDRnA2aE1Hc2hJZERMYkw0NFUwOWdITEVqWG0wak9NN1VUOENEay11d0RDWVNVNlJtdUNXX2RYSE1UQkpNX09DaDhua0dXUXdnbG5qNTJUYnl6VkpGMk9CelBZRi1odExaM1RpRkEyVHc3V3dyaUlXcUNRX042QUpkQXFkYnQtaEJGWTNQQlpHZ19feFBxQUpBWlJUaHFySUFvUHk4c3lWcnNpSzB1TDNZMkJab3BzWg?oc=5) (TradingView, 2026-11-05)
+  - [Is It Too Late to Buy Eli Lilly and Co (LLY) After 4.3% Rally? G](https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0JpQlpkdjdSdFhMeGVMa1hISktQSlVRX3QwcUgyZUEzR21mOEFvNFJzWTY0NVJZY2N0TDY0aE9kUnAxdHZxdTZKemk4bTBIbEJZYnFENjZ2YWVBU1FOeEE2U1l4MnBEX3JncTF4QWVwbkFCbDhnTjBtVldmSUdHQWtESmlMcWNGUFV6dlAzU3ppS1lZbjdpUE5Sc2lfbW1maTFWdFZUcEV3bUpRUW9VT0N6dkQ1MFlwNjh5aW1xQQ?oc=5) (GuruFocus, 2026-11-09)
+  - [FDA Requires Eye Condition Warning on Eli Lilly's Zepbound Amid Safety Review (LLY)](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnhSaGgwTU1YdTNENUU1MVpzR0pfcTZsV3NGd0tEbmM1N2QwWmhnUVNHUU1KMDZidU11UjNlb0lfYXZlcmJtZU53dkF3SC01VFU3UUllZ0ktNFpCUUpPaWcyWHUtWmFJcHRWbWxwU1Z4NVJYT0Y2UUthcHJvZGtMNXRUYng4R245Mk1icDh4Z0d4TGxFMDJPQnZJUjg1cmxDSjBtak5DLXRfSXZodFEybUhCV0w2M1VkU0Fv?oc=5) (GuruFocus, 2026-11-09)
+  - [FDA requires vision-loss warning on Novo Nordisk and Eli Lilly GLP-1 drugs](https://finance.yahoo.com/healthcare/articles/fda-requires-vision-loss-warning-170646867.html) (Investing.com, 2026-11-09)
 
-### 3. ABBV — AbbVie (final 82)
+### 3. MRNA — Moderna (final 83)
+**Why now:** New 52-week high; news: beat, guidance raised
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +16.2%, 3m +287.5%, 6m +366.9% (beats 95% of stocks)
+- 3-month return vs QQQ: +369.2%
+- Volatility 367%/yr (unusually high/low)
+- Trades $3,721M/day
+- News: 32 headlines in 3 days, sentiment +0.22, flags: FDA, beat, guidance raised
+- Events: new 52-week high
+- Filings (7 days): [10-Q 2026-11-06](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000197/); [8-K 2026-11-06 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/)
+- Insiders (7 days): no open-market buys or sells
+- Earnings: unknown; stop 233.52 (-13.2%, 2×ATR)
+- Top headlines:
+  - [Moderna (MRNA) Stock Fair Value Rises After Intismeran Data And Q3 Beat](https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-stock-fair-value-191304455.html) (Simply Wall St., 2026-11-09)
+  - [Can Moderna's First Cancer Therapy Win FDA Approval in 2027?](https://finance.yahoo.com/healthcare/articles/modernas-first-cancer-therapy-win-170900377.html) (Zacks, 2026-11-09)
+  - [Moderna Soars Another 9% as Piper Sandler Lifts Target to $305 on Raised Outlook](https://www.tikr.com/blog/moderna-soars-another-9-as-piper-sandler-lifts-target-to-305-on-raised-outlook?ref=yahoofinance&tlnk=yf-261109-63j9f233) (TIKR, 2026-11-09)
+
+### 4. MA — Mastercard (final 83)
+**Why now:** Strong trend: 6-month +31%, 3-month vs QQQ +24%
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +19.3%, 3m +15.4%, 6m +30.8% (beats 89% of stocks)
+- 3-month return vs QQQ: +23.6%
+- Volatility 22%/yr (unusually high/low)
+- Trades $2,266M/day
+- News: 13 headlines in 3 days, sentiment +0.29
+- Filings (7 days): none
+- Insiders (7 days): 2 sale(s) ≈ $5.5M, 2 pre-planned
+- Earnings: 2027-01-28; stop 631.26 (-3.7%, 2×ATR)
+- Top headlines:
+  - [Mastercard Sees New Growth in AI Payments, Cybersecurity and Digital Assets](https://www.marketbeat.com/instant-alerts/event-mastercard-sees-new-growth-in-ai-payments-cybersecurity-and-digital-assets-2026-11-09/?utm_source=yahoofinance&utm_medium=yahoofinance) (MarketBeat, 2026-11-09)
+  - [BMO Equips Canadian Business Owners with New CashBack® World Elite® Mastercard®, with Market-Leading Cash Back Earn Rates](https://finance.yahoo.com/small-business/articles/bmo-equips-canadian-business-owners-150000770.html?.tsrc=rss) (Yahoo Finance, 2026-11-09)
+  - [Fund Update: 191,989 MASTERCARD (MA) shares added to Lansforsakringar Fondforvaltning AB (publ) portfolio](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVHB3cTNfdkZWZl9iNHpFWVM2QmZsNlU0bEtWcV9WSmQzcF9pX2VVVzVQdkc5dk9hckFmTGdNTG9FSWZMRHkycm1IVGY2c3BTbWxwT1BXUUR5OHptZ0hqVkw0Qld2UDExY0Z5cGJ3emotTVM4MDFnQ3ljTC0wLUJzVjY3a29VMWliTDVmZDdhRDFiT002YTZKQ01Lbld4eGNQdDNlNURsWHBqeHotUGV0Yk1RR0lNOTV6cXVoVWlWS3dIVGJOSVk3UEpWVEx1ZGJNaUZtbzJXdGwzaTF4a1FSc0dQWDU?oc=5) (Quiver Quantitative, 2026-11-09)
+
+### 5. REGN — Regeneron Pharmaceuticals (final 82)
+**Why now:** Strong trend: 6-month +36%, 3-month vs QQQ +22%
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +30.7%, 3m +26.5%, 6m +35.9% (beats 95% of stocks)
+- 3-month return vs QQQ: +22.1%
+- Volatility 39%/yr (normal)
+- Trades $830M/day
+- News: 12 headlines in 3 days, sentiment +0.23, flags: acquisition
+- Filings (7 days): none
+- Insiders (7 days): 28 sale(s) ≈ $43.7M, 1 pre-planned
+- Earnings: 2027-01-28; stop 868.64 (-5.6%, 2×ATR)
+- Top headlines:
+  - [Boston Trust Walden Corp Acquires 9,474 Shares of Regeneron Pharmaceuticals, Inc. $REGN](https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTBHS2c1dEYzSGRwSEF1Ym1ocW43VUlIdnFpRmUxaU5oMS05UDBRR0duaElhU1lEQm9sYmowdVZYdjdpd1JXdDN2b0pOVU1TYklGazg4VDJ0RDd5ZVY1akRFTkJqSk5rSHJlOUZfdDZmWXk4NXJSTGpJeUFtSUpZaW5kQ1JEV2ppM3U3UGhHVEMyZ2NjWkRWcUpzRDFfVUtmdVRBbU9KNGdLTVhDbTYtVVBhbTVsNXpKSGFkZ0NsdkJPbjBhUklZVFlIdmZ0NmtsY1p1aWFQWHFKUVFZ?oc=5) (MarketBeat, 2026-11-07)
+  - [Global Gene Therapy for Hearing Loss Market Report 2026 | Capture Growth to $1.71B by 2030 as Regeneron, Lilly, Sensorion and Astellas Advance AAV, CRISPR and Cochlear Delivery](https://finance.yahoo.com/healthcare/articles/global-gene-therapy-hearing-loss-143100941.html?.tsrc=rss) (Yahoo Finance, 2026-11-09)
+  - [We Like The Quality Of Regeneron Pharmaceuticals' (NASDAQ:REGN) Earnings](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNekZzV3Z3ejVjTG1sYVNpdVp4TExHOE1kMGxsRUFUeml1NC1qcHM3ZnEzS0lxaWl2SU5IdnFXRmlyRVR1bmxRSl8wTnFJTEI2VFpDSERMTEloVlRMZDVRNXlGcm5qRVB2UVVxdkV3RklrMDZwSHpRVWVmc2tJQWs1U2xQRFNuUnB4bjNBR0RWLTJwMVNHTVFGdHFWejJVd3FEcWEwWnlWTFFMcndISlN4blJMdS1GdU91dzZKM1hSQk5mNHJ0VjhhbENNM0FJQUlVMl9ua21mOWJPUkhCVDFHcDlQOUYxWlhheXF4QzN2a9IB9AFBVV95cUxOd1JzdGpteUhkWGUtSEdIVEFQTG9NWlhuczlId0VjVGFaclNYbVRNa1gySTg3YXJ6dFFlWjZJOUFlNk8yQzVYYWxnWWZ6ODgwU250M2VFcDRNV1FjNVdVVjF1ZlAwX1c3RjNLT0ZNckYtZU81dXNOSzd6LVkyZFEtSFdwcGdSeFhzWkRCUlV2Y0pfdDNGQ3VnZVZKb1hnUkRLbjQ4eWJBOGhxbmxXQ0psSkZMWVIzMVpQa3BmLWZIdkxqbW5XT2lrS3kwVWNmY1owcFgyNWVjT1dlV1kxZUlwa0Nlby1rLUJMa1pxenJibm1PZ1ho?oc=5) (Simply Wall St, 2026-11-09)
+
+### 6. GILD — Gilead Sciences (final 81)
+**Why now:** Strong trend: 6-month +30%, 3-month vs QQQ +32%
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +17.7%, 3m +26.6%, 6m +29.9% (beats 91% of stocks)
+- 3-month return vs QQQ: +32.5%
+- Volatility 28%/yr (normal)
+- Trades $1,142M/day
+- News: 6 headlines in 3 days, sentiment +0.34
+- Filings (7 days): none
+- Insiders (7 days): 8 sale(s) ≈ $25.0M, 8 pre-planned
+- Earnings: unknown; stop 161.07 (-4.9%, 2×ATR)
+- Top headlines:
+  - [Vir, A Gilead Rival, Shoots To Two-Year High On Its 'Clean Win' In Hepatitis D Treatment](https://www.investors.com/news/technology/vir-stock-hepatitis-d-treatment-gilead-mirum/?src=A00220&yptr=yahoo) (Investor's Business Daily, 2026-11-09)
+  - [Gilead Sciences, Inc. $GILD Stock: Candriam S.C.A. Raises Holdings](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUNZZVdqclRCY1lkVG1nOUxaeGVMSjlJYkNzZFJMT2F3YlRtV291a1p5SWdxblhQbHl5dFNIME1MVTFLVnNUbndueUpoa2FLdUNzalQwNFVNWFotU0tmZGlVYXJqNHVFaEFjSERuWW8wWGswVHVndjhVMzdxamI5YXA4bEFRa1djZ1ZBNWRUQ2lPUHJLSmZTOXFLZ1hibUJGNjdDak1Tc2ZYMVQ0SmZOMzRMdnY5bHljSDBPNg?oc=5) (MarketBeat, 2026-11-08)
+  - [Gilead Sciences, Inc. $GILD Stock Sold by Calamos Advisors LLC](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVBjcTBGajI2Z3dBbzl0Tm1feXFLV2M0aXRGckozV0RBQ3JVMnYzSm5WdGI0cFNOV0N6cHR1d3ZyeFVLbi1VNU9WQTFfWGV6U2FzOUNsVHd5aTN2ZnU3US1UYkptZDJkUzJ1Y1F1NnhrWk5yeXlHT0N0b1lZN1pweGVVc29RcjV3Z3FaSGtUdTdUa0sxYVp6RkpydFdjYUdQbmFrVkFEMUFkZWN6MnNBeWxidUdrblNvX1ZQTQ?oc=5) (MarketBeat, 2026-11-07)
+
+### 7. V — Visa Inc. (final 81)
+**Why now:** News: beat
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +18.0%, 3m +15.3%, 6m +30.7% (beats 88% of stocks)
+- 3-month return vs QQQ: +22.9%
+- Volatility 22%/yr (unusually high/low)
+- Trades $3,079M/day
+- News: 11 headlines in 3 days, sentiment +0.17, flags: beat
+- Filings (7 days): [10-K 2026-11-05](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/)
+- Insiders (7 days): 6 sale(s) ≈ $32.0M, 1 pre-planned
+- Earnings: 2027-01-26; stop 407.34 (-3.5%, 2×ATR)
+- Top headlines:
+  - [Visa (V) Stock Price Stalls After Q4 Earnings Beat](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmYzcXpPN1dXRkl4M2ZBOWhmR3QxVUZwR2hTTlpLRjczMnJ1Q1BybWpGT0VvYVBvSHNlZk5IUlQzYkVYdllLVXViSGVhS2dHbXUxZE1wVmkzanV6SXNrZTVwbGtiT0hYZC01ZVN6MDBIcUV5NV85WHI0bXJ6Z1laNS1mcGRJel9TQ2U5UGlxaV9RVGEzSGV6S1F5eVg2dnptQnNqSzBnZ0JOMXcxcEhYOHhUUTRiTlhubjIyY9IBwgFBVV95cUxQakl0U1FCSGgtcG5LVFJhcE5GOVZrVDdfZG1qNFpwekFuclhDSDZHYWFFX0VkeXAwdUx0NnBfUHRZM1o4MG5odVR6c0NqbFZFTmRSeWZpTV9NVWRUd3dyTzNvR29uZHQ0X2s2TU1Eb21VcFB1TGFVTXZHaWEyZy1YaWNiLXBHUWJvLU9qUE5PM1Vnd2NxMWdwMmZZTFJxN3pwZXlnMDBvVEpuWndHNm5GSUtHekJXVnk0S09wbFlEQkNkQQ?oc=5) (Simply Wall St, 2026-11-06)
+  - [Visa (V) Stock Price Prediction: Visa Holds Above Key Averages as Binance Futures Selling Pressures the Tape](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjI3ZEJTc09KRlRjbzZjdzJ5SnVjRWxaMlZFaThuTVVpUS1OdDY3YmlGdWhzM0RvMEFXNnV2VjAzRklDZXRMYnpZcXk1TjJaY3R1c0NKSTlBZHJIUktCWHNqZnNqNzhrTWVxODh0SGx0WHl5R0U4dmFUU3lkektiem8xd1pPME02SXJ2elotbS10RG8?oc=5) (Blockchain News, 2026-11-09)
+  - [Visa Sees 20%‑Plus Services Growth as U.S. Payment Volumes Gain Momentum](https://www.marketbeat.com/instant-alerts/event-visa-sees-20plus-services-growth-as-us-payment-volumes-gain-momentum-2026-11-09/?utm_source=yahoofinance&utm_medium=yahoofinance) (MarketBeat, 2026-11-09)
+
+### 8. ROP — Roper Technologies (final 81)
+**Why now:** News: buyback
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +35.3%, 3m +22.4%, 6m +35.7% (beats 95% of stocks)
+- 3-month return vs QQQ: +25.0%
+- Volatility 34%/yr (normal)
+- Trades $526M/day
+- News: 3 headlines in 3 days, sentiment +0.18, flags: buyback
+- Filings (7 days): [10-Q 2026-11-02](https://www.sec.gov/Archives/edgar/data/882835/000088283526000047/)
+- Insiders (7 days): 8 sale(s) ≈ $22.6M
+- Earnings: 2027-01-26; stop 446.76 (-5.3%, 2×ATR)
+- Top headlines:
+  - [Roper Technologies (ROP) Lifts Dividend As Buyback Support Meets An Undervalued View](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGQ0eFN0Tk4tY3BmcUNNYjUyUEc1eDA3Z3VjcVZON2FHTXJtZkx6RTBBeVMzc29XSVptSW9ucnhKUS1qSmdjWlpORzhON1FSQ00yYTA2TG5rZUtzOExIMkFiYU13TlUtTnR4NkVmLTZFeG5QUlY2VkhBV3RrYWhJNzQxU3JZb0o3b2N4ZUljbjM4TmowYVNEUnBDZ3cxZk9tdzdnS3loM01hSloyZXNWdEt6dndLRWN4dEdQMy1FNVcxRWhwVXBfeVVFWXJOcmVDbmfSAdcBQVVfeXFMUG5OSlZQdVpTZ1E3NzhoS0JJTDNBY2lQeXBEWVlmby1SSW9TQVB3Tm5qRlFvWFozR1dKZjFqaEJOUF9vd19BaGhfekREcDNtTXhnX1NQQVM2Xy10LVF1X015cVNGZF9QanBEZkIwN19QTjhhRE92ZHMxVUpQMnNnZzVVaHlJTkVodDBaRGZ6Y2k3UnFqYnhQWDlwVXc1NEdrOUI5R3lhTnBnV3Q3QnF3SXBzLXQ2blI2dGhoLWR1eHhpSzNTR29naUNvSW1ESng2WVFCVXF6N2M?oc=5) (Simply Wall St, 2026-11-07)
+  - [Roper Technologies' (NASDAQ:ROP) Solid Profits Have Weak Fundamentals](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3huc1BwSlpaWnJNSFNPQlZUWjlEQnVpenBKenZmZVotTEdkZjA2cU5NQmlvaGJxaV9ueS1IVEJZeWl3ZWpvdm1vQWRPSXdyNXZFOWFXT3JVUFVVbi0tODEyLXh0aXdhZHJDbmduWGxEQWZ2UmJMMlYwQ3lrZVd6OHRzVlVLY2ducGllSERuU1JmVmdDY3hUWTlZanh0bTRTNVJWTGdhWExWLXkzSFMtazE2bGVKSDZ2NTFxenhuanpxWVBMMXVuQXp4dHp3d3R5YlHSAdcBQVVfeXFMTUhWSzdUaG5XWlN2dXpTRUpzbWR2bzcxdjkzTTh3ejhSMk5BajlVQ1g4V2UyQUlLLXhDZEtGNEI1ZTVhbzU4VFI1ZzZDRTZzbVhEcmxEUUUwRGhNU1FuelhFM0JCT2llX3N2NG00T0xoNU82QjlhWWdjcTUyWUtwYUk3bkltWGdlY2xfMURPbnp2anEyNnVucFdYTHQyZkIwRWRZZGdnV2t2RnZOME5NODFkVUJaQVJiTGhxYk8tRmpFdU5oYVRJOGtFeExnejkzd3k1bTViZHc?oc=5) (Simply Wall St, 2026-11-09)
+  - [Roper Technologies Inc. (ROP) Stock Price | Live Quotes & Charts | NASDAQ](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xOVJmTmFfYWVSRWlfX3RaOVI3a2hRLXlZbFUwUUlPSmc4VDZPbUFtR0RRazF3SjY0cjhCblYwV0I0VUM0WjI2M3VfMA?oc=5) (StocksToTrade, 2026-11-07)
+
+### 9. AMGN — Amgen (final 81)
 **Why now:** News: guidance raised
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +14.1%, 3m +21.1%, 6m +44.6% (beats 90% of stocks)
-- 3-month return vs QQQ: +29.7%
-- Volatility 21%/yr (unusually high/low)
-- Trades $1,624M/day
-- News: 18 headlines in 3 days, sentiment +0.15, flags: guidance raised
-- Filings (7 days): [10-Q 2026-11-03](https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/); [8-K 2026-11-02 items 5.02](https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/); [8-K 2026-10-30 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1551152/000155115226000033/)
+- Momentum (to last week): 1m +15.5%, 3m +20.0%, 6m +45.7% (beats 90% of stocks)
+- 3-month return vs QQQ: +19.3%
+- Volatility 34%/yr (normal)
+- Trades $1,290M/day
+- News: 18 headlines in 3 days, sentiment +0.20, flags: acquisition, guidance raised
+- Filings (7 days): [10-Q 2026-11-04](https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/); [8-K 2026-11-03 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/318154/000031815426000153/)
 - Insiders (7 days): no open-market buys or sells
-- Earnings: unknown; stop 279.35 (-4.1%, 2×ATR)
+- Earnings: 2027-02-02; stop 445.68 (-4.2%, 2×ATR)
 - Top headlines:
-  - [AbbVie (ABBV) Raises Guidance And Dividend On A Valuation That Still Divides](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmZPeVdla0Zhc012TGE1bWl0VDVYNk9NVlVMdU1vdlppRmVkM1ZlX2dONXVMVXJFOTZoT01LcnQ5V3hBU2c0aFptTm96Vjd5THlYcTV5dXRHNDlKSGRubW1CNkhKUW51dEhIRHJidkFxZTBwcnRyaXRZT2JYQ3ZBdF9NQXVrVXdPeG5aV1BiWVljVndGWG02RTNaX2x3bG1tUVJQQlQtU2ZDT2N2ck9pRDc0ZWFtaTl4a2RXMVdtT3dsU0RURFpMLVhaMVI0Wll3Z3Q3SdIB2gFBVV95cUxNcWdTUmRGVG4ySWtvamZGbjRDYXdxUHJERi1DbEN6alZxSlFMRy1CZ1g5Qy1nZHdaUVBQSGxRcHlnVGljSWJEaWtMYnR6QUxUbklfSHc0MHRnRjlQRXBwd0M5UFR0SVBYZUxTMUtFeDdBX3Vuc2s1N2xvWHI0dWdWVHhGbXJGRkRpcGZvaGx1c2llUGJ2bkhDZVF5Yzc5RHByNkpZZ2FxekZsalFOcEpyVWxRbUQ1Tjlhdm5qWVlIT2RJS0VHU0IyRmNoRFNzNlh3Tm1HNXlRMUpydw?oc=5) (Simply Wall St, 2026-11-06)
-  - [Here's How Much $1000 Invested In AbbVie 10 Years Ago Would Be Worth Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0Y0aE90Njc4NndkRmR6Rk12VlM0X3dHZW5BMjJvYndYWkVnU21acW1GUzZ5NlVDbkZNbmVGTFZKOVRLdW9nYUpRVmNjWkhKdE91dTBtMFFjOUtIWkhTTFNPTmNpZVJjWUp6MlZJVW9QNEtCclJqNGFZamlDZG9KNzZKM2ozM1dwMHVaTTVRTm9zQ2RuODVxeEhncXAyNkxOLWdKNEJhRkZxSVJxc0MwbGpQOTk4Zw?oc=5) (Benzinga, 2026-11-06)
-  - [The One Thing To Settle Before Buying AbbVie Stock](https://www.trefis.com/stock/abbv/articles/623290/the-one-thing-to-settle-before-buying-abbvie-stock/2026-11-06) (Trefis, 2026-11-06)
+  - [Amgen Inc. $AMGN Stock Acquired by Kestra Advisory Services LLC](https://news.google.com/rss/articles/CBMivwFBVV95cUxPeklWNkhRdnNrX083WFlMREE2SlF2WG51dGtObHlRaVhjWVVrYVZfOUFZc0RLVEVCOW45RmxtcEZYZVBOblRFbE9neUJhZ0VaQnFpbUloYUYzZE5rVDlJdlpWVDRNUzNIQVNnMkpCeFdnbzlZdFpJbGVPS3FCMlJfTk9oeWZPR3gyZ2JqdVFMZlBNWlJZVG1ISDI5YzJnT1lQbU9uRGl6ODRnekF5QXI3VlN6QTNMY2xQYlRfZTBORQ?oc=5) (MarketBeat, 2026-11-07)
+  - [Amgen (AMGN) Stock Could Be 34% Below Fair Value Following Raised Guidance](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUEpaZXFIbWF0OEJRZE52amJteFF5cXhQSVZmcUZENmpkQnlBV1V2TVZWd0VERkdmRGtfZVBHX0M0NFVHUVRKTEVqWGg1WVhRZG5lVGdZRXJXWlZYOGo5T2xTRFpFblNYSDNVRHI5QkdkcnR5c1J6cXd3TVJIM1FpTGk5TWROdXQ5ajR6ZzVsOVd6Qi1GWkxkU0hVbThNbDdXcmtfd0ZCdWs0OVc4U21Hbm82a1BrMWh3cE9SMzUwaE5Td3BHOUdXSHRPR2NaSFVWRFppXzFn0gHbAUFVX3lxTE5EcVVMTlNPaFo0Vkp4VVU3MWMweTNJN0JxZG5zWXBvSXhHMjRhR1N6TlNFVWl1VWJsZzBnRHVmbXhXU19KdWJZX1J0Tkw5M0NtNm1yREtYcVZ2RXFCNFctWWRab0VFQm56clU0OEwxdjJGVlNIZzJyZ1NMa0VlWUZlUURxa1k1SVE3ZkRYXzhmQzZwLVpheVdQV29lVEFvSnB6Y3JmdHVTWDVieDM1ZGRxMHdiSUdCdUE2X24zXzRibUo0MmRzQzFmajZFMUZINzdNQTN5QzFhV2g4NA?oc=5) (Simply Wall St, 2026-11-07)
+  - [Amgen (AMGN) Highlights Cost-Effectiveness of Repatha in New Car](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdk5BdEJBb2pTcWZnVTJwODh6UHM4VzNSZ1d6XzFCa2ZUWFpxVURHWU90bzlEZFdQc1kwQVNaS003VHZNWUswemI4MlFyTjc3QUxCVzhHMU04NWhYN0tERDRWX2JMdVBHazI5Tk9MaDkzMXNmaUtBVlVvdXlXcEY2blJjQjNaeTVTVkc1WEc1X1E1SzB0QVBCS0swZWFEczJMNnpwRUh3QjY1NUNyWGNWRU9SSXpHXzRJUXdNUw?oc=5) (GuruFocus, 2026-11-09)
 
-### 4. LLY — Lilly (Eli) (final 82)
-**Why now:** Strong trend: 6-month +48%, 3-month vs QQQ +21%
+### 10. ABBV — AbbVie (final 80)
+**Why now:** News: beat
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +23.3%, 3m +26.6%, 6m +47.6% (beats 96% of stocks)
-- 3-month return vs QQQ: +20.8%
+- Momentum (to last week): 1m +10.6%, 3m +19.2%, 6m +40.6% (beats 83% of stocks)
+- 3-month return vs QQQ: +24.7%
+- Volatility 21%/yr (unusually high/low)
+- Trades $1,632M/day
+- News: 11 headlines in 3 days, sentiment +0.24, flags: acquisition, beat
+- Filings (7 days): [10-Q 2026-11-03](https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/); [8-K 2026-11-02 items 5.02](https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/)
+- Insiders (7 days): no open-market buys or sells
+- Earnings: unknown; stop 281.70 (-4.0%, 2×ATR)
+- Top headlines:
+  - [Is AbbVie Inc. (ABBV) the Best Healthcare Stock to Buy Following the 2026 Democratic Midterm Sweep?](https://finance.yahoo.com/healthcare/articles/abbvie-inc-abbv-best-healthcare-154313924.html) (Insider Monkey, 2026-11-08)
+  - [Earnings Beat Could Be A Game Changer For AbbVie Stock (ABBV)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR245WlRwa2VwaU5MY2c5bXVkalBjSmkyd0ZtV3VSdkpLV1Field3QXhaQ2FDZklBUW1wRnc2WlhtSHo2UXFWN0FhV3lKT1ByVDduMTVzRUEteTEyU0E5bnVrN0wwWkJSQ3hHaDR6WFRxcHgyUmlOeFcyWDdtWUZmUW16ZmUzejZxN1dyT1ZCaHBTYTB3NjZ0VzhEbUxRMDQ2ZUFISmVCSDFLbE1JREFGRTlvUXh3Nlg1dzQ5b3JUVzlUVTBUT3FmOThQZE5ONlhDdWxJanNkcS3SAdgBQVVfeXFMTkduOVpUcGtlcGlOTGNnOW11ZGpQY0ppMndGbVd1UnZKS1dRYnpXd0F4WkNhQ2ZJQVFtcEZ3NlpYbUh6NlFxVjdBYVd5Sk9QclQ3bjE1c0VBLXkxMlNBOW51azdMMFpCUkN4R2g0elhUcXB4MlJpTnhXMlg3bVlGZlFtemZlM3o2cTdXck9WQmhwU2EwdzY2dFc4RG1MUTA0NmVBSEplQkgxS2xNSURBRkU5b1F4dzZYNXc0OW9yVFc5VFUwVE9xZjk4UGROTjZYQ3VsSWpzZHEt?oc=5) (Simply Wall St, 2026-11-07)
+  - [Zacks Investment Ideas feature highlights: Moderna, AbbVie, Eli Lilly and Merck](https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-092000899.html) (Zacks, 2026-11-09)
+
+### 11. KDP — Keurig Dr Pepper (final 80)
+**Why now:** Strong trend: 6-month +29%, 3-month vs QQQ +35%
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +21.2%, 3m +19.3%, 6m +29.4% (beats 90% of stocks)
+- 3-month return vs QQQ: +34.7%
 - Volatility 31%/yr (normal)
-- Trades $3,863M/day
-- News: 28 headlines in 3 days, sentiment +0.06
-- Filings (7 days): none
-- Insiders (7 days): 1 sale(s) ≈ $7.0M, 1 pre-planned
-- Earnings: unknown; stop 1274.78 (-5.9%, 2×ATR)
+- Trades $649M/day
+- News: 3 headlines in 3 days, sentiment +0.25
+- Filings (7 days): [10-Q 2026-11-09](https://www.sec.gov/Archives/edgar/data/1418135/000141813526000066/); [8-K 2026-11-03 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1418135/000141813526000064/)
+- Insiders (7 days): no open-market buys or sells
+- Earnings: unknown; stop 35.30 (-4.4%, 2×ATR)
 - Top headlines:
-  - [Hims & Hers Surges On 'Surprising And Inevitable' Deal With Eli Lilly](https://www.investors.com/news/technology/hims-stock-eli-lilly-branded-glp-1s-deal-zepbound-foundayo/?src=A00220&yptr=yahoo) (Investor's Business Daily, 2026-11-06)
-  - [Eli Lilly Picks Hims & Hers to Sell Its Obesity Drugs, Days Before Hims Reports](https://www.tikr.com/blog/eli-lilly-picks-hims-hers-to-sell-its-obesity-drugs-days-before-hims-reports?ref=yahoofinance&tlnk=yf-261106-2f783gv8) (TIKR, 2026-11-06)
-  - [Eli Lilly Strikes Surprising Deal With Hims & Hers](https://finance.yahoo.com/healthcare/articles/eli-lilly-strikes-surprising-deal-192531796.html) (GuruFocus.com, 2026-11-06)
+  - [Q3 profit rose at Keurig Dr Pepper (KDP), with a $400M investment-sale gain in the mix.](https://news.google.com/rss/articles/CBMisgFBVV95cUxObXczUWNWWm9aOUd3aTFhZE1SakI1VE82ZHBPV2tWRjJHWUROTThKeFpyNlRUSWFvQkE4emhXcTNtdG5XVGdHRGNNcGFGdjJSRjNvcXNpUkNPUkZmNkNNZWJmaUVwYUcwS3FfZlRDM0theDZkMVlvNFk4cGdVTGxJOE1IVmVNMWY0OUVLTnlZY21LWmFnY1RlVWdRbFI5UUZhMkdiTVFGQ0RHLWp5SWVGNDRn?oc=5) (Stock Titan, 2026-11-09)
+  - [Keurig Dr Pepper Inc. (NASDAQ: KDP) Stock Analysis: 33.58 P/E, 2.5% Dividend Yield and EPS Trends](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRzaW1CUlA1NzdmTWk4NDdHMmFzLXQtamdDUXBZMllfQ2tTTVFiRk1tRk1QZFBxNXlXS1Vnd3ZkUWE5N2lnSmtBSVdNWVpGSTQ2OWtyRUJKaXRSX0k0NGcxdTFCNHdpZ1hBVWtKZnluYnVMU0JSazJQd0NsMTFHMGRSMTc3bGltekJNWDdsc01Yb2xTb0dYbFEycnpSbG5yOWloek8xdmh3SDJjRDBua2doOGdJSlhjenVtVTFhNmEwODFXVHRB?oc=5) (Kalkine India, 2026-11-09)
+  - [Keurig Dr Pepper, Inc $KDP Stake Lessened by Allspring Global Investments Holdings LLC](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ21Fd2h4bDY2NTRNU1FmNlF6SEg2d2lNTXZpWjdsQ0l4UUdRQ3lReDQ5bHhrY29fTU1wRm5OTWFLRkdPMlBNY0NOWWNIVVF2NzlMYWpCcEZET1I0Rk9RSXNieUNTRG8zM3g3UVFWb3NpRFZGUnJRX29pazh2aDEtSEhTb2lkRFpFcFdVaFkwMFVOOFlsaUxteUFIT2x6YnVoVDh6RDdHdEZyc0JaQW9hSXhEeHdjNkJzRnE3WTZJNnBmSUpvb1B1OUI2T2dzaldjb1BjTWhiN2JjMUpVY0E?oc=5) (MarketBeat, 2026-11-09)
 
-### 5. GILD — Gilead Sciences (final 82)
-**Why now:** News: beat
+### 12. VEEV — Veeva Systems (final 80)
+**Why now:** Strong trend: 6-month +80%, 3-month vs QQQ +37%
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +15.7%, 3m +30.9%, 6m +31.2% (beats 91% of stocks)
-- 3-month return vs QQQ: +38.4%
-- Volatility 28%/yr (normal)
-- Trades $1,148M/day
-- News: 15 headlines in 3 days, sentiment +0.15, flags: acquisition, beat
-- Filings (7 days): [10-Q 2026-10-30](https://www.sec.gov/Archives/edgar/data/882095/000088209526000039/)
-- Insiders (7 days): 8 sale(s) ≈ $25.0M, 8 pre-planned
-- Earnings: unknown; stop 158.61 (-5.0%, 2×ATR)
-- Top headlines:
-  - [Did Earnings Beat Just Shift Gilead Sciences' (GILD) Investment Narrative?](https://finance.yahoo.com/healthcare/articles/did-earnings-beat-just-shift-121329107.html) (Simply Wall St., 2026-11-05)
-  - [Gilead Sciences, Inc. $GILD Stock Acquired by Aware Super Pty Ltd as trustee of Aware Super](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOERNdmpzN2xzU3BLRXJjVnJWNHU1a1lxMEQ3UFBMYXM0a2xQczhtU1hfMXp3X0ZyLXpVRFpvcVpuT0MydzNHOHpneVdRclZuUnBEcXg4eHYzTTJCRldaLWJwTDZ2WTdfMkhtOUxVSTBTa3h0OWxkc3dmOGpmR1p6OHNaNHpQcEFPQkE2M3ZZSk1yLVBtRVMzZDNZcDlnYkRIb0I0Rm0wYkFhTFB6alVFdW5KeGF3RXpEc1pLUFdaZnl2SDM0UldwMkgwbjdHck84aEJlVy1jWkUtNGd4Y0V1dkpfOA?oc=5) (MarketBeat, 2026-11-04)
-  - [Gilead seeks wider use for Livdelzi on Phase III liver disease success](https://www.clinicaltrialsarena.com/news/gilead-livdelzi-phase-iii-ideal-pbc-liver-disease-alp/) (Clinical Trials Arena, 2026-11-06)
-
-### 6. REGN — Regeneron Pharmaceuticals (final 82)
-**Why now:** News: beat
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +26.3%, 3m +22.4%, 6m +32.6% (beats 94% of stocks)
-- 3-month return vs QQQ: +23.0%
-- Volatility 39%/yr (normal)
-- Trades $814M/day
-- News: 21 headlines in 3 days, sentiment +0.17, flags: acquisition, beat
-- Filings (7 days): [10-Q 2026-10-30](https://www.sec.gov/Archives/edgar/data/872589/000087258926000034/); [8-K 2026-10-30 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/)
-- Insiders (7 days): 28 sale(s) ≈ $43.7M, 1 pre-planned
-- Earnings: 2027-01-28; stop 853.75 (-5.6%, 2×ATR)
-- Top headlines:
-  - [How Investors May Respond To Regeneron Pharmaceuticals (REGN) Earnings Beat](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb0YzOWZyYWEzLTVVR3NPY2M4d1VUNDdFM3VrLVFmVXZVUDJScmtvaXZ0TnBkazUyZDlIbXN3aTNoTWlCQ2NjV2xDWTR6RnprZC1uSkszN3N1Mk5PS1pDa3N5UkptTkZiX0pCbDd6QkhmSlR1TTRPSVhxMm9tQXp1SzYyLVM4Z1RDOWdLUEkyR1Z0T3lDQTdXTlZoSU9NalhMSDVlU2RpcU5Rb2tncG9HYVNOYlNwNUpZVTZiLU5kOGE2aWxseVoxZE9lcGlJQWZCTTNfRFVGNkVCTTUwNDdHUHY4RmpzU0NGN2hvRkRQNEFVUdIB9wFBVV95cUxOQjkyQzVveTQ3blUyTHNaYy1tbFMyZ1hCcHhJWTVyOE5TMy1nb20tUUtfYlg5bmlBVlJlX1BtU1prSVVCVDRFWGx5Zk5Pck91OEllQ2V5ZmJZbnNWS2ppYjhFajlsNlJUQS1YOV9NNDAxWW1QWFhELWM4dkxDQUM0Mi1tSjhYMEp4UmxMbWhfZEd1aEJWZlFRRUktd1N2bTBFcVdUTHVoT28xbC1wbkZpZDlGWE5tX0haLW9vY0RsdkF4eXNFYVlxbVJhMjJYRzVqZVBkeXJySXpuZm8wRlJvNUpYN0JVNFdFaG5NNF95UGphTU5rYWdr?oc=5) (Simply Wall St, 2026-11-04)
-  - [Regeneron Pharmaceuticals, Inc. $REGN Stock Acquired by Factory Mutual Insurance Co.](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTkFpZzROOXZUMVlFTmZmdi1nMURVVjh3ZDMzTUdIYW1RakpRQXBpaUxvX202ZExFYUVqcXdpNklKVzdaZVhLXzQ5dlF3dlh1RHFybGc5VzNPYWxrRlcwcFo0S2E1ZzRTR250cmp3X3pUcmNRVlZGdy13REhNX1Q2LUJNaUJTeHl3QkN5WEpaRGZyQjg5dnVQTU16NGNwMlUxdXRBQ0lFY1h4X01OLUtwMlhIdl9sMVlWck9jYW1mXzE1REx6NVdhOERKcl9zRkVvVVBOdGVacEE?oc=5) (MarketBeat, 2026-11-04)
-  - [Huda Y Zoghbi At Regeneron Pharmaceuticals Executes Options Exercise, Realizing $3.88M](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEhFbm1mTWVHNl9WanJ5VXV6MkNFdHZYdTVGMjVXZGJHUTFLeVJSOTBiTE1EdWVVekVSMEcyMTVlUUpvUXdUTjlQR1ZvcnhuSWNyenpQVk80dHZRR2hWY3Q4VlgxUkQ5b2NTSldsajM3TzFYdWs4anNGRWxUQUxrRnpndWl4NnBsMWRwd0tTWTZlcnJsWE84RzNpVG1zRDJvWHctYlREQk1Nb2lucjd4YnlvQ0psOThsZmJYcDdMbDBYVWdj?oc=5) (Benzinga, 2026-11-06)
-
-### 7. MA — Mastercard (final 81)
-**Why now:** Strong trend: 6-month +29%, 3-month vs QQQ +27%
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +16.2%, 3m +11.9%, 6m +29.2% (beats 86% of stocks)
-- 3-month return vs QQQ: +27.4%
-- Volatility 22%/yr (unusually high/low)
-- Trades $2,256M/day
-- News: 10 headlines in 3 days, sentiment +0.00
-- Filings (7 days): none
-- Insiders (7 days): 2 sale(s) ≈ $5.5M, 2 pre-planned
-- Earnings: 2027-01-28; stop 628.71 (-3.7%, 2×ATR)
-- Top headlines:
-  - [Mastercard Hit a Record as Visa Raised Its Dividend 16%. Here’s Where Mastercard’s Cash Goes](https://www.tikr.com/blog/mastercard-hit-a-record-as-visa-raised-its-dividend-16-heres-where-mastercards-cash-goes?ref=yahoofinance&tlnk=yf-261106-5r2fpvj2) (TIKR, 2026-11-06)
-  - [Mastercard's 19% Services Growth Steals the Q3 Show: Buy or Hold MA?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0dyQUlWdFpPQmFKQ0psbmlhZF9JdFA5OVU4OGZFWW43dk85WGlxZTl4VGgyTENCYWpnZndBenRUMXVpUmNaRHJqWng2RkF2WEZCaW53NXFVendZWlB6X3NDVXZCbHl0dE9WaDI5Y1BzUUVKbm9WaC1vemY0RmFpVWtIOUlaN0tSM19PQ2tJenlmd3ZpVW80TjdCNGQ1bTF0TGN4TWQ3eng?oc=5) (Zacks Investment Research, 2026-11-06)
-  - [What Could Mastercard (MA) Gain From Its $15 Million AI Commerce Bet?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOVY5UmEtWEQ5TTVJdUc3M3BpeEVoVHB1Y0xqZ1NwVlp6cjlWYm9BTWZGMTRZZ3NsSW5oREtGbC02cjJxM1NJRXhhcW5Tc0ZEMk9sZTJuLVpDT1o1ZlpWdmZLMUE1NVA5WHNaNmo1N3ZzWERLLWtBYVpwQkRjRERSUzFCQmFDekljN2c4anhzUTFEeDFmVzd0WVBlY09BTjFMTGlzX3NKOHlIUFYxdGRRSlZIYnhaOFJKczR3LVJ6RXRlSV9DQzRXZTA5djdRQ2ZUcW94aUFB0gHbAUFVX3lxTE1SaEIwN0ZHWnNTNjNFaUhWdUo2VlUyR2RKVTZXY29fclQ1eG9JaDZVQkhmbmRHS1o0R2ZmMWlzUjRsVUstdk5yd3RBaFAteUEteUVkcVk0ODFxcGE1OGMwdkFmU0h1eXJORk9WT2RkTG42T1Jka2FCY3c2bnA3ckNBWUhvUW0yMzlaVnBsRjNYbHM2ZS1FeHV1ZXRIdi1rUGJ1ejJud0tzcGdkZzVXR25HNUhTRkVpTXoyaE1iMHlsZnFDX3dFclJ6MlE5aFoyNnNfT3d1UE1RYnI0SQ?oc=5) (Simply Wall St, 2026-11-06)
-
-### 8. VEEV — Veeva Systems (final 81)
-**Why now:** Strong trend: 6-month +82%, 3-month vs QQQ +42%
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +11.0%, 3m +51.7%, 6m +82.4% (beats 89% of stocks)
-- 3-month return vs QQQ: +42.0%
+- Momentum (to last week): 1m +12.3%, 3m +44.9%, 6m +80.4% (beats 89% of stocks)
+- 3-month return vs QQQ: +36.8%
 - Volatility 44%/yr (normal)
-- Trades $492M/day
-- News: 21 headlines in 3 days, sentiment +0.24, flags: acquisition
-- Events: gapped down -4.2%
+- Trades $497M/day
+- News: 13 headlines in 3 days, sentiment +0.18
 - Filings (7 days): [8-K 2026-11-06 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1393052/000139305226000039/)
 - Insiders (7 days): no open-market buys or sells
-- Earnings: 2026-11-25; stop 290.01 (-4.5%, 2×ATR)
+- Earnings: 2026-11-25; stop 293.11 (-4.3%, 2×ATR)
 - Top headlines:
-  - [MH & Associates Securities Management Corp ADV Acquires 10,964 Shares of Veeva Systems Inc. $VEEV](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQmFyTWFTZldqcXJMZXdTbk1CNHd3U0F0bFdCUkxZNTMxamNFWUg5WlIxUWRXV1hlN1VKcjhrSTJjQlI3SEFFR0h2X3RhYW5CbU9LT2VxaUktOTc0bzVvbDJCdTVLb1p0R25FODZiY0pRVlZCbHB2amxLM0JTdHl6N2wyd2xPZUJFb3lTOFJKRG9FeXd6WHE4bVY3UDRpMWJSTk1FYWNtRVdZYnV6Z3ZqdFNmbXZWUnVPVUpyRG4tRTJPTEJVR2ZDak5lZkFaakVYTlZscVd5dW90YWhqOExibTQtUGZLRHVi?oc=5) (MarketBeat, 2026-11-05)
-  - [Veeva Systems Inc. (VEEV) Stock Forecasts](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjhNSmNRRVUzTkJxUVZOc0ZwZ2J3cU16UFpJc21wZW81cVl4UDcxdU42UkdqQUZzNkk4UVItUUlxUEotMXNRZlJ4TFVLdzRxOU0xM01yeUxGYjJodGExTDU1b0lzbVgwU043N3ZMNWNZMzhRNnFkakh3X19GQS1wS19aUnEyWjUtQjE0Tw?oc=5) (Yahoo Finance, 2026-11-06)
-  - [VEEV 8-K & SEC Filings](https://news.google.com/rss/articles/CBMiekFVX3lxTFBNZ1IteTJ1em16aTFCTmVvSXdZSERLU0g0UlJ1VVJzNm1ITzBHMkJiTU82Ynl6YXBnR3AzS2tpa1MwdldqZ0txQm5Yb2w2OS1JU24zb2FMS19RdDJ0cllTZjFWZUd2VzBLdUg2YmFjcnBRM0xkeGZfYkt3?oc=5) (Yahoo Finance, 2026-11-06)
+  - [IBD Stock Of The Day, Veeva, Retests Its Buy Point On $6 Billion View](https://www.investors.com/research/ibd-stock-of-the-day/veeva-stock-veeva-systems-investor-day/?src=A00220&yptr=yahoo) (Investor's Business Daily, 2026-11-09)
+  - [Canaccord Genuity Group Issues Positive Forecast for Veeva Systems (NYSE:VEEV) Stock Price](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUG1tSk1teFRYZ0s4bjQ0ekRNWHN2MHFEN1JQNWlWcmxxQjVYdGs0TURyZVJCaGw2ZFp0Zjc4dzNueXdzM0FyS2UtODNHYkZlelFld1FPbU5zbTZ3QVpFUTdieHR3NFRFR1RGM2xwTGRqNjJJNFdzQjJLTFBZZjB2LUdrSDQyYkZ0cGFPeERyMmtlWVZqRzFKT2NTU0JZQVVyTHEzQnJLUWxscmtIUW96anhNMWhFRE11OF94X0dzMjVWeEtQRjBVbHlMd05HeGN0MGxBTG5LQ0F3TWhVQ002aXowbEU?oc=5) (MarketBeat, 2026-11-09)
+  - [Truist Financial Maintains Veeva Systems(VEEV.US) With Buy Rating, Announces Target Price $360](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWJFWE0wT1J1SjFKNWk1RXVESVkxMFFJR0d2VlZLQnk5bzFzZy1YZEd2YTJSWXlUbHluQ0J3bkRmMEM2bkpXZVlzc2lPTFZXc3JoaVV4cmhNcGpPMTR0UElFSG1pNkxhUDZWX0NpUFZjVFRFUmhyYXhKRVdfWloyejRQM1RlbFJUbk9OSTRsVWVYVk90WGszeWZmZHVTNVE0cXlNTmI2M21vcXhvNTdFSXZjUzZqdDg?oc=5) (富途牛牛, 2026-11-09)
 
-### 9. CRL — Charles River Laboratories (final 81)
-**Why now:** News: beat, guidance raised
+### 13. MDT — Medtronic (final 80)
+**Why now:** News: upgrade
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +25.3%, 3m +55.7%, 6m +116.8% (beats 99% of stocks)
-- 3-month return vs QQQ: +33.7%
-- Volatility 48%/yr (unusually high/low)
-- Trades $430M/day
-- News: 21 headlines in 3 days, sentiment +0.07, flags: beat, guidance raised
-- Filings (7 days): [10-Q 2026-11-04](https://www.sec.gov/Archives/edgar/data/1100682/000110068226000157/); [8-K 2026-11-04 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1100682/000110068226000156/)
+- Momentum (to last week): 1m +14.9%, 3m +16.1%, 6m +29.0% (beats 85% of stocks)
+- 3-month return vs QQQ: +20.7%
+- Volatility 27%/yr (normal)
+- Trades $1,501M/day
+- News: 12 headlines in 3 days, sentiment +0.06, flags: FDA, upgrade
+- Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
-- Earnings: unknown; stop 307.34 (-8.9%, 2×ATR)
+- Earnings: 2026-11-24; stop 98.74 (-3.9%, 2×ATR)
 - Top headlines:
-  - [Will Earnings Beat Change Charles River Laboratories' (CRL) Narrative](https://finance.yahoo.com/markets/stocks/articles/earnings-beat-change-charles-river-170937196.html) (Simply Wall St., 2026-11-05)
-  - [Charles River Laboratories, A Top 2% Medical Stock, Drops Despite Its Beat And Raise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3lVVUkxQkVYYUxBdWxxQlE4SlFFQml2bmdMbVZRV0NnUlFiSVJrVk00UEg2dzhkdnBxYTJLWlhXUWJUYV82M19GaVJjdEJsVjZKN3ZZaGExRHV0MUlVV0dlWjE3Wm1laHpkYm9lMk1EWmhIcV8tTE04Y2NKT0RTMVMxemFtY2ZRTEJ3NnhLX2I5eDlqdkxF?oc=5) (Investor's Business Daily, 2026-11-04)
-  - [Charles River Q3 Earnings & Revenues Top Estimates, Stock Rises](https://finance.yahoo.com/markets/stocks/articles/charles-river-q3-earnings-revenues-140100376.html) (Zacks, 2026-11-04)
+  - [Medtronic stock gets FDA label boost from renal denervation data](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWNoV1NWeVBlbzBDUjlvb1hDd0doMk96azY1clhSbXR6aFBTMThlTkFCc2RZczdOU0dkbkZfd0w0cTIweTltdDhDZXIxNElJcnU4dVFveVo3VnJscVhlMUNKdkFqN1VZZVdKbEtFcWR0UjlveGNnbnV1bnlxVVppOUF1Tzd2dzVlU2lzNEhTajNkVi1WQjI5LUp3a0hEeUFpVmRGTUMtTWsxal9zTEFPSDloT0FRLTZXdi12R0IzSkh4UmZwMUE?oc=5) (ad-hoc-news.de, 2026-11-09)
+  - [Medtronic (NYSE:MDT) Upgraded at Wall Street Zen](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXZzU2NUclUwOUZ5VlFFSTRyTm0xOFVoTGh3MDVNTmdpa2VTTEFSU2QwQnU0VDlUemJqUW52RUN1U1VwdzJ6SGk0aWdOalREdk5RUnEzMFQyWXp0eUh4aWxfRFVTeDhYUXlIT29NVXBNRTY4S3BQakVCVGRGcGpaTGlQRTZBYU5tUExtOTc3MU1uNmZ2RXNRX1RKRXc2NFBmOW0zTVVlb21Ib1hL?oc=5) (MarketBeat, 2026-11-08)
+  - [Is Medtronic (MDT) Undervalued After SPYRAL AFFIRM Results And FDA Label Update?](https://news.google.com/rss/articles/CBMixgFBVV95cUxOTy1FVkVVZko2eW1PMUpIU1U4OG4zS0J0OUdfYVVmc1hzcVpfN0hZY25BT0VpR3JvcEd4MEQ3MmNIb3AtbTEzNGJZeUdjVHotRTJOaHgtbENLVzBVRzUzWTdIN3FJd1NTVWIxbjRPSWp3Z00xb2Q3TF9aV1JUWFNmdzBabld1a1RyaFotRHpES0ljMzFCLU9vY09IbncyUHZkeHFja244UXdDUmczdmZWNzNKWnoyODlJc1VudWFweDVwQXRKZUHSAcsBQVVfeXFMT1lGckxRZWRvNHV6MmFGc005UTNUQnc0dVZQbE56QVNwQU5RWDV6OWFpUExwQ1ZRUEJ1WF9pUTJKWFpNSTU0NDhndDFDZzdMbFN1MWtIZDZ4RFFmTGVVUnZqOU10YzJESUMxZFlDOXZUbmFubHdydWZyOC04U3YyYW9FODJYVzlJclVPNnpvUG5SSEtxRkYxaWJMOElmcy1BZlpxMDRfMkQ4Y2tZcUpfeDF3Z2RaaFAtY3RBbWU5S0pCenhwRDNHZGQ0WEk?oc=5) (Simply Wall St, 2026-11-07)
 
-### 10. ROP — Roper Technologies (final 81)
-**Why now:** Strong trend: 6-month +31%, 3-month vs QQQ +30%
+### 14. SPGI — S&P Global (final 79)
+**Why now:** Strong trend: 6-month +19%, 3-month vs QQQ +22%
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +28.7%, 3m +18.9%, 6m +30.6% (beats 93% of stocks)
-- 3-month return vs QQQ: +29.5%
-- Volatility 34%/yr (normal)
-- Trades $509M/day
-- News: 14 headlines in 3 days, sentiment +0.26
-- Filings (7 days): [10-Q 2026-11-02](https://www.sec.gov/Archives/edgar/data/882835/000088283526000047/)
-- Insiders (7 days): 8 sale(s) ≈ $22.6M
-- Earnings: 2027-01-26; stop 451.26 (-5.3%, 2×ATR)
+- Momentum (to last week): 1m +23.0%, 3m +15.4%, 6m +18.8% (beats 85% of stocks)
+- 3-month return vs QQQ: +22.0%
+- Volatility 26%/yr (normal)
+- Trades $871M/day
+- News: 7 headlines in 3 days, sentiment +0.12
+- Filings (7 days): none
+- Insiders (7 days): no open-market buys or sells
+- Earnings: unknown; stop 451.51 (-4.2%, 2×ATR)
 - Top headlines:
-  - [CEO sells 40,000 Roper Technologies (ROP) shares across six entries.](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDVxWWNpUlMyN3VETjNvZHV0N1Z4WXcxbkZROGhQc0EtTUttcVZGenhIS05pT0NqR1Z4cXE2aF9ud2pTOGp1UEdfZ0JMQWF6N3ZvU0hJSEJFQ3BrWXFYaUE2Y0N4WlhuRndJOU1MR0hELVpRWkRWSTB3RUJDNzFpbDlycG5hOUdKbkl4Yjg5M0ZYbUJfMGtCVVJRSmJQb3hhak9iRmtldENqUjdkUi01cTRiNFE1Zw?oc=5) (Stock Titan, 2026-11-06)
-  - [Insider Move: Brandon Cross Exercises Options, Realizing $293K At Roper Technologies](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWplX0V0dFZ1LTFDeGJadWRDR00wLWpfalgwYzRzRHFvM0ZtaDB2UnpuQW1Jal9jNGYybFp3RmIyY0lrRUU5UUNwRE1TR2JXc21FNzY4NGt3Q1JpdERqLWtkWVBjSHlaNnFsazhJTHU1Z2hvU0xXRnRZU1VTaUJVb05La09Ga2Q2VEdValJlTnNsOVhaV2pUN2xIY2owa2QzbFJ3eElZcjI1WGV6V3VGbC1MSWg3dFdRV1RnenJWR3k?oc=5) (Benzinga, 2026-11-06)
-  - [Roper Technologies (ROP) Stock Looks Fully Valued As Cash Flow Comes Into Focus](https://finance.yahoo.com/markets/stocks/articles/roper-technologies-rop-stock-looks-071322309.html) (Simply Wall St., 2026-11-06)
+  - [S&P Global Inc. (SPGI) Stock Forecasts](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEg3bnBiQmpvVE5oZDNQcjc1UVRzMDJvdHBfTlhoaWk4S1RZdXFVeGtCQzB6VmZqSE94TG53S0p0Q1hpRjZzcnBnNGN0R2ZGZHJSTFBLWTBUSUt3OS0xbFI3eS1EVEw5RXZ0STVuWlZ5YTBTdklBMGtJU1Q1SFVEMG9keGRzc05KVGRkbA?oc=5) (Yahoo! Finance Canada, 2026-11-09)
+  - [S&P Global (SPGI) Is Reviewing A Separation Of Capital IQ](https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-reviewing-separation-060740403.html) (Simply Wall St., 2026-11-09)
+  - [APO,FIS,APP,PPC,SMCI,SPGI,ABBV,NUE,MCD | Stock Prices | Quote Comparison - Yahoo Finance](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFk4YjNNM1lSSkMtcFpaOGlxSnNYUlJ5bFk4Q3pPSm5ObDJPTm95STZOb1QxZnlzTnZVOGZJZXJLVG9CXzB2c24tM0Vjb1k0WGIwS0p6WnBHM180YnNZVjdXRFZfYXpHSl9iMVlTZnhSaXU5U1JQdWhmNHgxMlJLMw?oc=5) (Yahoo! Finance Canada, 2026-11-08)
 
-### 11. EL — Estée Lauder Companies (The) (final 80)
-**Why now:** News: beat, guidance raised
+### 15. PTC — PTC Inc. (final 78)
+**Why now:** Strong trend: 6-month +41%, 3-month vs QQQ +38%
 
 Price reasons:
 - Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +21.1%, 3m +29.4%, 6m +38.7% (beats 95% of stocks)
-- 3-month return vs QQQ: +39.0%
-- Volatility 49%/yr (unusually high/low)
-- Trades $409M/day
-- News: 11 headlines in 3 days, sentiment +0.24, flags: beat, guidance raised
-- Filings (7 days): [8-K 2026-11-04 items 7.01,9.01](https://www.sec.gov/Archives/edgar/data/1001250/000100125026000066/); [10-Q 2026-11-02](https://www.sec.gov/Archives/edgar/data/1001250/000100125026000060/); [8-K 2026-11-02 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1001250/000100125026000057/)
-- Insiders (7 days): 1 sale(s) ≈ $0.5M
-- Earnings: 2027-02-03; stop 102.91 (-6.5%, 2×ATR)
-- Top headlines:
-  - [Results: The Estée Lauder Companies Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ2x3THpzNk5lVGI3Sm9PUzlOX2d1bHNDZi1EY05TdU1nb2R4cDhJekRKQS01VmM3N3o4S3BURUM0VTZVemVfVzdxSWk4OUJUaWdpNlRmaG1tS0tLalhBTWJzck9aTDZESjhnNGdFRDRJRU55azJPZkl3WW1RcXh6V3JGbFlZOXZrX3NjUk1JeXZQbVQ2bWM3YXhhLWhsaDljUUFPdkoxY3REcXVnVWNlQm51dXVBRlNxRkJKb3k2TjZIclV4VUdTdWtOOTgzLXRlR0JyY9IB2gFBVV95cUxPeEFvX2kxYUdQSF9ibk1xdGZ3cTlfVXBvZGtySmRYRWhDcmg2Q21LbXpQQUpBN2lKR18zLTJCbm5UbG5HM2ZGR01sRTFidUFPU3B2cWN4Mmd5UWlsOTQ5eDJUQzhsNjFQWHQxaVRnTEhHd2NkNFhJa2NiUUI0Mk1JVVBUNm1MbGNkNUF1ZW5mMEQxMENyMGhBYzk4OWp0RTI4TEpvVmRQWTJabUtnMURjOFpkSHZhaHkwSDJySHNBaVZ3LVVHemtQZjk4WldmLU9uaVdJWWhzaW5hQQ?oc=5) (Simply Wall St, 2026-11-06)
-  - [Estée Lauder Raises FY27 Outlook, Maps Path to 18.5% Margin by 2030](https://www.marketbeat.com/instant-alerts/event-este-lauder-raises-fy27-outlook-maps-path-to-185-margin-by-2030-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance) (MarketBeat, 2026-11-04)
-  - [Estée Lauder Price Targets Raised By Multiple Analysts Following Q1 Earnings Beat — What Investors Need To Know](https://stocktwits.com/news-articles/markets/equity/estee-lauder-price-targets-raised-by-multiple-analysts-following-q1-earnings-beat-what-investors-need-to-know/cNGLfQIR93W) (Stocktwits, 2026-11-04)
-
-### 12. MCK — McKesson (final 80)
-**Why now:** News: beat, buyback, guidance raised, upgrade
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +10.7%, 3m +20.4%, 6m +22.4% (beats 80% of stocks)
-- 3-month return vs QQQ: +32.5%
-- Volatility 29%/yr (normal)
-- Trades $762M/day
-- News: 24 headlines in 3 days, sentiment +0.12, flags: acquisition, beat, buyback, guidance raised, upgrade
-- Filings (7 days): [10-Q 2026-11-04](https://www.sec.gov/Archives/edgar/data/927653/000092765326000281/); [8-K 2026-11-04 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/927653/000092765326000279/)
-- Insiders (7 days): 2 sale(s) ≈ $1.3M, 2 pre-planned
-- Earnings: 2027-02-03; stop 1018.27 (-4.0%, 2×ATR)
-- Top headlines:
-  - [McKesson (MCK) Upgraded to Buy: Here's What You Should Know](https://finance.yahoo.com/markets/stocks/articles/mckesson-mck-upgraded-buy-heres-160007690.html) (Zacks, 2026-11-06)
-  - [McKesson (MCK) Stock May Be 37% Undervalued On Raised Full Year Guidance](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlpWOGVEclhubVZteUVfLXRsY3pqd2FIMWhaeTdrNFdWb09fOHJHb1MtODJLSkpybGdQY21UamZwaXdYY3AwVlBXT3JfNUtqMTlDb0FTcVI3WlphUDBMdXJNbFhwT1c2YmFZanJoUTYxZXZ4cXZuaDR5dU14c1FTblA0X1pHbVJjZzltbWxoZ1pMTTVPamdsY0FHRjZpcjlPM2pKZlJqQ29zdjYtM3lQR0UyZDZaVHUtaG5oVy1xbDh2N1NZb1FGQUJ30gHKAUFVX3lxTE9GWlY4ZURyWG5tVm15RV8tdGxjemp3YUgxaFp5N2s0V1ZvT184ckdvUy04MktKSnJsZ1BjbVRqZnBpd1hjcDBWUFdPcl81S2oxOUNvQVNxUjdaWmFQMEx1ck1sWHBPVzZiYVlqcmhRNjFldnhxdm5oNHl1TXhzUVNuUDRfWkdtUmNnOW1tbGhnWkxNNU9qZ2xjQUdGNmlyOU8zakpmUmpDb3N2Ni0zeVBHRTJkNlpUdS1obmhXLXFsOHY3U1lvUUZBQnc?oc=5) (Simply Wall St, 2026-11-06)
-  - [Is Buyback Activity Behind the 17% EPS Gain at McKesson (NYSE:MCK)?](https://news.google.com/rss/articles/CBMingFBVV95cUxQTGxaMnZPdDdZZVRGa2pYU2hQQlV1Vm9HaUc3ak1BbU5DTmdVbnY0Qk41OUxpQWpmVTlQeEtwU0J4cXBoUG11WnlENEN3ajg2NDA1TjZ2eUhnYWItbUFHVElVUWxzWnlXTWQ0M25mU3Y0ZGRrWFAtN0VRR2xHTG52UFgyVmhZNjF3OFBmWGFxeWxHSmRqVU5YTHBqQWYyZw?oc=5) (kalkine.ca, 2026-11-05)
-
-### 13. PTC — PTC Inc. (final 80)
-**Why now:** News: beat
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +33.5%, 3m +39.8%, 6m +43.2% (beats 97% of stocks)
-- 3-month return vs QQQ: +41.8%
+- Momentum (to last week): 1m +34.9%, 3m +37.1%, 6m +40.6% (beats 97% of stocks)
+- 3-month return vs QQQ: +37.5%
 - Volatility 74%/yr (unusually high/low)
-- Trades $456M/day
-- News: 7 headlines in 3 days, sentiment +0.12, flags: beat
+- Trades $428M/day
+- News: 6 headlines in 3 days, sentiment +0.05
 - Filings (7 days): [8-K 2026-11-04 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/857005/000119312526447186/)
 - Insiders (7 days): no open-market buys or sells
-- Earnings: unknown; stop 193.58 (-0.8%, 2×ATR)
+- Earnings: unknown; stop 194.32 (-0.8%, 2×ATR)
 - Top headlines:
-  - [PTC (NASDAQ:PTC) Delivers In-Line Revenue and Slight EPS Beat in Fiscal Q4](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmFVdnNJNGtzUFdLdWVkMzBOdnMzb09odlRaUnYwTTNMNTZ3TkUtWXVXMUhjVWRzX0pOMGVtTk5lLW5wZG1RU2w4dEZ6a3lyRGJMUktCOGF0YmVlblQtbnRqTE8xNTJfamx3LVJFY2ZzMzFwMU96dkJXVWI5T0NCcmFhSVd5endGQW01U2JucHlfVzV2VFBwVEFIOV90a25RZlZ0bEd5QVl3M0lqTUxybkFCWmotYXc3YWJTU0tjMA?oc=5) (ChartMill, 2026-11-04)
-  - [PTC Inc. (PTC) Stock Forecasts](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHA5YXNQbnNjaUpRQTJ1RGxQVXVCSUNvdFJ0UDhpTjJ0MXJQRExEX0pJME9qLXF6dkFkSm9BN0NCOEpRcDgwU2pmRVpiak40R05TNUxFbU5oUlZtWW94RWd6c1JLZUZvd2YxTzhBWUNNRXRjT0xpV3JTb3hVaDcyTG9yNjIwamN5SUhPRHh1WVBYWm8?oc=5) (Yahoo! Finance Canada, 2026-11-06)
-  - [Is PTC (PTC) Still Below Fair Value Following Earnings And The Schneider Electric Deal?](https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEdtNFpwZUR4bXlKUEp0U3g1aG5lR0lDaGpoRFhCMkxwalJ0Z1pDNk1qWHFkSGhzaDdDNWFxb1k5Q1ZsdUhLTnlfNnNOekEtZURxZHZRZHpxS1JuRHJUQTlpUllYYVFrSFlxUVdFWlNza1I2XzB3TVhOd2hBakZTZVMyekY4eDQ4ekVEOV96MVhiMjA2Z2N0bDF0cFpMeHVZZkp2OExRTWZWbm1ZTF9jTnhFTUgweHJpYlZTNm530gHDAUFVX3lxTE0tX0c0MEFvdUFXc0VoU3pxak1xRWl2bW1RTzBSYkc1VDN2RjlfNmdQdGFzaE95bGNGUi1TcUlwcHJqMXNaOUxjMGR5TGRNSmtYYlRjZG5FeGNJa3k1UmxEWlpvbFVBbTZjNE9aU3lYRXdnNWQ0OUk4Q1BuVHdZSUg5RDJGek5yTVQyNWFyU3dHbndvUlJZVjdPYXdzY2gxaTh6MzVOUl9rNDFNTlhrR2RZenpYMzI3RnpBT29TUW14V1ZwTQ?oc=5) (Simply Wall St, 2026-11-06)
-
-### 14. KDP — Keurig Dr Pepper (final 80)
-**Why now:** Strong trend: 6-month +25%, 3-month vs QQQ +38%
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +16.8%, 3m +16.8%, 6m +25.0% (beats 87% of stocks)
-- 3-month return vs QQQ: +38.2%
-- Volatility 31%/yr (normal)
-- Trades $641M/day
-- News: 18 headlines in 3 days, sentiment +0.21
-- Filings (7 days): [8-K 2026-11-03 items 2.02,9.01](https://www.sec.gov/Archives/edgar/data/1418135/000141813526000064/)
-- Insiders (7 days): no open-market buys or sells
-- Earnings: unknown; stop 35.01 (-4.4%, 2×ATR)
-- Top headlines:
-  - [Fund Update: New $2.9M $KDP stock position opened by GREAT LAKES ADVISORS, LLC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUxjM05TUHMxeVZnS09BY3lkYzdMZE9lWlJsRmZEZWZRYmRlS2l5cE5ZbURlOUcwLVhHVDJGU2psblBvNVRnUTI0WmNoTndRYTcwZHg1b0ZUTzJYd0xUc2o1MTMyN2h6YXhZa2NiRm91YXRWRURGYmxGV0g1eXcta29kWk1tdl9QTzR5bW82a184a1R6N3NCajVLenBIZUw5cHA1d1A0R21ZTE02VDRUUWRmRWQweGZwVUZJ?oc=5) (Quiver Quantitative, 2026-11-06)
-  - [Keurig Dr Pepper Inc. (KDP) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2NSdWZkT3ZoUS1TNkZrR1JQWk1SWHQzWTZ4VTJkRTNfTHBKTEF3ck82cGpTVmRpSlJ0Zzg5NWwwd3Y1MXdXQ1JkWXBDMzU4S0xOa29NRV80QzNxdXNubWNjRTFKRTZXQmEtMmFlYUx6X2JPSUZrTVBpWE9fN1ljb0E5c2ItTElUb1B6VUFsQQ?oc=5) (Yahoo Finance, 2026-11-06)
-  - [Keurig Dr Pepper (KDP) Stock Sees Modest Fair Value Lift As Analysts Weigh Split Plans](https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-stock-101853440.html) (Simply Wall St., 2026-11-06)
-
-### 15. V — Visa Inc. (final 80)
-**Why now:** Strong trend: 6-month +27%, 3-month vs QQQ +29%
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +14.9%, 3m +13.3%, 6m +26.6% (beats 85% of stocks)
-- 3-month return vs QQQ: +28.6%
-- Volatility 22%/yr (unusually high/low)
-- Trades $3,033M/day
-- News: 20 headlines in 3 days, sentiment +0.10, flags: acquisition
-- Filings (7 days): [10-K 2026-11-05](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/)
-- Insiders (7 days): 6 sale(s) ≈ $32.0M, 1 pre-planned
-- Earnings: 2027-01-26; stop 408.19 (-3.4%, 2×ATR)
-- Top headlines:
-  - [Visa Inc. $V Stock Acquired by Ascent Group LLC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjBibkFsOGNKNGI4d3JUOWdzTm52ZURlUnlZRzlIUUlUbEdqTG1IU2hWZzh5Zy1GX3lBbjNRQkZxWUNaLU5oT05iNDdPaHkyRk1tYmNuVVVPck44enVWcVQtQ1IzRElqc1R5ZUpaMElia2FOQTNrNnE3cFhMYkF0ZHVBWlJ3alIzWHpHbllBN09jSXB0MVZlNkZHOVNQZ2x4ZjZHbVktYXc3UQ?oc=5) (MarketBeat, 2026-11-05)
-  - [Mastercard Hit a Record as Visa Raised Its Dividend 16%. Here’s Where Mastercard’s Cash Goes](https://www.tikr.com/blog/mastercard-hit-a-record-as-visa-raised-its-dividend-16-heres-where-mastercards-cash-goes?ref=yahoofinance&tlnk=yf-261106-5r2fpvj2) (TIKR, 2026-11-06)
-  - [Visa Just Raised Its Dividend 16%. Free Cash Flow Shows Whether the Buybacks Can Keep Pace](https://www.tikr.com/blog/visa-just-raised-its-dividend-16-free-cash-flow-shows-whether-the-buybacks-can-keep-pace?ref=yahoofinance&tlnk=yf-261106-j7xqw334) (TIKR, 2026-11-06)
+  - [PTC Inc. (PTC) Stock Forecasts](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHA5YXNQbnNjaUpRQTJ1RGxQVXVCSUNvdFJ0UDhpTjJ0MXJQRExEX0pJME9qLXF6dkFkSm9BN0NCOEpRcDgwU2pmRVpiak40R05TNUxFbU5oUlZtWW94RWd6c1JLZUZvd2YxTzhBWUNNRXRjT0xpV3JTb3hVaDcyTG9yNjIwamN5SUhPRHh1WVBYWm8?oc=5) (Yahoo! Finance Canada, 2026-11-09)
+  - [Earnings Release Could Be A Turning Point For PTC Stock (PTC)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNekRNWU9SME5hMW5veFFnbng0YmxPZ2JySG53VEhVak1wMXgtWURwd1N2Q3hkU0hCSjFHMVFXZGMzTFBETTJFMmxXUHdMZDEyXzVrbk92bzdJU2Fwd2Vod0Z6azBlYmdRVzRHT2pyek16OEtRcE1nT08tb1lSOHlYMXUwRlNscXNxWFBnQ0I0V0tzeGEzbjNnZE5iNTVxbWo2b2JTQzFDbEp4d19rb1FUM1NYaG9OakRYeG5nZdIBwgFBVV95cUxON1ROSTNYTDd3czFtbjlSM0NTU1U1aDU1NDhMaEhERWNZdWJkdDdtZWxzQ2dwTlh1MkdydVRCYXRLNEE3aFVvbW1xXzRCdHBTZEQxeW5SVWtzQUlPQmVaa3FVZmpuQWFfbmNiWTUzbFVWRWZSUE9GRS10UWM0RHYwa1hlbGhOcDZwSTQ4dUIwYkswVHo1M2JCaGIydEVaNHNCMnpzVUc0ajYyLU44X0ZYak9wRElyM0J4emJDYThNcFF0dw?oc=5) (Simply Wall St, 2026-11-08)
+  - [Quarterly Earnings Drop Might Change The Case For Investing In PTC (PTC)](https://finance.yahoo.com/markets/stocks/articles/quarterly-earnings-drop-might-change-091308552.html) (Simply Wall St., 2026-11-08)
 
 ## COLD list (15 weakest names)
 
 | # | Ticker | Name | Sector | Price | Final | Price | News | Reasons |
 |---|---|---|---|---|---|---|---|---|
-| 1 | CRWV | CoreWeave | Information Technology | 46.40 | 16 | 4 | 45 | Falling trend: below its 50- and 200-day (6-month -54%); 3-month return -42% vs QQQ; News flags: downgrade, guidance cut; Insider selling: 4 unplanned sale(s) this week |
-| 2 | SKYD | Skydance | Communication Services | 8.01 | 17 | 5 | 49 | Falling trend: below its 50- and 200-day (6-month -28%); 3-month return -5% vs QQQ; Negative news tone (sentiment -0.09 over 4 headlines) |
-| 3 | CHTR | Charter Communications | Communication Services | 118.07 | 17 | 4 | 56 | Falling trend: below its 50- and 200-day (6-month -35%); 3-month return -15% vs QQQ; Volume 2.4× normal; Gapped down -8.0% |
-| 4 | NRG | NRG Energy | Utilities | 88.29 | 21 | 4 | 77 | Falling trend: below its 50- and 200-day (6-month -37%); 3-month return -18% vs QQQ; News flags: miss; Volume 2.4× normal |
-| 5 | APTV | Aptiv | Consumer Discretionary | 39.44 | 23 | 12 | 57 | Falling trend: below its 50- and 200-day (6-month -27%); 3-month return -13% vs QQQ; New 52-week low |
-| 6 | MGM | MGM Resorts | Consumer Discretionary | 32.34 | 24 | 11 | 56 | Falling trend: below its 50- and 200-day (6-month -22%); 3-month return -18% vs QQQ |
-| 7 | ALB | Albemarle Corporation | Materials | 99.25 | 25 | 11 | 62 | Falling trend: below its 50- and 200-day (6-month -53%); 3-month return -17% vs QQQ |
-| 8 | JBL | Jabil | Information Technology | 239.09 | 25 | 15 | 51 | Falling trend: below its 50- and 200-day (6-month -20%); 3-month return -22% vs QQQ; Insider selling: 1 unplanned sale(s) this week |
-| 9 | ALNY | Alnylam Pharmaceuticals | Health Care | 155.94 | 25 | 12 | 57 | Falling trend: below its 50- and 200-day (6-month -44%); 3-month return -21% vs QQQ; News flags: downgrade; New 52-week low |
-| 10 | RDDT | Reddit | Communication Services | 95.10 | 25 | 12 | 55 | Falling trend: below its 50- and 200-day (6-month -45%); 3-month return -34% vs QQQ; Insider selling: 2 unplanned sale(s) this week |
-| 11 | CHRW | C.H. Robinson | Industrials | 125.33 | 25 | 14 | 57 | Falling trend: below its 50- and 200-day (6-month -29%); 3-month return -7% vs QQQ |
-| 12 | LII | Lennox International | Industrials | 341.97 | 25 | 14 | 55 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -11% vs QQQ |
-| 13 | TPL | Texas Pacific Land Corporation | Energy | 272.36 | 25 | 12 | 58 | Falling trend: below its 50- and 200-day (6-month -23%); 3-month return -15% vs QQQ |
-| 14 | COHR | Coherent Corp. | Information Technology | 192.81 | 27 | 14 | 66 | Falling trend: below its 50- and 200-day (6-month -36%); 3-month return -35% vs QQQ |
-| 15 | FIX | Comfort Systems USA | Industrials | 1017.50 | 28 | 14 | 68 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -33% vs QQQ |
+| 1 | CRWV | CoreWeave | Information Technology | 48.98 | 16 | 5 | 48 | Falling trend: below its 50- and 200-day (6-month -60%); 3-month return -43% vs QQQ; News flags: downgrade; Insider selling: 2 unplanned sale(s) this week |
+| 2 | ALB | Albemarle Corporation | Materials | 99.12 | 22 | 11 | 49 | Falling trend: below its 50- and 200-day (6-month -52%); 3-month return -19% vs QQQ; News flags: guidance cut |
+| 3 | JBL | Jabil | Information Technology | 252.56 | 23 | 13 | 50 | Falling trend: below its 50- and 200-day (6-month -22%); 3-month return -25% vs QQQ |
+| 4 | AKAM | Akamai Technologies | Information Technology | 80.29 | 24 | 14 | 49 | Falling trend: below its 50- and 200-day (6-month -18%); 3-month return -27% vs QQQ; News flags: downgrade; Volume 3.0× normal; Gapped down -5.2% |
+| 5 | MGM | MGM Resorts | Consumer Discretionary | 32.91 | 24 | 12 | 55 | Falling trend: below its 50- and 200-day (6-month -20%); 3-month return -21% vs QQQ |
+| 6 | TPL | Texas Pacific Land Corporation | Energy | 278.28 | 24 | 11 | 53 | Falling trend: below its 50- and 200-day (6-month -24%); 3-month return -19% vs QQQ |
+| 7 | ALNY | Alnylam Pharmaceuticals | Health Care | 156.61 | 24 | 12 | 52 | Falling trend: below its 50- and 200-day (6-month -47%); 3-month return -25% vs QQQ |
+| 8 | APTV | Aptiv | Consumer Discretionary | 39.91 | 24 | 15 | 53 | Falling trend: below its 50- and 200-day (6-month -26%); 3-month return -15% vs QQQ |
+| 9 | RDDT | Reddit | Communication Services | 100.79 | 25 | 12 | 54 | Falling trend: below its 50- and 200-day (6-month -46%); 3-month return -32% vs QQQ; Insider selling: 2 unplanned sale(s) this week |
+| 10 | LII | Lennox International | Industrials | 349.47 | 25 | 15 | 52 | Falling trend: below its 50- and 200-day (6-month -31%); 3-month return -14% vs QQQ |
+| 11 | FLEX | Flex Ltd. | Information Technology | 78.17 | 25 | 14 | 60 | Falling trend: below its 50- and 200-day (6-month -8%); 3-month return -33% vs QQQ |
+| 12 | FIX | Comfort Systems USA | Industrials | 1113.23 | 25 | 14 | 56 | Falling trend: below its 50- and 200-day (6-month -37%); 3-month return -30% vs QQQ |
+| 13 | CIEN | Ciena | Information Technology | 269.33 | 26 | 13 | 60 | Falling trend: below its 50- and 200-day (6-month -47%); 3-month return -27% vs QQQ |
+| 14 | COHR | Coherent Corp. | Information Technology | 225.19 | 26 | 14 | 63 | Falling trend: below its 50- and 200-day (6-month -39%); 3-month return -28% vs QQQ |
+| 15 | TER | Teradyne | Information Technology | 246.00 | 28 | 15 | 63 | Falling trend: below its 50- and 200-day (6-month -23%); 3-month return -32% vs QQQ |
 
 **CRWV** headlines:
-- [CoreWeave (NASDAQ:CRWV) Stock Jumps 6.3% - Time to Buy?](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUE1UnZUdDJLS0FySUQ0b1A3QTB6cmdsbkE0c095Q0hfQTZOZmpDSk10dkJDMmVzNTZENWU5Tll2UkR1OTFNQ3NvSFhOVDRodnRRbk9Zczl2ckdFM1JCWjF2UUhCbklMTFgydXlPTGU4Y055elprU20wUjhSYnd6QnNtRHRYa3c3dlIyT1h6M19tTW9zNFFoaVplOTFfTUxVUmlubktZNGM2OGZk?oc=5) (MarketBeat, 2026-11-06)
-- [Cloudflare Soars 20%, IREN Surges 15% as Earnings Beats Spark AI Cloud Rebound; CoreWeave Jumps 10%](https://247wallst.com/investing/2026/11/06/cloudflare-soars-20-iren-surges-15-as-earnings-beats-spark-ai-cloud-rebound-coreweave-jumps-10/?.tsrc=rss) (Yahoo Finance, 2026-11-06)
-- [CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?](https://finance.yahoo.com/markets/stocks/articles/crwv-poised-q3-earnings-beat-131600016.html?.tsrc=rss) (Yahoo Finance, 2026-11-06)
-
-**SKYD** headlines:
-- [Skydance Stock (NYSE:SKYD) Slips as New Legal Troubles May Arise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmpWWUxwZ1RMVm9IWGRiMHJMeW12ZUE1dmFoS2M4dVUySEZJNDhKaVNQWEY0eHlZU3pCNkRkTzIyamhsaTd4b1BHbHY1N2pDc2oyV3JTTk00MjIxRGVVTHIxVEJucmh6YUdCWFVBNVVXdXVwUy1FcmxvZ3lHLVJ6WUlsTzVXaGtMU0RFNVBNTXR0WTFPWHc?oc=5) (TipRanks, 2026-11-06)
-- [Ahead of Skydance Earnings, Here's What Barchart Data Says Comes Next for SKYD Stock](https://www.barchart.com/story/news/8701763/ahead-of-skydance-earnings-here-s-what-barchart-data-says-comes-next-for-skyd-stock) (Barchart, 2026-11-06)
-- [Skydance (SKYD) Names Nitin Chawla To Lead Global Content Sales Finance](https://finance.yahoo.com/media-advertising/articles/skydance-skyd-names-nitin-chawla-021625075.html) (Simply Wall St., 2026-11-05)
-
-**CHTR** headlines:
-- [Charter Q3 Earnings Beat on Debt Gain Amid Franchise Impairment](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWVfcndvdWR6QTBQWXQzVy05REp6aU9LSjdtbmhqTjJHNXVxdERVSWNMVzJXdW1pakoyRTBrbEdRenZfX3N0T1VWajkwQ0d6ZC1BZzJyM3FzYXdKT0NyN3dlRDZkQXB2bWc2OV9QT0NxLWtSRFp1Zlo1TWpHM3o2X2puVEV3X21reHpsdWVpZFlfSUVwanpyaWxfMTk2SVdtRVRYN1JwbFk1LVNiMktxdlVyd0hWbmp2UXow?oc=5) (TradingView, 2026-11-06)
-- [Charter Stock Falls as Internet Losses Overshadow Cox Merger, $3B Cost Cuts - Charter Communications (NAS](https://news.google.com/rss/articles/CBMikwJBVV95cUxQSHJ1blJ0X3ZGRE1Hc3RjdGloRzl1SG1ZdVZKTGlyaWJIaElkQVdJOXhvdGN2SDFNZmNybm1CQjY5NnU0LVNaT1RfekhVVDUzU0EtMVNjcDE4OHhNRHZ1NzFVZk1COVJvU1FWVHJ2eU1NdFJsb2N1SW5MaGx3M0ZEMnNJdU5EUlZCOUZ6X2luWGtkREZNWHA1czEyZmp5Nks0NWNxZGd1VzFSZkZoTTBMVWpqczZZN0NSZTFXOFNrTUdjeWlJNUpzMmZMNEdaQTJxaVRUVFJDYk8zUFJLMFpZNVQ1cTlTdHZJZzcwajExbndoZ2RtUFgxYWNISUlDWHFhSVFRSHBXOXFzc1BLOVd5b1JHRQ?oc=5) (Benzinga, 2026-11-06)
-- [Charter’s (NASDAQ:CHTR) Q3 2026 sales beat estimates but stock drops](https://finance.yahoo.com/markets/stocks/articles/charter-nasdaq-chtr-q3-2026-122200028.html?.tsrc=rss) (Yahoo Finance, 2026-11-06)
-
-**NRG** headlines:
-- [What NRG Energy (NRG)'s Revenue Beat Means For Shareholders](https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-revenue-beat-111527395.html) (Simply Wall St., 2026-11-06)
-- [Is NRG Energy (NRG) A Bargain Following Its Earnings Miss?](https://news.google.com/rss/articles/CBMivwFBVV95cUxPY3M2RVUyRXdhaHFkdTFtNE9tcGJuVk5Rd3J6N18tZndnTWRIcmFJQ0NzMWlVQUtWT0dVQ2ZwWGJKM2p6WHVDNGdVRlU5NG42U1dPRlBUWnhLclhJdDlsZDVvb0NaU0pwdGZmY1RtM2FVdXNnU0hRMnNEdXdSNTVLT0w2cnRkbGhRUzBVS0xDb19BNnVMVG9RZDIzRGs0R3loeE94VjNRSjdac090alBzcWM5NmtKaEtjbzhxeHFJbw?oc=5) (Simply Wall St, 2026-11-05)
-- [An executive acquired 34 dividend-linked shares in NRG Energy (NRG), holding 7,001 afterward.](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObUt1ZzJMbW80S3otcFpXYzh4RnRjZ3g1Vmo1Z0p3MkdIWDFyQlVZTUxrb214RGZpZ3RIamhvV1VvR3lqbk9hSGRUcmR2VlBhZldpVkp4S3N2MzhCT1lHOC1GXzRZRzBkR0lzMkR1QkJtazl0QnV5czI1SXN0VU9jaXkzeExkQVBFOHYyZjhKdU5tekN3ZjUyWmI0Z05fNkx4c3VmU1RvTUJaczg?oc=5) (Stock Titan, 2026-11-04)
-
-**APTV** headlines:
-- [Aptiv announces new robotics collaborations: Will APTV hold $40 support?](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFd4bm5LRlptZHRhTTgwaEZnQkE4SVhvRjI2czJ5NTAzWFF4X2tCdG1Fd2VuYW1tWU9GV09DMU9LY2pDRkJXQVprZVo1LXZ1dU40ZGFJRTlwYW4tWnlOVXo3S05JVDBYTXE4WXBHb3hMQ2NSV0pRc2R2a2ROYUpMV3pEVUNESmFCZ1Vxakp3?oc=5) (Traders Union, 2026-11-06)
-- [Aptiv (APTV) Stock Price, Chart & Analysis](https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZFdZbnFCZW5GdkNaQjRpb2V5Ti1BVlg4MGdMSWF5aVdYVzNwRXpGOHZvaElEWkJ0dkNEYjEtaHg0Ynh2X3RjOVZGRkJHU1ptZ2pzeA?oc=5) (www.debelegger.nl, 2026-11-06)
-- [APTV Maintains by TD Cowen -- Price Target Lowered to $72](https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2x6WEczZ25BUmxZbm1mVnVLY3M4V1ZWRXRMXzZJVEZOYW1hV0VzODY5T0pJY2ZUZUgwYVc5NmMtcFByV3VQNjRJd0Q2UmVtckZwWlZhU3N1Q001c2ZiWVFLR0wzWmtfRC02djAtdmw5dlNTLUFkMzdLMnZ0WXV1SzA3MTdiUmZGY3VIYUZ6YVE0VEREbTVv?oc=5) (GuruFocus, 2026-11-04)
-
-**MGM** headlines:
-- [A 16.4% Class A stake gives MGM Resorts 3.9% of PLAYSTUDIOS (MYPS) voting power.](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUMzMldrNkkyVGYxTjFoMDhQbWItV2psWDZzTFJJQ3FabmNuc0ZJdy1ndXNwVjA1azBWSjZ3a3hJVnBTRFlSWDRFbi1wa0JuZkMtc1daU2NrMXRFSTk1Nl9FRVI3cV80VXdmYzJ5TGdDdFdDcVQ0Y3pQbHZvQTVfOGdUYndwYThNLUpkSG4xZ0RseE9GMDR1cTVlVTc0RTBXQnFrU0RnU3lXQlNRa0VBRGwzV08zR0pSMS1zUF9tLXU3Umc?oc=5) (Stock Titan, 2026-11-06)
-- [Davis Selected Advisers Reveals 9.6% Ownership Stake in MGM Resorts International](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVVyQ2E5c1ZpV2VoNi1TME1FSXNyV2lLSm5nM3NLVS1GNW9aREFtTHhjYXM0N3kybkFrT2IwbGlWTGRpdEpHUnBEZ0ZNM3lEbm10QWdvZXdLcGlPdUV5bHdCZHhJdkhLNjlaYld3ZTJ0WlZuMnF6RmZjQTNIYi1FYk1nRmQyNDgtb25ueWI0Y2J0SFYtTk9VRzU5UTV0NWNJQ1NEN1IzTWxpcFhJQVNENV9zTEVqajdZMFZ5ZnZGeVNSbE0w?oc=5) (Kalkine Media, 2026-11-06)
-- [MGM Resorts International (NYSE:MGM) Stock Price Target Lowered at Argus](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRDBRa2VrQi12cUMzWWRra2FsRk1vUS02QzJueUJiLVI1WG9TUE9INHNxMFBDaGRna3JGa0FDLXNMV24zb3JnOFFFYjNKQktjbEJ6Qzd3UXJGbU9xOWV6ZnpFQm0zNzlCSGpUWDhYTkF5WHY4c210WmtvXzI5LVZIcDdBNzZKcGxsYkwzUktoZ0ZGRXZpUU9aS0N0YjF0SnFaajZDcHcwUkpTRHBqTHpiV1FsRHRmcUtIZlJuNTFZX0FlUnpxNzZ6S1ZUSnA?oc=5) (MarketBeat, 2026-11-05)
+- [Wells Fargo Maintains CoreWeave(CRWV.US) With Buy Rating, Cuts Target Price to $115](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmJ1eW5VUGduR0htNzI3QnE3R05qTko0c3BOUTBGLVdod1REQU1JWlRGQ01ranZPVHFlWTV3ODRKWUhhQXRnWFZCVWVuY09Mc2JNM2tab24xQlkyVjhzLXgwVl80dTZFY0NmQlIwLURaYjZ3cmxWLU5fRjA0UzZfVzhBMS1NOWVDQU45QjE4NWNlaXBGRlpvQ1pjUkVud2VZUXlLekJBdmRhWncxX0E?oc=5) (富途牛牛, 2026-11-09)
+- [CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHloRFJKZERlc3poM3FEOGFkMHFnc2dMamtDYWN0ZS10dHRoSk14QUpuYUFmNDVKelNhcWRzWEVRY3BPWFQ3UzBya1hFdlh1YUlta2VtMUg3SkpEOEJqUGx6OVZraVZQeHhVNG5oYjd0ay12a1ZNeUdJZkdacUhMcmFHd2tjYlJEbjQ3RzlneU9yV0VjRnNRajhOejVTYlVmUVZrZHEtVUVPWGdCdFpuczMyaUphblgyc2loNDl6dTd2STZDQTJreTJ0TW9lZXVUNkFXSC1vck9QZ1N5UXJWa0pNd1NwbEU?oc=5) (The Globe and Mail, 2026-11-07)
+- [Rosenblatt Lowers CoreWeave Stock (CRWV) Price Target Ahead of Q3 Earnings, Here’s Why](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTdRQUplWVQwMzNET2xtUFZCMkdDeG1TdnQ5NGtweUJJT0FUdzVGRmtXUzZnUUNxd3gySnl5MW9LaHdWbFNWREt5N18zd3YyWERPZUFmVzluTGJQdUZjbGREZEt2M19td05nek4wNjRHMm9BZFdHR252Nm1QbTV3NUF5aERzaWJpSlhNSF9ZTFdINlg3ZkNta092bk9IdG1LXzFrUldySnZYSlJqdGhzcXVB?oc=5) (TipRanks, 2026-11-09)
 
 **ALB** headlines:
-- [Earnings Beat Could Be A Catalyst For Albemarle Stock (ALB)](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDdUWFV4UVRiVlljWGtDd2dHRDdyQ0FwOEdmaEdEWFZ4ek1aUE5IUnZqenc5a3ZRbWxiUUc4Z2RWNUd6UjA5YTFXMFJGNW1rZE5UZ2VkbVBlaGZqVmwzbUptQXBTS1VKZ1lCaVo5WWZrSTRHTV9vd1hOV2hCSUNLZURsYlY1aGhrRkhRMkJ3Z1JGRVRQdk9kTlhKZ21EOGxuOHo1c3A3QVBjRm1sTUhCZVQ4RlFOWW5FSFMwTkR6SmLSAcYBQVVfeXFMT3pENWhrQ29IVVFiOHFGb056UUttOTY5aDZFSVJYYXRNM1gzNDUtMTdqRkFoVHpDUmhxcnRDeTlvVTBPSWJmV01EQW1GLTFCR2l2OVpiWE1INGl2U1ZaUExrbUJYOWZhZGJncWktQVl2WUlUa1pPTHRqaExwX05VbUlZNkk2SEc5cDhPSmdad1RNdjRXNUU0c0swenU1SVpSbE1MejZES0lzSFFvRmtNNms1TnhXd0JQU3hYSXpDVFVRT2tRQzJR?oc=5) (Simply Wall St, 2026-11-06)
-- [Albemarle (ALB) Shares Rise After Q3 Beat Amid Mixed Valuation S](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRDZpZjlweExPM1drdkwzY1R1aExlNE9ZNzZqRVpWM3FiV010aG9XTUZKLTVSdDgwS1NSci1EZEJpOVA1ZmJVY0gzbEdKNmNXV19oUDFwWHVRSXNyRTBWbDJwLWZOaUp2N1lPMGh6Z0V6ek40bmlzYXdkSmVldFRrcjZUZW5LNVF2dFk5eklaX2dVdGo3V2R5ZjFjdGR0eGRPeUVUaVdKTE1MYjA?oc=5) (GuruFocus, 2026-11-05)
-- [Albemarle (ALB) Stock Sees Modest Fair Value Cut As Analysts Trim Targets](https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-sees-modest-211406360.html) (Simply Wall St., 2026-11-06)
+- [Scotiabank cuts Albemarle stock price target on lower lithium outlook](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXNnX1I4b29IQlNWREdYR0FfbHdMYUVWanpZZ2JtbFBMNDhBWlNxcElBSFVEQTB3XzR4aTFpNlozTUViUGVSWjlrLVJQSlFXNTZkclViOE8xc25RMFRYUmNubVNrQW8wa3lGQWdQWHlISXYtZ2ZERVdyclNQVThxNmRRX3BCUjg5MnlrZ2tzdktoUHBzSDBJS0VXYVdPRDNSVXQ5bWYxdjJIQVJ2ZUlhMHExLTdNQjBhaGh1eUpMSmYyc1Z2OTF3Qw?oc=5) (Investing.com, 2026-11-09)
+- [Albemarle (ALB) Shares Rise 3.5% Following Q3 Earnings Beat](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQk9PMDlhWERjTmFsUnBDQTQ1Y0pCZkJHWGdzeURzdHVvYl9YdGlLSzRWbkNvNWl1SERZS1JwaEZEcm9TXzFQLUYzYkE1ci02cEkzYWVkTXB4Qk1CTFp5eXFWeXBKT2xwa1otTEhqVHFuX2YxQ1BiWmZCT2I5X2Z2MDlkOHRDMTk2VExxeXFSZG1KVWRjOWthZ0pn?oc=5) (GuruFocus, 2026-11-08)
+- [Albemarle Corporation Stock 12‑Month Price Target Cut to $139.5, Implies 41% Upside](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHdFWk5tdE5sOU5lazlUVDVyOFZHTy1hT055QkdpbHY4SzhPYjdFZjRqRWt1YklteFpjTU53MDFpTXdDMlhYdjM3UUdIRWpiWEFPTjA3VG9TdnNkUy0yckd1U1RvUTRoMlNBMG0wMUFQVFpTOWlkSTEzRkszZnJ3NVRxWUtvaF9aVEQ1VzY0Sk5heVRoWFl0ck1BNVFELWhWaURFdzZVTWR4a3RPODlWcW1kS2IyQzA1NkpEZkI1NWZkeldWNmxGdDd3LWtuVDc0MFZyaE11eVZYZw?oc=5) (TradingView, 2026-11-09)
 
 **JBL** headlines:
-- [34,777 Shares of Jabil, Inc. $JBL Acquired by Mirae Asset Global Investments Co. Ltd.](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGRVS180TFBQSkJpUDdmNmhWaXpUTVRZTUJ6VmhDQ3NXclRVRG14TEM3UXB1UjlvS3JDbHo0RGF4WXJxU3pBN1dzRkVwZ1NGa3pLdWdRSkJ6Q2phZXJ5UElSTnBmaDA2bUl3RHNmaU9NMjZUZ0xCUTAwZDBVMS12OFhUQ29VZGV1MElBaHRxQVFjMkxkNzVWWC1ObDJ5UGp6Z3hWaHE2VUpXX05RVWFoaU5uR1Vxb2JJUzc3VlFkcUJmWDRKYjlPaUtsQnkxMC0yelU5eEVoYw?oc=5) (MarketBeat, 2026-11-05)
-- [What Makes Jabil a Buy Despite the Recent Stock Price Slump?](https://finance.yahoo.com/markets/stocks/articles/makes-jabil-buy-despite-recent-112400975.html) (Zacks, 2026-11-06)
-- [THE CHESAPEAKE GROWTH FUND's Jabil Inc(JBL) Holding History](https://news.google.com/rss/articles/CBMigwFBVV95cUxOdjVpOWV5SjlZakdSRTB3QUdsYUhjazB4STN1Z09hNjFERzQyRE5BOXJrdTBHTjNJZG1tOURLZkZGTlBicEhDaGVMbk14NFJqN0xMbDVBN1N3TGJWSno1T3NIZ2hwcm9kUFJuVDJ2Vk82VDN2czFOdTFlVy1YNklQQlN1Yw?oc=5) (GuruFocus, 2026-11-06)
+- [Understanding Momentum Shifts in (JBL)](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1BQTjgyMHYxWGd4bUpCUC1mb0dxRGJJYmUySVpaYmU0aTlsVVVWS05Zc1VNV0daY1d6NEUxVzJsR0YzVmNYUmxtS3o5R1FFaWttSjN5N0QzMzNmd1pHSFVqUXdKeWMyeUJPY2dZclVnLWtQbUZ1b3puSHRxTUdmTWVlRVZwZlBwd0xQX0pmcGJmYWVfWXBjcFJFUTY1MnJFTHgxMGlaVVRPU0hxbHdNNzBKbmtDNG5a?oc=5) (Stock Traders Daily, 2026-11-09)
 
-**ALNY** headlines:
-- [BMO Capital Maintains Alnylam Pharmaceuticals(ALNY.US) With Buy Rating, Raises Target Price to $292](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDlyNnJjeHdLMnR0Rjd3M2tIQU9TWTF3RDdIRHhHaE5SVHQ1RDB4eW1EbVFodFgwcXJwblN2OXFKdUFUTXRLa1RLaEhPdmpEdDhNV2VkN194b1ZBUXZFVTZKOVJvNFF5UTV2TGkxbVAtaXpULVVSNm5WbzN3OGJTZnM4OUhybGdpaUQyUDFUb3IyQUc3STNCaXVNS0dhaHY1UXJmN29mWlJNejRpR2VfQkJhWmk0djJpWWVz?oc=5) (Moomoo, 2026-11-05)
-- [Wells Fargo Maintains Alnylam Pharmaceuticals(ALNY.US) With Hold Rating, Cuts Target Price to $220](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXRhOXdZaHREdXNPa2lhczBzMHlacEtocEdfblVONjU1Q3RPVkhCUk0zS0xzUjcyOTlaVFZ5SGVzUGx3eFF4alBwNXhoMlpzWTZaMF9hYVA4OFpadDRodzFfUFFEeTBVMFZWVUlMVWs1R2R1eTJvVWQ2QzRMblItWmZFbk5pbGktSlZsbFE0RGxNUUFYdEZKdzQxTmdsWFk5MjVEZUI3RnV0LU12blpGVTRVbWlRMmJm?oc=5) (富途牛牛, 2026-11-05)
-- [What Does Alnylam Pharmaceuticals'(NASDAQ:ALNY) $1 Billion Buyback Signal for Shareholders?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXU2cjVFcTIzWVhJZDNqM1gySXYxUkVicThjRmpoN1BIX1hhbUpodGhjeXI0aDFDWm9GUlZVT0lLcFpIbm5rSE1VWXJQRlVfeGJxZnhWa09ZQUVyZmxibVd1UWp5U2Z2c3NIRklKQ3F2LUpiY3dzclE4RU15UFpfejJBQTktbklQX1VGWUotRk90Vnk4dExvYzk0NWU3X0FMWGNIWGVNSTI5ZC1vQ3BlZUo2allaVVVnUzB5VEMxZkNFUQ?oc=5) (Kalkine, 2026-11-05)
+**AKAM** headlines:
+- [Moody’s and S&P downgrade Akamai on debt-fueled AI infrastructure buildout](https://finance.yahoo.com/markets/stocks/articles/moody-p-downgrade-akamai-debt-162412289.html) (Investing.com, 2026-11-09)
+- [Why Akamai Technologies (AKAM) Stock Is Down Today | AKAM Stock News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVRObkR2OGs4SmY0RkpnSFoyMFczaHAyeWtGdHlaRTkyRmFXbDFnWUFsZzJnNnJxZVJ3NHZNRVB6dUlqVC1sMjQ4aU5BcUpodkNJYWYzR2JTdWFNTlkzZG5oM2ViN3hfY1FsRFd1WGYxNDFHbUVXOElzTHVNWEtvYWhwcGtwOS1uVWpRYm9TNTk?oc=5) (Quiver Quantitative, 2026-11-09)
+- [Akamai Technologies (AKAM) Amends Credit Agreement and Announces $2.2 Billion Convertible Notes Offering](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNlI4M09Jak5vX2IwLUc5RVM2Mm43UjdUdGdXM19ZYy16UWNoN1hfZ3RPazR5S0tMRXJBYlk0dmdCSXJtOHZ0emZyZXpPWjFpTkFiVzBuWHhaTFk2UWhNOTd0UjRvSUpjTkJWalItR0lZZWFkXzk0Z2F4YmtKRDlYNlo4bUJpN1I3eDNfN1IwMGZLenVpUnhXU2pjVXdsMVlOY0ZlaVREOVJDZkxBdUprVmJlR3VJLXU2cE1rdko3NUpOSnpIdG8tOFlZRVI1Nll6UEYwMmVn?oc=5) (GuruFocus, 2026-11-09)
 
-**RDDT** headlines:
-- [27,237 Shares in Reddit Inc. $RDDT Acquired by ProShare Advisors LLC](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWhRMWVWdElMcVFOalFsQ2w1b3VQOVpWWkd3QkN5cXhXckhDQnFWdTAxVDRfblYxb0kxdHItWnBtY25SYjdsVEctMDRTWGFSY0FmZG52dG0xMm9NalNxUWhxaHBkUDdsNTBieS1Qbzd2QldaVzRFUUR5LU00MGhZVEFBRWEzcldwWk5ndzRWWng2eFdCY1V2RlFJMU5NbHNlRHVRWG9wWUd4YUpzQXVSdnFNWnhVRGpibFFZTUNIcFV0TGo3?oc=5) (MarketBeat, 2026-11-06)
-- [Reddit Stock Earnings Beat Raises Fresh Questions After Weak Q4 Outlook](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnFEMF9pM0czZEw3WVlLOWQ0UGxXS2toT0JKWGNlZkRQaGppaVlXQmdLT0xSUmhZS3N0M2hySGc3WThfNHFkZU5DSE95Z3l5YzhWemNuNWNnelRua2EyMjNNVlV3c3VfU3FGRUM2M1AySTI3NnJHTnd0enlsMGJUbTVQVUJRemFFc3pDb05uY2hHZWRmaUtUZEJNeUpwWU9MemNtTzJ0RmFQeWFqTnJ3UkhJMW0yMUxQWkllZ9IBwgFBVV95cUxNYUZDd0FCRGF2a09NWUdCUlFQMk1KdExwREdrUkMwUFdBQjVwSExtOUdET3NVZ2dyMDlWRVdiV1JXZzhiZGV4bHNPb28wRlZYdE5aazJEb2FGbHVKQWFvREpLcjd3SzFvdEYxQklYV2pjUzJ0M2lhTXJnTVRHLU5PRkw2SzNucnZveHp0YkFFZzc3VlVnWUtDR2ZWRUJUNk5zWVBxd3JZSnpaWXdOaUdINmMxUWp6VWFNU0d3TFRNNzd5QQ?oc=5) (Simply Wall St, 2026-11-04)
-- [Reddit’s (RDDT) Short-Term Pains May Lead to Long-Term Gains](https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-short-term-pains-214600411.html) (TipRanks, 2026-11-06)
-
-**CHRW** headlines:
-- [C.H. Robinson Rewards Shareholders With Dividend Increase](https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-rewards-shareholders-153000741.html) (Zacks, 2026-11-06)
-- [C.H. Robinson Worldwide (CHRW) Raises Quarterly Dividend to $0.6](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzNKa2FPYkdiMm1kSmlQbGYwSHNnM1dONzV0c1JPZWFXODNsRnU1TGk3TlBseTJqVHREOHZxQkpUUHhhOG9PZ1ViMnExYmlfSFF5LTdxajFSaW01VUg4a1FDQjF0MXB6aGh6RXBFMkJlWndSajlzMlF4NWJVd3FXVlJTSU9WQjVmNHIxOG1nc2NDTTBxMzlnc2l6bmFpWm5ESzRYVGRERGpWbERjYVVR?oc=5) (GuruFocus, 2026-11-06)
-- [C.H. Robinson Worldwide, Inc. (CHRW) Stock Forecasts](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0E2ZFVUaFlkeVJqRVBMb1U5WTlVRVplUVJWMkpxVjlUM3VrbE0xeVIyd3k0QjRtM1d6VmdNanFUUGdtSHhwbjBjcVFaY1U1eVZ3MzVYWjFVTGpLSm1TWDgzU3o4aVJZVUFlMmhZa0pqelZBcWF1OGo1cmFubGN0b0dZbzRTcUpTZUlITEx5QUxudHM?oc=5) (Yahoo! Finance Canada, 2026-11-06)
-
-**LII** headlines:
-- [Lennox CFO Michael Quenzer Executes 635 SARs and Sells 529 Shares on November 5, 2026](https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFJtZEFHbWNCUTBvaVIzYkdTWEJuS0piVkVNR2RWR3hOVng5SXphRTJIVmJQUlhMc0hjVEZRSEpqMFRiQzI2LXZwVnZJYTJQbExJazJ2Wm9HY052WUVMVHMyVnhlVElVd195cGRqNGRxVk1XVnpQZXBISzNtYUd2UlhSTlpaZ1BQUnloNEV6S0NLeGQwbGZfUTF5VjliVnY2MFFvREoxdm95ZG5wQzhfcVhNaDBFZFQ1aENhZ0ZlVDc2RzdzcTl5c1dSUQ?oc=5) (Kalkine Media, 2026-11-06)
-- [At $356.74 per share, Lennox (LII) CFO Michael Quenzer returns 529 shares to the company.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlxRElCVDdHYXBqSnpDcjd2bEZTVGpPQnpFaThrU2FEYnVUQVN4dVM2WWlFOXlwREwwVjhhVTE1b1ljZFRXS3JUOWJRMVMwbzRoRFlneF9zemtzWnZmRVdsQkFmemVSM29iSF81cGVJaUlnSHBjRTN3ZTJzaFUzRE5Vcmt2dWMxOHZYR04tbzNTWG1ELWpybW5xc29pRzV5WHRKa3AzNEw4aTZxcHhpa0FYM0k1b2Yz?oc=5) (Stock Titan, 2026-11-06)
-- [Lennox (LII) legal chief Monica M. Brown returns 663 shares to the company at $351.04 each.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlZ0ck9FaEhDWVFod01EMURubVAyVk9VS3NJZ1IyYXBZT3BxalJHZ3FSYWhXSjdnd0Jmd0lsejgyY0U5X0RMa1o1bTVwZF96eFJhVFF2NEYtSHJPOGNVSExGeGdGcGktVWtZcGNvTkEwZEZJVjFUQzZ5UnMyb3Myd3FNT1BfOWZBT1E0WGxWZElBVDRpYVJuNWg4WmM5MEpQV25qQlpuVkpmUFlraXlVMS1wbEJWUEtT?oc=5) (Stock Titan, 2026-11-06)
+**MGM** headlines:
+- [MGM Resorts International stock rises Monday, still underperforms market](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkdOS0wySTVVejVWa0pqVU1tUXlFMzY3dWs1dTVCcjJQZElRalZuZGxuZEM5aTYyTDIyUmdLa0c5X3BiaDhIV05KdUNNV3lPMksyS1VfVXNETEJLekNnbmlGbGszQVR6YkwyZDlYWURtaUd0dnBZOXBtY0s5dDZwcHdwMWpHVlo5c0ZaVnhnd2lzemFlQk9yTnh3aGhuV3F3a1Y2NzBjYXFzNzBXN2dBaFN2TTlIQUtDVUFSejJLNEdVTzdoWVFCeGxTQThkdlB5clduQ0xRMmtRZW80azA1Z2pwVQ?oc=5) (MarketWatch, 2026-11-09)
+- [MGM Resorts International (MGM) Stock Forecasts](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTZuczY1Y0FZQlBHQWloTzBhOVNwVVRtTk1YbzNzSGNYbkF1MWZTWEhXLVlsb1ExdGhfeUZpNmRzZXB1NVpuVXB0VHk2cDBBcHJIYi0tdzdhRzdyeXQxRWZuREwzdk9rYVE4c2NjVWg4ZzVKSk5Da2xHVVF1cDFqVkVhbEpNcDhXdThzMw?oc=5) (Yahoo! Finance Canada, 2026-11-09)
+- [Are Wall Street Analysts Bullish on MGM Resorts Stock?](https://www.barchart.com/story/news/8728615/are-wall-street-analysts-bullish-on-mgm-resorts-stock) (Barchart, 2026-11-09)
 
 **TPL** headlines:
-- [How Record Royalty Revenue Will Impact Texas Pacific Land Stock](https://finance.yahoo.com/markets/stocks/articles/record-royalty-revenue-impact-texas-171340877.html) (Simply Wall St., 2026-11-06)
-- [Texas Pacific Land (NYSE:TPL) Sets New 1-Year Low - Time to Sell?](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1NHTmJ5MXBXRlNMcUtBS1dNSndQY3hrUWx5TTVwMGg4TlZaVWFqa0UwVzExVW1qMUNveEZfS0pzcGwxbDhQTUhDSjlEa1p0ZW0zRFJXVFB2LVlqU3dETnNmR0FMam5lUE1NSEttU1RhaEJJUUhBbTVKaG9feWJhQTlCNi14QmxyMElxVU1GTVU2N1N2Q0lVSWN3UjJHSjljOEI0VElGYThmMnluRnZiUVlmQWh5RnFNaHZnbA?oc=5) (MarketBeat, 2026-11-06)
-- [Texas Pacific Land Corp stock hits 52-week low at $268.00](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLThmZVRWSm5ZajhRaXhURkhPRk9SUTJIbDlQME1tTElkbTlBcnQ5aXZsZmlQbUN4UkZvTGFGXzAyMTg0eVF4UVgtX1Y4M045UTQ3NVZVUVBHWUxjQWlnbUZIT2hxVlVxZE0tbVhRTzdUVy00LS1DMDh3ZmpqOUNEdVJEOUtNTEV3dnFlWTZzLXh1MHBHU2tWcHM3NnRvenp6bEVQSlF5UnJIUnNlYURRdw?oc=5) (Investing.com, 2026-11-06)
+- [Texas Pacific Land Corporation (TPL) Stock Forecasts](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmY3SnczcGxSTy0tYXlzVlFPdkZmaDNoREU2QzlJVkZCenMwQlAxVFVNVGd0UkJKbGNlMXNyRUE0S3NoRTgwQXNVeGpDMHFweDdtWnBzQnRQazQwWkNNb1Y0M2FfdGxFeU5kZ2JhLTV2M2RHR1M5eTVQNHBZYlgxZ1l3TEdHX1Q0RVZyZkJrYzIxSWc?oc=5) (Yahoo! Finance Canada, 2026-11-09)
+- [5 revealing analyst questions from Texas Pacific Land’s Q3 2026 earnings call](https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3VnMUdGNk43ZFNHODg1OUQ1dHdjY2ZQWTVfbWowMEtVQnhIYXhOZGdwZ1VtYW4wSUI1ODVOU1AyWkppS0txdmpzQVk5bGd3TVZiaGNiUlN5SU9RMDRLTE5KbEx4azdINFZMYWtxVlVwVlJCVV9nUVRhWVJBbEJVbEE3R215VGhRUEttcnlPY0EwRjJzRkEwbzh1ZVJyUzB5bWc?oc=5) (Yahoo Finance, 2026-11-09)
+- [Texas Pacific Land Corp (TPL) (Q3 2026) Earnings Call Highlights: Record Revenue, Net Income, ...](https://finance.yahoo.com/markets/stocks/articles/texas-pacific-land-corp-tpl-190442948.html) (GuruFocus.com, 2026-11-08)
 
-**COHR** headlines:
-- [Coherent stock faces higher bar after FY2027 outlook upgrade](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajBwZlp3eFRjS0N3S3hLSFFfOWRVRk5KQTFMaVVnOTliVU1iejFqVVRtTC1oY0NfQXRFcFlpNFotQjBhQndZb19ia29VZWFqczNQbnVJd1M4UGFhVEM3TFpZSk16SnpMRlp4bVFGREVWcGJhNkMxN01mRFhZbmdIcGhYWmZDT3I5ZVZqUDNzNm9Ya053NWNyd1dRbWFEMEYwWXQ0T3NyRkptN0g1QUlvb0dQbjNZM3hLRzBMZDBRSlQ?oc=5) (ad-hoc-news.de, 2026-11-06)
-- [Can a Beat Protect Coherent (NYSE:COHR) After a 14.15% Drop?](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHMxNlppSXVQbjlWaHpPQjFBbTBUN0gwdVh6YzNkdFpBOE9yTEdwZ3Z3aDlHV19rdVprMWhBZkhtVGVDZGxwb2RSVHpOYndMSjlYWmljOW5CTzRSMDI0UTlwZ1hSc2V4QUlCUmlWdG1wa3RELVotS0lVV0tpS2xuQ204RmU2X0UteUtzSE50UXZDUXc?oc=5) (kalkine.ca, 2026-11-06)
-- [Coherent (COHR) Raises Full Year Targets After Q1 Earnings Beat](https://finance.yahoo.com/technology/ai/articles/coherent-cohr-raises-full-targets-091827225.html?.tsrc=rss) (Yahoo Finance, 2026-11-05)
+**ALNY** headlines:
+- [Alnylam Announces Five-Year HELIOS-B Data Demonstrating Sustained Benefit of AMVUTTRA® (vutrisiran) in ATTR-CM](https://finance.yahoo.com/healthcare/articles/alnylam-announces-five-helios-b-155000070.html?.tsrc=rss) (Yahoo Finance, 2026-11-09)
+- [Alnylam Pharmaceuticals (ALNY) Faces A Valuation Test After Fresh AMVUTTRA Data](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY29EZE1LZGQ5aV9wcnUtV1dUUnhUMDBzTEo2NE9kcDFNLTNjN2RCYWpHSmtjXzJSWkdCMmFLUUx4b3BHLWdrNlVhM3Joa0NmcVkxT3JzaUcyYVNGNnA3NjZhdkdOT2x4TEhTTmdnakJ3cVdrQ3F6ZGVpX19ZX1NQZXhsbTdGUTNwMXZtTDdDdHJFM0VuMTZqcHJ0dHdZRUhHc01qZUQ3TGw0SHRMTTRTT1VNVlJaWW1QWEVyVzYtV1V1VlFxWW9OZEdqQ1paVkxPM0taTng3LVNlVHpQUlVLLTMxMGpZMFBTeTc5X2Zn0gHzAUFVX3lxTE5vNmMzRkFzVHdhMTdOZkI0Q0x3TThhdFY1UGhRNk02bkhhSXRsRzFIN1QzbEN6SVdnaUx1Ty1od3dSVHJqd3VTRDhVczA1UzlkcDZjNTRqeWpQUENfcjBub3dVY3BFNmpSS2ZHb2cydlRvWXNxbklOMVNKZEdqTUdaRnp1a04xVWx0Q19zcFZTTks1dXFtbmNRNGRNbTlsZkRpdmJEQ01QUHd3Tm92NjF4cExPN0pqdWluNTgzQmdBTTdRM3d0NXIyVG1ta2wzdnFPX2lhZ252NHg5X1RaWUxTNnVvUXpJdURJcVVhR2l3aDFfWQ?oc=5) (Simply Wall St, 2026-11-08)
+- [Alnylam Pharmaceuticals (ALNY) Stock Price, Chart & Analysis](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwQWx5N3l3dXpGRG10dEU0NlY3dmNlbGJNWUtTcEZPem1DRzZPR3otbEkxQ0ZwekM5VFN6QXFkZlMtZ0FVbEdmd1ZGZDB4Tm9xN2d5eA?oc=5) (www.debelegger.nl, 2026-11-08)
+
+**APTV** headlines:
+- [Aptiv PLC (APTV) is Attracting Investor Attention: Here is What You Should Know](https://finance.yahoo.com/markets/stocks/articles/aptiv-plc-aptv-attracting-investor-130004064.html) (Zacks, 2026-11-09)
+- [Aptiv PLC (APTV) Shares Fall 3.5% -- What GF Score of 79 Tells I](https://news.google.com/rss/articles/CBMipwFBVV95cUxOejdnU2NSczFVS2t3ekNfeUdweGdSbUQzam0xaGxVNEFCTzlyc3NxX1NFLWl6UUtBZFNxTWIxdjJ2OHdXUHluOUVkY3phdFVWb1l3dTJIRDVTN3hxNnZxUXNtMHhYdHgwMldDdFJqblhuU0tiVXlvY0xkTVh0VmdqaEpEekFvazNPdFUxSFVNVGNPQWYydzJNMTUwXzlNdXh3ZUVBcmJnZw?oc=5) (GuruFocus, 2026-11-07)
+- [APTV Maintained by Citigroup -- Price Target Lowered to $68.00](https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlR1a0NueTJqanVvdURhUHFUeXZmS3p0OEdHY3lCeUFleFV1Y3BBaS02RkstTWotRENabXFiNXNLLWUxUXl5RmZCakhOQ1pzTEF4MmJFUW5hMU9nTEQ3YlBPMDA2bDVUOVNVMTVmTmg1TWVNVlItZ1dQOFp4RG02cldSSzBWRjROMW56QXFLTlJOVFUzYms0VC1RUlM?oc=5) (GuruFocus, 2026-11-07)
+
+**RDDT** headlines:
+- [Rakuten Investment Management Inc. Acquires New Position in Reddit Inc. $RDDT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVjlQUjNLSldlMDJldTdHaU5lZnVZTDZSQWZZTnRwLTFuR3JYLTdvc3hPWEhlRXozTVZibWE5dm14SGRyWVhrU2dtcjFIT1NNX0RRU0VabEdpbUtoYlI5ZVIxUi16WF83ZUZGNnZGeV9JYnA4cjhhaFJmM092eU9MeTZiTmw4MkhEcWY3U3g1cUJrUEVJNmNDUzlSd1c4Sll1TmF6ZHB2NGhOelNMNTJPQXhHcXFXQ0JYUmxzaU00MXRmS2pRVlRCX2FpcEp0Tm9u?oc=5) (MarketBeat, 2026-11-07)
+- [Reddit (RDDT), What Is Behind The Fresh Attention?](https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-behind-fresh-attention-220756302.html) (Simply Wall St., 2026-11-09)
+- [Reddit (RDDT) Stock Still Looks Reasonable After A 61% Fall](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGtEOUZaaDRDSU5XTTUzck9VNHFsTmJtd1F0aFB6MmQ1WUkyZ0VwWUhTclBRNjc1MnJrTHhCc212d3gteVBER3ZULVFEQzZBdDQ4UF82RGxWUWxVeFJlS1BMYW1RdGNzcUhXVGJzT1ZsNFpDY1BfOTgxUUMtYTQ3d09pOFRUNXo2cVB3TDJrc0xLUk5pWDdkdlZXM1ZjekRwNERIeUx3UVpLS051VUl1VDVDemZZRnfSAbwBQVVfeXFMTWdmVlBwb3ZRTWo2ajFOdDdObVNaZ0JVbk5GRk5ObFlTNzBOY0hndUZtNTJxVHNCSzdpR1B4eXUxbWRqdV9DYVBGYmdMOW1MMVk3M3RiU1RzX1RpSEl1QmJuVThsNHNHeHNpV2VwNmlOMG5kVGVLUE5yV0NKNjFkZ2VmWW1IOWhiUHg1cmRVdmxoT292WGcxVkw3eDE4cTFkUkw1akhfZGtZR3FqYUpuQnUyZ0ZvY0VneWZ6UVQ?oc=5) (Simply Wall St, 2026-11-09)
+
+**LII** headlines:
+- [245 Lennox (LII) shares are proposed for sale by officer Joseph Nassab.](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVo2NXZGZjIxRVUxdk1ic2ZKNnVfZFZZdC1ienhta1BLWFhQb3JaenVlcFBGZ1J4RmViU1NNWDJBUm9nSVE3Z2ZZR3I4Y1VjRzB2V1d0T3I1TVQ5UFVJUG9MWWhwZTZEYVJPVnF0YjRTXzZLVGhFZTVJV0xpRVJtT3FSbWJzRkZUWTlBMWFSUllzZFgwaE1jU19YcVNUUEJJZWc?oc=5) (Stock Titan, 2026-11-09)
+- [An 829-share sale is proposed by Lennox International (LII) officer Daniel M. Sessa.](https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2toMlBfTmxiTFNsaGhvcUNhYWRkSFJmempsZURHM2JxdzhRb2xpODIwa0lDWWp4Q19TOXM2SkY5Qkt6Q1ZSNU1jQjdKZm95WXpYQzdYeWFDcUIyM1F2Vmdxc2NkSU16amM5NEtjRG12dkFQZUJQUHZkNmVlTjIxU212R0JPZ2N1Y3k0RG5wemw2NVNiWFZqVUR4MEhyMFlHYnc?oc=5) (Stock Titan, 2026-11-09)
+- [Trading Systems Reacting to (LII) Volatility](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJKcVd1cEVVQnRpNzFmRS1RTjFwM1c2WEhidnhPbkhtQ1dzMUlQWjI2elF2dE8wc0hnbHhEN3U1U1Fra0hYZWY1Q1cwYXBDRmZuQzBBQkZTUXVIT1F3WDhpaDJoX3FETlZBamkzVnpsMnAtZjhiQU05ckRPeHZ3Z3ZRbFhkbnRVaEg1Z2N1aFBUdFZMZ3R5Mm1oZEgtakwxWlJMSUVwQ1JNaE1qby1JZzVESEpaYkZlQ3cxWnFGWQ?oc=5) (Stock Traders Daily, 2026-11-09)
+
+**FLEX** headlines:
+- [Learn Why The Bull Case For Flex (FLEX) Could Change Following Raised Revenue Guidance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGNhR1VxQS1BMFE2TjZFa1B2T0pGTkNzZjRTYmJHMU5lb0VvZ1hhNUswTmdRZE9fSjVhZGRHczhjbXNXdkltd1ZLS0xYTWZpRlFhaHhmTnBSS2R4ajluM1VVNzhHNFRINmJDc3BJYTlsbTdCNlQzbG1RSjc1eTNBZmc1bFpUc2E2T3l5VHd4al9MN2VSRlNrTnFmS0V4azJjTkIyX3N3THFBaFEyT2ZJM1ZManY0MDJsVUc40gHAAUFVX3lxTE9tN1JOaTBOdTJOMnRENVpCbjVsTmdyZ1VCazlkVmlZMWlDQW9Dck90MFpYOFBOMUUtZk9sNkgyVEs0SDMwMlJXOFlGQ1Jybk5uR0tqWlc4WkRYRF96MnllQUpDSjdRaXYxR2lOalFmVlNLRzF0alRlVVZWOXhRNmpZMGtETlpQeDlNVEJ0ZEJSRHRiX1VpbWVqelJvSkkxRnlMYUpqeFhna3BnQnRNVzUwRjB4UXJGbkxNWkc3RWd5Uw?oc=5) (Simply Wall St, 2026-11-08)
+- [IT Sector Leads India’s Flex Office Demand, BFSI Share Climbs To 12.2%: Report](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWxYU0YwRnNNWWp6LVBfZUhVMXNjRnNOTzB0R3hScTRBUjVrMG9NSmM2TV9QMko0NUd2b05lMG5maTdFd3RIWDhIZVJKb0lJUVJoNjNXa0JrcEpyRzNHZURvaHpYOEJWUDA0d2FsSGkxeEZJb3UxazFFZWxvOUlwRW5aOWRxNlR2cnc4SFJCcWhwQlNPbjhsbzczbVlVdG43bFhOcjltb0wxSTJzd2R6blBzUHQyb2dJLW04?oc=5) (BW Businessworld, 2026-11-09)
+- [Flex, JELD-WEN, Graham Corporation, Coherent, and Planet Labs shares skyrocket, what you need to know](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQkZaaUdRWVdfWUlyd01pYzk5MVdXUl9yaG1wU2h5ZndCMEVvQi1GaEw2S3p6ajNPRWZKVlVDR3dPWHFubTYzNGJrRWZjcjZ6WldBZE9YRFZkVFRsZ0p0MWQ0T0QxSVpiclJ5alp2UUNudFBMOWtPR1NBRzJUd1VEdlloSzd1ZF92cTVjT2cwTUdKQ1JybHAzTWQxVDA0WGRnMUZESkZIdDFGbHM1TDlFWEFlMWwxYmFYZTRuT29pTlp4eWJZa29EUTBBdWZCWEpuc2ZUeHFvYUwwc1ppQlB5aW1UNy1EcFotVHRkVldB?oc=5) (TradingView, 2026-11-09)
 
 **FIX** headlines:
-- [Comfort Systems USA (FIX) Expands Stock Repurchase Program by 1 Million Shares](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTRYSHhiRm1mYTVhcTVpOHBwejhsNW1sdlFHQXgxdDZVWWhGTThqWFpyNmEyQjV6MGh5QmYxUWxxRGlUU0h3TWNqd1Z6LTVXX0VsYXZlb3U0NVRZOEViZEwxYlljbjJWRDY4eE1yWnQ4MEtFVUVCWWhZMjhUS3hac0tLNHRPZFE5YzBkS095bFFxb2Z0R0dWaEdvYlJyQTNMX0xlb1hvZDJ5cnlaU1czN1dtUVVCUQ?oc=5) (GuruFocus, 2026-11-05)
-- [Earnings Beat Could Strengthen The Case For Comfort Systems USA Stock](https://finance.yahoo.com/markets/stocks/articles/earnings-beat-could-strengthen-case-131029512.html) (Simply Wall St., 2026-11-05)
-- [Comfort Systems Expands Its Stock Repurchase Authorization](https://news.google.com/rss/articles/CBMirwFBVV95cUxObnM3dVYtSVdpZktIOW9vcmJkcFplTVBES1AwZTRmT1NmemFabzV2OGRlVVBib0JsNmdCX0E5YVBmYWd1dE0taHhTUFlHd015VDQ4eGpLR1F2NWFGWFpvUEkxMjd2YWNrX2dDTXY0RWc2TEVUd3FUM1ZXSTRKYmYybGlvZms3aEpheDVkdTRjM2lGbkZ0SVAwSFFQQmJYQ3ZHNFNyZjdXTFA5VlJXWTNR?oc=5) (TipRanks, 2026-11-05)
+- [3 Reasons Growth Investors Will Love Comfort Systems (FIX)](https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502596.html) (Zacks, 2026-11-09)
+- [Are Construction Stocks Lagging Comfort Systems USA (FIX) This Year?](https://finance.yahoo.com/markets/stocks/articles/construction-stocks-lagging-comfort-systems-134003025.html) (Zacks, 2026-11-09)
+- [Should You Invest in Comfort Systems (FIX) Based on Bullish Wall Street Views?](https://finance.yahoo.com/markets/stocks/articles/invest-comfort-systems-fix-based-133003036.html) (Zacks, 2026-11-09)
+
+**CIEN** headlines:
+- [Ciena Corporation $CIEN Shares Acquired by Pictet Asset Management Holding SA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOTN6RWNraDY1WG1XZzhzb1ZpX204cE1sd1JiODI1ZDJhLV9GWVhrSDNZLTRuSFpiZUFWVGdObTRBZ0xaR2psZi1WSE5QZWRTZU43TE9WeXRVdmRGbFpPclFYZGJqeWZiS0FVakxNRUNEcjBjYndmMzNYa2ZwdGJfcXRuVUdkUEJIR2R6SW4xUjJnWmhsdW4xeU9CS2YwSXpUMUN4MTdsRUhhX0U1RTdhbDhhWWNwb3dVSVlzWllpZy1fczA2MUtjeURFWHlBc2x1MEpB?oc=5) (MarketBeat, 2026-11-09)
+- [Ciena Corporation $CIEN Stock Acquired by Calamos Advisors LLC](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbURJQ1Q4NlI0dHR0eS1pQU50eFU4VjI4VVF4S2xIcllTTzkyX1hOb1pOVUt0dG1kUnlBSjlJUE5pLWlibEdSUTdSdHJXM1JjRjBNSEJwQmFMMTB0Z3dIN3NldTdTcVJwS2RlRVA3MVNkd0o2NmduRmk2Z2FySFB3Z3UyMjNkQTdUNHcwQkk5QUJQamJpUmVyeGlzWnZKaEFYaWNDVWJhdjc3M3V3QmlZbGdtQ2x5UmxueFk2Rk1RRQ?oc=5) (MarketBeat, 2026-11-08)
+- [Here's How Much $1000 Invested In Ciena 10 Years Ago Would Be Worth Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHZuMUlYeFU1dDVsbnNrNTFuem5mOVJhb1EyUmhIUmhaeVhXVUZvdFExSTZXY1Utd2s0anE5YVBMeHM4ZjJKZE1ya1RfblF4MWpzTXJXcWdMcWxRaFNYSmxHNjU1aW5ELXpKR1ViY2c4VDlNeE0wb3k0RzIyVmUtN2V0eXRreDI3WFM2Mmx3OFhlT2lVamNBRlh3UFNBbHNJVmgyV3lnOG1JWXRoSC1vYU9SZWM?oc=5) (Benzinga, 2026-11-09)
+
+**COHR** headlines:
+- [Coherent Stock Earnings Beat Has The Bull Case Changed?](https://finance.yahoo.com/markets/stocks/articles/coherent-stock-earnings-beat-bull-180828256.html) (Simply Wall St., 2026-11-09)
+- [Nvidia, AMD, CoreWeave, Coherent, First Solar, Trade Desk, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-d80c8da0?siteid=yhoof2&yptr=yahoo) (Barrons.com, 2026-11-09)
+- [Coherent Corp (COHR) Shares Surge Nearly 19% in Strong Rebound o](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXFmbDJmdUF4cnlhTDZEdUtoempCU0hpUkFIRUk0MWF0UURiaW9aVVc5M0RMV0dxZXl2bUY0Vm5uLUFQUUFyNUs4STJkZ3h4VThkV3ljRXNMc3RFOGRnRzFFOFE4eV9YREM1M1VNNV9XdE1EWWwxSlNLTTJhX2Nvb3ZjV1hvalRqQmZralpfbi1MLTB2bTJleElDYWpmMjVkUDRYR2dvemhTN1VPTGJfSlJiUklNN19J?oc=5) (GuruFocus, 2026-11-09)
+
+**TER** headlines:
+- [Teradyne (TER) Upgraded to Strong Buy: Here's Why](https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-upgraded-strong-buy-160003881.html) (Zacks, 2026-11-09)
+- [Here's How Much $1000 Invested In Teradyne 20 Years Ago Would Be Worth Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3psZHZ0ZjBFMWRaN25DMUVPNEhjNmZPLUlCS0NzeEJoYmpmWEdjX1ZFYndFM2UxQW0yeFNoQlZtZUZsX24yd1lXdXN4TE5mMkhackZuTVlmZDE4QU9Xcm84X0RVcnYtR2JQcXE1LWdSbU9xOVFkb0ozQ2pWRm9hMXowdjNlSnRhdHdpM2I2V2xyWjBucTB2YTBsUEt6MmtfQ1BJa1g0SFVqelpReXNIbFhCUzcwREF4?oc=5) (Benzinga, 2026-11-09)
+- [Teradyne Inc. stock outperforms competitors on strong trading day](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWM2R3FFNms0SzAtQkt5TzhxRlY4aHR1Tk9GV3ZaTWNlVm5zdG5ZY09LLWVrbm1tMEQyV05IUE1faWhOdTB0VHZiRUJPT3h2dzRCRnp3eVAwd0xMSmpzdnIzaGV1Rld3WVVfQWlCdXNBdGFtMy1IdHp2bi1qZGVHMFgzZU4tcEdLRjBFWjZKdmJZcV8xank0dHpiMmJNTi1pRGhyaUJIQ0dGNTllVmxHSXMzYUVxZ3Q2aGRneHoyNV9pQQ?oc=5) (MarketWatch, 2026-11-09)
 
 ## Market events today
 
-New 52-week highs: 0 · lows: 5 · unusual volume: 17 · gaps up ≥3%: 57 · gaps down ≥3%: 49
+New 52-week highs: 13 · lows: 2 · unusual volume: 8 · gaps up ≥3%: 27 · gaps down ≥3%: 3
 
-- New lows: AXON (-18.2% today), APTV (-3.5% today), FIS (-2.2% today), COIN (-1.5% today), ALNY (-0.5% today)
-- Unusual volume: AXON (5.0× normal), MCHP (3.6× normal), FOXA (3.5× normal), ABNB (3.2× normal), LYV (2.7× normal), SOLV (2.6× normal), PPL (2.5× normal), NRG (2.4× normal), CHTR (2.4× normal), EXPE (2.3× normal), APP (2.2× normal), ROK (2.2× normal), WYNN (2.2× normal), TRGP (2.1× normal), CPAY (2.1× normal)
-- Gaps up: LRCX (+12.7%), ABNB (+12.3%), COHR (+11.7%), SNDK (+11.4%), AMD (+9.9%), CIEN (+9.5%), BE (+9.4%), P (+9.4%), DELL (+9.2%), TER (+8.9%), ALAB (+8.8%), FLEX (+8.6%), MRVL (+8.6%), ANET (+8.6%), NBIS (+8.5%)
-- Gaps down: AXON (-11.9%), CHTR (-8.0%), MNST (-7.9%), LYV (-5.5%), CPT (-5.4%), DVN (-4.4%), VEEV (-4.2%), FER (-3.9%), CSGP (-3.9%), WDAY (-3.9%), MKC (-3.9%), ADP (-3.8%), ZTS (-3.8%), CPRT (-3.7%), BRO (-3.6%)
+- New highs: BBY (+6.7% today), MRNA (+5.8% today), TMO (+3.9% today), XYZ (+3.6% today), AIZ (+3.3% today), FAST (+3.0% today), VTRS (+2.9% today), EW (+2.5% today), JNJ (+2.1% today), BDX (+1.6% today), DGX (+1.6% today), LH (+1.4% today), TECH (+0.1% today)
+- New lows: AXON (-3.1% today), FIS (-1.4% today)
+- Unusual volume: NVDA (3.9× normal), AKAM (3.0× normal), AXON (2.7× normal), FERG (2.6× normal), ALGN (2.2× normal), TTWO (2.2× normal), GWW (2.1× normal), TDG (2.0× normal)
+- Gaps up: FERG (+7.7%), NRG (+5.9%), AMD (+5.4%), BE (+5.2%), CIEN (+4.7%), UAL (+4.6%), FLEX (+4.5%), ALAB (+4.3%), CEG (+4.2%), FCX (+4.0%), GEV (+4.0%), AVGO (+4.0%), AMZN (+3.9%), NEM (+3.8%), DAL (+3.6%)
+- Gaps down: NVDA (-7.3%), AKAM (-5.2%), MSTR (-3.4%)
 
 ## Insider & buyback activity
 
@@ -444,30 +443,30 @@ Open-market insider **buys** (Form 4 code P) in all universe stocks, last 30 day
 | ROL | LOR INC | 10% owner | 2026-10-29 | $50.0M | +1.0% | 💵 |
 | ROL | R. Randall Rollins Voting Trust U/A dated August 25, 1994 | 10% owner | 2026-10-29 | $50.0M | +1.0% | 💵 |
 | PEP | POHLAD ROBERT C | Director | 2026-10-14 | $23.7M | +74% | 💵 |
+| KMI | KINDER RICHARD D | Executive Chairman | 2026-11-06 | $15.0M | +0.2% | 💵 |
+| CVS | Shah Prem S | President | 2026-11-06 | $2M | +37% | 💵 |
 | BKR | RICE JOHN G | Director | 2026-11-03 | $531K | +15% | 💵 |
 | CLX | Breber Pierre R | Director | 2026-11-04 | $400K | +22% | 💵 |
-| HBAN | ROLLINS JAMES D III | Director | 2026-10-26 | $254K | +933% | 💵 |
-| NBIS | Grimme Arne | Director | 2026-10-21 | $49,713 | +4.7% | 📉 |
 
-Insider **sales**: 1785 in 190 companies (≈ $2.01B), 1285 under pre-arranged 10b5-1 plans. Most sales are routine (plans, taxes, diversification) and say much less than buys.
+Insider **sales**: 1753 in 198 companies (≈ $2.07B), 1187 under pre-arranged 10b5-1 plans. Most sales are routine (plans, taxes, diversification) and say much less than buys.
 
 **Buybacks** (new or larger repurchase programs in 8-K filings, last 30 days):
 
-- NWSA News Corp (Class A): new program $1B, filed 2026-11-06 ([8-K](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000255/))
-- ALGN Align Technology: new program $270.0M (2.3% of market cap), filed 2026-11-06 ([8-K](https://www.sec.gov/Archives/edgar/data/1097149/000109714926000085/))
-- VST Vistra Corp.: new program $2.50B (6.0% of market cap), filed 2026-11-06 ([8-K](https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/))
+- NWSA News Corp (Class A): new program $1B (7.0% of market cap), filed 2026-11-09 ([8-K](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000256/))
+- ALGN Align Technology: new program $270.0M (2.2% of market cap), filed 2026-11-06 ([8-K](https://www.sec.gov/Archives/edgar/data/1097149/000109714926000085/))
+- VST Vistra Corp.: new program $2.50B (5.5% of market cap), filed 2026-11-06 ([8-K](https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/))
 - ALNY Alnylam Pharmaceuticals: new program $1B (4.8% of market cap), filed 2026-11-05 ([8-K](https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/))
-- LRCX Lam Research: new program $25.0B (10.0% of market cap), filed 2026-11-05 ([8-K](https://www.sec.gov/Archives/edgar/data/707549/000070754926000057/))
-- TPR Tapestry, Inc.: increased program $1.70B (6.5% of market cap), filed 2026-11-05 ([8-K](https://www.sec.gov/Archives/edgar/data/1116132/000114036126042034/))
-- PODD Insulet Corporation: new program $1B (9.8% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/1145197/000114519726000190/))
-- SWK Stanley Black & Decker: new program $1B (5.9% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/93556/000009355626000036/))
-- APP AppLovin: increased program $3.20B (2.5% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/))
-- MSI Motorola Solutions: increased program $2B (2.4% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/68505/000006850526000041/))
+- LRCX Lam Research: new program $25.0B (9.0% of market cap), filed 2026-11-05 ([8-K](https://www.sec.gov/Archives/edgar/data/707549/000070754926000057/))
+- TPR Tapestry, Inc.: increased program $1.70B (6.4% of market cap), filed 2026-11-05 ([8-K](https://www.sec.gov/Archives/edgar/data/1116132/000114036126042034/))
+- PODD Insulet Corporation: new program $1B (9.6% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/1145197/000114519726000190/))
+- SWK Stanley Black & Decker: new program $1B (5.7% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/93556/000009355626000036/))
+- APP AppLovin: increased program $3.20B (2.4% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/))
+- MSI Motorola Solutions: increased program $2B (2.3% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/68505/000006850526000041/))
 - ALL Allstate: new program $1.30B (2.1% of market cap), filed 2026-11-04 ([8-K](https://www.sec.gov/Archives/edgar/data/899051/000089905126000156/))
-- MPC Marathon Petroleum: increased program $5B (4.9% of market cap), filed 2026-11-03 ([8-K](https://www.sec.gov/Archives/edgar/data/1510295/000151029526000069/))
-- DXCM Dexcom: new program $1B (3.4% of market cap), filed 2026-10-29 ([8-K](https://www.sec.gov/Archives/edgar/data/1093557/000109355726000193/))
-- FSLR First Solar: new program $500.0M (2.3% of market cap), filed 2026-10-29 ([8-K](https://www.sec.gov/Archives/edgar/data/1274494/000127449426000211/))
-- HWM Howmet Aerospace: increased program $5B (6.1% of market cap), filed 2026-10-29 ([8-K](https://www.sec.gov/Archives/edgar/data/4281/000110465926119857/))
+- MPC Marathon Petroleum: increased program $5B (4.7% of market cap), filed 2026-11-03 ([8-K](https://www.sec.gov/Archives/edgar/data/1510295/000151029526000069/))
+- DXCM Dexcom: new program $1B (3.3% of market cap), filed 2026-10-29 ([8-K](https://www.sec.gov/Archives/edgar/data/1093557/000109355726000193/))
+- FSLR First Solar: new program $500.0M (2.4% of market cap), filed 2026-10-29 ([8-K](https://www.sec.gov/Archives/edgar/data/1274494/000127449426000211/))
+- HWM Howmet Aerospace: increased program $5B (5.8% of market cap), filed 2026-10-29 ([8-K](https://www.sec.gov/Archives/edgar/data/4281/000110465926119857/))
 
 **Big funds** (13F, quarter-end holdings, **up to 45+ days old**): new or increased (+10%) positions
 
@@ -494,21 +493,21 @@ Insider **sales**: 1785 in 190 companies (≈ $2.01B), 1285 under pre-arranged 1
 
 ## History check
 
-**Similar market periods** (from 1990-10-15, 40 closest days at least 20 sessions apart, each judged only with data known that day): In 40 similar periods, QQQ rose after a month 68% of the time; median +5.0%, worst -18.8%.
+**Similar market periods** (from 1990-10-15, 40 closest days at least 20 sessions apart, each judged only with data known that day): In 40 similar periods, QQQ rose after a month 70% of the time; median +4.3%, worst -23.0%.
 
 | Asset | After | Cases | % up | Median | Average | Best | Worst |
 |---|---|---|---|---|---|---|---|
-| QQQ | 5 days | 40 | 78% | +2.4% | +2.1% | +8.5% | -12.8% |
-| QQQ | 20 days | 40 | 68% | +5.0% | +3.5% | +15.7% | -18.8% |
-| QQQ | 60 days | 40 | 75% | +8.7% | +5.8% | +35.4% | -25.8% |
-| SPY | 5 days | 40 | 78% | +2.0% | +1.5% | +7.8% | -8.2% |
-| SPY | 20 days | 40 | 75% | +2.9% | +2.2% | +10.7% | -18.6% |
-| SPY | 60 days | 40 | 72% | +5.8% | +4.3% | +20.8% | -24.3% |
-| TQQQ | 5 days | 40 | 78% | +7.0% | +6.1% | +26.1% | -35.9% |
-| TQQQ | 20 days | 40 | 62% | +13.1% | +9.9% | +51.7% | -53.4% |
-| TQQQ | 60 days | 40 | 70% | +24.5% | +17.9% | +119.6% | -72.7% |
+| QQQ | 5 days | 40 | 82% | +2.1% | +2.1% | +8.4% | -4.8% |
+| QQQ | 20 days | 40 | 70% | +4.3% | +2.9% | +14.9% | -23.0% |
+| QQQ | 60 days | 40 | 75% | +7.1% | +5.2% | +27.9% | -25.4% |
+| SPY | 5 days | 40 | 78% | +1.2% | +1.4% | +7.8% | -3.6% |
+| SPY | 20 days | 40 | 75% | +2.6% | +2.1% | +9.0% | -6.7% |
+| SPY | 60 days | 40 | 75% | +4.1% | +4.0% | +17.5% | -15.6% |
+| TQQQ | 5 days | 40 | 80% | +5.7% | +6.0% | +26.1% | -14.7% |
+| TQQQ | 20 days | 40 | 70% | +12.4% | +8.7% | +48.8% | -58.5% |
+| TQQQ | 60 days | 40 | 72% | +19.4% | +14.5% | +102.8% | -65.3% |
 
-Closest dates: 2006-06-08 (2003-07 bull market); 2018-10-15 (Q4 2018 rate scare); 2007-08-16 (2003-07 bull market); 2025-03-13 (Nasdaq below its 200-day, VIX 25); 1996-01-10 (Nasdaq below its 200-day, VIX 16); 2000-10-09 (dot-com bust); 1996-07-30 (Nasdaq above its 200-day, VIX 21); 1997-10-27 (Asian crisis / LTCM)
+Closest dates: 2024-04-19 (AI rally); 2006-05-24 (2003-07 bull market); 1996-07-31 (Nasdaq above its 200-day, VIX 19); 2000-09-18 (dot-com bust); 1996-01-10 (Nasdaq below its 200-day, VIX 16); 2005-10-10 (2003-07 bull market); 2005-03-22 (2003-07 bull market); 2026-07-29 (Nasdaq above its 200-day, VIX 21)
 (TQQQ before 2010 is a simulated 3x of the Nasdaq-100; QQQ before 1999 is the Nasdaq-100 index.)
 
 **Event base rates** (universe stocks since 2014-01-02; one event per stock per 20 sessions; return vs QQQ from the close of the day the event was known):
@@ -528,22 +527,17 @@ Not measured: earnings within 5 days in a strong trend (historical earnings date
 
 Events that apply today:
 - ACN: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- AMGN: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- ABBV: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
 - LLY: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- GILD: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
+- MRNA: New 52-week high: beat QQQ after 20 days in 47% of 9583 cases; Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
 - REGN: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- VEEV: Gap down over 3%: beat QQQ after 20 days in 45% of 10190 cases
-- CRL: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
+- GILD: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
 - ROP: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- EL: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- PTC: Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
-- CRWV: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
-- CHTR: Gap down over 3%: beat QQQ after 20 days in 45% of 10190 cases
-- NRG: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
-- JBL: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
-- COHR: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
+- KDP: New 52-week high: beat QQQ after 20 days in 47% of 9583 cases; Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
+- PTC: New 52-week high: beat QQQ after 20 days in 47% of 9583 cases; Momentum in the top 10%: beat QQQ after 20 days in 47% of 4073 cases
+- AKAM: Gap down over 3%: beat QQQ after 20 days in 45% of 10190 cases
+- FLEX: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
 - FIX: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
+- CIEN: Gap up over 3%: beat QQQ after 20 days in 47% of 10328 cases
 
 ## Fundamentals
 
@@ -551,51 +545,46 @@ From SEC XBRL filings (free companyfacts API), refreshed weekly. Growth = last q
 
 | List | Ticker | Rev y/y | Rev TTM y/y | EPS y/y | Gross margin | Op margin (trend) | Debt/Equity | FCF TTM | P/E | P/S | Quality |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| HOT | ACN | +6% | +6% | +46% | 32% | 15% (rising) | 0.0 | $11.6B | 19.2 | 2.2 | 58 |
-| HOT | AMGN | +10% | +9% | +65% | 47% | 30% (rising) | 4.9 | $10.2B | 28.6 | 6.5 | 58 |
-| HOT | ABBV | +10% | +10% | +290% | n/a | 26% (rising) | n/a | $18.2B | 82.3 | 8.0 | 71 |
-| HOT | LLY | +39% | +46% | +16% | 84% | n/a | 0.7 | $30.6B | 43.9 | 14.7 | 62 |
-| HOT | GILD | +7% | +7% | -20% | 64% | -8% (falling) | 2.0 | $13.8B | n/a | 6.7 | 31 |
-| HOT | REGN | +36% | +19% | +35% | 35% | 29% (rising) | 0.1 | $4.85B | 20.0 | 5.0 | 78 |
-| HOT | MA | +14% | +15% | +22% | n/a | 59% (flat) | 0.0 | $16.1B | 34.1 | 2.2 | 82 |
-| HOT | VEEV | +18% | +16% | +40% | 75% | 30% (rising) | n/a | $1.66B | 49.7 | 14.2 | 73 |
-| HOT | CRL | -3% | -1% | -103% | 27% | 2% (rising) | 0.6 | $582.1M | n/a | 4.0 | 20 |
-| HOT | ROP | +8% | +11% | +233% | 70% | 28% (flat) | 0.5 | $2.67B | 19.7 | 5.7 | 73 |
-| HOT | EL | +7% | +6% | +392% | 76% | 7% (rising) | 0.4 | $1.52B | 110.1 | n/a | 47 |
-| HOT | MCK | +8% | +8% | +17% | 4% | 2% (flat) | n/a | $7.11B | 27.3 | 0.3 | 32 |
-| HOT | PTC | -7% | +20% | -12% | 84% | 38% (falling) | 0.4 | $935.5M | 19.0 | 7.2 | 66 |
-| HOT | KDP | +76% | +27% | -90% | 49% | 16% (falling) | 0.5 | $1.97B | 37.0 | 2.5 | 44 |
+| HOT | ACN | +6% | +6% | +46% | 32% | 15% (rising) | 0.0 | $11.6B | 18.8 | 2.2 | 58 |
+| HOT | LLY | +39% | +46% | +16% | 84% | n/a | 0.7 | $30.6B | 45.8 | 15.4 | 62 |
+| HOT | MRNA | +29% | +13% | n/a | 28% | -116% (rising) | 0.1 | −$1.97B | n/a | 43.1 | 40 |
+| HOT | MA | +14% | +15% | +22% | n/a | 59% (flat) | 0.0 | $16.1B | 34.3 | 2.2 | 82 |
+| HOT | REGN | +36% | +19% | +35% | 35% | 29% (rising) | 0.1 | $4.85B | 20.3 | 5.1 | 78 |
+| HOT | GILD | +7% | +7% | -20% | 64% | -8% (falling) | 2.0 | $13.8B | n/a | 6.8 | 31 |
 | HOT | V | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | 50 |
+| HOT | ROP | +8% | +11% | +233% | 70% | 28% (flat) | 0.5 | $2.67B | 19.5 | 5.6 | 73 |
+| HOT | AMGN | +10% | +9% | +65% | 47% | 30% (rising) | 4.9 | $10.2B | 28.9 | 6.6 | 58 |
+| HOT | ABBV | +10% | +10% | +290% | n/a | 26% (rising) | n/a | $18.2B | 82.9 | 8.0 | 71 |
+| HOT | KDP | +71% | +43% | +20% | 48% | 16% (falling) | 0.5 | $2.33B | 33.9 | 2.2 | 55 |
+| HOT | VEEV | +18% | +16% | +40% | 75% | 30% (rising) | n/a | $1.66B | 50.1 | 14.3 | 73 |
+| HOT | MDT | +14% | +10% | +41% | 52% | 18% (rising) | 0.5 | $6.13B | 25.3 | 3.5 | 55 |
+| HOT | SPGI | +7% | +18% | +10% | 71% | 45% (rising) | 0.7 | $5.65B | 28.0 | 7.9 | 67 |
+| HOT | PTC | -7% | +20% | -12% | 84% | 38% (falling) | 0.4 | $935.5M | 19.1 | 7.2 | 66 |
 | COLD | CRWV | +112% | +115% | n/a | 67% | -3% (falling) | 4.9 | −$13.7B | n/a | n/a | 31 |
-| COLD | SKYD | +1% | n/a | -50% | n/a | n/a (rising) | n/a | n/a | n/a | n/a | 41 |
-| COLD | CHTR | -2% | -2% | +16% | n/a | 23% (falling) | 5.5 | $4.36B | 3.1 | 0.6 | 29 |
-| COLD | NRG | +11% | +13% | n/a | 14% | 6% (rising) | 4.8 | $348.0M | 23.2 | 0.6 | 28 |
-| COLD | APTV | +2% | +5% | -35% | n/a | 5% (rising) | 0.9 | $1.35B | 37.2 | 0.4 | 19 |
-| COLD | MGM | -1% | +3% | n/a | n/a | 7% (rising) | 2.3 | $1.40B | 12.4 | 0.5 | 22 |
-| COLD | ALB | +31% | +18% | n/a | 24% | 4% (rising) | 0.2 | $1.34B | 381.7 | 2.0 | 57 |
-| COLD | JBL | +29% | +21% | +89% | 9% | 5% (rising) | 2.1 | $1.37B | 24.5 | 0.7 | 39 |
+| COLD | ALB | +31% | +18% | n/a | 24% | 4% (rising) | 0.2 | $1.34B | 381.2 | 2.0 | 57 |
+| COLD | JBL | +29% | +21% | +89% | 9% | 5% (rising) | 2.1 | $1.37B | 25.9 | 0.7 | 39 |
+| COLD | AKAM | +5% | +6% | -27% | 57% | 11% (falling) | n/a | $956.1M | 29.0 | 2.7 | 38 |
+| COLD | MGM | -1% | +3% | n/a | n/a | 7% (rising) | 2.3 | $1.40B | 12.7 | 0.5 | 22 |
+| COLD | TPL | +31% | +21% | +33% | n/a | 75% (rising) | n/a | $586.0M | 284.0 | 21.4 | 78 |
 | COLD | ALNY | +17% | n/a | +635% | n/a | n/a (falling) | 0.2 | n/a | n/a | n/a | 65 |
-| COLD | RDDT | +53% | +62% | +75% | 92% | 29% (rising) | n/a | $1.20B | 19.4 | n/a | 80 |
-| COLD | CHRW | +30% | +10% | +25% | 43% | 5% (flat) | 1.2 | $519.8M | 22.5 | 0.8 | 31 |
-| COLD | LII | +10% | +2% | -13% | 33% | 19% (falling) | 0.0 | $835.7M | 15.9 | 2.1 | 45 |
-| COLD | TPL | +31% | +21% | +33% | n/a | 75% (rising) | n/a | $586.0M | 277.9 | 20.9 | 78 |
-| COLD | COHR | +34% | +23% | n/a | 38% | 1% | 0.3 | −$1.02B | 46.8 | 5.3 | 42 |
-| COLD | FIX | +54% | -37% | +69% | 27% | 19% (rising) | 0.0 | $2.44B | 22.0 | 6.8 | 64 |
+| COLD | APTV | +2% | +5% | -35% | n/a | 5% (rising) | 0.9 | $1.35B | 37.7 | 0.4 | 19 |
+| COLD | RDDT | +53% | +62% | +75% | 92% | 29% (rising) | n/a | $1.20B | 20.6 | n/a | 80 |
+| COLD | LII | +10% | +2% | -13% | 33% | 19% (falling) | 0.0 | $835.7M | 16.2 | 2.2 | 45 |
+| COLD | FLEX | +25% | +18% | +35% | 10% | 5% (flat) | 0.9 | $783.0M | 28.2 | 0.9 | 37 |
+| COLD | FIX | +54% | -37% | +69% | 27% | 19% (rising) | 0.0 | $2.44B | 24.0 | 7.4 | 64 |
+| COLD | CIEN | +37% | +33% | +423% | 44% | 12% (rising) | 0.2 | $814.4M | 60.1 | 6.3 | 67 |
+| COLD | COHR | +34% | +23% | n/a | 38% | 1% | 0.3 | −$1.02B | 54.7 | 6.2 | 42 |
+| COLD | TER | +70% | +75% | +189% | 59% | 32% (rising) | 0.0 | $1.02B | 28.3 | 7.7 | 87 |
 
 ## Earnings in the next 5 trading days (checked names)
 
-- MRNA (Moderna): 2026-11-06 (watch)
-- HUM (Humana): 2026-11-06 (watch)
-- SKYD (Skydance): 2026-11-09 (COLD)
 - CRWV (CoreWeave): 2026-11-10 (COLD)
-- NRG (NRG Energy): 2026-11-09 (COLD)
-- CHTR (Charter Communications): 2026-11-06 (COLD)
 
 ## Track record (live ideas, all time)
 
-- 1 days: 85 scored, hit rate 36%, avg -1.3%, vs QQQ -0.8%
-- 5 days: 70 scored, hit rate 26%, avg -4.0%, vs QQQ -0.7%
-- 20 days: 5 scored, hit rate 0%, avg -21.3%, vs QQQ -8.7%
+- 1 days: 90 scored, hit rate 39%, avg -1.2%, vs QQQ -0.9%
+- 5 days: 75 scored, hit rate 25%, avg -4.0%, vs QQQ -0.9%
+- 20 days: 10 scored, hit rate 10%, avg -18.2%, vs QQQ -7.3%
 - 60 days: 0 scored, hit rate –, avg –, vs QQQ –
 
 ## Data notes
@@ -605,6 +594,6 @@ From SEC XBRL filings (free companyfacts API), refreshed weekly. Growth = last q
 - Price score 0–100: trend, momentum (1/3/6 months, skipping the last week), 3-month strength vs QQQ, volatility (extremes score lower), liquidity; −10 points if earnings are within 5 trading days.
 - News score 0–100 (50 = neutral): VADER headline sentiment, keyword flags, attention vs normal, SEC Form 4 insider buys/sells. Only computed for the top 40 and the 15 weakest names.
 - Backtest of the price score has survivorship bias (today's index members) and no historical earnings dates; the news score cannot be backtested (no free news history).
-- Sources today: {'headlines': {'yfinance': 550, 'yahoo_rss': 1031, 'google_rss': 1662, 'stocks': 55, 'headlines': 1188}, 'sec': {'ok': 55, 'requests': 166, 'missing': 0}, 'smart_money': {'requests': 143, 'errors': {}, 'filings_in_window': 1641, 'downloaded': 117, 'backlog': 0, 'index_days_missing': 1}}
+- Sources today: {'headlines': {'yfinance': 550, 'yahoo_rss': 1059, 'google_rss': 1194, 'stocks': 55, 'headlines': 622}, 'sec': {'ok': 55, 'requests': 172, 'missing': 0}, 'smart_money': {'requests': 253, 'errors': {}, 'filings_in_window': 1572, 'downloaded': 219, 'backlog': 0, 'index_days_missing': 1}}
 
 *Rule-based analysis, not financial advice. Past patterns do not guarantee future results.*

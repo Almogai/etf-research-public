@@ -1,9 +1,17 @@
 # My activity
 
-Generated 2026-11-06T23:19:42Z. Every event in the app, newest first (396 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-09T12:01:13Z. Every event in the app, newest first (404 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-09 12:01 | doctor | workflow |  | doctor fixed: Today's Claude picks haven't arrived |  |
+| 2026-11-09 12:01 | trade_detected | sync | FXINX | Fidelity · Brokerage 1: Detected: you bought about 0.15 FXINX at about $11.75 | 10.954 → 11.102 |
+| 2026-11-09 12:01 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.56 FXLCX at about $11.42 | 35.585 → 36.144 |
+| 2026-11-09 12:01 | deposit_inferred | sync |  | inferred deposit of $20.20 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 71.84 → 20.2 |
+| 2026-11-06 23:19 | workflow_failed | workflow |  | Daily signals: failed step(s) commit |  |
+| 2026-11-06 16:00 | trade | sync | FXINX | sync (Fidelity · Brokerage 1): buy 0.148 FXINX @ 11.72 ($-1.74) |  |
+| 2026-11-06 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 0.559 FXLCX @ 11.41 ($-6.38) |  |
+| 2026-11-06 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 29.88 FLGXX @ 1.00 ($29.88) |  |
 | 2026-11-06 15:28 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.068) |  |
 | 2026-11-06 13:08 | doctor | workflow |  | doctor: Today's Claude picks haven't arrived |  |
 | 2026-11-06 12:41 | claude_report | workflow |  | morning report 2026-11-05: 7/7 parts |  |

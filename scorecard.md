@@ -1,4 +1,4 @@
-# Research desk track record — as of 2026-11-10
+# Research desk track record — as of 2026-11-11
 
 Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 trading days. Returns include dividends. Hit rate = share of ideas that went up. Excess = idea return minus QQQ over the same days. Ideas newer than a horizon are not counted for it yet.
 
@@ -6,28 +6,28 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 90 | 85 | 40% | -1.2% | -0.9% | 40% | 13% |
-| 5 days | 90 | 70 | 27% | -3.3% | -0.5% | 43% | 57% |
-| 20 days | 90 | 5 | 0% | -20.9% | -11.6% | 0% | 100% |
+| 1 days | 90 | 85 | 41% | -1.0% | -0.9% | 39% | 11% |
+| 5 days | 90 | 65 | 29% | -2.9% | -0.2% | 45% | 55% |
+| 20 days | 90 | 5 | 0% | -15.4% | -10.1% | 20% | 100% |
 | 60 days | 90 | 0 | – | – | – | – | – |
 
 ## Last 3 months
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 100 | 95 | 40% | -1.1% | -0.8% | 41% | 12% |
-| 5 days | 100 | 80 | 28% | -3.9% | -0.9% | 42% | 57% |
-| 20 days | 100 | 15 | 7% | -19.1% | -8.8% | 7% | 100% |
-| 60 days | 100 | 0 | – | – | – | – | – |
+| 1 days | 105 | 100 | 41% | -1.1% | -0.9% | 40% | 11% |
+| 5 days | 105 | 80 | 28% | -3.9% | -0.9% | 42% | 57% |
+| 20 days | 105 | 20 | 5% | -18.1% | -9.1% | 10% | 100% |
+| 60 days | 105 | 0 | – | – | – | – | – |
 
 ## All time
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 100 | 95 | 40% | -1.1% | -0.8% | 41% | 12% |
-| 5 days | 100 | 80 | 28% | -3.9% | -0.9% | 42% | 57% |
-| 20 days | 100 | 15 | 7% | -19.1% | -8.8% | 7% | 100% |
-| 60 days | 100 | 0 | – | – | – | – | – |
+| 1 days | 105 | 100 | 41% | -1.1% | -0.9% | 40% | 11% |
+| 5 days | 105 | 80 | 28% | -3.9% | -0.9% | 42% | 57% |
+| 20 days | 105 | 20 | 5% | -18.1% | -9.1% | 10% | 100% |
+| 60 days | 105 | 0 | – | – | – | – | – |
 
 ## Backtest (history, not live results)
 

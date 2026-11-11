@@ -1,49 +1,49 @@
-# Research screen — 2026-11-10
+# Research screen — 2026-11-11
 
-## Market regime: **CHOPPY**
-- SPY above its 200-day (+2.6%)
-- QQQ below its 200-day (-1.0%)
-- Breadth 61% of stocks above their 200-day (bull needs ≥55%, bear <40%)
-- VIX 19.5 (bull needs <25, bear ≥30)
+## Market regime: **BULL**
+- SPY above its 200-day (+3.9%)
+- QQQ above its 200-day (+1.3%)
+- Breadth 62% of stocks above their 200-day (bull needs ≥55%, bear <40%)
+- VIX 17.5 (bull needs <25, bear ≥30)
 
 ## HOT
 
 | # | Ticker | Name | Sector | Price | Final | Stop | Why now |
 |---|---|---|---|---|---|---|---|
-| 1 | ACN | Accenture | Information Technology | 258.51 | 87 | 240.59 | CEO bought $3M; news: beat |
-| 2 | LLY | Lilly (Eli) | Health Care | 1432.29 | 85 | 1351.94 | News: upgrade |
-| 3 | MRNA | Moderna | Health Care | 250.83 | 83 | 214.52 | News: beat, guidance raised |
-| 4 | MA | Mastercard | Financials | 658.84 | 82 | 633.97 | Strong trend: 6-month +31%, 3-month vs QQQ +26% |
-| 5 | REGN | Regeneron Pharmaceuticals | Health Care | 916.06 | 81 | 864.63 | Strong trend: 6-month +39%, 3-month vs QQQ +23% |
-| 6 | AMGN | Amgen | Health Care | 465.23 | 81 | 445.33 | News: beat |
-| 7 | GILD | Gilead Sciences | Health Care | 170.87 | 81 | 162.75 | Strong trend: 6-month +27%, 3-month vs QQQ +35% |
-| 8 | V | Visa Inc. | Financials | 423.00 | 81 | 408.15 | Strong trend: 6-month +31%, 3-month vs QQQ +26% |
-| 9 | ABBV | AbbVie | Health Care | 293.89 | 80 | 282.66 | News: guidance raised |
-| 10 | ROP | Roper Technologies | Information Technology | 474.47 | 80 | 448.84 | Strong trend: 6-month +33%, 3-month vs QQQ +29% |
-| 11 | MDT | Medtronic | Health Care | 101.59 | 80 | 97.61 | News: upgrade |
-| 12 | CRL | Charles River Laboratories | Health Care | 345.80 | 79 | 317.81 | News: guidance raised |
-| 13 | KDP | Keurig Dr Pepper | Consumer Staples | 37.59 | 79 | 35.87 | News: beat |
-| 14 | TYL | Tyler Technologies | Information Technology | 421.66 | 78 | 396.39 | Strong trend: 6-month +23%, 3-month vs QQQ +42% |
-| 15 | SPGI | S&P Global | Financials | 473.38 | 78 | 454.86 | Strong trend: 6-month +17%, 3-month vs QQQ +24% |
+| 1 | ACN | Accenture | Information Technology | 253.66 | 86 | 237.08 | CEO bought $3M |
+| 2 | MRNA | Moderna | Health Care | 248.69 | 85 | 218.08 | News: beat, guidance raised |
+| 3 | LLY | Lilly (Eli) | Health Care | 1437.29 | 84 | 1359.60 | News: upgrade |
+| 4 | GILD | Gilead Sciences | Health Care | 169.73 | 83 | 161.82 | News: beat, guidance raised |
+| 5 | MA | Mastercard | Financials | 660.73 | 82 | 635.39 | Strong trend: 6-month +37%, 3-month vs QQQ +24% |
+| 6 | MCK | McKesson | Health Care | 1079.79 | 81 | 1038.03 | News: guidance raised |
+| 7 | MDT | Medtronic | Health Care | 101.61 | 81 | 97.82 | Strong trend: 6-month +38%, 3-month vs QQQ +20% |
+| 8 | REGN | Regeneron Pharmaceuticals | Health Care | 959.41 | 81 | 903.97 | Strong trend: 6-month +29%, 3-month vs QQQ +26% |
+| 9 | BBY | Best Buy | Consumer Discretionary | 105.16 | 80 | 98.82 | Strong trend: 6-month +77%, 3-month vs QQQ +32% |
+| 10 | ROP | Roper Technologies | Information Technology | 477.70 | 80 | 455.68 | Strong trend: 6-month +41%, 3-month vs QQQ +28% |
+| 11 | AMGN | Amgen | Health Care | 468.11 | 80 | 448.66 | Strong trend: 6-month +46%, 3-month vs QQQ +19% |
+| 12 | ABBV | AbbVie | Health Care | 294.98 | 80 | 283.97 | News: guidance raised |
+| 13 | V | Visa Inc. | Financials | 425.55 | 80 | 410.57 | Strong trend: 6-month +37%, 3-month vs QQQ +24% |
+| 14 | ULTA | Ulta Beauty | Consumer Discretionary | 659.08 | 80 | 629.70 | News: beat, guidance raised |
+| 15 | KDP | Keurig Dr Pepper | Consumer Staples | 38.25 | 79 | 36.49 | New 52-week high |
 
 ## COLD
 
 | # | Ticker | Name | Sector | Price | Final | Reasons |
 |---|---|---|---|---|---|---|
-| 1 | SKYD | Skydance | Communication Services | 8.04 | 22 | Falling trend: below its 50- and 200-day (6-month -23%); 3-month return -9% vs QQQ; Negative news tone (sentiment -0.06 over 27 headlines); News flags: downgrade; Gapped down -3.3% |
-| 2 | ALB | Albemarle Corporation | Materials | 94.93 | 22 | Falling trend: below its 50- and 200-day (6-month -53%); 3-month return -20% vs QQQ; News flags: guidance cut |
-| 3 | ALNY | Alnylam Pharmaceuticals | Health Care | 151.64 | 23 | Falling trend: below its 50- and 200-day (6-month -47%); 3-month return -27% vs QQQ; News flags: downgrade; New 52-week low |
-| 4 | APTV | Aptiv | Consumer Discretionary | 39.57 | 23 | Falling trend: below its 50- and 200-day (6-month -25%); 3-month return -13% vs QQQ; New 52-week low |
-| 5 | AKAM | Akamai Technologies | Information Technology | 83.71 | 24 | Falling trend: below its 50- and 200-day (6-month -27%); 3-month return -27% vs QQQ; News flags: downgrade; Volume 3.8× normal |
-| 6 | JBL | Jabil | Information Technology | 249.82 | 24 | Falling trend: below its 50- and 200-day (6-month -19%); 3-month return -27% vs QQQ |
-| 7 | TPL | Texas Pacific Land Corporation | Energy | 274.63 | 24 | Falling trend: below its 50- and 200-day (6-month -23%); 3-month return -14% vs QQQ |
-| 8 | LII | Lennox International | Industrials | 347.93 | 25 | Falling trend: below its 50- and 200-day (6-month -33%); 3-month return -11% vs QQQ; Insider selling: 2 unplanned sale(s) this week |
-| 9 | MGM | MGM Resorts | Consumer Discretionary | 33.06 | 25 | Falling trend: below its 50- and 200-day (6-month -18%); 3-month return -19% vs QQQ |
-| 10 | RDDT | Reddit | Communication Services | 98.67 | 25 | Falling trend: below its 50- and 200-day (6-month -44%); 3-month return -31% vs QQQ; Insider selling: 2 unplanned sale(s) this week |
-| 11 | FLEX | Flex Ltd. | Information Technology | 76.09 | 26 | Falling trend: below its 50- and 200-day (6-month -9%); 3-month return -35% vs QQQ |
-| 12 | BG | Bunge Global | Consumer Staples | 99.42 | 26 | Falling trend: below its 50- and 200-day (6-month -26%); 3-month return -4% vs QQQ |
-| 13 | COHR | Coherent Corp. | Information Technology | 214.66 | 26 | Falling trend: below its 50- and 200-day (6-month -38%); 3-month return -35% vs QQQ; Gapped down -4.6% |
-| 14 | CIEN | Ciena | Information Technology | 272.10 | 26 | Falling trend: below its 50- and 200-day (6-month -45%); 3-month return -33% vs QQQ |
-| 15 | FIX | Comfort Systems USA | Industrials | 1105.93 | 26 | Falling trend: below its 50- and 200-day (6-month -35%); 3-month return -32% vs QQQ |
+| 1 | SKYD | Skydance | Communication Services | 7.90 | 21 | Falling trend: below its 50- and 200-day (6-month -22%); 3-month return -16% vs QQQ; News flags: downgrade |
+| 2 | FIS | Fidelity National Information Services | Financials | 30.21 | 22 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -27% vs QQQ; News flags: downgrade, lawsuit |
+| 3 | ALB | Albemarle Corporation | Materials | 95.97 | 22 | Falling trend: below its 50- and 200-day (6-month -50%); 3-month return -22% vs QQQ; News flags: guidance cut |
+| 4 | TPL | Texas Pacific Land Corporation | Energy | 281.42 | 22 | Falling trend: below its 50- and 200-day (6-month -31%); 3-month return -14% vs QQQ |
+| 5 | FLEX | Flex Ltd. | Information Technology | 78.97 | 23 | Falling trend: below its 50- and 200-day (6-month -43%); 3-month return -33% vs QQQ |
+| 6 | APTV | Aptiv | Consumer Discretionary | 39.41 | 24 | Falling trend: below its 50- and 200-day (6-month -24%); 3-month return -15% vs QQQ |
+| 7 | JBL | Jabil | Information Technology | 258.89 | 24 | Falling trend: below its 50- and 200-day (6-month -31%); 3-month return -26% vs QQQ |
+| 8 | AKAM | Akamai Technologies | Information Technology | 86.68 | 24 | Falling trend: below its 50- and 200-day (6-month -30%); 3-month return -27% vs QQQ; News flags: downgrade |
+| 9 | ALNY | Alnylam Pharmaceuticals | Health Care | 159.85 | 24 | Falling trend: below its 50- and 200-day (6-month -47%); 3-month return -25% vs QQQ |
+| 10 | EME | Emcor | Industrials | 666.74 | 25 | Falling trend: below its 50- and 200-day (6-month -32%); 3-month return -15% vs QQQ |
+| 11 | GNRC | Generac | Industrials | 194.00 | 25 | Falling trend: below its 50- and 200-day (6-month -29%); 3-month return -5% vs QQQ |
+| 12 | FIX | Comfort Systems USA | Industrials | 1161.63 | 26 | Falling trend: below its 50- and 200-day (6-month -46%); 3-month return -29% vs QQQ |
+| 13 | RDDT | Reddit | Communication Services | 105.66 | 26 | Falling trend: below its 50- and 200-day (6-month -39%); 3-month return -29% vs QQQ; Insider selling: 3 unplanned sale(s) this week |
+| 14 | CIEN | Ciena | Information Technology | 296.04 | 26 | Falling trend: below its 50- and 200-day (6-month -53%); 3-month return -29% vs QQQ |
+| 15 | NRG | NRG Energy | Utilities | 97.50 | 29 | Falling trend: below its 50- and 200-day (6-month -44%); 3-month return -13% vs QQQ |
 
 Full details: research_input.md · *Rule-based analysis, not financial advice. Past patterns do not guarantee future results.*

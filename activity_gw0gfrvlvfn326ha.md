@@ -1,15 +1,19 @@
 # My activity
 
-Generated 2026-11-11T01:15:00Z. Every event in the app, newest first (413 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-11T11:16:03Z. Every event in the app, newest first (417 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-11 11:15 | doctor | workflow |  | doctor fixed: the analyst wrote no forecast this morning |  |
+| 2026-11-11 11:15 | doctor | workflow |  | doctor fixed: the daily questions were not answered this morning |  |
+| 2026-11-11 11:15 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 12.08 → 0.0 |
 | 2026-11-10 15:50 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.057) |  |
 | 2026-11-10 15:46 | doctor | workflow |  | doctor: the analyst wrote no forecast this morning |  |
 | 2026-11-10 15:46 | doctor | workflow |  | doctor: the daily questions were not answered this morning |  |
 | 2026-11-10 15:46 | claude_picks | workflow |  | Claude picks received (2026-11-10) |  |
 | 2026-11-10 15:46 | claude_report | workflow |  | morning report 2026-11-09: 6/6 parts |  |
 | 2026-11-10 15:41 | deposit_inferred | sync |  | inferred deposit of $12.08 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 20.2 → 12.08 |
+| 2026-11-09 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 8.12 FLGXX @ 1.00 ($8.12) |  |
 | 2026-11-09 15:37 | claude_portfolio | workflow |  | Claude portfolio decision: 1 orders, 0 rejected ($0.058) |  |
 | 2026-11-09 12:44 | claude_picks | workflow |  | Claude picks received (2026-11-09) |  |
 | 2026-11-09 12:44 | claude_report | workflow |  | morning report 2026-11-06: 6/6 parts |  |

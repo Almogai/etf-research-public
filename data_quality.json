@@ -1,31 +1,31 @@
 {
- "generated_utc": "2026-11-12T22:34:43Z",
- "session_date": "2026-11-12",
+ "generated_utc": "2026-11-13T22:34:01Z",
+ "session_date": "2026-11-13",
  "status": "warn",
  "reasons": [
   "second source unreachable for: QQQ, SPY, TQQQ",
-  "no price for the latest session: KVUE (1)"
+  "no data for 5+ sessions: KVUE (1)"
  ],
  "second_source": "Nasdaq (api.nasdaq.com)",
  "tolerance": 0.005,
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 688.17,
+   "ours": 679.89,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 757.12,
+   "ours": 754.37,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 59.88,
+   "ours": 57.68,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -33,141 +33,141 @@
  ],
  "sample": [
   {
-   "ticker": "GNRC",
-   "ours": 192.88,
+   "ticker": "FANG",
+   "ours": 184.93,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ZTS",
-   "ours": 82.96,
+   "ticker": "AJG",
+   "ours": 282.94,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GILD",
-   "ours": 167.95,
+   "ticker": "DD",
+   "ours": 153.78,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PWR",
-   "ours": 606.16,
+   "ticker": "PFG",
+   "ours": 113.55,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "IQV",
-   "ours": 271.11,
+   "ticker": "ADM",
+   "ours": 72.9,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "CRL",
-   "ours": 340.81,
+   "ticker": "UAL",
+   "ours": 109.31,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ILMN",
-   "ours": 209.55,
+   "ticker": "BLK",
+   "ours": 1222.91,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "TER",
-   "ours": 263.75,
+   "ticker": "DE",
+   "ours": 673.54,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "OXY",
-   "ours": 58.4,
+   "ticker": "CINF",
+   "ours": 189.65,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "EXR",
-   "ours": 158.2,
+   "ticker": "AVY",
+   "ours": 188.03,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "VRSK",
-   "ours": 206.32,
+   "ticker": "RJF",
+   "ours": 168.64,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GL",
-   "ours": 160.11,
+   "ticker": "AZO",
+   "ours": 3259.7,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HSIC",
-   "ours": 86.14,
+   "ticker": "COR",
+   "ours": 359.03,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "WSM",
-   "ours": 250.38,
+   "ticker": "MGM",
+   "ours": 33.49,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "TDG",
-   "ours": 1203.0,
+   "ticker": "AMP",
+   "ours": 519.43,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "TGT",
-   "ours": 160.9,
+   "ticker": "MCO",
+   "ours": 508.2,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ALNY",
-   "ours": 156.65,
+   "ticker": "XOM",
+   "ours": 170.59,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "META",
-   "ours": 623.61,
+   "ticker": "AES",
+   "ours": 14.91,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "CHRW",
-   "ours": 134.39,
+   "ticker": "MET",
+   "ours": 102.65,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "CSCO",
-   "ours": 102.01,
+   "ticker": "ZBRA",
+   "ours": 324.0,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -175,10 +175,10 @@
  ],
  "tqqq_verified": false,
  "problems": {
-  "stale": [
+  "stale": [],
+  "stopped": [
    "KVUE"
   ],
-  "stopped": [],
   "missing_days": {},
   "big_jumps": [],
   "zero_volume": []

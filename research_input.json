@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "session_date": "2026-11-13",
-  "generated_utc": "2026-11-13 22:31 UTC",
+  "generated_utc": "2026-11-14 00:03 UTC",
   "benchmark": "QQQ",
   "universe_size": 518,
   "eligible": 513,
@@ -289,9 +289,9 @@
       "name": "Moderna",
       "sector": "Health Care",
       "price": 223.37,
-      "final_score": 82.9808,
+      "final_score": 83.034,
       "price_score": 95.2914,
-      "news_score": 55.9491,
+      "news_score": 56.247,
       "history_score": 46.9187,
       "insider_score": 50.0,
       "quality_score": 40.2,
@@ -309,9 +309,9 @@
         "Volatility 368%/yr (unusually high/low)",
         "Trades $3,356M/day"
       ],
-      "headline_count_3d": 41,
-      "sentiment": 0.0297,
-      "attention_vs_normal": 1.0662,
+      "headline_count_3d": 42,
+      "sentiment": 0.0381,
+      "attention_vs_normal": 1.0922,
       "news_flags": [
         "guidance raised"
       ],
@@ -341,18 +341,6 @@
           "date": "2026-11-13",
           "items": "5.02,9.01",
           "link": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/"
-        },
-        {
-          "form": "10-Q",
-          "date": "2026-11-06",
-          "items": "",
-          "link": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000197/"
-        },
-        {
-          "form": "8-K",
-          "date": "2026-11-06",
-          "items": "2.02,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/"
         }
       ],
       "sec_checked": true,
@@ -412,9 +400,9 @@
       "name": "Lilly (Eli)",
       "sector": "Health Care",
       "price": 1443.5,
-      "final_score": 82.9498,
+      "final_score": 82.7883,
       "price_score": 93.9988,
-      "news_score": 56.5227,
+      "news_score": 55.6183,
       "history_score": 46.5407,
       "insider_score": 50.0,
       "quality_score": 62.6,
@@ -433,7 +421,7 @@
         "Trades $4,061M/day"
       ],
       "headline_count_3d": 35,
-      "sentiment": 0.2116,
+      "sentiment": 0.1822,
       "attention_vs_normal": 1.0276,
       "news_flags": [
         "FDA",
@@ -513,6 +501,100 @@
     },
     {
       "rank": 4,
+      "ticker": "V",
+      "name": "Visa Inc.",
+      "sector": "Financials",
+      "price": 425.76,
+      "final_score": 82.4107,
+      "price_score": 92.0324,
+      "news_score": 59.0901,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 71.4,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.8759,
+        "relative_strength": 0.9181,
+        "volatility": 0.7797,
+        "liquidity": 0.9435
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +12.7%, 3m +17.2%, 6m +33.1% (beats 88% of stocks)",
+        "3-month return vs QQQ: +27.5%",
+        "Volatility 22%/yr (unusually high/low)",
+        "Trades $2,905M/day"
+      ],
+      "headline_count_3d": 15,
+      "sentiment": 0.2035,
+      "attention_vs_normal": 0.67,
+      "news_flags": [
+        "acquisition",
+        "beat"
+      ],
+      "top_headlines": [
+        {
+          "title": "Visa (NYSE:V) Stock Jumps 1.2% - Time to Buy?",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWYyZU9CcllwdkZqV3EzSXUzdmpjU3pVa2ZKMDI3bTFrZmxxaHJzX1RiUUhmVGJLZlIta2pKOExHbG8wUHFoQVZfcUhpQkttN0RNY0VhakxLVE90S1JLS0pWMkhVZ2ZUYnM1YVlHZ21Nb25PNk1TOVp4cFpRbl9Vb3dHeHg4enZUWDFYajFod242Ukx5V215bnB3VUh5czA?oc=5",
+          "date": "2026-11-13 22:23 UTC"
+        },
+        {
+          "title": "Visa (V) Stock Price Prediction: Visa Holds Above Key Support as Earnings Beat Meets Mixed Derivatives Signals",
+          "source": "Blockchain News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWlwVmc1aXJfZDZqWndnZmJsbFZfX1lKWlFtbmpNejhFQzlnZVFWNkc5ZkE1RWFJSjhwVzNpMlBMOUkwNEc1UU9XQkowbFYzNC1xd0hweWRiN2lIdEFtWTBhVjI3bnhQQzlrSVF5V2dKVHNpbngyVTJua1BBblhLVExPZ1R4eEwta09Xc0wyLS1aUQ?oc=5",
+          "date": "2026-11-12 16:47 UTC"
+        },
+        {
+          "title": "Is Visa (V) Above Fair Value Or Still Below It?",
+          "source": "Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFAtR1piX3dRVWxyWk42NlZpbldYelJ1RXdYcnRuZ1lVT0dfQS05bm9MVjdiMDAtdHNQbTNjc2RUci1uMnlSYWo0Rk5pQkV3Rld0emJ6QWt5cUE3ZEQ0VzN1VlNOanU1OXZzSHdRVHpfT08zTkpBYjl4bXhWTWpQd0RFbU82WW5pY2RlOG5zM09OQk00YU53b0w5b3d5RmdLTzB5b0JPQ3FvY08yaG1EZWtGLV9vMWfSAbwBQVVfeXFMUDVyd0sxUUduUVROR2llY2xBTE80T3EzdFo5ZHl5Ny1iZEJ6SEhEOGVYdVVIamYtalJDZHBPZnpqVEZEcmFhWm1qX1lhcmhZM2hScGt3eG1oTXhzV0RfYWZST2hPY2w2dm40YmhyWjZwZGozeG1mck96OEZmbEdRa3JmMlpoMVU4M0dCU1pVX1VNQV94cUVrVU4xZVd6ME1jOFZSSE1NaWNMaUxBWGpGWDdQckJJWnZ2Y1hGV3M?oc=5",
+          "date": "2026-11-13 22:24 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 2,
+        "planned_sells": 2,
+        "buy_value": 0,
+        "sell_value": 2228670.09
+      },
+      "events": [],
+      "earnings_date": "2027-01-26",
+      "days_to_earnings": 52,
+      "earnings_within_5d": false,
+      "stop": 410.2002,
+      "stop_pct": -0.0365,
+      "why_now": "News: beat",
+      "fundamentals": {
+        "period_end": "2026-09-30",
+        "filed": "2026-11-05",
+        "rev_yoy": 0.1319,
+        "rev_ttm": 45903000000,
+        "rev_ttm_yoy": 0.1476,
+        "op_margin": 0.6124,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.5793,
+        "fcf_ttm": 23728000000,
+        "fcf_margin": 0.5169,
+        "ps": 4.3527,
+        "ebitda_ttm": 29513000000,
+        "ev_ebitda": 7.0404,
+        "debt": 20920000000,
+        "mcap": 199801015873,
+        "stale": false,
+        "quality_score": 71.4,
+        "beta": 0.7,
+        "summary": "Revenue +13% y/y, margins rising, moderate debt, P/E nan"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 5,
       "ticker": "MA",
       "name": "Mastercard",
       "sector": "Financials",
@@ -537,9 +619,9 @@
         "Volatility 22%/yr (unusually high/low)",
         "Trades $2,097M/day"
       ],
-      "headline_count_3d": 14,
-      "sentiment": 0.242,
-      "attention_vs_normal": 0.847,
+      "headline_count_3d": 13,
+      "sentiment": 0.2606,
+      "attention_vs_normal": 0.7865,
       "news_flags": [],
       "top_headlines": [
         {
@@ -606,100 +688,6 @@
       "history_events": []
     },
     {
-      "rank": 5,
-      "ticker": "V",
-      "name": "Visa Inc.",
-      "sector": "Financials",
-      "price": 425.76,
-      "final_score": 82.2738,
-      "price_score": 92.0324,
-      "news_score": 58.3237,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 71.4,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.8759,
-        "relative_strength": 0.9181,
-        "volatility": 0.7797,
-        "liquidity": 0.9435
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +12.7%, 3m +17.2%, 6m +33.1% (beats 88% of stocks)",
-        "3-month return vs QQQ: +27.5%",
-        "Volatility 22%/yr (unusually high/low)",
-        "Trades $2,905M/day"
-      ],
-      "headline_count_3d": 14,
-      "sentiment": 0.1772,
-      "attention_vs_normal": 0.6253,
-      "news_flags": [
-        "acquisition",
-        "beat"
-      ],
-      "top_headlines": [
-        {
-          "title": "Visa (NYSE:V) Stock Jumps 1.2% - Time to Buy?",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWYyZU9CcllwdkZqV3EzSXUzdmpjU3pVa2ZKMDI3bTFrZmxxaHJzX1RiUUhmVGJLZlIta2pKOExHbG8wUHFoQVZfcUhpQkttN0RNY0VhakxLVE90S1JLS0pWMkhVZ2ZUYnM1YVlHZ21Nb25PNk1TOVp4cFpRbl9Vb3dHeHg4enZUWDFYajFod242Ukx5V215bnB3VUh5czA?oc=5",
-          "date": "2026-11-13 22:23 UTC"
-        },
-        {
-          "title": "Visa (V) Stock Price Prediction: Visa Holds Above Key Support as Earnings Beat Meets Mixed Derivatives Signals",
-          "source": "Blockchain News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWlwVmc1aXJfZDZqWndnZmJsbFZfX1lKWlFtbmpNejhFQzlnZVFWNkc5ZkE1RWFJSjhwVzNpMlBMOUkwNEc1UU9XQkowbFYzNC1xd0hweWRiN2lIdEFtWTBhVjI3bnhQQzlrSVF5V2dKVHNpbngyVTJua1BBblhLVExPZ1R4eEwta09Xc0wyLS1aUQ?oc=5",
-          "date": "2026-11-12 16:47 UTC"
-        },
-        {
-          "title": "Top Stock Reports for Visa, ExxonMobil & Pfizer",
-          "source": "Zacks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-exxonmobil-201900445.html",
-          "date": "2026-11-13 20:19 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 2,
-        "planned_sells": 2,
-        "buy_value": 0,
-        "sell_value": 2228670.09
-      },
-      "events": [],
-      "earnings_date": "2027-01-26",
-      "days_to_earnings": 52,
-      "earnings_within_5d": false,
-      "stop": 410.2002,
-      "stop_pct": -0.0365,
-      "why_now": "News: beat",
-      "fundamentals": {
-        "period_end": "2026-09-30",
-        "filed": "2026-11-05",
-        "rev_yoy": 0.1319,
-        "rev_ttm": 45903000000,
-        "rev_ttm_yoy": 0.1476,
-        "op_margin": 0.6124,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.5793,
-        "fcf_ttm": 23728000000,
-        "fcf_margin": 0.5169,
-        "ps": 4.3527,
-        "ebitda_ttm": 29513000000,
-        "ev_ebitda": 7.0404,
-        "debt": 20920000000,
-        "mcap": 199801015873,
-        "stale": false,
-        "quality_score": 71.4,
-        "beta": 0.7,
-        "summary": "Revenue +13% y/y, margins rising, moderate debt, P/E nan"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
       "rank": 6,
       "ticker": "GILD",
       "name": "Gilead Sciences",
@@ -756,10 +744,10 @@
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
-        "sells": 3,
-        "planned_sells": 3,
+        "sells": 1,
+        "planned_sells": 1,
         "buy_value": 0,
-        "sell_value": 20251248.7013
+        "sell_value": 557809.89
       },
       "events": [],
       "earnings_date": null,
@@ -800,9 +788,9 @@
       "name": "McKesson",
       "sector": "Health Care",
       "price": 1102.8101,
-      "final_score": 81.9792,
+      "final_score": 81.7131,
       "price_score": 92.356,
-      "news_score": 63.7702,
+      "news_score": 62.2798,
       "history_score": 46.7297,
       "insider_score": 50.0,
       "quality_score": 31.9,
@@ -820,9 +808,9 @@
         "Volatility 28%/yr (normal)",
         "Trades $733M/day"
       ],
-      "headline_count_3d": 8,
-      "sentiment": 0.3756,
-      "attention_vs_normal": 0.7784,
+      "headline_count_3d": 7,
+      "sentiment": 0.3563,
+      "attention_vs_normal": 0.6811,
       "news_flags": [
         "guidance raised"
       ],
@@ -834,26 +822,26 @@
           "date": "2026-11-13 12:43 UTC"
         },
         {
-          "title": "McKesson Corp. stock outperforms competitors on strong trading day",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOS1nS2ZVem11azJ3VmRRN1VXYnJGYno1VlMwNDNvWHRIZVlGSllrYmp4eUhvaUM5YUpGbENrYmlOM0ZFaGNNZnpqUjAyMlFNYUludUZoaVdBeXZSUEJLc05xZTlib2IwSkRab3ZQR19GSHVUdVhDSXI3UERUOFlKZEt3bWd0MC11bFZyenRLWlNsQkRScFZkNTU3MnlXdXBXeEd0MDk5M1JJbDQ0YjRMWVVfa0R3OFcxWm1RZExsTmFvbjU3ZWhPczNuVDcwdGdPNkpnMkdrVmpncnc?oc=5",
-          "date": "2026-11-13 21:37 UTC"
-        },
-        {
           "title": "McKesson: Slower FY2028 Revenue Growth Makes Today's Premium Less Attractive (NYSE:MCK)",
           "source": "Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcm12VnNWQi0yNmpNV1c0VVQ3SENILXpBazhGaHoxR01NRDdCbUpzVDZ3Q2R4VEdsTVNfblNxdThmSk5vVGhfcXRrYzExMjRsR2NVdE1aTUdVVExCbTZ0REVjMzZ6aVdKbzI1NlFtSkh5S1Y5dWp6bFIyWUQ4SXlHUVZ2QjhXYkFpbDUwWEl2MWtkVjB0NEh0SHdiWEVXcVFlTGhwNTZJY0tDbHFxYVhlNFJKeUFkUQ?oc=5",
           "date": "2026-11-13 16:17 UTC"
+        },
+        {
+          "title": "Healthcare providers & services stocks Q3 results: Benchmarking McKesson",
+          "source": "StockStory",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzgwbjJzaXpwZzVvSWxSMi1saGNHVlZoVU1rQnJIWnlQdEZUWHVJOHBLLXFnRXlHVmZXY2FMVmxtbVRDM3hNbGlzODVfUlhQakhVN2lsTXVuLWhIQ3BJRnRnR25URXVxTUlxdFhRZWpJOHpvdW4wRGlZSnlMc201TTUzSWJ1dDY5WmxCakZ2YXJfZlBveGF4TlRnUjZDSlB3c2g5ZEgwNHQwVzJnRXJIdDFlb2paYU9ETllCTDJ5WjBfX0JaNWQzRQ?oc=5",
+          "date": "2026-11-12 15:53 UTC"
         }
       ],
       "filings_7d": [],
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
-        "sells": 1,
-        "planned_sells": 1,
+        "sells": 0,
+        "planned_sells": 0,
         "buy_value": 0,
-        "sell_value": 716924.0
+        "sell_value": 0.0
       },
       "events": [],
       "earnings_date": "2027-02-03",
@@ -914,9 +902,9 @@
       "name": "Cardinal Health",
       "sector": "Health Care",
       "price": 281.1,
-      "final_score": 81.1561,
+      "final_score": 81.3147,
       "price_score": 88.3912,
-      "news_score": 71.1001,
+      "news_score": 71.9881,
       "history_score": 46.7297,
       "insider_score": 50.0,
       "quality_score": 51.5,
@@ -934,9 +922,9 @@
         "Volatility 24%/yr (normal)",
         "Trades $469M/day"
       ],
-      "headline_count_3d": 15,
-      "sentiment": 0.3578,
-      "attention_vs_normal": 1.5,
+      "headline_count_3d": 16,
+      "sentiment": 0.3539,
+      "attention_vs_normal": 1.6,
       "news_flags": [
         "acquisition",
         "guidance raised"
@@ -944,9 +932,9 @@
       "top_headlines": [
         {
           "title": "Cardinal Health (CAH) Stock Could Be Pricey Following Raised Earnings Guidance",
-          "source": "Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWhsMFJ6amstOVQ0ZE9QczMxc3RfcC14eFdQN2d5Sks3d3d2WG4yNEViSXFSTk9JWGRkMlR6TUFNUlJwY1BRdzJmYzBiUjBvU2lrVllWdzgteEQ1Sng0VmFCUUM4YkdGTHc5WmhMeVVPS2plb1VBVGFMZERFek56UmsyWGotbG8?oc=5",
-          "date": "2026-11-12 05:59 UTC"
+          "source": "Simply Wall St.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-stock-could-051357927.html",
+          "date": "2026-11-12 05:13 UTC"
         },
         {
           "title": "Here's Why Cardinal Health (CAH) is a Great Momentum Stock to Buy",
@@ -1018,9 +1006,9 @@
       "name": "Roper Technologies",
       "sector": "Information Technology",
       "price": 479.975,
-      "final_score": 80.3322,
+      "final_score": 80.7786,
       "price_score": 91.6728,
-      "news_score": 50.571,
+      "news_score": 53.071,
       "history_score": 46.9187,
       "insider_score": 50.0,
       "quality_score": 65.3,
@@ -1066,10 +1054,10 @@
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
-        "sells": 6,
+        "sells": 0,
         "planned_sells": 0,
         "buy_value": 0,
-        "sell_value": 19699895.66
+        "sell_value": 0.0
       },
       "events": [],
       "earnings_date": "2027-01-26",
@@ -1241,131 +1229,6 @@
     },
     {
       "rank": 11,
-      "ticker": "HUM",
-      "name": "Humana",
-      "sector": "Health Care",
-      "price": 450.0,
-      "final_score": 80.0917,
-      "price_score": 88.8075,
-      "news_score": 66.0625,
-      "history_score": 46.5407,
-      "insider_score": 50.0,
-      "quality_score": 38.7,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.8811,
-        "relative_strength": 0.8967,
-        "volatility": 1.0,
-        "liquidity": 0.6784
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +12.3%, 3m +12.7%, 6m +58.5% (beats 88% of stocks)",
-        "3-month return vs QQQ: +25.8%",
-        "Volatility 38%/yr (normal)",
-        "Trades $670M/day"
-      ],
-      "headline_count_3d": 15,
-      "sentiment": 0.2474,
-      "attention_vs_normal": 1.1538,
-      "news_flags": [
-        "beat",
-        "upgrade"
-      ],
-      "top_headlines": [
-        {
-          "title": "Humana (NYSE:HUM) Upgraded at Zacks Research",
-          "source": "MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUVKUHJHU285TElwR2czLW9SY2w4NHVVa1hVblVBeGVpSHpjZEZZU3dDMy0yNkU3Nmp3UnBDY2ZWUURLZ3J5TWtfTlNHOFdUZzZGZ1Z5czI3a3A4V3M4NWk4S20yR3E3MHdLMmFBUXVvSWFhQ0pXN0VOblFSZ0k2UWQtOEVLX3pqcktCX0FCQ1hOSXV2UE1weUxibm9lZ0laTjlwWll6aw?oc=5",
-          "date": "2026-11-12 11:02 UTC"
-        },
-        {
-          "title": "Humana (HUM) Stock Gets Fair Value Bump After Star Ratings And Q3 Beat",
-          "source": "Simply Wall St.",
-          "link": "https://finance.yahoo.com/healthcare/articles/humana-hum-stock-gets-fair-180800460.html",
-          "date": "2026-11-11 18:08 UTC"
-        },
-        {
-          "title": "Humana (HUM) Upgraded to Strong Buy: Here's Why",
-          "source": "Zacks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/humana-hum-upgraded-strong-buy-160003326.html",
-          "date": "2026-11-11 16:00 UTC"
-        }
-      ],
-      "filings_7d": [
-        {
-          "form": "8-K",
-          "date": "2026-11-09",
-          "items": "8.01,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000068/"
-        },
-        {
-          "form": "10-Q",
-          "date": "2026-11-06",
-          "items": "",
-          "link": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000066/"
-        },
-        {
-          "form": "8-K",
-          "date": "2026-11-06",
-          "items": "2.02,7.01,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000064/"
-        }
-      ],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 2,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 2577866.443
-      },
-      "events": [],
-      "earnings_date": null,
-      "days_to_earnings": null,
-      "earnings_within_5d": false,
-      "stop": 423.915,
-      "stop_pct": -0.058,
-      "why_now": "News: beat, upgrade",
-      "fundamentals": {
-        "period_end": "2026-09-30",
-        "filed": "2026-11-06",
-        "rev_yoy": 0.2605,
-        "rev_ttm": 154185000000,
-        "rev_ttm_yoy": 0.2202,
-        "eps_yoy": -0.179,
-        "eps_ttm": 10.3,
-        "op_margin": 0.0154,
-        "op_margin_trend": "falling",
-        "debt_to_equity": 0.1381,
-        "fcf_ttm": 3139000000,
-        "fcf_margin": 0.0204,
-        "pe": 43.6893,
-        "ps": 0.3505,
-        "ebitda_ttm": 3025000000,
-        "ev_ebitda": 16.4335,
-        "debt": 2600000000,
-        "mcap": 54046462500,
-        "stale": false,
-        "quality_score": 38.7,
-        "beta": 0.9084,
-        "summary": "Revenue +26% y/y, margins falling, low debt, P/E 44"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "high_52w",
-          "name": "New 52-week high",
-          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
-          "n": 9583,
-          "beat": 0.4654,
-          "median": -0.0053
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "ticker": "TMO",
       "name": "Thermo Fisher Scientific",
       "sector": "Health Care",
@@ -1462,14 +1325,224 @@
       "history_events": []
     },
     {
+      "rank": 12,
+      "ticker": "HUM",
+      "name": "Humana",
+      "sector": "Health Care",
+      "price": 450.0,
+      "final_score": 79.8953,
+      "price_score": 88.8075,
+      "news_score": 64.9624,
+      "history_score": 46.5407,
+      "insider_score": 50.0,
+      "quality_score": 38.7,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.8811,
+        "relative_strength": 0.8967,
+        "volatility": 1.0,
+        "liquidity": 0.6784
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +12.3%, 3m +12.7%, 6m +58.5% (beats 88% of stocks)",
+        "3-month return vs QQQ: +25.8%",
+        "Volatility 38%/yr (normal)",
+        "Trades $670M/day"
+      ],
+      "headline_count_3d": 14,
+      "sentiment": 0.231,
+      "attention_vs_normal": 1.0769,
+      "news_flags": [
+        "beat",
+        "upgrade"
+      ],
+      "top_headlines": [
+        {
+          "title": "Humana (NYSE:HUM) Upgraded at Zacks Research",
+          "source": "MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUVKUHJHU285TElwR2czLW9SY2w4NHVVa1hVblVBeGVpSHpjZEZZU3dDMy0yNkU3Nmp3UnBDY2ZWUURLZ3J5TWtfTlNHOFdUZzZGZ1Z5czI3a3A4V3M4NWk4S20yR3E3MHdLMmFBUXVvSWFhQ0pXN0VOblFSZ0k2UWQtOEVLX3pqcktCX0FCQ1hOSXV2UE1weUxibm9lZ0laTjlwWll6aw?oc=5",
+          "date": "2026-11-12 11:02 UTC"
+        },
+        {
+          "title": "Humana (HUM) Stock Gets Fair Value Bump After Star Ratings And Q3 Beat",
+          "source": "Simply Wall St.",
+          "link": "https://finance.yahoo.com/healthcare/articles/humana-hum-stock-gets-fair-180800460.html",
+          "date": "2026-11-11 18:08 UTC"
+        },
+        {
+          "title": "Humana (HUM) Upgraded to Strong Buy: Here's Why",
+          "source": "Zacks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/humana-hum-upgraded-strong-buy-160003326.html",
+          "date": "2026-11-11 16:00 UTC"
+        }
+      ],
+      "filings_7d": [
+        {
+          "form": "8-K",
+          "date": "2026-11-09",
+          "items": "8.01,9.01",
+          "link": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000068/"
+        }
+      ],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 2,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 2577866.443
+      },
+      "events": [],
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "earnings_within_5d": false,
+      "stop": 423.915,
+      "stop_pct": -0.058,
+      "why_now": "News: beat, upgrade",
+      "fundamentals": {
+        "period_end": "2026-09-30",
+        "filed": "2026-11-06",
+        "rev_yoy": 0.2605,
+        "rev_ttm": 154185000000,
+        "rev_ttm_yoy": 0.2202,
+        "eps_yoy": -0.179,
+        "eps_ttm": 10.3,
+        "op_margin": 0.0154,
+        "op_margin_trend": "falling",
+        "debt_to_equity": 0.1381,
+        "fcf_ttm": 3139000000,
+        "fcf_margin": 0.0204,
+        "pe": 43.6893,
+        "ps": 0.3505,
+        "ebitda_ttm": 3025000000,
+        "ev_ebitda": 16.4335,
+        "debt": 2600000000,
+        "mcap": 54046462500,
+        "stale": false,
+        "quality_score": 38.7,
+        "beta": 0.9084,
+        "summary": "Revenue +26% y/y, margins falling, low debt, P/E 44"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": [
+        {
+          "event": "high_52w",
+          "name": "New 52-week high",
+          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
+          "n": 9583,
+          "beat": 0.4654,
+          "median": -0.0053
+        }
+      ]
+    },
+    {
       "rank": 13,
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "sector": "Health Care",
+      "price": 955.47,
+      "final_score": 79.8707,
+      "price_score": 90.7947,
+      "news_score": 48.6371,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 77.3,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.8908,
+        "relative_strength": 0.9142,
+        "volatility": 1.0,
+        "liquidity": 0.7661
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +22.3%, 3m +12.0%, 6m +26.8% (beats 89% of stocks)",
+        "3-month return vs QQQ: +27.3%",
+        "Volatility 40%/yr (normal)",
+        "Trades $899M/day"
+      ],
+      "headline_count_3d": 11,
+      "sentiment": 0.2149,
+      "attention_vs_normal": 0.5641,
+      "news_flags": [
+        "miss"
+      ],
+      "top_headlines": [
+        {
+          "title": "Missed Regeneron Pharmaceuticals' Rally? Here Is What Holders Saw",
+          "source": "Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLURRVVJDZmFTc0R2c2NPN0JGNFpzc3ota1VTVktFWElfWUpYcnRMQTgwblBKZ3pucUdWVUgxaHBsT2E3VlR0TlVuVHFEN1JMUTAzRXBxT1I1elZkVS1YU1M0clBGbU1lQkRiZzhtNEZ4U0lZX09oZTBRNS1nRFpZdS1lemVGbW01V0lrc3lPVnp2aHdtZzhtajdiT1NMakpGcm9ycmRTa2VFT2V6LVlHbnNtTF8tdlN3MWJIQVBjZEJEbjRMX0FoT2Y4R2xFOWpUbmJ6TVNSd05fN2pOU3ltV3FwVTROUzh1bGwwZUtFUdIB9AFBVV95cUxPQkk0R2hIRFRxUFAxb21vTVJaeWU1eThhOWlJa3hveHI2eGFyX1kzTWF2cnZuVy03ZThLVHpyeFd5TEZvWUw1czI4ODJtSGpuZkdPdlE2dWgybEpYRVBCbjd2UUQ1YXF5a3M3NlhKejg4S2N6Vm12dEdQazU5RkdiYzJkT1pyWXVjLXVzaTNldVpDcUFTWDJVRGJNaWlKbTJjLV9LYVFaa21DUjYzSUE0WWYzVXV5Y1kwZU85Ri04dnJlZ1U1cXVnRHdaQVZVbXp2SEpuZGVVTVotcWdNd2toMkZ6dHA3NnJxSDd0bVI2ZHY5SXFa?oc=5",
+          "date": "2026-11-13 09:20 UTC"
+        },
+        {
+          "title": "Regeneron Drug Lowers Standing Heart Rate And Improves Symptoms In Heart Disease Study",
+          "source": "Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV19nMWFsdjhKb0ZuSG9tSFlMMWJlbWtMOHhhZGdleHZaXzhtdTd1R21LT0ZXTjFQbVlKdkNXVDZ6b3lqUHlOSzhQV1F1Y0JoZFM3SHhpOG5YVlZOQ0c3Nkt4MmZoQWd2cUdhdUozcGRMWDVQTHp3WlEzQVd1bGtkcVdBNTBNQklva1VqSldQZnAwQzBxNGNWazhzcXVJaExyUDdpMlFkLXZoTHRpMDl1N3dqSHMzM05NRVZKVmEycGlLNkdrbnB0N0ROaFVBTUNZbWZuYkxJT2JQdw?oc=5",
+          "date": "2026-11-13 18:01 UTC"
+        },
+        {
+          "title": "Regeneron Pharmaceuticals (REGN) Reports Positive Phase 2 Results for POTS Treatment Baloncibart",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRldmTlF6R3Zjd2RQWmQzMnFMcndLZ1pibldxazFDNnBSaGpiTi03WHJhZWtIR01lMXJCdk5RS1VKcUdYeDNRQ2Z2dW9fR2lqa0l4N05XSEh4V0tBQUx6UV8yRmlwSWlweHNaNDBqbkdSeGItRFJ2ZFBXVHdBbU55UWpzUDlwQzFPZ1IyazlTN3ktc2FIOUtJNEpwaEJpa05CWmdkc3dFT1I5WWVVYUd2YnBJTjlqeTdFZ1oxY3RlaGJEZHp5OWlJbHFHR0Y5QQ?oc=5",
+          "date": "2026-11-13 00:12 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2027-01-28",
+      "days_to_earnings": 54,
+      "earnings_within_5d": false,
+      "stop": 897.9868,
+      "stop_pct": -0.0602,
+      "why_now": "Strong trend: 6-month +27%, 3-month vs QQQ +27%",
+      "fundamentals": {
+        "period_end": "2026-09-30",
+        "filed": "2026-10-30",
+        "rev_yoy": 0.3627,
+        "rev_ttm": 16896200000,
+        "rev_ttm_yoy": 0.1859,
+        "eps_yoy": 0.3546,
+        "eps_ttm": 45.3,
+        "gross_margin": 0.3465,
+        "op_margin": 0.2879,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.0593,
+        "fcf_ttm": 4846000000,
+        "fcf_margin": 0.2868,
+        "pe": 21.0921,
+        "ps": 5.3131,
+        "ebitda_ttm": 5377400000,
+        "ev_ebitda": 16.3832,
+        "debt": 1987000000,
+        "mcap": 89771286199,
+        "stale": false,
+        "quality_score": 77.3,
+        "beta": 0.5112,
+        "summary": "Revenue +36% y/y, margins rising, low debt, P/E 21"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 14,
       "ticker": "MDT",
       "name": "Medtronic",
       "sector": "Health Care",
       "price": 102.86,
-      "final_score": 79.7941,
+      "final_score": 79.7001,
       "price_score": 90.1285,
-      "news_score": 55.7152,
+      "news_score": 55.189,
       "history_score": 46.9187,
       "insider_score": 50.0,
       "quality_score": 55.4,
@@ -1487,9 +1560,9 @@
         "Volatility 28%/yr (normal)",
         "Trades $872M/day"
       ],
-      "headline_count_3d": 13,
-      "sentiment": 0.2841,
-      "attention_vs_normal": 0.6706,
+      "headline_count_3d": 12,
+      "sentiment": 0.2794,
+      "attention_vs_normal": 0.619,
       "news_flags": [
         "FDA"
       ],
@@ -1568,14 +1641,14 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 15,
       "ticker": "AMGN",
       "name": "Amgen",
       "sector": "Health Care",
       "price": 465.67,
-      "final_score": 79.5772,
+      "final_score": 79.6399,
       "price_score": 88.1659,
-      "news_score": 62.7085,
+      "news_score": 63.0596,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 51.3,
@@ -1593,9 +1666,9 @@
         "Volatility 34%/yr (normal)",
         "Trades $1,218M/day"
       ],
-      "headline_count_3d": 30,
-      "sentiment": 0.1133,
-      "attention_vs_normal": 0.7972,
+      "headline_count_3d": 32,
+      "sentiment": 0.1199,
+      "attention_vs_normal": 0.8503,
       "news_flags": [
         "acquisition",
         "beat",
@@ -1665,109 +1738,6 @@
       "insider_30d": [],
       "insider_badges": "",
       "history_events": []
-    },
-    {
-      "rank": 15,
-      "ticker": "ABBV",
-      "name": "AbbVie",
-      "sector": "Health Care",
-      "price": 295.03,
-      "final_score": 79.2335,
-      "price_score": 88.9684,
-      "news_score": 53.693,
-      "history_score": 46.5407,
-      "insider_score": 50.0,
-      "quality_score": 73.3,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.8285,
-        "relative_strength": 0.9103,
-        "volatility": 0.7407,
-        "liquidity": 0.8772
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +7.6%, 3m +18.2%, 6m +46.5% (beats 83% of stocks)",
-        "3-month return vs QQQ: +27.2%",
-        "Volatility 21%/yr (unusually high/low)",
-        "Trades $1,493M/day"
-      ],
-      "headline_count_3d": 15,
-      "sentiment": 0.0641,
-      "attention_vs_normal": 0.6201,
-      "news_flags": [
-        "acquisition",
-        "guidance raised"
-      ],
-      "top_headlines": [
-        {
-          "title": "ABBV Stock Rises More Than 4% in a Month: Time to Buy, Hold or Sell?",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/abbv-stock-rises-more-4-153900677.html?.tsrc=rss",
-          "date": "2026-11-11 15:39 UTC"
-        },
-        {
-          "title": "AbbVie (ABBV) Stock May Be A Bargain Following Raised Outlook",
-          "source": "Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRmlveDhOWG9Xa1B1bHpHV1U2REMxTVoyekJjd3dfM3FDYlJYemdfeUVLdDNsMXpWVzZ5ZE5wem5WbGhEenU2Vnd1VHhFZFJYQUxIT3ZiaW9nb1J6WGVGamQ0YzA1TVpjdG1IbEc5VDlQVkpLR1FkMFJzcHItcHgyUE5rZ3dEcjJ4anFHMG9JQlFoWkxKaDdvX2dBdUZvNTVOVUI0LVZlcU1XNEtQOURqdXAwMV8zVVlWQm1nanJLZW5pMko3ckd3cWlkU1p2anh5YXNj0gHYAUFVX3lxTE9uU0hjek5zVGMyckxrbi1SamtXeng5aTdnVWl3Q2hzZXNsQWh4RXFTZy14eHFLalNXa3o1OERDejZsTlk2M1ZOOVRyVHJRaEV0Y0I0TU90RmRIeThJQTVvQU5kLW9UOGRjckhuaDBuRjFPZDdEZlhTdXVIMXJzZkRxSFhYTXFMQXZ0TXlTekYxV2dxcjNhYUdEclhselVUbTJEU29WMXRpZng3aWFXaVNzLXN5akUyekJiaVpmNHN0c1ctbUVIcHhKRG1wcDhxN0MxM1l3dWNlVQ?oc=5",
-          "date": "2026-11-11 15:26 UTC"
-        },
-        {
-          "title": "Is AbbVie Stock Really Expensive?",
-          "source": "Trefis",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDg1a2hiN0lXS0MyRkhQSjZ0ZFpMU1lYZ21sNW02ZEl4NFpfN0pqMEh1cTZINEttOHUyM0lzYVQtU2tJTDRJSUZ3Sm5iUU5CTFJvMXZzSkdUcjd0d01XSVRxSnN4OFBZQXFNX2cta3gtTk9raURxTURVT1UzMm1uYnh5U0U4RUJlcjV6WWhEcE9qVHVDSktqeQ?oc=5",
-          "date": "2026-11-13 07:49 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 1,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 11925738.4
-      },
-      "events": [],
-      "earnings_date": null,
-      "days_to_earnings": null,
-      "earnings_within_5d": false,
-      "stop": 283.8936,
-      "stop_pct": -0.0377,
-      "why_now": "News: guidance raised",
-      "fundamentals": {
-        "period_end": "2026-09-30",
-        "filed": "2026-11-03",
-        "rev_yoy": 0.1032,
-        "rev_ttm": 66014000000,
-        "rev_ttm_yoy": 0.1068,
-        "eps_yoy": 22.7,
-        "eps_ttm": 5.81,
-        "op_margin": 0.3216,
-        "op_margin_trend": "rising",
-        "fcf_ttm": 18872000000,
-        "fcf_margin": 0.2859,
-        "pe": 50.7797,
-        "ps": 7.8998,
-        "debt": 64503000000,
-        "mcap": 521499836601,
-        "stale": false,
-        "quality_score": 73.3,
-        "beta": 0.0183,
-        "summary": "Revenue +10% y/y, margins rising, high debt, P/E 51"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": [
-        {
-          "event": "high_52w",
-          "name": "New 52-week high",
-          "name_he": "\u05e9\u05d9\u05d0 \u05e9\u05dc \u05e9\u05e0\u05d4",
-          "n": 9583,
-          "beat": 0.4654,
-          "median": -0.0053
-        }
-      ]
     }
   ],
   "cold": [
@@ -1877,106 +1847,6 @@
     },
     {
       "rank": 2,
-      "ticker": "APTV",
-      "name": "Aptiv",
-      "sector": "Consumer Discretionary",
-      "price": 38.75,
-      "final_score": 21.7524,
-      "price_score": 10.7913,
-      "news_score": 53.0482,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 28.0,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.117,
-        "relative_strength": 0.0897,
-        "volatility": 1.0,
-        "liquidity": 0.0507
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -10.8%, 3m -20.8%, 6m -31.9% (beats 12% of stocks)",
-        "3-month return vs QQQ: -17.0%",
-        "Volatility 35%/yr (normal)",
-        "Trades $136M/day"
-      ],
-      "headline_count_3d": 6,
-      "sentiment": 0.1502,
-      "attention_vs_normal": 0.6767,
-      "news_flags": [
-        "downgrade",
-        "upgrade"
-      ],
-      "top_headlines": [
-        {
-          "title": "APTV Upgraded by Daiwa Capital -- Rating Changed to Neutral",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEcxMFNTUnhtRUJhVk1JNHlhSDJmc2pjQlVrbU5wRmQzb1hKd1RsY1ZyY254NkhVVU5ORm5hMHJicnJPZ1F0WUxJcWwyaElHelNQWEppbzFHT29TN1cxdzhtSnp2MUw5V1VzYWFVUzR3ZUFUVU45bWlDVzMzMDZMZHBmU1dETHRER1Z0N0ZCaWVnNWQzTW1Pd1VCZw?oc=5",
-          "date": "2026-11-13 13:57 UTC"
-        },
-        {
-          "title": "Daiwa Downgrades Aptiv to Neutral, Price Target is $41",
-          "source": "marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXc1cXJPbG96cWVyeHh0MjFmRWtkSXlHbDFveDBJV0ptNkY3R194TExvLUVWUHBmVi1VN3UyWTJlcFZrQy03Z0RKcGM3cUJQemJhRjhGSGNmQUJfSEN3ZjZURmxWazlJX3Rtc1ljRkppRi0xS1ZaYjd5MFhveTVnbjJkZ2hoSmR0Z0xuUE5Fc3ZBZnVTN3d1b2VUY2tXMWxOOHpsYmE5b1A?oc=5",
-          "date": "2026-11-13 10:35 UTC"
-        },
-        {
-          "title": "Aptiv PLC stock outperforms competitors despite losses on the day",
-          "source": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZVZIVVhnbXZVSGtsbl9OMnpOTU5fZk0zY2F5dG1xYU5IQm54NGQybTVCMmJZcHQwbFEtemdDaWhZOGE0ek03SXp0aWthN2JGeUxweUdxZGlMNjczUlluQy1KaXVWLV8tZmI5RHgwZDNRX09HQ2twX1F0SWNlMUNJNTB6QVA2MElGU2dKS0FHRGR5UXUwQUpIekRuQTN6cVNLb2lScnlMOGJnTmtWek5ybW9aOExGUVY1eXp4M1JGcTdBTVVzajFTWGJMdmtiTFMtWW8ya3NuaERoa28?oc=5",
-          "date": "2026-11-12 22:18 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0.0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2027-02-01",
-      "days_to_earnings": 56,
-      "earnings_within_5d": false,
-      "stop": 36.312,
-      "stop_pct": -0.0629,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -32%)",
-        "3-month return -17% vs QQQ",
-        "News flags: downgrade"
-      ],
-      "fundamentals": {
-        "period_end": "2026-09-30",
-        "filed": "2026-11-03",
-        "rev_yoy": 0.023,
-        "rev_ttm": 16712000000,
-        "rev_ttm_yoy": 0.0407,
-        "eps_ttm": 3.63,
-        "op_margin": 0.0868,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.8708,
-        "fcf_ttm": 1087000000,
-        "fcf_margin": 0.065,
-        "pe": 10.6749,
-        "ps": 0.4694,
-        "ebitda_ttm": 2562000000,
-        "ev_ebitda": 5.7873,
-        "debt": 7653000000,
-        "mcap": 7844165368,
-        "stale": false,
-        "quality_score": 28.0,
-        "beta": 0.7771,
-        "summary": "Revenue +2% y/y, margins rising, moderate debt, P/E 11"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 3,
       "ticker": "FLEX",
       "name": "Flex Ltd.",
       "sector": "Information Technology",
@@ -2014,9 +1884,9 @@
         },
         {
           "title": "Flex, IREN, IQM Quantum Computers, Keel Infrastructure, and Quantinuum shares plummet, what you need to know",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeEZ2T1laN3BUUzJqanh0X3dsTm93UnBnQm95NHFuR25EcHZQWHZDVUswMkluQXNndk41WWV3Nk5IVUhLWk1tSTJPZGZMS2pFbE1lbnNZVXgyeUpldUx4NGE1RDFtUTBlUmF1RWY1THFJRmVJMm5xenNzTmR0QWRNaTVNQXowS2draDRuMFFpbHkwSC1Hc1RVc2NTMkxNcDNNSUp3aDBBRzFSQ3RDVlNMMHA1UVRwQ0Y0SUZPM0NrVlJjeXk1Qmlkc2pPSVd6VDNSaldtRDdVQnBjTnhGNmZOWFN1QUxjX21PWXVHdGhhV0NvZjAySi1r?oc=5",
-          "date": "2026-11-13 18:45 UTC"
+          "source": "StockStory",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ0V1ajhZYko2RUQtcWpWV0JfdUlWRXJUbXpkVkVMUHFkRVhjTldWOEctMmZ6c0IzVHZOYWVsekdFQW93ZFpwaVBBYUNzd0FOMkpCSkVBQ0o3M1FmcnpyRE1uNUhYX3g0ZFFIYUhucURUMm5zTlkyTGQtOUN2MlhfSmJNeVRoZjMxN1VuMENBV3FFRnF2bkthdDJYVEhla2w2Q2NWakVoRmd2TnFKV1ZPeGtmbzROS2ZncFQtLVN2NVB0eUNVTkZ4Y2NwM0xpYjdDT2cyU1pYTndVZGI1Zm1GRVpjakFJN0ZoS3dJd3VKX0FyWF9sVXQwMg?oc=5",
+          "date": "2026-11-13 19:15 UTC"
         },
         {
           "title": "Flex Ltd tokenized stock (xStock) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD",
@@ -2045,7 +1915,7 @@
       "earnings_date": "2027-01-27",
       "days_to_earnings": 53,
       "earnings_within_5d": false,
-      "stop": 63.1546,
+      "stop": 63.1557,
       "stop_pct": -0.1577,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -51%)",
@@ -2080,14 +1950,14 @@
       "history_events": []
     },
     {
-      "rank": 4,
+      "rank": 3,
       "ticker": "AXON",
       "name": "Axon Enterprise",
       "sector": "Industrials",
       "price": 315.43,
-      "final_score": 22.4862,
+      "final_score": 22.5698,
       "price_score": 13.1342,
-      "news_score": 45.8857,
+      "news_score": 46.3541,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 37.5,
@@ -2106,7 +1976,7 @@
         "Trades $562M/day"
       ],
       "headline_count_3d": 35,
-      "sentiment": 0.1814,
+      "sentiment": 0.1892,
       "attention_vs_normal": 3.5,
       "news_flags": [
         "acquisition",
@@ -2134,14 +2004,7 @@
           "date": "2026-11-12 11:37 UTC"
         }
       ],
-      "filings_7d": [
-        {
-          "form": "10-Q",
-          "date": "2026-11-06",
-          "items": "",
-          "link": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026071242/"
-        }
-      ],
+      "filings_7d": [],
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
@@ -2191,14 +2054,112 @@
       "history_events": []
     },
     {
+      "rank": 4,
+      "ticker": "APTV",
+      "name": "Aptiv",
+      "sector": "Consumer Discretionary",
+      "price": 38.75,
+      "final_score": 22.6452,
+      "price_score": 10.7913,
+      "news_score": 58.0482,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 28.0,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.117,
+        "relative_strength": 0.0897,
+        "volatility": 1.0,
+        "liquidity": 0.0507
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -10.8%, 3m -20.8%, 6m -31.9% (beats 12% of stocks)",
+        "3-month return vs QQQ: -17.0%",
+        "Volatility 35%/yr (normal)",
+        "Trades $136M/day"
+      ],
+      "headline_count_3d": 5,
+      "sentiment": 0.1802,
+      "attention_vs_normal": 0.5639,
+      "news_flags": [
+        "upgrade"
+      ],
+      "top_headlines": [
+        {
+          "title": "APTV Upgraded by Daiwa Capital -- Rating Changed to Neutral",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEcxMFNTUnhtRUJhVk1JNHlhSDJmc2pjQlVrbU5wRmQzb1hKd1RsY1ZyY254NkhVVU5ORm5hMHJicnJPZ1F0WUxJcWwyaElHelNQWEppbzFHT29TN1cxdzhtSnp2MUw5V1VzYWFVUzR3ZUFUVU45bWlDVzMzMDZMZHBmU1dETHRER1Z0N0ZCaWVnNWQzTW1Pd1VCZw?oc=5",
+          "date": "2026-11-13 13:57 UTC"
+        },
+        {
+          "title": "Aptiv PLC stock outperforms competitors despite losses on the day",
+          "source": "MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZVZIVVhnbXZVSGtsbl9OMnpOTU5fZk0zY2F5dG1xYU5IQm54NGQybTVCMmJZcHQwbFEtemdDaWhZOGE0ek03SXp0aWthN2JGeUxweUdxZGlMNjczUlluQy1KaXVWLV8tZmI5RHgwZDNRX09HQ2twX1F0SWNlMUNJNTB6QVA2MElGU2dKS0FHRGR5UXUwQUpIekRuQTN6cVNLb2lScnlMOGJnTmtWek5ybW9aOExGUVY1eXp4M1JGcTdBTVVzajFTWGJMdmtiTFMtWW8ya3NuaERoa28?oc=5",
+          "date": "2026-11-12 22:18 UTC"
+        },
+        {
+          "title": "One investor reports over 11 million shares in Aptiv (APTV), exceeding 5% ownership.",
+          "source": "Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXZodTJVMG1ueXd6bFlQb3A2NGJ4T2pOeEZsNEc3ZkNTWnRWajU4eFQxekJaRUhfNUVoRmQzc0lzanktUGd5ZjI4bjNqRW9RRXJ0OThSVW55UnB6NVNoV0VWa2FqWFh5b3ljSm1UdllGMDNka0pGdGRVdzFfanNMTEQxeXJ1NGYyUnd5azBjV3lJSzdYajdIaXZlMElRcWljRlh4WGtMOVNxbE9YYkFKdnVZQmg3bGs?oc=5",
+          "date": "2026-11-12 15:40 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0.0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2027-02-01",
+      "days_to_earnings": 56,
+      "earnings_within_5d": false,
+      "stop": 36.312,
+      "stop_pct": -0.0629,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -32%)",
+        "3-month return -17% vs QQQ"
+      ],
+      "fundamentals": {
+        "period_end": "2026-09-30",
+        "filed": "2026-11-03",
+        "rev_yoy": 0.023,
+        "rev_ttm": 16712000000,
+        "rev_ttm_yoy": 0.0407,
+        "eps_ttm": 3.63,
+        "op_margin": 0.0868,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.8708,
+        "fcf_ttm": 1087000000,
+        "fcf_margin": 0.065,
+        "pe": 10.6749,
+        "ps": 0.4694,
+        "ebitda_ttm": 2562000000,
+        "ev_ebitda": 5.7873,
+        "debt": 7653000000,
+        "mcap": 7844165368,
+        "stale": false,
+        "quality_score": 28.0,
+        "beta": 0.7771,
+        "summary": "Revenue +2% y/y, margins rising, moderate debt, P/E 11"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
       "rank": 5,
       "ticker": "JBL",
       "name": "Jabil",
       "sector": "Information Technology",
       "price": 254.25,
-      "final_score": 23.5583,
+      "final_score": 23.3689,
       "price_score": 11.6259,
-      "news_score": 57.5431,
+      "news_score": 56.4823,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 39.4,
@@ -2216,9 +2177,9 @@
         "Volatility 52%/yr (unusually high/low)",
         "Trades $326M/day"
       ],
-      "headline_count_3d": 7,
-      "sentiment": 0.2299,
-      "attention_vs_normal": 1.0938,
+      "headline_count_3d": 6,
+      "sentiment": 0.2305,
+      "attention_vs_normal": 0.9375,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2228,16 +2189,16 @@
           "date": "2026-11-13 06:52 UTC"
         },
         {
-          "title": "$100 Invested In Jabil 5 Years Ago Would Be Worth This Much Today",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelhBUHJSRTRQbzFNWTdOUk9TeFlJVTZvSGtBYVM3UlNZRjlJa0UyMXZyNm1QSG80dzhRX3Rmc2ZOLVlkb0Qzb1RzVFU2Q0ZLdTY3MFpVRXo1QnVoVGMwdnJSczgxSmJ0dTNXNGFPN2EzRF9zd2hiREFnREZ2MXNuWGVjOW9wU3oyaUkyeDBBakdjWURrdHJBcE8weDdNTFFqMWx3?oc=5",
-          "date": "2026-11-12 15:30 UTC"
-        },
-        {
           "title": "How Investors May Respond To Jabil (JBL) AI Revenue Expansion",
           "source": "Simply Wall St",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFJ0RW9hWG0wMVJaMl9NTGxDQms2WEk5LU9FaFBZM3pDYURBV044R1RNdnlXYVNVaTJTU0hDd0FIR01CY3EwNkZFTkk0N1I0Z0pQN0pDM0FCNGFtbDdPOUo3bUdBdGk2SzdBTFNySGpZaUVrYUtKckFUTjJndWhrVFZfVFEwT0J6ODVTNnBodi1OQ0RvLUpGcHJ1dk12RWZ5dWVfaVA3Y1pQdDk4QlZCcGRUNVdVZFHSAbwBQVVfeXFMTjhUUk5YVHYyV1IxekYzcy1Calk5S3N1R0hRdVFUT2VoSGFHRnAwOFJLMllNdndEZUFyRzQ5MDJ6cTBzU2tmSTRyV3gwSHhvdUtVLVNhYTNWV0NaSzVNZEZFMm1ZVlhxLW9PYVpqdThhVUVPazRxak9OWndTOVhUSDJMSVdDclpSTnI3VDFHRTZobXY5b01XaE44aWVqYlF1WGFFcmZjd29jUmRCWEZwamIyUVotQmp6SVBFbWo?oc=5",
           "date": "2026-11-12 04:46 UTC"
+        },
+        {
+          "title": "Is Jabil Inc (JBL) Overvalued After 3.6% Rally? GF Value Says Ov",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTlwb2I4NWpRT2pmQ0d0MTlCYm8wNEduWEtMb3RQUm1jajdROVVkMEtxaUNldFQxZzl2cHBGSmtFOTZWSGhuLUpnc1QyUDNLMXVyRTR1bGwwNEcyT1FnUDFBaFduY2JtU0UyeWwzQ1FmdWJseHRkeEZka3FhR3h1dFV1QmZhQWtnSEhSRXAtV1cyd01RSmpmNHZQdlduelJUSGF5Nl8wQzFiUQ?oc=5",
+          "date": "2026-11-11 23:53 UTC"
         }
       ],
       "filings_7d": [],
@@ -2343,10 +2304,10 @@
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
-        "sells": 3,
-        "planned_sells": 3,
+        "sells": 1,
+        "planned_sells": 1,
         "buy_value": 0.0,
-        "sell_value": 73603.0
+        "sell_value": 19000.0
       },
       "events": [],
       "earnings_date": null,
@@ -2388,80 +2349,55 @@
     },
     {
       "rank": 7,
-      "ticker": "NRG",
-      "name": "NRG Energy",
-      "sector": "Utilities",
-      "price": 97.1,
-      "final_score": 24.0092,
-      "price_score": 13.8061,
-      "news_score": 51.2873,
+      "ticker": "ALB",
+      "name": "Albemarle Corporation",
+      "sector": "Materials",
+      "price": 93.53,
+      "final_score": 23.9485,
+      "price_score": 12.6592,
+      "news_score": 51.0345,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 39.7,
+      "quality_score": 62.2,
       "components": {
         "trend": 0.0,
-        "momentum": 0.0845,
-        "relative_strength": 0.1014,
-        "volatility": 0.5653,
-        "liquidity": 0.4425
+        "momentum": 0.1228,
+        "relative_strength": 0.0487,
+        "volatility": 1.0,
+        "liquidity": 0.2183
       },
       "price_reasons": [
         "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -16.5%, 3m -25.4%, 6m -35.5% (beats 8% of stocks)",
-        "3-month return vs QQQ: -14.5%",
-        "Volatility 58%/yr (unusually high/low)",
-        "Trades $375M/day"
+        "Momentum (to last week): 1m -2.8%, 3m -24.1%, 6m -50.9% (beats 12% of stocks)",
+        "3-month return vs QQQ: -24.9%",
+        "Volatility 42%/yr (normal)",
+        "Trades $233M/day"
       ],
-      "headline_count_3d": 5,
-      "sentiment": 0.0858,
-      "attention_vs_normal": 0.3664,
+      "headline_count_3d": 7,
+      "sentiment": 0.0455,
+      "attention_vs_normal": 0.7586,
       "news_flags": [],
       "top_headlines": [
         {
-          "title": "Are Strong Earnings Altering The Investment Case For NRG Energy (NRG)?",
-          "source": "Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcExLbk0xanlzS01LVHNySjhvemlFaXlyWXJteXJPdm9mZm5Wd0xYVUMzYmVEcndRQWU2QkxveE1aM29jTnBqcnpvZHNqcFVTenkwa1VUaGlTaUprekI0NF85OHRCSFhPOVpCRHNCakZmZEpxZllkQVMya3RjaVV0d0hXWjlxZXNxeUQ0aEhYTnJaT1dSeGpxNm1Oc28zLWpnaHZZOGc4Ym9UZFZhZW90bjhMa0ZNTEQ2MldiUk92OU9IeHhYZmfSAcsBQVVfeXFMUGxTYUk5V3p1dW84Wk9uT21Qam90T0lsV3RSNWJ3djYxNGxKWnhpcUNsUFFGTUdWc3lPRk9nWmd6empwa1piV2taNzN6bnVTTjRmVXdSQTkxSDlNMzNHMXMyZ01velRSdGdYSlFvbFJSOUJuQVJ1S25FVTVhVjJJTHg2R3I3akhUOUdvdGVwdUtEc2xRdE1PVnFQTWszQTJxajYzZE5yNWJNUDVoam5Nd19mMkFacjZzdG1FUG1wQzNZRFFjVXZuaF9DYVk?oc=5",
-          "date": "2026-11-13 12:26 UTC"
+          "title": "Are Wall Street Analysts Predicting Albemarle Stock Will Climb or Sink?",
+          "source": "Barchart",
+          "link": "https://www.barchart.com/story/news/8818414/are-wall-street-analysts-predicting-albemarle-stock-will-climb-or-sink",
+          "date": "2026-11-13 11:40 UTC"
         },
         {
-          "title": "Why (NRG) Price Action Is Critical for Tactical Trading",
-          "source": "Stock Traders Daily",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmxPbGp6OTJ1ZUpETmJ2eDlzcjBTVHBEdWxHRjZlaWdOOEU0Z1NFVDUxTXZmdzRSZmw3enFWSUJmVXJ0UjRQSkVfZzhpY3J5RElaWUxXQVRDWXc4LTJvV01lZ2Mtbm81SThiTWtPTU1wMUtOTHV1ZGUzQWxuUjRXQ0VrMGYwckdfRExTbmtnbk4wdk5GVDFkNkd3TjBGQ2czMUN4cFFrUVowNWF0b1Z6WEpyU1lyNlR4SzZvLXcyZnNMMV9zcTNlOFlXcHM?oc=5",
-          "date": "2026-11-12 18:14 UTC"
+          "title": "Albemarle Corporation (ALB) Stock Forecasts",
+          "source": "Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjZiWnNXUHpHMmtHbDh6eTU3dVpfQ09oMkJXblhuZ0FTT1pEMWdBR25TUlp5ZWFJRUVTUGRrUDlDNFlWQzFJTXVmRVRhc3JrQmVrdzFtLUJ6MUZWYUp2bGh1Q1pKclhWR3JaOTJpcmtqb2FBcGJhQWl1NnI4MHZOaVFpTWpGbWpqaVRVV1JkdmI?oc=5",
+          "date": "2026-11-12 22:07 UTC"
         },
         {
-          "title": "NRG Energy: One Step Back For Two Steps Forward (NYSE:NRG)",
-          "source": "Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUExc29RUHA5ZDlVZVh2Y3c0emdNTGIxNm93OVV4d292cU12SmZyNThXaS1sUEJabFVGbTdSM2hVUlBCdVRwd0gzMzV3c2FxMkV4UERieVloX2FqRm1SdlhtQ0Zndl9HaWIzRXduMm5DNUJzNXR4QlVtVjBjU3pna0pEVEtfYU1XMUtkU0UtWmJFOEVXX1FBNQ?oc=5",
-          "date": "2026-11-12 13:00 UTC"
+          "title": "BofA Adjusts Price Target on Albemarle to $120 From $131",
+          "source": "marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTRfZ1Y1eGxZbXRoakxXeDBocGxtOUJ2cWpzUFd2TkRmUVJqcHc1cjh1UWNzek1CakF3RHdoYXQ5VDlhVGpqV3N3NGZteHgxeDBZMmJ4N0hLLVhuSnJLbjVhRGVNanN1ODBZZy1BcGZ0aWs0MkRMWkpIekFNNUUxNEZVS0ZfODhhTm5NVmFRZXozd0lPZDNiRExxT2FuWGhGQ19FZzhNdEI5X0U?oc=5",
+          "date": "2026-11-12 13:55 UTC"
         }
       ],
-      "filings_7d": [
-        {
-          "form": "8-K",
-          "date": "2026-11-12",
-          "items": "1.01,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926125375/"
-        },
-        {
-          "form": "10-Q",
-          "date": "2026-11-09",
-          "items": "",
-          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000025/"
-        },
-        {
-          "form": "8-K",
-          "date": "2026-11-09",
-          "items": "7.01,9.01",
-          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926124147/"
-        },
-        {
-          "form": "8-K",
-          "date": "2026-11-09",
-          "items": "2.02",
-          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000022/"
-        }
-      ],
+      "filings_7d": [],
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
@@ -2474,36 +2410,36 @@
       "earnings_date": null,
       "days_to_earnings": null,
       "earnings_within_5d": false,
-      "stop": 89.4404,
-      "stop_pct": -0.0789,
+      "stop": 87.605,
+      "stop_pct": -0.0633,
       "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -36%)",
-        "3-month return -14% vs QQQ"
+        "Falling trend: below its 50- and 200-day (6-month -51%)",
+        "3-month return -25% vs QQQ"
       ],
       "fundamentals": {
         "period_end": "2026-09-30",
-        "filed": "2026-11-09",
-        "rev_yoy": 0.2398,
-        "rev_ttm": 34956000000,
-        "rev_ttm_yoy": 0.1738,
-        "eps_yoy": 2.7536,
-        "eps_ttm": 5.71,
-        "gross_margin": 0.1345,
-        "op_margin": 0.0768,
+        "filed": "2026-11-04",
+        "rev_yoy": 0.1875,
+        "rev_ttm": 6153172000,
+        "rev_ttm_yoy": 0.244,
+        "eps_ttm": 4.13,
+        "gross_margin": 0.2584,
+        "gross_margin_trend": "rising",
+        "op_margin": 0.1003,
         "op_margin_trend": "rising",
-        "debt_to_equity": 4.3725,
-        "fcf_ttm": 689000000,
-        "fcf_margin": 0.0197,
-        "pe": 17.0053,
-        "ps": 0.5834,
-        "ebitda_ttm": 4497000000,
-        "ev_ebitda": 9.628,
-        "debt": 23052000000,
-        "mcap": 20393065968,
+        "debt_to_equity": 0.1785,
+        "fcf_ttm": 1444356000,
+        "fcf_margin": 0.2347,
+        "pe": 22.6465,
+        "ps": 1.7938,
+        "ebitda_ttm": 1262944000,
+        "ev_ebitda": 8.7675,
+        "debt": 1881352000,
+        "mcap": 11037461033,
         "stale": false,
-        "quality_score": 39.7,
-        "beta": 1.4453,
-        "summary": "Revenue +24% y/y, margins rising, high debt, P/E 17"
+        "quality_score": 62.2,
+        "beta": 1.6177,
+        "summary": "Revenue +19% y/y, margins rising, low debt, P/E 23"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -2642,55 +2578,80 @@
     },
     {
       "rank": 9,
-      "ticker": "ALB",
-      "name": "Albemarle Corporation",
-      "sector": "Materials",
-      "price": 93.53,
-      "final_score": 24.1459,
-      "price_score": 12.6592,
-      "news_score": 52.14,
+      "ticker": "NRG",
+      "name": "NRG Energy",
+      "sector": "Utilities",
+      "price": 97.1,
+      "final_score": 24.1572,
+      "price_score": 13.8061,
+      "news_score": 52.116,
       "history_score": 50.0,
       "insider_score": 50.0,
-      "quality_score": 62.2,
+      "quality_score": 39.7,
       "components": {
         "trend": 0.0,
-        "momentum": 0.1228,
-        "relative_strength": 0.0487,
-        "volatility": 1.0,
-        "liquidity": 0.2183
+        "momentum": 0.0845,
+        "relative_strength": 0.1014,
+        "volatility": 0.5653,
+        "liquidity": 0.4425
       },
       "price_reasons": [
         "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -2.8%, 3m -24.1%, 6m -50.9% (beats 12% of stocks)",
-        "3-month return vs QQQ: -24.9%",
-        "Volatility 42%/yr (normal)",
-        "Trades $233M/day"
+        "Momentum (to last week): 1m -16.5%, 3m -25.4%, 6m -35.5% (beats 8% of stocks)",
+        "3-month return vs QQQ: -14.5%",
+        "Volatility 58%/yr (unusually high/low)",
+        "Trades $375M/day"
       ],
-      "headline_count_3d": 8,
-      "sentiment": 0.0823,
-      "attention_vs_normal": 0.867,
+      "headline_count_3d": 6,
+      "sentiment": 0.1411,
+      "attention_vs_normal": 0.4397,
       "news_flags": [],
       "top_headlines": [
         {
-          "title": "Are Wall Street Analysts Predicting Albemarle Stock Will Climb or Sink?",
-          "source": "Barchart",
-          "link": "https://www.barchart.com/story/news/8818414/are-wall-street-analysts-predicting-albemarle-stock-will-climb-or-sink",
-          "date": "2026-11-13 11:40 UTC"
+          "title": "Are Strong Earnings Altering The Investment Case For NRG Energy (NRG)?",
+          "source": "Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcExLbk0xanlzS01LVHNySjhvemlFaXlyWXJteXJPdm9mZm5Wd0xYVUMzYmVEcndRQWU2QkxveE1aM29jTnBqcnpvZHNqcFVTenkwa1VUaGlTaUprekI0NF85OHRCSFhPOVpCRHNCakZmZEpxZllkQVMya3RjaVV0d0hXWjlxZXNxeUQ0aEhYTnJaT1dSeGpxNm1Oc28zLWpnaHZZOGc4Ym9UZFZhZW90bjhMa0ZNTEQ2MldiUk92OU9IeHhYZmfSAcsBQVVfeXFMUGxTYUk5V3p1dW84Wk9uT21Qam90T0lsV3RSNWJ3djYxNGxKWnhpcUNsUFFGTUdWc3lPRk9nWmd6empwa1piV2taNzN6bnVTTjRmVXdSQTkxSDlNMzNHMXMyZ01velRSdGdYSlFvbFJSOUJuQVJ1S25FVTVhVjJJTHg2R3I3akhUOUdvdGVwdUtEc2xRdE1PVnFQTWszQTJxajYzZE5yNWJNUDVoam5Nd19mMkFacjZzdG1FUG1wQzNZRFFjVXZuaF9DYVk?oc=5",
+          "date": "2026-11-13 12:26 UTC"
         },
         {
-          "title": "Albemarle Corporation (ALB) Stock Forecasts",
-          "source": "Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjZiWnNXUHpHMmtHbDh6eTU3dVpfQ09oMkJXblhuZ0FTT1pEMWdBR25TUlp5ZWFJRUVTUGRrUDlDNFlWQzFJTXVmRVRhc3JrQmVrdzFtLUJ6MUZWYUp2bGh1Q1pKclhWR3JaOTJpcmtqb2FBcGJhQWl1NnI4MHZOaVFpTWpGbWpqaVRVV1JkdmI?oc=5",
-          "date": "2026-11-12 22:07 UTC"
+          "title": "Why (NRG) Price Action Is Critical for Tactical Trading",
+          "source": "Stock Traders Daily",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmxPbGp6OTJ1ZUpETmJ2eDlzcjBTVHBEdWxHRjZlaWdOOEU0Z1NFVDUxTXZmdzRSZmw3enFWSUJmVXJ0UjRQSkVfZzhpY3J5RElaWUxXQVRDWXc4LTJvV01lZ2Mtbm81SThiTWtPTU1wMUtOTHV1ZGUzQWxuUjRXQ0VrMGYwckdfRExTbmtnbk4wdk5GVDFkNkd3TjBGQ2czMUN4cFFrUVowNWF0b1Z6WEpyU1lyNlR4SzZvLXcyZnNMMV9zcTNlOFlXcHM?oc=5",
+          "date": "2026-11-12 18:14 UTC"
         },
         {
-          "title": "BofA Adjusts Price Target on Albemarle to $120 From $131",
-          "source": "marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTRfZ1Y1eGxZbXRoakxXeDBocGxtOUJ2cWpzUFd2TkRmUVJqcHc1cjh1UWNzek1CakF3RHdoYXQ5VDlhVGpqV3N3NGZteHgxeDBZMmJ4N0hLLVhuSnJLbjVhRGVNanN1ODBZZy1BcGZ0aWs0MkRMWkpIekFNNUUxNEZVS0ZfODhhTm5NVmFRZXozd0lPZDNiRExxT2FuWGhGQ19FZzhNdEI5X0U?oc=5",
-          "date": "2026-11-12 13:55 UTC"
+          "title": "NRG Energy: One Step Back For Two Steps Forward (NYSE:NRG)",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUExc29RUHA5ZDlVZVh2Y3c0emdNTGIxNm93OVV4d292cU12SmZyNThXaS1sUEJabFVGbTdSM2hVUlBCdVRwd0gzMzV3c2FxMkV4UERieVloX2FqRm1SdlhtQ0Zndl9HaWIzRXduMm5DNUJzNXR4QlVtVjBjU3pna0pEVEtfYU1XMUtkU0UtWmJFOEVXX1FBNQ?oc=5",
+          "date": "2026-11-12 13:00 UTC"
         }
       ],
-      "filings_7d": [],
+      "filings_7d": [
+        {
+          "form": "8-K",
+          "date": "2026-11-12",
+          "items": "1.01,9.01",
+          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926125375/"
+        },
+        {
+          "form": "10-Q",
+          "date": "2026-11-09",
+          "items": "",
+          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000025/"
+        },
+        {
+          "form": "8-K",
+          "date": "2026-11-09",
+          "items": "7.01,9.01",
+          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926124147/"
+        },
+        {
+          "form": "8-K",
+          "date": "2026-11-09",
+          "items": "2.02",
+          "link": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000022/"
+        }
+      ],
       "sec_checked": true,
       "insider_7d": {
         "buys": 0,
@@ -2703,36 +2664,36 @@
       "earnings_date": null,
       "days_to_earnings": null,
       "earnings_within_5d": false,
-      "stop": 87.605,
-      "stop_pct": -0.0633,
+      "stop": 89.4404,
+      "stop_pct": -0.0789,
       "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -51%)",
-        "3-month return -25% vs QQQ"
+        "Falling trend: below its 50- and 200-day (6-month -36%)",
+        "3-month return -14% vs QQQ"
       ],
       "fundamentals": {
         "period_end": "2026-09-30",
-        "filed": "2026-11-04",
-        "rev_yoy": 0.1875,
-        "rev_ttm": 6153172000,
-        "rev_ttm_yoy": 0.244,
-        "eps_ttm": 4.13,
-        "gross_margin": 0.2584,
-        "gross_margin_trend": "rising",
-        "op_margin": 0.1003,
+        "filed": "2026-11-09",
+        "rev_yoy": 0.2398,
+        "rev_ttm": 34956000000,
+        "rev_ttm_yoy": 0.1738,
+        "eps_yoy": 2.7536,
+        "eps_ttm": 5.71,
+        "gross_margin": 0.1345,
+        "op_margin": 0.0768,
         "op_margin_trend": "rising",
-        "debt_to_equity": 0.1785,
-        "fcf_ttm": 1444356000,
-        "fcf_margin": 0.2347,
-        "pe": 22.6465,
-        "ps": 1.7938,
-        "ebitda_ttm": 1262944000,
-        "ev_ebitda": 8.7675,
-        "debt": 1881352000,
-        "mcap": 11037461033,
+        "debt_to_equity": 4.3725,
+        "fcf_ttm": 689000000,
+        "fcf_margin": 0.0197,
+        "pe": 17.0053,
+        "ps": 0.5834,
+        "ebitda_ttm": 4497000000,
+        "ev_ebitda": 9.628,
+        "debt": 23052000000,
+        "mcap": 20393065968,
         "stale": false,
-        "quality_score": 62.2,
-        "beta": 1.6177,
-        "summary": "Revenue +19% y/y, margins rising, low debt, P/E 23"
+        "quality_score": 39.7,
+        "beta": 1.4453,
+        "summary": "Revenue +24% y/y, margins rising, high debt, P/E 17"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -2764,13 +2725,19 @@
         "Volatility 46%/yr (normal)",
         "Trades $135M/day"
       ],
-      "headline_count_3d": 10,
-      "sentiment": 0.2803,
-      "attention_vs_normal": 1.2264,
+      "headline_count_3d": 11,
+      "sentiment": 0.2548,
+      "attention_vs_normal": 1.3491,
       "news_flags": [
         "acquisition"
       ],
       "top_headlines": [
+        {
+          "title": "Is It Too Late to Buy Texas Pacific Land Corp (TPL) After 3.8% R",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUprWVJrdWkwamlBaXA0Vk1rOXVHZk9lOWNoM0lSR1JGQnNhVzVqcnZWdWFoVGpMa1A0b3FTcDR6Y2NPZEJmRjJzOWZ1NXJrSThMU3p1Q3lGUzd1T09KX0VyTldXc2hWdWJlSDNQZmNyN0JleE9nRERubEV1cFJDZFpvWW4zM3d6NTZOU2czUEtqVVRjcE81alNxeENjVEQxUHJxQnhPWGFpYW1Pdnd5QzJ0N0F1SjRuVzFmSkR0bXlEWlFJVERCVA?oc=5",
+          "date": "2026-11-13 22:41 UTC"
+        },
         {
           "title": "Texas Pacific Land (NYSE:TPL) Shares Climb 4.1% - Time to Buy?",
           "source": "MarketBeat",
@@ -2782,12 +2749,6 @@
           "source": "kalkine.ca",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONE1GSGdFLU83anZmOE9ZSHQyVURnN2dVXzFfeVA0Zk4ySFh4OU9sNkN1ZVZnX1VPenI0VkhtRjNHQmlmLUxnWmZOa3RMVEJYemZWQVI3UmZJYXc2c3BiU1NJQmVOSVd6MlV6QWZ3S0JmNUx6bEFFTkRMU2JGeVFDWjJaVU1DMF9sN3BHMXozVnhnTmdJUVBGUmZJZ041MFFYa3hlVWRmMTJWRTUwcXkwaGFYNl9PVkJF?oc=5",
           "date": "2026-11-13 18:40 UTC"
-        },
-        {
-          "title": "Is Texas Pacific Land (TPL) Undervalued On Stronger Earnings?",
-          "source": "Simply Wall St.",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/texas-pacific-land-tpl-undervalued-121335233.html",
-          "date": "2026-11-13 12:13 UTC"
         }
       ],
       "filings_7d": [],
@@ -2837,112 +2798,13 @@
     },
     {
       "rank": 11,
-      "ticker": "RDDT",
-      "name": "Reddit",
-      "sector": "Communication Services",
-      "price": 98.45,
-      "final_score": 24.6778,
-      "price_score": 13.0169,
-      "news_score": 50.2479,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 79.4,
-      "components": {
-        "trend": 0.0,
-        "momentum": 0.0266,
-        "relative_strength": 0.0214,
-        "volatility": 0.1559,
-        "liquidity": 0.7544
-      },
-      "price_reasons": [
-        "Trend: below 50-day, below 200-day",
-        "Momentum (to last week): 1m -39.2%, 3m -40.1%, 6m -39.0% (beats 3% of stocks)",
-        "3-month return vs QQQ: -35.8%",
-        "Volatility 81%/yr (unusually high/low)",
-        "Trades $850M/day"
-      ],
-      "headline_count_3d": 33,
-      "sentiment": 0.0577,
-      "attention_vs_normal": 1.5865,
-      "news_flags": [
-        "beat",
-        "lawsuit"
-      ],
-      "top_headlines": [
-        {
-          "title": "Earnings Beat Could Be A Game Changer For Reddit Stock (RDDT)",
-          "source": "Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcW9oRHpLSUVHeXVES05zNU5fVUlDbjQwRklDQVdvc0lVLXBBU3ZVSmQxMlhHSVFlSDNwc3R0aTZMam82V3l2UEUyNkN6QnpXMzdXRkdHRGlvTUQ1cXhuMkRJUUs2LUZ0MXZORlBXTHQzU3BzSG4yVkJfUVBZdS1qTGJXdHItVTY0c1h3ZXgyRjUyT3ZWd2Q3ZUhBc2VJQzNzWlluMGw0b2dIX1dvQURtbDRSNmlCdkFRT0Nn0gHAAUFVX3lxTFB1V2toTEdYZVBCNENvTHlxd1VldkVaNGdkR1FpMUE4RDdfdmR6NlhxN1RORHlMYVVRV3pZVGdkM3I0WEhCcEFOaGduTGtsWWlhYlRENi1zTkp1WXBvb1VTY09OLWtMdTRSRld6RDV2bUtfbUhoazg0cXdkamdrUVVpY0ZvUHNLUUIyZUZsbnh1bmpISnRlaFhIYjQ1SnJCTmtXRzlnRkpxWk1ZTm1WOEZCTi1nZXpsVlFOcHZWTml4ZQ?oc=5",
-          "date": "2026-11-11 02:42 UTC"
-        },
-        {
-          "title": "REDDIT, INC. RDDT INVESTORS: Contact Kirby McInerney LLP About the Firm\u2019s Securities Investigation Following 29.2% Share Drop",
-          "source": "Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUlZVRk04dWV3TWVIWWhHcVBDU2V2ZmxSc3V6MTJtODg3bGstbTNXZUhHY21Sc2VYRGU2a0cyak5zb1VqMW5VOS1MWTJjT1E0ckFMUEJNSFRXUXByN2I3Slgtd2xIOGNhYUpiT1MwZ2ZBekFLQkY5b1NqMnJ0WnRSRm43REpUeTRvblZHUG4yd3Q3TjVNckxyaUpfRlhYbzF5MXNjemFONHBvcVJHWFNEZjVsWUdzN1Yyb1JOeXJJZUVsSFpzajlUeHU5OWFONTRsRjUwVVZXXzhMUzZhVDJKLUl2Y3UyQ21uRlFYR0s0TkVCT21GY1k0YjJtVFRBbGhVX0d0amx0MWtKZw?oc=5",
-          "date": "2026-11-10 23:00 UTC"
-        },
-        {
-          "title": "Reddit Fell While Profit Rose",
-          "source": "Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY210M0p5aXFhc0VUakt5WjI0MW5RTXoyNV9hV2xsYVF1empuSVhnSlM2SDdUZDcxZnBYWlNtMk5NNUdQVlZIRnB0UWVHY1dwS254aXZCSnAwckdMR0NYd2czSzJTSFNRdW5DOTRmOWM4MXNmemh5WXp6WlBwaGZ4Mkt1VURGSV9sSWNseHFLQ21Ea03SAZgBQVVfeXFMTVRGZzNsNjJKOU1RX2RfZ1BfdnpsNVgxdl9tcmtpajRzUU1FNXFPaGQ1aXR0YWNsU1NzQ0xYdWFIYWVCRTlkN0lkVmluclpUOWdDOE94R3dwc3pJa2FNRnlKdy1vYkRsQUZYRGVjQjFjV1dMRDUweV9sa1BpVFhTZ1pLak8tR2ZvWHZsVE13ZmZNVVF4Q0dBd3g?oc=5",
-          "date": "2026-11-13 20:21 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 1,
-        "planned_sells": 0,
-        "buy_value": 0.0,
-        "sell_value": 384000.0
-      },
-      "events": [],
-      "earnings_date": null,
-      "days_to_earnings": null,
-      "earnings_within_5d": false,
-      "stop": 85.1917,
-      "stop_pct": -0.1347,
-      "cold_reasons": [
-        "Falling trend: below its 50- and 200-day (6-month -39%)",
-        "3-month return -36% vs QQQ",
-        "News flags: lawsuit",
-        "Insider selling: 1 unplanned sale(s) this week"
-      ],
-      "fundamentals": {
-        "period_end": "2026-09-30",
-        "filed": "2026-10-30",
-        "rev_yoy": 0.5301,
-        "rev_ttm": 3088880000,
-        "rev_ttm_yoy": 0.6218,
-        "eps_yoy": 0.75,
-        "eps_ttm": 4.9,
-        "gross_margin": 0.9155,
-        "gross_margin_trend": "flat",
-        "op_margin": 0.294,
-        "op_margin_trend": "rising",
-        "fcf_ttm": 1198116000,
-        "fcf_margin": 0.3879,
-        "pe": 20.0918,
-        "ebitda_ttm": 924921000,
-        "stale": false,
-        "quality_score": 79.4,
-        "beta": 2.3936,
-        "summary": "Revenue +53% y/y, margins rising, high debt, P/E 20"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 12,
       "ticker": "CIEN",
       "name": "Ciena",
       "sector": "Information Technology",
       "price": 280.54,
-      "final_score": 24.9507,
+      "final_score": 25.1051,
       "price_score": 12.7198,
-      "news_score": 55.465,
+      "news_score": 56.3294,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 66.9,
@@ -2960,9 +2822,9 @@
         "Volatility 93%/yr (unusually high/low)",
         "Trades $963M/day"
       ],
-      "headline_count_3d": 15,
-      "sentiment": 0.1609,
-      "attention_vs_normal": 1.1321,
+      "headline_count_3d": 17,
+      "sentiment": 0.1644,
+      "attention_vs_normal": 1.283,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2972,16 +2834,16 @@
           "date": "2026-11-13 15:05 UTC"
         },
         {
+          "title": "Ciena stock faces supply test as backlog meets pricing power",
+          "source": "ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk5sQmg1S256Sm83bUU4d19kdTNjQUlvbk9BOVNTWXFDVGg2bnBNeFNjcms0ZWRQb0JHQzlNbncwckhFcE9vSEJvNjJPaS1LSEVhYkJrbUNPR1luYzFaajlLTjlEdjE5ellOdW5UU2tEV25HSXRUZGJNWkE0blpDX0dlYm1pdFpQMUFLMGVTbGp0eDZOa29QZk04SzVyLUxuempGZTNQRWhvUjRQTjJpYk44UzRwWGNVNFg5eW01TE0?oc=5",
+          "date": "2026-11-13 12:12 UTC"
+        },
+        {
           "title": "Ciena (CIEN) Stock Price, News & Forecasts",
           "source": "blockchain.news",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tbGtQUjFWdzhrOWUzc1lkYnJjQ253YWlFamdCeEhGLTVJTHI3UklVZlpKWERHY0twRjB3UXdzRGI4Z25ZTkJja0RCdw?oc=5",
           "date": "2026-11-13 11:53 UTC"
-        },
-        {
-          "title": "What Capital Group Global Growth (CGGO) Bought: Ciena Leads on Wednesday",
-          "source": "GuruFocus.com",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-global-growth-cggo-110359582.html",
-          "date": "2026-11-13 11:03 UTC"
         }
       ],
       "filings_7d": [],
@@ -3026,6 +2888,103 @@
         "quality_score": 66.9,
         "beta": 1.8853,
         "summary": "Revenue +37% y/y, margins rising, low debt, P/E 63"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
+      "rank": 12,
+      "ticker": "RDDT",
+      "name": "Reddit",
+      "sector": "Communication Services",
+      "price": 98.45,
+      "final_score": 25.3107,
+      "price_score": 13.0169,
+      "news_score": 53.7926,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 79.4,
+      "components": {
+        "trend": 0.0,
+        "momentum": 0.0266,
+        "relative_strength": 0.0214,
+        "volatility": 0.1559,
+        "liquidity": 0.7544
+      },
+      "price_reasons": [
+        "Trend: below 50-day, below 200-day",
+        "Momentum (to last week): 1m -39.2%, 3m -40.1%, 6m -39.0% (beats 3% of stocks)",
+        "3-month return vs QQQ: -35.8%",
+        "Volatility 81%/yr (unusually high/low)",
+        "Trades $850M/day"
+      ],
+      "headline_count_3d": 30,
+      "sentiment": 0.0299,
+      "attention_vs_normal": 1.4423,
+      "news_flags": [
+        "beat"
+      ],
+      "top_headlines": [
+        {
+          "title": "Earnings Beat Could Be A Game Changer For Reddit Stock (RDDT)",
+          "source": "Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcW9oRHpLSUVHeXVES05zNU5fVUlDbjQwRklDQVdvc0lVLXBBU3ZVSmQxMlhHSVFlSDNwc3R0aTZMam82V3l2UEUyNkN6QnpXMzdXRkdHRGlvTUQ1cXhuMkRJUUs2LUZ0MXZORlBXTHQzU3BzSG4yVkJfUVBZdS1qTGJXdHItVTY0c1h3ZXgyRjUyT3ZWd2Q3ZUhBc2VJQzNzWlluMGw0b2dIX1dvQURtbDRSNmlCdkFRT0Nn0gHAAUFVX3lxTFB1V2toTEdYZVBCNENvTHlxd1VldkVaNGdkR1FpMUE4RDdfdmR6NlhxN1RORHlMYVVRV3pZVGdkM3I0WEhCcEFOaGduTGtsWWlhYlRENi1zTkp1WXBvb1VTY09OLWtMdTRSRld6RDV2bUtfbUhoazg0cXdkamdrUVVpY0ZvUHNLUUIyZUZsbnh1bmpISnRlaFhIYjQ1SnJCTmtXRzlnRkpxWk1ZTm1WOEZCTi1nZXpsVlFOcHZWTml4ZQ?oc=5",
+          "date": "2026-11-11 02:42 UTC"
+        },
+        {
+          "title": "Reddit Fell While Profit Rose",
+          "source": "Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY210M0p5aXFhc0VUakt5WjI0MW5RTXoyNV9hV2xsYVF1empuSVhnSlM2SDdUZDcxZnBYWlNtMk5NNUdQVlZIRnB0UWVHY1dwS254aXZCSnAwckdMR0NYd2czSzJTSFNRdW5DOTRmOWM4MXNmemh5WXp6WlBwaGZ4Mkt1VURGSV9sSWNseHFLQ21Ea03SAZgBQVVfeXFMTVRGZzNsNjJKOU1RX2RfZ1BfdnpsNVgxdl9tcmtpajRzUU1FNXFPaGQ1aXR0YWNsU1NzQ0xYdWFIYWVCRTlkN0lkVmluclpUOWdDOE94R3dwc3pJa2FNRnlKdy1vYkRsQUZYRGVjQjFjV1dMRDUweV9sa1BpVFhTZ1pLak8tR2ZvWHZsVE13ZmZNVVF4Q0dBd3g?oc=5",
+          "date": "2026-11-13 20:21 UTC"
+        },
+        {
+          "title": "Is Oppenheimer Wrong to Give Up on Reddit? Wall Street Still Sees $150",
+          "source": "TIKR",
+          "link": "https://www.tikr.com/blog/is-oppenheimer-wrong-to-give-up-on-reddit-wall-street-still-sees-150?ref=yahoofinance&tlnk=yf-261113-pj4j8gq4",
+          "date": "2026-11-13 19:31 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 1,
+        "planned_sells": 0,
+        "buy_value": 0.0,
+        "sell_value": 384000.0
+      },
+      "events": [],
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "earnings_within_5d": false,
+      "stop": 85.1917,
+      "stop_pct": -0.1347,
+      "cold_reasons": [
+        "Falling trend: below its 50- and 200-day (6-month -39%)",
+        "3-month return -36% vs QQQ",
+        "Insider selling: 1 unplanned sale(s) this week"
+      ],
+      "fundamentals": {
+        "period_end": "2026-09-30",
+        "filed": "2026-10-30",
+        "rev_yoy": 0.5301,
+        "rev_ttm": 3088880000,
+        "rev_ttm_yoy": 0.6218,
+        "eps_yoy": 0.75,
+        "eps_ttm": 4.9,
+        "gross_margin": 0.9155,
+        "gross_margin_trend": "flat",
+        "op_margin": 0.294,
+        "op_margin_trend": "rising",
+        "fcf_ttm": 1198116000,
+        "fcf_margin": 0.3879,
+        "pe": 20.0918,
+        "ebitda_ttm": 924921000,
+        "stale": false,
+        "quality_score": 79.4,
+        "beta": 2.3936,
+        "summary": "Revenue +53% y/y, margins rising, high debt, P/E 20"
       },
       "insider_30d": [],
       "insider_badges": "",
@@ -3194,7 +3153,7 @@
       "earnings_date": null,
       "days_to_earnings": null,
       "earnings_within_5d": false,
-      "stop": 145.7543,
+      "stop": 145.7521,
       "stop_pct": -0.1169,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -47%)",
@@ -3254,9 +3213,9 @@
       "name": "Teradyne",
       "sector": "Information Technology",
       "price": 249.55,
-      "final_score": 28.7593,
+      "final_score": 28.8692,
       "price_score": 14.0483,
-      "news_score": 67.6185,
+      "news_score": 68.2341,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 86.2,
@@ -3274,9 +3233,9 @@
         "Volatility 79%/yr (unusually high/low)",
         "Trades $1,218M/day"
       ],
-      "headline_count_3d": 24,
-      "sentiment": 0.1508,
-      "attention_vs_normal": 1.6842,
+      "headline_count_3d": 23,
+      "sentiment": 0.1701,
+      "attention_vs_normal": 1.614,
       "news_flags": [
         "beat",
         "upgrade"
@@ -3489,14 +3448,14 @@
   "sources": {
     "headlines": {
       "yfinance": 550,
-      "yahoo_rss": 1050,
-      "google_rss": 1299,
+      "yahoo_rss": 1049,
+      "google_rss": 1290,
       "stocks": 55,
-      "headlines": 722
+      "headlines": 716
     },
     "sec": {
       "ok": 55,
-      "requests": 157,
+      "requests": 143,
       "missing": 0
     },
     "smart_money": {
@@ -3754,7 +3713,7 @@
         "amount_usd": 1000000000.0,
         "kind": "new",
         "snippet": "The company is authorized to acquire up to an aggregate of US$1 billion of the Company\u2019s Nasdaq-listed Class A common stock and Class B common stock under the 2025 Repurchase Program.",
-        "market_cap": 14476050956.4255,
+        "market_cap": 14473841520.1417,
         "pct_of_cap": 0.0691,
         "name": "News Corp (Class A)"
       },

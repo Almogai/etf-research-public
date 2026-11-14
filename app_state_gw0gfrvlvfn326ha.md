@@ -1,15 +1,15 @@
 # My app — current state
 
-Generated 2026-11-13T22:50:16Z · market session 2026-11-13 · app version 434add · 699 tests
+Generated 2026-11-14T00:21:35Z · market session 2026-11-12 · app version 8530ef · 699 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
 - Status light: **green** — TQQQ is OUT. 59% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x — UNVERIFIED: today's QQQ/TQQQ prices did not match a second source
 - Account value $728.04 · today +0.00 · profit vs deposits -29.11 (-3.8%) · deposited $757.15
-- What changed since yesterday: Top 5: in MA, V; out GILD, MCK; Market mood: bull → choppy; New insider buy: 👑 COHR: CEO bought $997K
+- What changed since yesterday: Top 5: in MCK; out MA; Big move in in the top 5: MRNA -7.0%
 - Claude says (2026-11-12): Data covers the session of Thursday, November 12, 2026 (close). Pre-market check from reports timed 3:01-5:03 AM ET, Friday, November 13. / WEEKLY SCORECARD WARNING: my daily-view hit rate is below 55%: 9 of 20 (45%) in the last 4 weeks, 15 of 30 (50%) since the log began Oct 1. / SIGNAL: OUT, UNCHANGED (rule E; entry rule D fails). Stop: n/a. 200-day rule: BROKEN. TQQQ $59.88 vs its 200-day ≈$65.6: -8.7% (-$5.72/share). Nasdaq-100 futures -0.1% to -0.3% imply TQQQ about $59.3-59.8 at the open (estimate), still below its 200-day.
-- Top 5 chips: ACN, MRNA, LLY, MA, V · data check: warn
+- Top 5 chips: ACN, MRNA, LLY, V, MA · data check: warn
 
 ## 💼 Portfolio (all accounts)
 
@@ -45,7 +45,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 - Net worth $728.04 · deposits $757.15 · withdrawals $0.00 · cash $34.01 · profit -29.11 (-3.8%)
 - Allocation: FXLCX 59%, FXINX 18%, FITFX 9%, Cash 5%, FLAPX 4%, FXSCX 2%, TQQQ 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 0.99x · 59% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-13T22:30:40Z · last attempt 2026-11-13T22:30:40Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-14T00:02:22Z · last attempt 2026-11-14T00:02:22Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -130,6 +130,7 @@ Alerts and what changed in my holdings after them (3 days):
 - [info] Fidelity · Brokerage 4: cash in the synced history dips by $19.95 around 2026-10-05 — likely a transfer from another of your accounts or older history SnapTrade doesn't have — fix: nothing to do unless the account's holdings look wrong (screen: portfolio)
 - [warn] Concentration: 59% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x — fix: 💼 התיק שלי → 📊 חלוקה וחשיפה (the limit slider is there); spread the money or accept the risk knowingly (screen: portfolio)
 - [info] Data check warn: second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1) — fix: ⋯ עוד → 🔌 חיבורים (fail = don't act on the TQQQ signal until the next check) (screen: connections)
+- [warn] Daily signals: 1 failed run(s) in the last 3 days — the latest run failed — fix: GitHub → Actions: open the failed run (the evening alert names the step) (screen: connections)
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
@@ -159,8 +160,8 @@ Latest decision (2026-11-13, claude-sonnet-5-5, $0.058): No trades. ACN is exten
 Hypotheses / rules: [hypothesis, n=6] מניות בריאות בתנודתיות נמוכה עם יעד קרוב מגיעות ליעד יותר מאנרגיה/מומנטום מתוח; אך ריכוז של 4 פוזיציות בריאות מגדיל סיכון משותף
 
 ## ⚙️ Health
-- Research run 2026-11-13T22:48:04Z (ok), TQQQ run success, data check warn
-- Workflows: Broker sync: success (2026-11-13T22:46); Daily signals: in_progress (2026-11-13T22:30); Claude portfolio decision: success (2026-11-13T22:12); Analyst forecast (before the open): success (2026-11-13T22:10); Claude portfolio intraday check: success (2026-11-13T21:25); Collect Claude report: success (2026-11-13T19:36)
+- Research run 2026-11-12T22:42:11Z (ok), TQQQ run success, data check warn
+- Workflows: Tests: success (2026-11-14T00:05); Daily signals: in_progress (2026-11-14T00:01); Analyst forecast (before the open): success (2026-11-13T22:50); Broker sync: success (2026-11-13T22:46); Claude portfolio decision: success (2026-11-13T22:12); Claude portfolio intraday check: success (2026-11-13T21:25); Collect Claude report: success (2026-11-13T19:36)
 - Pushes today: 0
 - Errors/warnings (3 days): second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1)
 
@@ -176,6 +177,6 @@ Hypotheses / rules: [hypothesis, n=6] מניות בריאות בתנודתיות
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
 - **הפעילות שלי (My activity)** [`activity`]: 432 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
-- **חיבורים (Connections)** [`connections`]: research ok at 2026-11-13T22:48:04Z; TQQQ run success; data check warn
+- **חיבורים (Connections)** [`connections`]: research ok at 2026-11-12T22:42:11Z; TQQQ run success; data check warn
 - **השאלות היומיות לאנליסט (The analyst's daily questions)** [`questions`]: the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days
 - **דוח הבוקר (Morning report)** [`report`]: morning Claude's full report, archive by date, that day's picks, Open in Google Drive

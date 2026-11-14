@@ -22,8 +22,8 @@
 | 10 | KDP | Keurig Dr Pepper | Consumer Staples | 36.34 | 80 | 34.28 | Volume 3.1× normal |
 | 11 | TMO | Thermo Fisher Scientific | Health Care | 700.22 | 80 | 667.95 | News: buyback |
 | 12 | HUM | Humana | Health Care | 450.00 | 80 | 423.92 | News: beat, upgrade |
-| 13 | REGN | Regeneron Pharmaceuticals | Health Care | 955.47 | 80 | 897.99 | Strong trend: 6-month +27%, 3-month vs QQQ +27% |
-| 14 | MDT | Medtronic | Health Care | 102.86 | 80 | 98.94 | Strong trend: 6-month +36%, 3-month vs QQQ +23% |
+| 13 | MDT | Medtronic | Health Care | 102.86 | 80 | 98.94 | Strong trend: 6-month +36%, 3-month vs QQQ +23% |
+| 14 | REGN | Regeneron Pharmaceuticals | Health Care | 955.47 | 80 | 897.99 | Strong trend: 6-month +27%, 3-month vs QQQ +27% |
 | 15 | AMGN | Amgen | Health Care | 465.67 | 80 | 446.85 | News: beat, guidance raised |
 
 ## COLD

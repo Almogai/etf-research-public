@@ -1,6 +1,13 @@
 # Research input — session 2026-11-13
 
-Generated 2026-11-14 00:03 UTC from free data (Yahoo Finance, Google News RSS, SEC EDGAR). Screened 513 of 518 stocks. Benchmark: QQQ.
+Generated 2026-11-14 00:31 UTC from free data (Yahoo Finance, Google News RSS, SEC EDGAR). Screened 513 of 518 stocks. Benchmark: QQQ.
+
+## Daily summary
+- Market today: QQQ -1.2%, S&P 500 (SPY) -0.4%.
+- Market mood: choppy 🌊, 62% of stocks in an uptrend, VIX 19.3.
+- Today's top 5: ACN, MRNA, LLY, V, MA. #1 ACN: CEO bought $3M.
+- Insider buying: 👑 ACN: CEO bought $3M · 👑 COHR: CEO bought $997K.
+- Picks from 2026-11-12: 4 of 5 beat QQQ (avg +0.1% vs -1.2%).
 
 ## Market regime: CHOPPY
 - SPY above its 200-day (+3.1%)
@@ -35,13 +42,13 @@ Generated 2026-11-14 00:03 UTC from free data (Yahoo Finance, Google News RSS, S
 | 5 | MA | Mastercard | Financials | 661.19 | 82 | 92 | 56 | 635.89 (-3.8%) | 2027-01-28 |
 | 6 | GILD | Gilead Sciences | Health Care | 168.08 | 82 | 92 | 66 | 160.12 (-4.7%) | – |
 | 7 | MCK | McKesson | Health Care | 1102.81 | 82 | 92 | 62 | 1060.25 (-3.9%) | 2027-02-03 |
-| 8 | CAH | Cardinal Health | Health Care | 281.10 | 81 | 88 | 72 | 270.13 (-3.9%) | 2027-02-04 |
+| 8 | CAH | Cardinal Health | Health Care | 281.10 | 81 | 88 | 73 | 270.13 (-3.9%) | 2027-02-04 |
 | 9 | ROP | Roper Technologies | Information Technology | 479.98 | 81 | 92 | 53 | 459.05 (-4.4%) | 2027-01-26 |
 | 10 | KDP | Keurig Dr Pepper | Consumer Staples | 36.34 | 80 | 92 | 50 | 34.28 (-5.7%) | – |
 | 11 | TMO | Thermo Fisher Scientific | Health Care | 700.22 | 80 | 90 | 59 | 667.95 (-4.6%) | 2027-01-28 |
 | 12 | HUM | Humana | Health Care | 450.00 | 80 | 89 | 65 | 423.92 (-5.8%) | – |
-| 13 | REGN | Regeneron Pharmaceuticals | Health Care | 955.47 | 80 | 91 | 49 | 897.99 (-6.0%) | 2027-01-28 |
-| 14 | MDT | Medtronic | Health Care | 102.86 | 80 | 90 | 55 | 98.94 (-3.8%) | 2026-11-24 |
+| 13 | MDT | Medtronic | Health Care | 102.86 | 80 | 90 | 55 | 98.94 (-3.8%) | 2026-11-24 |
+| 14 | REGN | Regeneron Pharmaceuticals | Health Care | 955.47 | 80 | 91 | 47 | 897.99 (-6.0%) | 2027-01-28 |
 | 15 | AMGN | Amgen | Health Care | 465.67 | 80 | 88 | 63 | 446.85 (-4.0%) | 2027-02-02 |
 
 ### 1. ACN — Accenture (final 85)
@@ -53,7 +60,7 @@ Price reasons:
 - 3-month return vs QQQ: +59.3%
 - Volatility 55%/yr (unusually high/low)
 - Trades $1,439M/day
-- News: 16 headlines in 3 days, sentiment +0.09
+- News: 17 headlines in 3 days, sentiment +0.08
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
 - Insider buys (30 days): CEO Sweet Julie Spellman $3M on 2026-10-26 👑 💵; Director Price Paula A $200K on 2026-10-26
@@ -72,7 +79,7 @@ Price reasons:
 - 3-month return vs QQQ: +271.6%
 - Volatility 368%/yr (unusually high/low)
 - Trades $3,356M/day
-- News: 42 headlines in 3 days, sentiment +0.04, flags: guidance raised
+- News: 41 headlines in 3 days, sentiment +0.03, flags: guidance raised
 - Filings (7 days): [8-K 2026-11-13 items 5.02,9.01](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/)
 - Insiders (7 days): no open-market buys or sells
 - Earnings: unknown; stop 194.63 (-12.9%, 2×ATR)
@@ -180,7 +187,7 @@ Price reasons:
 - 3-month return vs QQQ: +28.2%
 - Volatility 24%/yr (normal)
 - Trades $469M/day
-- News: 16 headlines in 3 days, sentiment +0.35, flags: acquisition, guidance raised
+- News: 15 headlines in 3 days, sentiment +0.36, flags: acquisition, guidance raised
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
 - Earnings: 2027-02-04; stop 270.13 (-3.9%, 2×ATR)
@@ -262,25 +269,7 @@ Price reasons:
   - [Humana (HUM) Stock Gets Fair Value Bump After Star Ratings And Q3 Beat](https://finance.yahoo.com/healthcare/articles/humana-hum-stock-gets-fair-180800460.html) (Simply Wall St., 2026-11-11)
   - [Humana (HUM) Upgraded to Strong Buy: Here's Why](https://finance.yahoo.com/markets/stocks/articles/humana-hum-upgraded-strong-buy-160003326.html) (Zacks, 2026-11-11)
 
-### 13. REGN — Regeneron Pharmaceuticals (final 80)
-**Why now:** Strong trend: 6-month +27%, 3-month vs QQQ +27%
-
-Price reasons:
-- Trend: above 50-day, above 200-day, 50-day above 200-day
-- Momentum (to last week): 1m +22.3%, 3m +12.0%, 6m +26.8% (beats 89% of stocks)
-- 3-month return vs QQQ: +27.3%
-- Volatility 40%/yr (normal)
-- Trades $899M/day
-- News: 11 headlines in 3 days, sentiment +0.21, flags: miss
-- Filings (7 days): none
-- Insiders (7 days): no open-market buys or sells
-- Earnings: 2027-01-28; stop 897.99 (-6.0%, 2×ATR)
-- Top headlines:
-  - [Missed Regeneron Pharmaceuticals' Rally? Here Is What Holders Saw](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLURRVVJDZmFTc0R2c2NPN0JGNFpzc3ota1VTVktFWElfWUpYcnRMQTgwblBKZ3pucUdWVUgxaHBsT2E3VlR0TlVuVHFEN1JMUTAzRXBxT1I1elZkVS1YU1M0clBGbU1lQkRiZzhtNEZ4U0lZX09oZTBRNS1nRFpZdS1lemVGbW01V0lrc3lPVnp2aHdtZzhtajdiT1NMakpGcm9ycmRTa2VFT2V6LVlHbnNtTF8tdlN3MWJIQVBjZEJEbjRMX0FoT2Y4R2xFOWpUbmJ6TVNSd05fN2pOU3ltV3FwVTROUzh1bGwwZUtFUdIB9AFBVV95cUxPQkk0R2hIRFRxUFAxb21vTVJaeWU1eThhOWlJa3hveHI2eGFyX1kzTWF2cnZuVy03ZThLVHpyeFd5TEZvWUw1czI4ODJtSGpuZkdPdlE2dWgybEpYRVBCbjd2UUQ1YXF5a3M3NlhKejg4S2N6Vm12dEdQazU5RkdiYzJkT1pyWXVjLXVzaTNldVpDcUFTWDJVRGJNaWlKbTJjLV9LYVFaa21DUjYzSUE0WWYzVXV5Y1kwZU85Ri04dnJlZ1U1cXVnRHdaQVZVbXp2SEpuZGVVTVotcWdNd2toMkZ6dHA3NnJxSDd0bVI2ZHY5SXFa?oc=5) (Simply Wall St, 2026-11-13)
-  - [Regeneron Drug Lowers Standing Heart Rate And Improves Symptoms In Heart Disease Study](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV19nMWFsdjhKb0ZuSG9tSFlMMWJlbWtMOHhhZGdleHZaXzhtdTd1R21LT0ZXTjFQbVlKdkNXVDZ6b3lqUHlOSzhQV1F1Y0JoZFM3SHhpOG5YVlZOQ0c3Nkt4MmZoQWd2cUdhdUozcGRMWDVQTHp3WlEzQVd1bGtkcVdBNTBNQklva1VqSldQZnAwQzBxNGNWazhzcXVJaExyUDdpMlFkLXZoTHRpMDl1N3dqSHMzM05NRVZKVmEycGlLNkdrbnB0N0ROaFVBTUNZbWZuYkxJT2JQdw?oc=5) (Benzinga, 2026-11-13)
-  - [Regeneron Pharmaceuticals (REGN) Reports Positive Phase 2 Results for POTS Treatment Baloncibart](https://news.google.com/rss/articles/CBMizgFBVV95cUxQRldmTlF6R3Zjd2RQWmQzMnFMcndLZ1pibldxazFDNnBSaGpiTi03WHJhZWtIR01lMXJCdk5RS1VKcUdYeDNRQ2Z2dW9fR2lqa0l4N05XSEh4V0tBQUx6UV8yRmlwSWlweHNaNDBqbkdSeGItRFJ2ZFBXVHdBbU55UWpzUDlwQzFPZ1IyazlTN3ktc2FIOUtJNEpwaEJpa05CWmdkc3dFT1I5WWVVYUd2YnBJTjlqeTdFZ1oxY3RlaGJEZHp5OWlJbHFHR0Y5QQ?oc=5) (GuruFocus, 2026-11-13)
-
-### 14. MDT — Medtronic (final 80)
+### 13. MDT — Medtronic (final 80)
 **Why now:** Strong trend: 6-month +36%, 3-month vs QQQ +23%
 
 Price reasons:
@@ -298,6 +287,24 @@ Price reasons:
   - [Medtronic PLC stock outperforms competitors on strong trading day](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHZ6bkhNUDd4dXpzVVdPRUJsbF9yX0ZNNVd0M3M5SFZqS3BCM0ZtS3VhYXE3OFJUaUhzWTdMeHFYSnllb1JGRU1yUXZHajBvQnNUY21wWTlEQl9ZVDg2THRKd09lOGpLQldwckZyS183RHlMTjFwbXVyb0ZMSXZvNWVjX2c5YmVoRVk5eGRCWDdPME9aT0ZyQ3ZXUDJvaHllMUF3dUZQUmRack1vOUJHeWFzY04yeWJJd2g4OXk3WGpmR285OTVhbE5oaDBaMk80Zmx0LUJDb1FZeGM?oc=5) (MarketWatch, 2026-11-13)
   - [Ex-Medtronic CEO grades Nvidia board: 'About an F'](https://finance.yahoo.com/video/ex-medtronic-ceo-grades-nvidia-board-about-an-f-172026374.html) (Yahoo Finance Video, 2026-11-13)
 
+### 14. REGN — Regeneron Pharmaceuticals (final 80)
+**Why now:** Strong trend: 6-month +27%, 3-month vs QQQ +27%
+
+Price reasons:
+- Trend: above 50-day, above 200-day, 50-day above 200-day
+- Momentum (to last week): 1m +22.3%, 3m +12.0%, 6m +26.8% (beats 89% of stocks)
+- 3-month return vs QQQ: +27.3%
+- Volatility 40%/yr (normal)
+- Trades $899M/day
+- News: 10 headlines in 3 days, sentiment +0.15, flags: miss
+- Filings (7 days): none
+- Insiders (7 days): no open-market buys or sells
+- Earnings: 2027-01-28; stop 897.99 (-6.0%, 2×ATR)
+- Top headlines:
+  - [Missed Regeneron Pharmaceuticals' Rally? Here Is What Holders Saw](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLURRVVJDZmFTc0R2c2NPN0JGNFpzc3ota1VTVktFWElfWUpYcnRMQTgwblBKZ3pucUdWVUgxaHBsT2E3VlR0TlVuVHFEN1JMUTAzRXBxT1I1elZkVS1YU1M0clBGbU1lQkRiZzhtNEZ4U0lZX09oZTBRNS1nRFpZdS1lemVGbW01V0lrc3lPVnp2aHdtZzhtajdiT1NMakpGcm9ycmRTa2VFT2V6LVlHbnNtTF8tdlN3MWJIQVBjZEJEbjRMX0FoT2Y4R2xFOWpUbmJ6TVNSd05fN2pOU3ltV3FwVTROUzh1bGwwZUtFUdIB9AFBVV95cUxPQkk0R2hIRFRxUFAxb21vTVJaeWU1eThhOWlJa3hveHI2eGFyX1kzTWF2cnZuVy03ZThLVHpyeFd5TEZvWUw1czI4ODJtSGpuZkdPdlE2dWgybEpYRVBCbjd2UUQ1YXF5a3M3NlhKejg4S2N6Vm12dEdQazU5RkdiYzJkT1pyWXVjLXVzaTNldVpDcUFTWDJVRGJNaWlKbTJjLV9LYVFaa21DUjYzSUE0WWYzVXV5Y1kwZU85Ri04dnJlZ1U1cXVnRHdaQVZVbXp2SEpuZGVVTVotcWdNd2toMkZ6dHA3NnJxSDd0bVI2ZHY5SXFa?oc=5) (Simply Wall St, 2026-11-13)
+  - [Regeneron Pharmaceuticals (REGN) Reports Positive Phase 2 Results for POTS Treatment Baloncibart](https://news.google.com/rss/articles/CBMizgFBVV95cUxQRldmTlF6R3Zjd2RQWmQzMnFMcndLZ1pibldxazFDNnBSaGpiTi03WHJhZWtIR01lMXJCdk5RS1VKcUdYeDNRQ2Z2dW9fR2lqa0l4N05XSEh4V0tBQUx6UV8yRmlwSWlweHNaNDBqbkdSeGItRFJ2ZFBXVHdBbU55UWpzUDlwQzFPZ1IyazlTN3ktc2FIOUtJNEpwaEJpa05CWmdkc3dFT1I5WWVVYUd2YnBJTjlqeTdFZ1oxY3RlaGJEZHp5OWlJbHFHR0Y5QQ?oc=5) (GuruFocus, 2026-11-13)
+  - [Regeneron Reports Phase 2 PINNACLE Data Show Baloncibart Improved Heart Rate Response and Symptoms in POTS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVRBSWJ3cTI2TTFyX3MxTW9ucHJYM1BnbW5MY3RTNUpOS09nV1habWdGT21ob1V4dVBFcU5iWjFSVW42NmZqQ0JCUHZtaDQyeHRvUG5wQ29JeU5mM3ZfRDluR1dHRlNTTVJpcUI0NThhOWtNOUwzbFdwNGtWbUVIaEhXVE5uRkJuS3FZVXhhcEtyUS04R1BTejdNb0RGUVFiZlVtU2tueHY4RHl3bm1zSEdLTERtX000djBGb0lSRzN4RmhPdEdZUWw1ZGJTTS1xMURMZmln?oc=5) (Quiver Quantitative, 2026-11-12)
+
 ### 15. AMGN — Amgen (final 80)
 **Why now:** News: beat, guidance raised
 
@@ -307,7 +314,7 @@ Price reasons:
 - 3-month return vs QQQ: +19.8%
 - Volatility 34%/yr (normal)
 - Trades $1,218M/day
-- News: 32 headlines in 3 days, sentiment +0.12, flags: acquisition, beat, guidance raised
+- News: 27 headlines in 3 days, sentiment +0.13, flags: acquisition, beat, guidance raised
 - Filings (7 days): none
 - Insiders (7 days): no open-market buys or sells
 - Earnings: 2027-02-02; stop 446.85 (-4.0%, 2×ATR)
@@ -325,13 +332,13 @@ Price reasons:
 | 3 | AXON | Axon Enterprise | Industrials | 315.43 | 23 | 13 | 46 | Falling trend: below its 50- and 200-day (6-month -22%); 3-month return -44% vs QQQ; News flags: guidance cut, lawsuit, miss |
 | 4 | APTV | Aptiv | Consumer Discretionary | 38.75 | 23 | 11 | 58 | Falling trend: below its 50- and 200-day (6-month -32%); 3-month return -17% vs QQQ |
 | 5 | JBL | Jabil | Information Technology | 254.25 | 23 | 12 | 56 | Falling trend: below its 50- and 200-day (6-month -33%); 3-month return -26% vs QQQ |
-| 6 | GNRC | Generac | Industrials | 190.77 | 24 | 13 | 54 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -8% vs QQQ |
+| 6 | GNRC | Generac | Industrials | 190.77 | 24 | 13 | 55 | Falling trend: below its 50- and 200-day (6-month -34%); 3-month return -8% vs QQQ |
 | 7 | ALB | Albemarle Corporation | Materials | 93.53 | 24 | 13 | 51 | Falling trend: below its 50- and 200-day (6-month -51%); 3-month return -25% vs QQQ |
 | 8 | FIS | Fidelity National Information Services | Financials | 29.54 | 24 | 11 | 53 | Falling trend: below its 50- and 200-day (6-month -32%); 3-month return -22% vs QQQ; News flags: lawsuit |
 | 9 | NRG | NRG Energy | Utilities | 97.10 | 24 | 14 | 52 | Falling trend: below its 50- and 200-day (6-month -36%); 3-month return -14% vs QQQ |
 | 10 | TPL | Texas Pacific Land Corporation | Energy | 291.91 | 24 | 10 | 60 | Falling trend: below its 50- and 200-day (6-month -31%); 3-month return -13% vs QQQ |
 | 11 | CIEN | Ciena | Information Technology | 280.54 | 25 | 13 | 56 | Falling trend: below its 50- and 200-day (6-month -56%); 3-month return -32% vs QQQ |
-| 12 | RDDT | Reddit | Communication Services | 98.45 | 25 | 13 | 54 | Falling trend: below its 50- and 200-day (6-month -39%); 3-month return -36% vs QQQ; Insider selling: 1 unplanned sale(s) this week |
+| 12 | RDDT | Reddit | Communication Services | 98.45 | 25 | 13 | 53 | Falling trend: below its 50- and 200-day (6-month -39%); 3-month return -36% vs QQQ; Insider selling: 1 unplanned sale(s) this week |
 | 13 | FIX | Comfort Systems USA | Industrials | 1112.50 | 27 | 14 | 62 | Falling trend: below its 50- and 200-day (6-month -48%); 3-month return -37% vs QQQ |
 | 14 | ALNY | Alnylam Pharmaceuticals | Health Care | 165.04 | 27 | 13 | 59 | Falling trend: below its 50- and 200-day (6-month -47%); 3-month return -21% vs QQQ |
 | 15 | TER | Teradyne | Information Technology | 249.55 | 29 | 14 | 68 | Falling trend: below its 50- and 200-day (6-month -39%); 3-month return -40% vs QQQ |
@@ -388,8 +395,8 @@ Price reasons:
 
 **CIEN** headlines:
 - [Ciena stock: Trefis flags backlog conversion and supply risk](https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTdvdnBHb1NFaWpPTU5kdDBhanA5dWJOTGE3dHRiWE9HcUtxNEtQNGhRcGFmNzFuRnRmbkNsaDNiSUcxQnJDaGpkTTdvMVJnb1pGS1pVbEZaNndLMF9XR2VOTEN0TU5hSXROdUJ2RTJiZnpiVWlIVHNqZ3dSQmc1YVJyUXdRckV6S2hpVlliSkZBT1RYeEFRVVA5VENjOTNjb2RNVGllSkwtM3ktLUNPbUIwQVc0eDVUMnBFTkU4MA?oc=5) (ad-hoc-news.de, 2026-11-13)
-- [Ciena stock faces supply test as backlog meets pricing power](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk5sQmg1S256Sm83bUU4d19kdTNjQUlvbk9BOVNTWXFDVGg2bnBNeFNjcms0ZWRQb0JHQzlNbncwckhFcE9vSEJvNjJPaS1LSEVhYkJrbUNPR1luYzFaajlLTjlEdjE5ellOdW5UU2tEV25HSXRUZGJNWkE0blpDX0dlYm1pdFpQMUFLMGVTbGp0eDZOa29QZk04SzVyLUxuempGZTNQRWhvUjRQTjJpYk44UzRwWGNVNFg5eW01TE0?oc=5) (ad-hoc-news.de, 2026-11-13)
 - [Ciena (CIEN) Stock Price, News & Forecasts](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tbGtQUjFWdzhrOWUzc1lkYnJjQ253YWlFamdCeEhGLTVJTHI3UklVZlpKWERHY0twRjB3UXdzRGI4Z25ZTkJja0RCdw?oc=5) (blockchain.news, 2026-11-13)
+- [What Capital Group Global Growth (CGGO) Bought: Ciena Leads on Wednesday](https://finance.yahoo.com/markets/stocks/articles/capital-group-global-growth-cggo-110359582.html) (GuruFocus.com, 2026-11-13)
 
 **RDDT** headlines:
 - [Earnings Beat Could Be A Game Changer For Reddit Stock (RDDT)](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcW9oRHpLSUVHeXVES05zNU5fVUlDbjQwRklDQVdvc0lVLXBBU3ZVSmQxMlhHSVFlSDNwc3R0aTZMam82V3l2UEUyNkN6QnpXMzdXRkdHRGlvTUQ1cXhuMkRJUUs2LUZ0MXZORlBXTHQzU3BzSG4yVkJfUVBZdS1qTGJXdHItVTY0c1h3ZXgyRjUyT3ZWd2Q3ZUhBc2VJQzNzWlluMGw0b2dIX1dvQURtbDRSNmlCdkFRT0Nn0gHAAUFVX3lxTFB1V2toTEdYZVBCNENvTHlxd1VldkVaNGdkR1FpMUE4RDdfdmR6NlhxN1RORHlMYVVRV3pZVGdkM3I0WEhCcEFOaGduTGtsWWlhYlRENi1zTkp1WXBvb1VTY09OLWtMdTRSRld6RDV2bUtfbUhoazg0cXdkamdrUVVpY0ZvUHNLUUIyZUZsbnh1bmpISnRlaFhIYjQ1SnJCTmtXRzlnRkpxWk1ZTm1WOEZCTi1nZXpsVlFOcHZWTml4ZQ?oc=5) (Simply Wall St, 2026-11-11)
@@ -548,8 +555,8 @@ From SEC XBRL filings (free companyfacts API), refreshed weekly. Growth = last q
 | HOT | KDP | +71% | +43% | +20% | 48% | 16% (falling) | 0.5 | $2.33B | 33.3 | 2.1 | 55 |
 | HOT | TMO | +9% | +8% | +9% | 24% | 18% (rising) | 0.8 | $7.60B | 36.9 | 5.5 | 44 |
 | HOT | HUM | +26% | +22% | -18% | n/a | 2% (falling) | 0.1 | $3.14B | 43.7 | 0.4 | 39 |
-| HOT | REGN | +36% | +19% | +35% | 35% | 29% (rising) | 0.1 | $4.85B | 21.1 | 5.3 | 77 |
 | HOT | MDT | +14% | +10% | +41% | 52% | 18% (rising) | 0.5 | $6.13B | 25.3 | 3.5 | 55 |
+| HOT | REGN | +36% | +19% | +35% | 35% | 29% (rising) | 0.1 | $4.85B | 21.1 | 5.3 | 77 |
 | HOT | AMGN | +8% | +8% | +19% | 46% | 32% (rising) | 3.8 | $9.58B | 27.0 | 6.5 | 51 |
 | COLD | SKYD | n/a | +2% | n/a | n/a | 4% | n/a | $486.0M | n/a | 0.3 | 26 |
 | COLD | FLEX | +25% | +18% | +35% | 10% | 5% (flat) | 0.9 | $783.0M | 27.1 | 0.9 | 37 |
@@ -585,6 +592,6 @@ From SEC XBRL filings (free companyfacts API), refreshed weekly. Growth = last q
 - Price score 0–100: trend, momentum (1/3/6 months, skipping the last week), 3-month strength vs QQQ, volatility (extremes score lower), liquidity; −10 points if earnings are within 5 trading days.
 - News score 0–100 (50 = neutral): VADER headline sentiment, keyword flags, attention vs normal, SEC Form 4 insider buys/sells. Only computed for the top 40 and the 15 weakest names.
 - Backtest of the price score has survivorship bias (today's index members) and no historical earnings dates; the news score cannot be backtested (no free news history).
-- Sources today: {'headlines': {'yfinance': 550, 'yahoo_rss': 1049, 'google_rss': 1290, 'stocks': 55, 'headlines': 716}, 'sec': {'ok': 55, 'requests': 143, 'missing': 0}, 'smart_money': {'requests': 216, 'errors': {}, 'filings_in_window': 1889, 'downloaded': 171, 'backlog': 0, 'index_days_missing': 2}}
+- Sources today: {'headlines': {'yfinance': 550, 'yahoo_rss': 1049, 'google_rss': 1314, 'stocks': 55, 'headlines': 687}, 'sec': {'ok': 55, 'requests': 143, 'missing': 0}, 'smart_money': {'requests': 23, 'errors': {}, 'filings_in_window': 1889, 'downloaded': 0, 'backlog': 0, 'index_days_missing': 2}}
 
 *Rule-based analysis, not financial advice. Past patterns do not guarantee future results.*

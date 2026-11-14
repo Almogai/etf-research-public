@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "session_date": "2026-11-13",
-  "generated_utc": "2026-11-14 00:03 UTC",
+  "generated_utc": "2026-11-14 00:31 UTC",
   "benchmark": "QQQ",
   "universe_size": 518,
   "eligible": 513,
@@ -175,9 +175,9 @@
         "Volatility 55%/yr (unusually high/low)",
         "Trades $1,439M/day"
       ],
-      "headline_count_3d": 16,
-      "sentiment": 0.0859,
-      "attention_vs_normal": 0.9481,
+      "headline_count_3d": 17,
+      "sentiment": 0.0809,
+      "attention_vs_normal": 1.0074,
       "news_flags": [],
       "top_headlines": [
         {
@@ -289,9 +289,9 @@
       "name": "Moderna",
       "sector": "Health Care",
       "price": 223.37,
-      "final_score": 83.034,
+      "final_score": 82.9808,
       "price_score": 95.2914,
-      "news_score": 56.247,
+      "news_score": 55.9491,
       "history_score": 46.9187,
       "insider_score": 50.0,
       "quality_score": 40.2,
@@ -309,9 +309,9 @@
         "Volatility 368%/yr (unusually high/low)",
         "Trades $3,356M/day"
       ],
-      "headline_count_3d": 42,
-      "sentiment": 0.0381,
-      "attention_vs_normal": 1.0922,
+      "headline_count_3d": 41,
+      "sentiment": 0.0297,
+      "attention_vs_normal": 1.0662,
       "news_flags": [
         "guidance raised"
       ],
@@ -902,9 +902,9 @@
       "name": "Cardinal Health",
       "sector": "Health Care",
       "price": 281.1,
-      "final_score": 81.3147,
+      "final_score": 81.4755,
       "price_score": 88.3912,
-      "news_score": 71.9881,
+      "news_score": 72.889,
       "history_score": 46.7297,
       "insider_score": 50.0,
       "quality_score": 51.5,
@@ -922,9 +922,9 @@
         "Volatility 24%/yr (normal)",
         "Trades $469M/day"
       ],
-      "headline_count_3d": 16,
-      "sentiment": 0.3539,
-      "attention_vs_normal": 1.6,
+      "headline_count_3d": 15,
+      "sentiment": 0.3578,
+      "attention_vs_normal": 1.6667,
       "news_flags": [
         "acquisition",
         "guidance raised"
@@ -1439,103 +1439,6 @@
     },
     {
       "rank": 13,
-      "ticker": "REGN",
-      "name": "Regeneron Pharmaceuticals",
-      "sector": "Health Care",
-      "price": 955.47,
-      "final_score": 79.8707,
-      "price_score": 90.7947,
-      "news_score": 48.6371,
-      "history_score": 50.0,
-      "insider_score": 50.0,
-      "quality_score": 77.3,
-      "components": {
-        "trend": 1.0,
-        "momentum": 0.8908,
-        "relative_strength": 0.9142,
-        "volatility": 1.0,
-        "liquidity": 0.7661
-      },
-      "price_reasons": [
-        "Trend: above 50-day, above 200-day, 50-day above 200-day",
-        "Momentum (to last week): 1m +22.3%, 3m +12.0%, 6m +26.8% (beats 89% of stocks)",
-        "3-month return vs QQQ: +27.3%",
-        "Volatility 40%/yr (normal)",
-        "Trades $899M/day"
-      ],
-      "headline_count_3d": 11,
-      "sentiment": 0.2149,
-      "attention_vs_normal": 0.5641,
-      "news_flags": [
-        "miss"
-      ],
-      "top_headlines": [
-        {
-          "title": "Missed Regeneron Pharmaceuticals' Rally? Here Is What Holders Saw",
-          "source": "Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLURRVVJDZmFTc0R2c2NPN0JGNFpzc3ota1VTVktFWElfWUpYcnRMQTgwblBKZ3pucUdWVUgxaHBsT2E3VlR0TlVuVHFEN1JMUTAzRXBxT1I1elZkVS1YU1M0clBGbU1lQkRiZzhtNEZ4U0lZX09oZTBRNS1nRFpZdS1lemVGbW01V0lrc3lPVnp2aHdtZzhtajdiT1NMakpGcm9ycmRTa2VFT2V6LVlHbnNtTF8tdlN3MWJIQVBjZEJEbjRMX0FoT2Y4R2xFOWpUbmJ6TVNSd05fN2pOU3ltV3FwVTROUzh1bGwwZUtFUdIB9AFBVV95cUxPQkk0R2hIRFRxUFAxb21vTVJaeWU1eThhOWlJa3hveHI2eGFyX1kzTWF2cnZuVy03ZThLVHpyeFd5TEZvWUw1czI4ODJtSGpuZkdPdlE2dWgybEpYRVBCbjd2UUQ1YXF5a3M3NlhKejg4S2N6Vm12dEdQazU5RkdiYzJkT1pyWXVjLXVzaTNldVpDcUFTWDJVRGJNaWlKbTJjLV9LYVFaa21DUjYzSUE0WWYzVXV5Y1kwZU85Ri04dnJlZ1U1cXVnRHdaQVZVbXp2SEpuZGVVTVotcWdNd2toMkZ6dHA3NnJxSDd0bVI2ZHY5SXFa?oc=5",
-          "date": "2026-11-13 09:20 UTC"
-        },
-        {
-          "title": "Regeneron Drug Lowers Standing Heart Rate And Improves Symptoms In Heart Disease Study",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV19nMWFsdjhKb0ZuSG9tSFlMMWJlbWtMOHhhZGdleHZaXzhtdTd1R21LT0ZXTjFQbVlKdkNXVDZ6b3lqUHlOSzhQV1F1Y0JoZFM3SHhpOG5YVlZOQ0c3Nkt4MmZoQWd2cUdhdUozcGRMWDVQTHp3WlEzQVd1bGtkcVdBNTBNQklva1VqSldQZnAwQzBxNGNWazhzcXVJaExyUDdpMlFkLXZoTHRpMDl1N3dqSHMzM05NRVZKVmEycGlLNkdrbnB0N0ROaFVBTUNZbWZuYkxJT2JQdw?oc=5",
-          "date": "2026-11-13 18:01 UTC"
-        },
-        {
-          "title": "Regeneron Pharmaceuticals (REGN) Reports Positive Phase 2 Results for POTS Treatment Baloncibart",
-          "source": "GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRldmTlF6R3Zjd2RQWmQzMnFMcndLZ1pibldxazFDNnBSaGpiTi03WHJhZWtIR01lMXJCdk5RS1VKcUdYeDNRQ2Z2dW9fR2lqa0l4N05XSEh4V0tBQUx6UV8yRmlwSWlweHNaNDBqbkdSeGItRFJ2ZFBXVHdBbU55UWpzUDlwQzFPZ1IyazlTN3ktc2FIOUtJNEpwaEJpa05CWmdkc3dFT1I5WWVVYUd2YnBJTjlqeTdFZ1oxY3RlaGJEZHp5OWlJbHFHR0Y5QQ?oc=5",
-          "date": "2026-11-13 00:12 UTC"
-        }
-      ],
-      "filings_7d": [],
-      "sec_checked": true,
-      "insider_7d": {
-        "buys": 0,
-        "sells": 0,
-        "planned_sells": 0,
-        "buy_value": 0,
-        "sell_value": 0.0
-      },
-      "events": [],
-      "earnings_date": "2027-01-28",
-      "days_to_earnings": 54,
-      "earnings_within_5d": false,
-      "stop": 897.9868,
-      "stop_pct": -0.0602,
-      "why_now": "Strong trend: 6-month +27%, 3-month vs QQQ +27%",
-      "fundamentals": {
-        "period_end": "2026-09-30",
-        "filed": "2026-10-30",
-        "rev_yoy": 0.3627,
-        "rev_ttm": 16896200000,
-        "rev_ttm_yoy": 0.1859,
-        "eps_yoy": 0.3546,
-        "eps_ttm": 45.3,
-        "gross_margin": 0.3465,
-        "op_margin": 0.2879,
-        "op_margin_trend": "rising",
-        "debt_to_equity": 0.0593,
-        "fcf_ttm": 4846000000,
-        "fcf_margin": 0.2868,
-        "pe": 21.0921,
-        "ps": 5.3131,
-        "ebitda_ttm": 5377400000,
-        "ev_ebitda": 16.3832,
-        "debt": 1987000000,
-        "mcap": 89771286199,
-        "stale": false,
-        "quality_score": 77.3,
-        "beta": 0.5112,
-        "summary": "Revenue +36% y/y, margins rising, low debt, P/E 21"
-      },
-      "insider_30d": [],
-      "insider_badges": "",
-      "history_events": []
-    },
-    {
-      "rank": 14,
       "ticker": "MDT",
       "name": "Medtronic",
       "sector": "Health Care",
@@ -1641,14 +1544,111 @@
       ]
     },
     {
+      "rank": 14,
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "sector": "Health Care",
+      "price": 955.47,
+      "final_score": 79.6252,
+      "price_score": 90.7947,
+      "news_score": 47.2626,
+      "history_score": 50.0,
+      "insider_score": 50.0,
+      "quality_score": 77.3,
+      "components": {
+        "trend": 1.0,
+        "momentum": 0.8908,
+        "relative_strength": 0.9142,
+        "volatility": 1.0,
+        "liquidity": 0.7661
+      },
+      "price_reasons": [
+        "Trend: above 50-day, above 200-day, 50-day above 200-day",
+        "Momentum (to last week): 1m +22.3%, 3m +12.0%, 6m +26.8% (beats 89% of stocks)",
+        "3-month return vs QQQ: +27.3%",
+        "Volatility 40%/yr (normal)",
+        "Trades $899M/day"
+      ],
+      "headline_count_3d": 10,
+      "sentiment": 0.1471,
+      "attention_vs_normal": 0.5128,
+      "news_flags": [
+        "miss"
+      ],
+      "top_headlines": [
+        {
+          "title": "Missed Regeneron Pharmaceuticals' Rally? Here Is What Holders Saw",
+          "source": "Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLURRVVJDZmFTc0R2c2NPN0JGNFpzc3ota1VTVktFWElfWUpYcnRMQTgwblBKZ3pucUdWVUgxaHBsT2E3VlR0TlVuVHFEN1JMUTAzRXBxT1I1elZkVS1YU1M0clBGbU1lQkRiZzhtNEZ4U0lZX09oZTBRNS1nRFpZdS1lemVGbW01V0lrc3lPVnp2aHdtZzhtajdiT1NMakpGcm9ycmRTa2VFT2V6LVlHbnNtTF8tdlN3MWJIQVBjZEJEbjRMX0FoT2Y4R2xFOWpUbmJ6TVNSd05fN2pOU3ltV3FwVTROUzh1bGwwZUtFUdIB9AFBVV95cUxPQkk0R2hIRFRxUFAxb21vTVJaeWU1eThhOWlJa3hveHI2eGFyX1kzTWF2cnZuVy03ZThLVHpyeFd5TEZvWUw1czI4ODJtSGpuZkdPdlE2dWgybEpYRVBCbjd2UUQ1YXF5a3M3NlhKejg4S2N6Vm12dEdQazU5RkdiYzJkT1pyWXVjLXVzaTNldVpDcUFTWDJVRGJNaWlKbTJjLV9LYVFaa21DUjYzSUE0WWYzVXV5Y1kwZU85Ri04dnJlZ1U1cXVnRHdaQVZVbXp2SEpuZGVVTVotcWdNd2toMkZ6dHA3NnJxSDd0bVI2ZHY5SXFa?oc=5",
+          "date": "2026-11-13 09:20 UTC"
+        },
+        {
+          "title": "Regeneron Pharmaceuticals (REGN) Reports Positive Phase 2 Results for POTS Treatment Baloncibart",
+          "source": "GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRldmTlF6R3Zjd2RQWmQzMnFMcndLZ1pibldxazFDNnBSaGpiTi03WHJhZWtIR01lMXJCdk5RS1VKcUdYeDNRQ2Z2dW9fR2lqa0l4N05XSEh4V0tBQUx6UV8yRmlwSWlweHNaNDBqbkdSeGItRFJ2ZFBXVHdBbU55UWpzUDlwQzFPZ1IyazlTN3ktc2FIOUtJNEpwaEJpa05CWmdkc3dFT1I5WWVVYUd2YnBJTjlqeTdFZ1oxY3RlaGJEZHp5OWlJbHFHR0Y5QQ?oc=5",
+          "date": "2026-11-13 00:12 UTC"
+        },
+        {
+          "title": "Regeneron Reports Phase 2 PINNACLE Data Show Baloncibart Improved Heart Rate Response and Symptoms in POTS",
+          "source": "Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVRBSWJ3cTI2TTFyX3MxTW9ucHJYM1BnbW5MY3RTNUpOS09nV1habWdGT21ob1V4dVBFcU5iWjFSVW42NmZqQ0JCUHZtaDQyeHRvUG5wQ29JeU5mM3ZfRDluR1dHRlNTTVJpcUI0NThhOWtNOUwzbFdwNGtWbUVIaEhXVE5uRkJuS3FZVXhhcEtyUS04R1BTejdNb0RGUVFiZlVtU2tueHY4RHl3bm1zSEdLTERtX000djBGb0lSRzN4RmhPdEdZUWw1ZGJTTS1xMURMZmln?oc=5",
+          "date": "2026-11-12 22:11 UTC"
+        }
+      ],
+      "filings_7d": [],
+      "sec_checked": true,
+      "insider_7d": {
+        "buys": 0,
+        "sells": 0,
+        "planned_sells": 0,
+        "buy_value": 0,
+        "sell_value": 0.0
+      },
+      "events": [],
+      "earnings_date": "2027-01-28",
+      "days_to_earnings": 54,
+      "earnings_within_5d": false,
+      "stop": 897.9868,
+      "stop_pct": -0.0602,
+      "why_now": "Strong trend: 6-month +27%, 3-month vs QQQ +27%",
+      "fundamentals": {
+        "period_end": "2026-09-30",
+        "filed": "2026-10-30",
+        "rev_yoy": 0.3627,
+        "rev_ttm": 16896200000,
+        "rev_ttm_yoy": 0.1859,
+        "eps_yoy": 0.3546,
+        "eps_ttm": 45.3,
+        "gross_margin": 0.3465,
+        "op_margin": 0.2879,
+        "op_margin_trend": "rising",
+        "debt_to_equity": 0.0593,
+        "fcf_ttm": 4846000000,
+        "fcf_margin": 0.2868,
+        "pe": 21.0921,
+        "ps": 5.3131,
+        "ebitda_ttm": 5377400000,
+        "ev_ebitda": 16.3832,
+        "debt": 1987000000,
+        "mcap": 89771286199,
+        "stale": false,
+        "quality_score": 77.3,
+        "beta": 0.5112,
+        "summary": "Revenue +36% y/y, margins rising, low debt, P/E 21"
+      },
+      "insider_30d": [],
+      "insider_badges": "",
+      "history_events": []
+    },
+    {
       "rank": 15,
       "ticker": "AMGN",
       "name": "Amgen",
       "sector": "Health Care",
       "price": 465.67,
-      "final_score": 79.6399,
+      "final_score": 79.5946,
       "price_score": 88.1659,
-      "news_score": 63.0596,
+      "news_score": 62.8059,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 51.3,
@@ -1666,9 +1666,9 @@
         "Volatility 34%/yr (normal)",
         "Trades $1,218M/day"
       ],
-      "headline_count_3d": 32,
-      "sentiment": 0.1199,
-      "attention_vs_normal": 0.8503,
+      "headline_count_3d": 27,
+      "sentiment": 0.1304,
+      "attention_vs_normal": 0.7175,
       "news_flags": [
         "acquisition",
         "beat",
@@ -1915,7 +1915,7 @@
       "earnings_date": "2027-01-27",
       "days_to_earnings": 53,
       "earnings_within_5d": false,
-      "stop": 63.1557,
+      "stop": 63.1546,
       "stop_pct": -0.1577,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -51%)",
@@ -1977,7 +1977,7 @@
       ],
       "headline_count_3d": 35,
       "sentiment": 0.1892,
-      "attention_vs_normal": 3.5,
+      "attention_vs_normal": 3.8889,
       "news_flags": [
         "acquisition",
         "guidance cut",
@@ -2256,9 +2256,9 @@
       "name": "Generac",
       "sector": "Industrials",
       "price": 190.77,
-      "final_score": 23.7382,
+      "final_score": 23.8205,
       "price_score": 12.5267,
-      "news_score": 54.1472,
+      "news_score": 54.608,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 43.4,
@@ -2276,9 +2276,9 @@
         "Volatility 66%/yr (unusually high/low)",
         "Trades $245M/day"
       ],
-      "headline_count_3d": 7,
-      "sentiment": 0.1975,
-      "attention_vs_normal": 0.7,
+      "headline_count_3d": 8,
+      "sentiment": 0.1728,
+      "attention_vs_normal": 0.8889,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2822,9 +2822,9 @@
         "Volatility 93%/yr (unusually high/low)",
         "Trades $963M/day"
       ],
-      "headline_count_3d": 17,
-      "sentiment": 0.1644,
-      "attention_vs_normal": 1.283,
+      "headline_count_3d": 16,
+      "sentiment": 0.1747,
+      "attention_vs_normal": 1.2075,
       "news_flags": [],
       "top_headlines": [
         {
@@ -2834,16 +2834,16 @@
           "date": "2026-11-13 15:05 UTC"
         },
         {
-          "title": "Ciena stock faces supply test as backlog meets pricing power",
-          "source": "ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk5sQmg1S256Sm83bUU4d19kdTNjQUlvbk9BOVNTWXFDVGg2bnBNeFNjcms0ZWRQb0JHQzlNbncwckhFcE9vSEJvNjJPaS1LSEVhYkJrbUNPR1luYzFaajlLTjlEdjE5ellOdW5UU2tEV25HSXRUZGJNWkE0blpDX0dlYm1pdFpQMUFLMGVTbGp0eDZOa29QZk04SzVyLUxuempGZTNQRWhvUjRQTjJpYk44UzRwWGNVNFg5eW01TE0?oc=5",
-          "date": "2026-11-13 12:12 UTC"
-        },
-        {
           "title": "Ciena (CIEN) Stock Price, News & Forecasts",
           "source": "blockchain.news",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tbGtQUjFWdzhrOWUzc1lkYnJjQ253YWlFamdCeEhGLTVJTHI3UklVZlpKWERHY0twRjB3UXdzRGI4Z25ZTkJja0RCdw?oc=5",
           "date": "2026-11-13 11:53 UTC"
+        },
+        {
+          "title": "What Capital Group Global Growth (CGGO) Bought: Ciena Leads on Wednesday",
+          "source": "GuruFocus.com",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-global-growth-cggo-110359582.html",
+          "date": "2026-11-13 11:03 UTC"
         }
       ],
       "filings_7d": [],
@@ -2899,9 +2899,9 @@
       "name": "Reddit",
       "sector": "Communication Services",
       "price": 98.45,
-      "final_score": 25.3107,
+      "final_score": 25.2345,
       "price_score": 13.0169,
-      "news_score": 53.7926,
+      "news_score": 53.3657,
       "history_score": 50.0,
       "insider_score": 50.0,
       "quality_score": 79.4,
@@ -2919,9 +2919,9 @@
         "Volatility 81%/yr (unusually high/low)",
         "Trades $850M/day"
       ],
-      "headline_count_3d": 30,
-      "sentiment": 0.0299,
-      "attention_vs_normal": 1.4423,
+      "headline_count_3d": 31,
+      "sentiment": 0.0194,
+      "attention_vs_normal": 1.4904,
       "news_flags": [
         "beat"
       ],
@@ -3153,7 +3153,7 @@
       "earnings_date": null,
       "days_to_earnings": null,
       "earnings_within_5d": false,
-      "stop": 145.7521,
+      "stop": 145.7543,
       "stop_pct": -0.1169,
       "cold_reasons": [
         "Falling trend: below its 50- and 200-day (6-month -47%)",
@@ -3449,9 +3449,9 @@
     "headlines": {
       "yfinance": 550,
       "yahoo_rss": 1049,
-      "google_rss": 1290,
+      "google_rss": 1314,
       "stocks": 55,
-      "headlines": 716
+      "headlines": 687
     },
     "sec": {
       "ok": 55,
@@ -3459,10 +3459,10 @@
       "missing": 0
     },
     "smart_money": {
-      "requests": 216,
+      "requests": 23,
       "errors": {},
       "filings_in_window": 1889,
-      "downloaded": 171,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 2
     }
@@ -4150,7 +4150,7 @@
     ],
     "coverage": {
       "filings_in_window": 1889,
-      "downloaded": 171,
+      "downloaded": 0,
       "backlog": 0,
       "index_days_missing": 2
     }

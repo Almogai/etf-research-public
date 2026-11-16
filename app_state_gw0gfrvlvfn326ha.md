@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-16T11:16:15Z · market session 2026-11-13 · app version 1ead7d · 713 tests
+Generated 2026-11-16T11:56:06Z · market session 2026-11-13 · app version 6e9fa4 · 713 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -17,7 +17,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 |---|---|---|---|---|
 | Fidelity · Brokerage 1 | $743.52 | $42.96 | 7 | $797.62 |
 | Fidelity · Brokerage 4 | $14.07 | $0.05 | 1 | $20.00 |
-| Robinhood · Crypto | $6.22 | $0.00 | 1 | $0.00 |
+| Robinhood · Crypto | $6.23 | $0.00 | 1 | $0.00 |
 | Robinhood · IRA | $0.00 | $0.00 | 0 | $0.00 |
 | Robinhood · Brokerage (main: TQQQ 200-day rule) | $0.00 | $0.00 | 0 | $17.19 |
 | Fidelity · Brokerage 2 | $0.00 | $0.00 | 0 | $0.00 |
@@ -26,7 +26,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.96 | $6.22 | -3.15 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.96 | $6.23 | -3.14 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
@@ -45,7 +45,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 - Net worth $763.81 · deposits $834.81 · withdrawals $0.00 · cash $43.01 · profit -71.00 (-8.5%)
 - Allocation: FXLCX 58%, FXINX 17%, FITFX 10%, Cash 6%, FLAPX 4%, FXSCX 2%, TQQQ 2%, XRP-USD 1%, FLXSX 0%, FXMCX 0% · effective exposure 0.98x · 58% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-16T11:15:49Z · last attempt 2026-11-16T11:15:49Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-16T11:55:40Z · last attempt 2026-11-16T11:55:40Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -162,7 +162,7 @@ Hypotheses / rules: [hypothesis, n=6] מניות בריאות בתנודתיות
 
 ## ⚙️ Health
 - Research run 2026-11-14T00:40:32Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-16T11:15); Broker sync: success (2026-11-14T21:15); Tests: success (2026-11-14T21:11); Web app: success (2026-11-14T21:11); Long test (2000 -> today): success (2026-11-14T20:47); Daily signals: success (2026-11-14T02:33); Analyst forecast (before the open): success (2026-11-13T22:50); Claude portfolio decision: success (2026-11-13T22:12); Claude portfolio intraday check: success (2026-11-13T21:25)
+- Workflows: Collect Claude report: in_progress (2026-11-16T11:55); Broker sync: success (2026-11-14T21:15); Tests: success (2026-11-14T21:11); Web app: success (2026-11-14T21:11); Long test (2000 -> today): success (2026-11-14T20:47); Daily signals: success (2026-11-14T02:33); Analyst forecast (before the open): success (2026-11-13T22:50); Claude portfolio decision: success (2026-11-13T22:12); Claude portfolio intraday check: success (2026-11-13T21:25)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research; second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1)
 
@@ -172,7 +172,7 @@ Hypotheses / rules: [hypothesis, n=6] מניות בריאות בתנודתיות
 - **מניה (A stock)** [`stock`]: any stock: score + plain sentence, fundamentals, chart, factor bars, news vs Claude, insiders, headlines; 💰 what it is worth: the nightly model (or build one now) with its A/B/C grade, what the price implies, the football field and the Excel file
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **מתקדם (Advanced)** [`more`]: ⚙️ Advanced (from 🏠's ⚙️): my portfolio (edit · log · connections, a button row on top of each) + language + reload + download my data + copy for Claude
-- **ניהול התיק (Manage my money)** [`portfolio`]: net worth $763.81; money in $834.81; profit -71.00 · XRP-USD: 6.506 @ avg 1.44 = $6.22 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · FITFX: 4.153 @ avg 19.1476 = $77.66 (sync) · FLAPX: 1.079 @ avg 24.8471 = $27.26 (sync) · FLXSX: 0.172 @ avg 20.0581 = $3.46 (sync) · FXINX: 11.102 @ avg 12.323 = $132.89 (sync) · FXLCX: 37.549 @ avg 11.9058 = $440.83 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.06 (sync) · FXSCX: 1.372 @ avg 12.1793 = $16.41 (sync) · CASH:  @ avg None = $42.96 (sync) · TQQQ: 0.243 @ avg 82.0988 = $14.02 (sync) · CASH:  @ avg None = $0.05 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync)
+- **ניהול התיק (Manage my money)** [`portfolio`]: net worth $763.81; money in $834.81; profit -71.00 · XRP-USD: 6.506 @ avg 1.44 = $6.23 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · FITFX: 4.153 @ avg 19.1476 = $77.66 (sync) · FLAPX: 1.079 @ avg 24.8471 = $27.26 (sync) · FLXSX: 0.172 @ avg 20.0581 = $3.46 (sync) · FXINX: 11.102 @ avg 12.323 = $132.89 (sync) · FXLCX: 37.549 @ avg 11.9058 = $440.83 (sync) · FXMCX: 0.175 @ avg 11.4286 = $2.06 (sync) · FXSCX: 1.372 @ avg 12.1793 = $16.41 (sync) · CASH:  @ avg None = $42.96 (sync) · TQQQ: 0.243 @ avg 82.0988 = $14.02 (sync) · CASH:  @ avg None = $0.05 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync)
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'

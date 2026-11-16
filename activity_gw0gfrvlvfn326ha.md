@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-14T21:16:17Z. Every event in the app, newest first (444 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-16T11:16:15Z. Every event in the app, newest first (451 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-16 11:16 | deposit_inferred | sync |  | inferred deposit of $72.62 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 72.62 |
 | 2026-11-14 21:16 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 4.153 shares, transactions give 3.598; Fidelity · Brokerage 1: FLAPX: broker 1.079 shares, transactions give 1.013; Fidelity · Brokerage 1: FLXSX: broker 0.172 shares, transactions give 0.116; Fidelity · Brokerage 1: FXLCX: broker 37.549 shares, transactions give 36.144 | {'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood': {}, 'fidelity_brokerage': {'FITFX': 4.153, 'FLAPX': 1.079, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 37.549, 'FXMCX': 0.175, 'FXSCX': 1.372}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}} → {'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood': {}, 'fidelity_brokerage': {'FITFX': 4.153, 'FLAPX': 1.079, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 37.549, 'FXMCX': 0.175, 'FXSCX': 1.372}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}} |
 | 2026-11-14 21:04 | doctor | workflow |  | doctor fixed: A date from the future: networth 2026-11-14 |  |
 | 2026-11-14 21:04 | trade_detected | sync | FITFX | Fidelity · Brokerage 1: Detected: you bought about 0.56 FITFX at about $18.70 | 3.598 → 4.153 |
@@ -16,6 +17,12 @@ Generated 2026-11-14T21:16:17Z. Every event in the app, newest first (444 events
 | 2026-11-14 00:21 | workflow_failed | workflow |  | Daily signals: failed step(s) research |  |
 | 2026-11-13 17:31 | deposit_inferred | sync |  | inferred deposit of $33.96 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 33.96 |
 | 2026-11-13 16:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:15): 0 orders, 0 rejected ($0.058) |  |
+| 2026-11-13 16:00 | trade | sync | FITFX | sync (Fidelity · Brokerage 1): buy 0.555 FITFX @ 18.70 ($-10.38) |  |
+| 2026-11-13 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 1.405 FXLCX @ 11.74 ($-16.50) |  |
+| 2026-11-13 16:00 | trade | sync | FLXSX | sync (Fidelity · Brokerage 1): buy 0.056 FLXSX @ 20.10 ($-1.12) |  |
+| 2026-11-13 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.066 FLAPX @ 25.26 ($-1.66) |  |
+| 2026-11-13 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 9 FLGXX @ 1.00 ($-9.00) |  |
+| 2026-11-13 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($9.00) |  |
 | 2026-11-13 15:16 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.062) |  |
 | 2026-11-13 12:16 | claude_picks | workflow |  | Claude picks received (2026-11-13) |  |
 | 2026-11-13 12:16 | claude_report | workflow |  | morning report 2026-11-12: 7/7 parts |  |

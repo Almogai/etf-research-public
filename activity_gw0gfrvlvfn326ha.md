@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-16T21:58:09Z. Every event in the app, newest first (456 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-17T01:00:11Z. Every event in the app, newest first (457 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-16 22:34 | workflow_failed | workflow |  | Daily signals: failed step(s) research-tests |  |
 | 2026-11-16 19:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 14:15): 0 orders, 0 rejected ($0.060) |  |
 | 2026-11-16 17:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 12:15): 0 orders, 0 rejected ($0.058) |  |
 | 2026-11-16 15:16 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.068) |  |

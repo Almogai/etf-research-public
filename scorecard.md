@@ -1,4 +1,4 @@
-# Research desk track record — as of 2026-11-13
+# Research desk track record — as of 2026-11-17
 
 Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 trading days. Returns include dividends. Hit rate = share of ideas that went up. Excess = idea return minus QQQ over the same days. Ideas newer than a horizon are not counted for it yet.
 
@@ -6,8 +6,8 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 90 | 85 | 45% | -0.7% | -0.7% | 41% | 8% |
-| 5 days | 90 | 65 | 37% | -2.2% | -0.5% | 43% | 42% |
+| 1 days | 90 | 85 | 44% | -0.8% | -0.7% | 42% | 8% |
+| 5 days | 90 | 70 | 37% | -2.6% | -0.8% | 43% | 41% |
 | 20 days | 90 | 0 | – | – | – | – | – |
 | 60 days | 90 | 0 | – | – | – | – | – |
 
@@ -15,19 +15,19 @@ Each day's top 5 HOT picks (ranked by final score), checked after 5, 20 and 60 t
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 115 | 110 | 41% | -1.1% | -0.8% | 40% | 10% |
-| 5 days | 115 | 90 | 32% | -3.4% | -1.3% | 39% | 51% |
-| 20 days | 115 | 25 | 8% | -16.6% | -8.3% | 16% | 100% |
-| 60 days | 115 | 0 | – | – | – | – | – |
+| 1 days | 120 | 115 | 41% | -1.1% | -0.7% | 42% | 10% |
+| 5 days | 120 | 100 | 33% | -3.4% | -1.3% | 41% | 49% |
+| 20 days | 120 | 30 | 7% | -16.2% | -8.0% | 17% | 100% |
+| 60 days | 120 | 0 | – | – | – | – | – |
 
 ## All time
 
 | Horizon | Ideas | Scored | Hit rate | Avg return | Avg vs QQQ | Beat QQQ | Hit stop |
 |---|---|---|---|---|---|---|---|
-| 1 days | 115 | 110 | 41% | -1.1% | -0.8% | 40% | 10% |
-| 5 days | 115 | 90 | 32% | -3.4% | -1.3% | 39% | 51% |
-| 20 days | 115 | 25 | 8% | -16.6% | -8.3% | 16% | 100% |
-| 60 days | 115 | 0 | – | – | – | – | – |
+| 1 days | 120 | 115 | 41% | -1.1% | -0.7% | 42% | 10% |
+| 5 days | 120 | 100 | 33% | -3.4% | -1.3% | 41% | 49% |
+| 20 days | 120 | 30 | 7% | -16.2% | -8.0% | 17% | 100% |
+| 60 days | 120 | 0 | – | – | – | – | – |
 
 ## Backtest (history, not live results)
 

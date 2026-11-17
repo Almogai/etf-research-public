@@ -1,9 +1,12 @@
 # My activity
 
-Generated 2026-11-17T11:56:02Z. Every event in the app, newest first (463 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-17T12:16:32Z. Every event in the app, newest first (466 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-17 12:16 | claude_picks | workflow |  | Claude picks received (2026-11-17) |  |
+| 2026-11-17 12:16 | claude_report | workflow |  | morning report 2026-11-16: 6/6 parts |  |
+| 2026-11-17 12:16 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 4.291 shares, transactions give 4.153; Fidelity · Brokerage 1: FXLCX: broker 38.113 shares, transactions give 37.549 | {'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood': {}, 'fidelity_brokerage': {'FITFX': 4.291, 'FLAPX': 1.079, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 38.113, 'FXMCX': 0.175, 'FXSCX': 1.372}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}} → {'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood': {}, 'fidelity_brokerage': {'FITFX': 4.291, 'FLAPX': 1.079, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 38.113, 'FXMCX': 0.175, 'FXSCX': 1.372}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}} |
 | 2026-11-17 11:55 | trade_detected | sync | FITFX | Fidelity · Brokerage 1: Detected: you bought about 0.14 FITFX at about $18.26 | 4.153 → 4.291 |
 | 2026-11-17 11:55 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.56 FXLCX at about $11.51 | 37.549 → 38.113 |
 | 2026-11-17 11:55 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 72.62 → 0.0 |

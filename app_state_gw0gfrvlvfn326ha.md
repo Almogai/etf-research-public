@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-18T12:16:26Z · market session 2026-11-17 · app version 6f6602 · 713 tests
+Generated 2026-11-18T14:46:05Z · market session 2026-11-17 · app version afe53c · 713 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -15,7 +15,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 | Account | Value | Cash | Positions | Deposits |
 |---|---|---|---|---|
-| Fidelity · Brokerage 1 | $693.03 | $4.29 | 7 | $738.30 |
+| Fidelity · Brokerage 1 | $693.02 | $4.29 | 7 | $738.30 |
 | Fidelity · Brokerage 4 | $12.64 | $0.05 | 1 | $20.00 |
 | Robinhood · Crypto | $6.41 | $0.00 | 1 | $0.00 |
 | Robinhood · IRA | $0.00 | $0.00 | 0 | $0.00 |
@@ -26,16 +26,16 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.98 | $6.41 | -2.96 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.99 | $6.41 | -2.96 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 1 | FITFX | 4.291 | 19.12 | 18.11 | $77.71 | -4.33 | sync |
 | Fidelity · Brokerage 1 | FLAPX | 1.079 | 24.85 | 24.53 | $26.47 | -0.34 | sync |
-| Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 19.43 | $3.34 | -0.11 | sync |
+| Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 19.42 | $3.34 | -0.11 | sync |
 | Fidelity · Brokerage 1 | FXINX | 11.102 | 12.32 | 11.61 | $128.89 | -7.92 | sync |
 | Fidelity · Brokerage 1 | FXLCX | 38.113 | 11.90 | 11.40 | $434.49 | -19.05 | sync |
-| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.45 | $2.00 | +0.00 | sync |
+| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.43 | $2.00 | -0.00 | sync |
 | Fidelity · Brokerage 1 | FXSCX | 1.372 | 12.18 | 11.54 | $15.83 | -0.88 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $4.29 |  | sync |
 | Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 51.81 | $12.59 | -7.36 | sync |
@@ -133,18 +133,18 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -1.4% vs QQQ -12.6% after 28 trading days · 10 closed trades, 4 winners · 6 open
-- Started 2026-10-12 with $10,000 · value $9,856.54 · cash $6,147.04 · vs SPY -5.9% · QQQ -12.6% · max drawdown -1.9% · paused: False · blocked: -
+- -1.6% vs QQQ -12.8% after 29 trading days · 10 closed trades, 4 winners · 6 open
+- Started 2026-10-12 with $10,000 · value $9,843.65 · cash $6,147.04 · vs SPY -6.2% · QQQ -12.8% · max drawdown -2.0% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $506.24 | -6.2% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| DHR | 2.95729 | $236.70 | $225.77 | -4.6% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
-| ABBV | 1.72852 | $289.26 | $292.82 | +1.2% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
-| MCK | 0.566926 | $1,058.34 | $1,091.67 | +3.1% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
-| MA | 0.761594 | $656.52 | $645.73 | -1.6% | 634.0 | 695.0 | 2026-11-11 | morning_claude, app_top5 | מאסטרקארד: איכות גבוהה ותנודתיות נמוכה, כניסה בטווח הבוקר, סטופ רחוק יחסית ויעד  |
-| AMGN | 1.06448 | $469.71 | $457.93 | -2.5% | 448.66 | 495.0 | 2026-11-12 | morning_claude, app_top5 | אמג'ן: תנודתיות נמוכה, מעל ממוצעים, הגיעה ליעד בעסקה קודמת; כניסה בטווח הבוקר, ג |
+| MSFT | 1.85199 | $539.96 | $502.67 | -6.9% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| DHR | 2.95729 | $236.70 | $227.82 | -3.8% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| ABBV | 1.72852 | $289.26 | $291.88 | +0.9% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
+| MCK | 0.566926 | $1,058.34 | $1,085.48 | +2.6% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
+| MA | 0.761594 | $656.52 | $644.30 | -1.9% | 634.0 | 695.0 | 2026-11-11 | morning_claude, app_top5 | מאסטרקארד: איכות גבוהה ותנודתיות נמוכה, כניסה בטווח הבוקר, סטופ רחוק יחסית ויעד  |
+| AMGN | 1.06448 | $469.71 | $452.17 | -3.7% | 448.66 | 495.0 | 2026-11-12 | morning_claude, app_top5 | אמג'ן: תנודתיות נמוכה, מעל ממוצעים, הגיעה ליעד בעסקה קודמת; כניסה בטווח הבוקר, ג |
 
 Closed: 10 · hit rate 40% · avg -0.7% · beat benchmark 50%
 By source: app_top5 n=10 hit 40% avg -0.7%; morning_claude n=7 hit 29% avg -1.3%
@@ -160,7 +160,7 @@ Hypotheses / rules: [hypothesis, n=6] מניות בריאות בתנודתיות
 
 ## ⚙️ Health
 - Research run 2026-11-17T22:40:27Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-18T12:15); Daily signals: success (2026-11-18T03:46); Broker sync: success (2026-11-18T02:52); Analyst forecast (before the open): success (2026-11-17T23:56); Claude portfolio decision: success (2026-11-17T23:39); Claude portfolio intraday check: success (2026-11-17T22:52); Tests: success (2026-11-17T15:24)
+- Workflows: Claude portfolio decision: in_progress (2026-11-18T14:45); Analyst forecast (before the open): success (2026-11-18T13:45); Collect Claude report: success (2026-11-18T12:15); Daily signals: success (2026-11-18T03:46); Broker sync: success (2026-11-18T02:52); Claude portfolio intraday check: success (2026-11-17T22:52)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1)
 

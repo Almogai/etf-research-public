@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-18T11:16:17Z. Every event in the app, newest first (479 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-18T11:56:09Z. Every event in the app, newest first (480 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-18 11:55 | deposit_inferred | sync |  | inferred deposit of $13.30 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 22.31 → 13.3 |
 | 2026-11-17 23:56 | deposit_inferred | sync |  | inferred deposit of $22.31 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 22.31 |
 | 2026-11-17 22:43 | doctor | workflow |  | doctor fixed: The evening run didn't cover 2026-11-16 |  |
 | 2026-11-17 22:30 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 4.291 shares, transactions give 4.153; Fidelity · Brokerage 1: FXLCX: broker 38.113 shares, transactions give 37.549 | {'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood': {}, 'fidelity_brokerage': {'FITFX': 4.291, 'FLAPX': 1.079, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 38.113, 'FXMCX': 0.175, 'FXSCX': 1.372}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}} → {'robinhood_ira': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood': {}, 'fidelity_brokerage': {'FITFX': 4.291, 'FLAPX': 1.079, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 38.113, 'FXMCX': 0.175, 'FXSCX': 1.372}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_3': {}, 'fidelity_brokerage_2': {}} |

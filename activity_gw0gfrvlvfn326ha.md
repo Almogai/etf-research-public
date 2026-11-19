@@ -1,6 +1,6 @@
 # My activity
 
-Generated 2026-11-19T20:30:23Z. Every event in the app, newest first (495 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-19T21:16:15Z. Every event in the app, newest first (497 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@ Generated 2026-11-19T20:30:23Z. Every event in the app, newest first (495 events
 | 2026-11-18 19:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 14:15): 0 orders, 0 rejected ($0.067) |  |
 | 2026-11-18 17:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 12:15): 0 orders, 0 rejected ($0.059) |  |
 | 2026-11-18 16:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:15): 0 orders, 0 rejected ($0.060) |  |
+| 2026-11-18 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 30 FLGXX @ 1.00 ($-30.00) |  |
+| 2026-11-18 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($30.00) |  |
 | 2026-11-18 15:16 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.071) |  |
 | 2026-11-18 12:15 | claude_picks | workflow |  | Claude picks received (2026-11-18) |  |
 | 2026-11-18 12:15 | claude_report | workflow |  | morning report 2026-11-17: 6/6 parts |  |

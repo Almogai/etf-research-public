@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-19T12:16:18Z · market session 2026-11-18 · app version 68807f · 727 tests
+Generated 2026-11-19T14:46:03Z · market session 2026-11-18 · app version 25f319 · 727 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -28,17 +28,17 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 |---|---|---|---|---|---|---|---|
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.99 | $6.42 | -2.94 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.99 | $6.42 | -2.95 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 1 | FITFX | 4.291 | 19.12 | 17.93 | $76.94 | -5.10 | sync |
 | Fidelity · Brokerage 1 | FLAPX | 1.079 | 24.85 | 24.59 | $26.53 | -0.28 | sync |
 | Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 19.53 | $3.36 | -0.09 | sync |
 | Fidelity · Brokerage 1 | FXINX | 11.102 | 12.32 | 11.48 | $127.45 | -9.36 | sync |
 | Fidelity · Brokerage 1 | FXLCX | 38.113 | 11.90 | 11.39 | $434.11 | -19.43 | sync |
-| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.48 | $2.01 | +0.01 | sync |
+| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.49 | $2.01 | +0.01 | sync |
 | Fidelity · Brokerage 1 | FXSCX | 1.372 | 12.18 | 11.61 | $15.93 | -0.78 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $34.29 |  | sync |
-| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 52.44 | $12.74 | -7.21 | sync |
+| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 52.43 | $12.74 | -7.21 | sync |
 | Fidelity · Brokerage 4 | CASH |  |  |  | $0.05 |  | sync |
 | Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
@@ -133,26 +133,24 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -1.6% vs QQQ -12.2% after 29 trading days · 10 closed trades, 4 winners · 6 open
-- Started 2026-10-12 with $10,000 · value $9,836.03 · cash $6,147.04 · vs SPY -6.2% · QQQ -12.2% · max drawdown -2.1% · paused: False · blocked: -
+- -1.6% vs QQQ -10.3% after 30 trading days · 12 closed trades, 4 winners · 4 open
+- Started 2026-10-12 with $10,000 · value $9,837.94 · cash $7,101.67 · vs SPY -5.2% · QQQ -10.3% · max drawdown -2.1% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $508.29 | -5.9% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| DHR | 2.95729 | $236.70 | $228.58 | -3.4% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
-| ABBV | 1.72852 | $289.26 | $286.01 | -1.1% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
-| MCK | 0.566926 | $1,058.34 | $1,084.43 | +2.5% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
-| MA | 0.761594 | $656.52 | $643.37 | -2.0% | 634.0 | 695.0 | 2026-11-11 | morning_claude, app_top5 | מאסטרקארד: איכות גבוהה ותנודתיות נמוכה, כניסה בטווח הבוקר, סטופ רחוק יחסית ויעד  |
-| AMGN | 1.06448 | $469.71 | $443.89 | -5.5% | 448.66 | 495.0 | 2026-11-12 | morning_claude, app_top5 | אמג'ן: תנודתיות נמוכה, מעל ממוצעים, הגיעה ליעד בעסקה קודמת; כניסה בטווח הבוקר, ג |
+| MSFT | 1.85199 | $539.96 | $523.10 | -3.1% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| DHR | 2.95729 | $236.70 | $227.98 | -3.7% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| ABBV | 1.72852 | $289.26 | $281.71 | -2.6% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
+| MCK | 0.566926 | $1,058.34 | $1,069.54 | +1.1% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
 
-Closed: 10 · hit rate 40% · avg -0.7% · beat benchmark 50%
-By source: app_top5 n=10 hit 40% avg -0.7%; morning_claude n=7 hit 29% avg -1.3%
-- 2026-10-29 AMGN +6.7% (target): AMGN הגיעה ליעד אחרי 9 ימים ברווח של 6.7% עם ירידה מקסימלית קטנה (0.6%-) מול מדד כמעט שטוח. מניה דפנסיבית בתנודתיות נמוכה עם גודל קטן והחזקה של כשבוע עבדה, אבל זו עסקה בודדת (n=1) ולא הוכחה.
-- 2026-10-29 MPC -6.2% (stop): MPC נעצרה בסטופ ב-6.2%- אחרי 6 ימים, בעוד המדד עלה 1.2%. המניה כבר הייתה מתוחה אחרי עלייה גדולה וירדה ממומנטום חזק; דירוג ראשון לא מגן מכניסה אחרי ריצה. לפני דוחות (3.11) כדאי להיזהר. מקרה בודד (n=1), לא מסקנה.
+Closed: 12 · hit rate 33% · avg -1.3% · beat benchmark 42%
+By source: app_top5 n=12 hit 33% avg -1.3%; morning_claude n=9 hit 22% avg -2.0%
 - 2026-11-04 COP -3.7% (stop): COP נעצרה בסטופ ב-3.7%- אחרי 6 ימים, בעוד המדד ירד רק 0.4%-. נכנסתי לאנרגיה ערב דוחות עם סטופ קרוב יחסית, וזה חזר על דפוס MPC/VLO: אנרגיה מתוחה עם סטופ צמוד נפגעת מתנודתיות. מקרה בודד, אבל כדאי להימנע מכניסה ערב דוחות או להרחיב סטופ.
 - 2026-11-06 VEEV -5.9% (stop): VEEV נעצרה בסטופ ב-5.9%- אחרי 21 יום, מול מדד של 3.0%-, כלומר ההפסד היה כפול מהשוק. נכנסתי למניה שעלתה בחדות (3 חודשים +52%) ועם תנודתיות אופציות של כ-8% לשבוע, ויעד החזקה ארוך לא עזר. הלקח: מומנטום מתוח ויקר (DCF רחוק מהמחיר) עם גודל קטן עדיין נפגע בשוק לחוץ. זו עסקה בודדת, לא מסקנה.
 - 2026-11-06 MA -1.4% (stop): MA נעצרה בסטופ ב-1.4%- אחרי 3 ימים, מול מדד של 1.9%-, כלומר ירדה פחות מהשוק. ההפסד קטן ובא מירידה כללית (QQQ מתחת לממוצע 200, VIX 28), לא מבעיה ספציפית במניה. הלקח: בשוק לחוץ גם מניית איכות בתנודתיות נמוכה נעצרת בסטופ רחב. הסטופ הגביל את ההפסד, וזו עסקה בודדת.
+- 2026-11-19 MA -3.4% (stop): (lesson pending)
+- 2026-11-19 AMGN -5.6% (stop): (lesson pending)
 
 Latest decision (2026-11-18, claude-sonnet-5-5, $0.067): No change at the intraday check. AMGN is down 3.2% and sits at or near its stop, so the stop handles it as planned. No new buys: the market is stressed (VIX 25.5, inverted), healthcare exposure is already heavy, and the morning picks are extended. Staying about 62% in cash.
 
@@ -160,7 +158,7 @@ Hypotheses / rules: [hypothesis, n=7] בשוק לחוץ (VIX>25, QQQ מתחת ל
 
 ## ⚙️ Health
 - Research run 2026-11-18T22:41:11Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-19T12:15); Daily signals: success (2026-11-19T03:43); Broker sync: success (2026-11-19T02:32); Analyst forecast (before the open): success (2026-11-18T23:34); Claude portfolio decision: success (2026-11-18T23:09); Tests: success (2026-11-18T23:06); Claude portfolio intraday check: success (2026-11-18T22:36); Web app: success (2026-11-18T18:37)
+- Workflows: Claude portfolio decision: in_progress (2026-11-19T14:45); Analyst forecast (before the open): success (2026-11-19T13:45); Collect Claude report: success (2026-11-19T12:15); Daily signals: success (2026-11-19T03:43); Broker sync: success (2026-11-19T02:32); Tests: success (2026-11-18T23:06); Claude portfolio intraday check: success (2026-11-18T22:36)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1)
 

@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-19T14:46:03Z · market session 2026-11-18 · app version 25f319 · 727 tests
+Generated 2026-11-19T15:16:30Z · market session 2026-11-18 · app version 6d617d · 727 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -63,10 +63,11 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 - Instruction #1 (2026-11-03, answered): From Nov 3 2026 (standing): I turned off TQQQ's 200-day exit rule - do not check it, report it or raise alerts about it. I also turned off every push notification: do NOT send the 'Morning report' pus → answer: Same answer as yesterday: I can't apply this from the instructions file. The scheduled task that runs me says that file can hold preferences and questions but cannot change its core rules, and the 200-day rule report and the daily push are core rules there (this protects your alerts from anyone who 
 
 ## 📜 My history
-- 491 events since 2026-05-30T16:00:00Z · by type: {'trade': 135, 'claude_portfolio': 50, 'notify': 46, 'deposit_inferred': 36, 'reconcile': 36, 'claude_report': 35, 'trade_detected': 33, 'claude_picks': 27, 'deposit': 24, 'doctor': 14, 'sync_request': 11, 'workflow_failed': 9, 'price_source': 8, 'dividend': 5, 'floor_event': 4, 'import': 4, 'signal_change': 3, 'portfolio_change': 3, 'dcf_model': 2, 'instruction_answer': 1, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
+- 492 events since 2026-05-30T16:00:00Z · by type: {'trade': 135, 'claude_portfolio': 51, 'notify': 46, 'deposit_inferred': 36, 'reconcile': 36, 'claude_report': 35, 'trade_detected': 33, 'claude_picks': 27, 'deposit': 24, 'doctor': 14, 'sync_request': 11, 'workflow_failed': 9, 'price_source': 8, 'dividend': 5, 'floor_event': 4, 'import': 4, 'signal_change': 3, 'portfolio_change': 3, 'dcf_model': 2, 'instruction_answer': 1, 'withdrawal': 1, 'preferences': 1, 'benchmark': 1, 'backup': 1, 'cash_transfer': 1}
 - Monthly: 2026-11: deposits $77, trades 21, alerts 1, imports 0; 2026-10: deposits $771, trades 60, alerts 45, imports 4; 2026-09: deposits $353, trades 43, alerts 0, imports 0; 2026-08: deposits $0, trades 10, alerts 0, imports 0; 2026-07: deposits $0, trades 0, alerts 0, imports 0; 2026-06: deposits $300, trades 0, alerts 0, imports 0
 
 Last 30 days:
+- 2026-11-19 15:16 · claude_portfolio (workflow): Claude portfolio decision: 0 orders, 0 rejected ($0.085)
 - 2026-11-19 12:16 · claude_report (workflow): morning report 2026-11-18: 5/6 parts
 - 2026-11-19 12:16 · claude_picks (workflow): Claude picks received (2026-11-19)
 - 2026-11-19 11:15 · deposit_inferred (sync): inferred deposit of $34.29 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet)
@@ -106,7 +107,6 @@ Last 30 days:
 - 2026-11-16 16:00 · trade (sync): sync (Fidelity · Brokerage 1): buy 0.138 FITFX @ 18.32 ($-2.52)
 - 2026-11-16 15:16 · claude_portfolio (workflow): Claude portfolio decision: 0 orders, 0 rejected ($0.068)
 - 2026-11-16 12:15 · claude_report (workflow): morning report 2026-11-13: 6/6 parts
-- 2026-11-16 12:15 · claude_picks (workflow): Claude picks received (2026-11-16)
 
 Alerts and what changed in my holdings after them (3 days):
 - 2026-10-25 15:49 push sent: ערב · 2026-10-23 → sync (Fidelity · Brokerage 1): sell 6.03 FLGXX @ 1.00 ($6.03)
@@ -133,32 +133,32 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -1.6% vs QQQ -10.3% after 30 trading days · 12 closed trades, 4 winners · 4 open
-- Started 2026-10-12 with $10,000 · value $9,837.94 · cash $7,101.67 · vs SPY -5.2% · QQQ -10.3% · max drawdown -2.1% · paused: False · blocked: -
+- -1.6% vs QQQ -11.2% after 30 trading days · 12 closed trades, 4 winners · 4 open
+- Started 2026-10-12 with $10,000 · value $9,835.96 · cash $7,101.67 · vs SPY -5.9% · QQQ -11.2% · max drawdown -2.1% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $523.10 | -3.1% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| DHR | 2.95729 | $236.70 | $227.98 | -3.7% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
-| ABBV | 1.72852 | $289.26 | $281.71 | -2.6% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
-| MCK | 0.566926 | $1,058.34 | $1,069.54 | +1.1% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
+| MSFT | 1.85199 | $539.96 | $520.52 | -3.6% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
+| DHR | 2.95729 | $236.70 | $229.71 | -3.0% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| ABBV | 1.72852 | $289.26 | $283.19 | -2.1% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
+| MCK | 0.566926 | $1,058.34 | $1,060.93 | +0.2% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
 
 Closed: 12 · hit rate 33% · avg -1.3% · beat benchmark 42%
 By source: app_top5 n=12 hit 33% avg -1.3%; morning_claude n=9 hit 22% avg -2.0%
 - 2026-11-04 COP -3.7% (stop): COP נעצרה בסטופ ב-3.7%- אחרי 6 ימים, בעוד המדד ירד רק 0.4%-. נכנסתי לאנרגיה ערב דוחות עם סטופ קרוב יחסית, וזה חזר על דפוס MPC/VLO: אנרגיה מתוחה עם סטופ צמוד נפגעת מתנודתיות. מקרה בודד, אבל כדאי להימנע מכניסה ערב דוחות או להרחיב סטופ.
 - 2026-11-06 VEEV -5.9% (stop): VEEV נעצרה בסטופ ב-5.9%- אחרי 21 יום, מול מדד של 3.0%-, כלומר ההפסד היה כפול מהשוק. נכנסתי למניה שעלתה בחדות (3 חודשים +52%) ועם תנודתיות אופציות של כ-8% לשבוע, ויעד החזקה ארוך לא עזר. הלקח: מומנטום מתוח ויקר (DCF רחוק מהמחיר) עם גודל קטן עדיין נפגע בשוק לחוץ. זו עסקה בודדת, לא מסקנה.
 - 2026-11-06 MA -1.4% (stop): MA נעצרה בסטופ ב-1.4%- אחרי 3 ימים, מול מדד של 1.9%-, כלומר ירדה פחות מהשוק. ההפסד קטן ובא מירידה כללית (QQQ מתחת לממוצע 200, VIX 28), לא מבעיה ספציפית במניה. הלקח: בשוק לחוץ גם מניית איכות בתנודתיות נמוכה נעצרת בסטופ רחב. הסטופ הגביל את ההפסד, וזו עסקה בודדת.
-- 2026-11-19 MA -3.4% (stop): (lesson pending)
-- 2026-11-19 AMGN -5.6% (stop): (lesson pending)
+- 2026-11-19 MA -3.4% (stop): MA נעצרה בסטופ ב-3.4%- אחרי 8 ימים, בעוד QQQ ירד 2.9%-, כלומר ירדה בערך כמו השוק ולא בגלל בעיה במניה. מניית איכות בתנודתיות נמוכה נעצרת בשוק לחוץ (QQQ מתחת לממוצע 200, VIX 24+). זו כבר עצירה שנייה של MA (n=2), ועדיין מקרה קטן.
+- 2026-11-19 AMGN -5.6% (stop): AMGN נעצרה ב-5.6%- אחרי 7 ימים, כמעט כפול מהמדד (-2.6%), למרות שהיא דפנסיבית. נכנסתי אחרי שכבר הגיעה ליעד בעסקה קודמת והמניה יקרה לפי DCF, וגם נשארה חשיפה גבוהה לבריאות. הלקח: דפנסיבית לא מבטיחה הגנה, ואין להיכנס שוב אחרי יעד קודם בלי סיבה חדשה. n=1, השערה בלבד.
 
-Latest decision (2026-11-18, claude-sonnet-5-5, $0.067): No change at the intraday check. AMGN is down 3.2% and sits at or near its stop, so the stop handles it as planned. No new buys: the market is stressed (VIX 25.5, inverted), healthcare exposure is already heavy, and the morning picks are extended. Staying about 62% in cash.
+Latest decision (2026-11-19, claude-sonnet-5-5, $0.085): No buys today. The market is stressed (VIX 24.6 inverted, QQQ below its 200-day), Health Care is already 61% of what's invested, and 9 of 12 closed trades ended at the stop. I stay about 72% in cash and hold the four open positions with their stops.
 
-Hypotheses / rules: [hypothesis, n=7] בשוק לחוץ (VIX>25, QQQ מתחת לממוצע 200) עדיף להמתין במזומן מאשר להוסיף פוזיציות לא מגוונות
+Hypotheses / rules: [hypothesis, n=9] בשוק לחוץ (VIX>24, QQQ מתחת לממוצע 200) עדיף להמתין במזומן מאשר להוסיף פוזיציות, במיוחד בסקטור שכבר מרוכז; [rule, n=13] בחירות בוקר של Claude מנצחות את QQQ בטווח של 5 ימים אך לא בטווח 20 יום או בעסקאות של התיק
 
 ## ⚙️ Health
 - Research run 2026-11-18T22:41:11Z (ok), TQQQ run success, data check warn
-- Workflows: Claude portfolio decision: in_progress (2026-11-19T14:45); Analyst forecast (before the open): success (2026-11-19T13:45); Collect Claude report: success (2026-11-19T12:15); Daily signals: success (2026-11-19T03:43); Broker sync: success (2026-11-19T02:32); Tests: success (2026-11-18T23:06); Claude portfolio intraday check: success (2026-11-18T22:36)
+- Workflows: Claude portfolio decision: in_progress (2026-11-19T15:15); Analyst forecast (before the open): success (2026-11-19T13:45); Collect Claude report: success (2026-11-19T12:15); Daily signals: success (2026-11-19T03:43); Broker sync: success (2026-11-19T02:32); Tests: success (2026-11-18T23:06); Claude portfolio intraday check: success (2026-11-18T22:36)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1)
 
@@ -172,7 +172,7 @@ Hypotheses / rules: [hypothesis, n=7] בשוק לחוץ (VIX>25, QQQ מתחת ל
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'
-- **הפעילות שלי (My activity)** [`activity`]: 491 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
+- **הפעילות שלי (My activity)** [`activity`]: 492 events since 2026-05-30T16:00:00Z; filters: dates, type, ticker, source, search
   - choice ⬇️ CSV / Excel: click → downloads the filtered timeline
 - **חיבורים (Connections)** [`connections`]: research ok at 2026-11-18T22:41:11Z; TQQQ run success; data check warn
 - **השאלות היומיות לאנליסט (The analyst's daily questions)** [`questions`]: the analyst's daily questions: this morning's answers (view + confidence + tickers) next to the previous day's, 'view changed' marks, and how its ticker views did vs QQQ after 5 days

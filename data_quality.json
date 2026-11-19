@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-18T22:33:42Z",
- "session_date": "2026-11-18",
+ "generated_utc": "2026-11-19T22:34:18Z",
+ "session_date": "2026-11-19",
  "status": "warn",
  "reasons": [
   "second source unreachable for: QQQ, SPY, TQQQ",
@@ -11,21 +11,21 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 659.51,
+   "ours": 645.04,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "SPY",
-   "ours": 730.2,
+   "ours": 715.87,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "TQQQ",
-   "ours": 52.44,
+   "ours": 49.01,
    "theirs": null,
    "diff": null,
    "status": "unverified"
@@ -33,141 +33,141 @@
  ],
  "sample": [
   {
-   "ticker": "GEN",
-   "ours": 30.47,
+   "ticker": "VYLR",
+   "ours": 67.77,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "NWS",
-   "ours": 29.17,
+   "ticker": "GS",
+   "ours": 847.53,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "C",
-   "ours": 117.34,
+   "ticker": "ALB",
+   "ours": 82.93,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ASML",
-   "ours": 1395.27,
+   "ticker": "ITW",
+   "ours": 276.89,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "AJG",
-   "ours": 282.22,
+   "ticker": "TRGP",
+   "ours": 285.42,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HLT",
-   "ours": 373.03,
+   "ticker": "PEP",
+   "ours": 139.0,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PTC",
-   "ours": 195.85,
+   "ticker": "BALL",
+   "ours": 63.49,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "MRSH",
-   "ours": 205.43,
+   "ticker": "L",
+   "ours": 109.7,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "WST",
-   "ours": 404.02,
+   "ticker": "AXON",
+   "ours": 306.98,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "STZ",
-   "ours": 143.62,
+   "ticker": "FDX",
+   "ours": 314.64,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ERIE",
-   "ours": 276.18,
+   "ticker": "LLY",
+   "ours": 1351.12,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GWW",
-   "ours": 1448.12,
+   "ticker": "AMD",
+   "ours": 489.19,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "ABNB",
-   "ours": 180.21,
+   "ticker": "WEC",
+   "ours": 116.11,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "HPE",
-   "ours": 45.78,
+   "ticker": "NEM",
+   "ours": 100.05,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "BA",
-   "ours": 162.91,
+   "ticker": "MCO",
+   "ours": 471.84,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PLD",
-   "ours": 125.22,
+   "ticker": "BDX",
+   "ours": 212.68,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
    "ticker": "ACN",
-   "ours": 227.49,
+   "ours": 218.58,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "GLW",
-   "ours": 108.15,
+   "ticker": "HSIC",
+   "ours": 84.8,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "LDOS",
-   "ours": 125.71,
+   "ticker": "HON",
+   "ours": 217.84,
    "theirs": null,
    "diff": null,
    "status": "unverified"
   },
   {
-   "ticker": "PANW",
-   "ours": 339.92,
+   "ticker": "VST",
+   "ours": 124.15,
    "theirs": null,
    "diff": null,
    "status": "unverified"

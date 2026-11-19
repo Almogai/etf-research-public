@@ -65,7 +65,7 @@ Does a stock's headline rating predict its return vs QQQ? Spearman rank correlat
 
 | Horizon | Rater | Cases | IC |
 |---|---|---|---|
-| 5 days | Claude | 285 | +0.11 |
-| 5 days | App (VADER) | 285 | -0.10 |
-| 20 days | Claude | 90 | +0.12 |
-| 20 days | App (VADER) | 90 | +0.00 |
+| 5 days | Claude | 300 | +0.12 |
+| 5 days | App (VADER) | 300 | -0.06 |
+| 20 days | Claude | 105 | +0.12 |
+| 20 days | App (VADER) | 105 | -0.04 |

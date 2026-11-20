@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-20T12:16:27Z · market session 2026-11-19 · app version 9f1e58 · 728 tests
+Generated 2026-11-20T14:46:08Z · market session 2026-11-19 · app version 89805d · 728 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -27,15 +27,15 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.94 | $6.15 | -3.22 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.95 | $6.15 | -3.22 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 1 | FITFX | 4.879 | 18.93 | 17.60 | $85.87 | -6.51 | sync |
 | Fidelity · Brokerage 1 | FLAPX | 1.137 | 24.81 | 24.13 | $27.44 | -0.77 | sync |
-| Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 19.09 | $3.28 | -0.17 | sync |
+| Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 19.07 | $3.28 | -0.17 | sync |
 | Fidelity · Brokerage 1 | FXINX | 11.102 | 12.32 | 11.28 | $125.23 | -11.58 | sync |
 | Fidelity · Brokerage 1 | FXLCX | 39.649 | 11.87 | 11.16 | $442.48 | -28.20 | sync |
-| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.27 | $1.97 | -0.03 | sync |
+| Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 11.26 | $1.97 | -0.03 | sync |
 | Fidelity · Brokerage 1 | FXSCX | 1.465 | 12.13 | 11.35 | $16.63 | -1.14 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $44.29 |  | sync |
 | Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 49.01 | $11.91 | -8.04 | sync |
@@ -135,24 +135,23 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -2.1% vs QQQ -14.1% after 30 trading days · 12 closed trades, 4 winners · 4 open
-- Started 2026-10-12 with $10,000 · value $9,789.75 · cash $7,101.67 · vs SPY -8.1% · QQQ -14.1% · max drawdown -2.5% · paused: False · blocked: -
+- -2.1% vs QQQ -15.3% after 31 trading days · 13 closed trades, 4 winners · 3 open
+- Started 2026-10-12 with $10,000 · value $9,790.51 · cash $8,015.57 · vs SPY -8.3% · QQQ -15.3% · max drawdown -2.5% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| MSFT | 1.85199 | $539.96 | $498.30 | -7.7% | 497.0 | 600.0 | 2026-10-12 | app_top5 | מיקרוסופט: איכות גבוהה ותנודתיות נמוכה יחסית, מעל ממוצעים; חדשות מעורבות לכן גוד |
-| DHR | 2.95729 | $236.70 | $227.56 | -3.9% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
-| ABBV | 1.72852 | $289.26 | $283.54 | -2.0% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
-| MCK | 0.566926 | $1,058.34 | $1,062.16 | +0.4% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
+| DHR | 2.95729 | $236.70 | $225.39 | -4.8% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| ABBV | 1.72852 | $289.26 | $287.68 | -0.5% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
+| MCK | 0.566926 | $1,058.34 | $1,078.00 | +1.9% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
 
-Closed: 12 · hit rate 33% · avg -1.3% · beat benchmark 42%
-By source: app_top5 n=12 hit 33% avg -1.3%; morning_claude n=9 hit 22% avg -2.0%
-- 2026-11-04 COP -3.7% (stop): COP נעצרה בסטופ ב-3.7%- אחרי 6 ימים, בעוד המדד ירד רק 0.4%-. נכנסתי לאנרגיה ערב דוחות עם סטופ קרוב יחסית, וזה חזר על דפוס MPC/VLO: אנרגיה מתוחה עם סטופ צמוד נפגעת מתנודתיות. מקרה בודד, אבל כדאי להימנע מכניסה ערב דוחות או להרחיב סטופ.
+Closed: 13 · hit rate 31% · avg -1.9% · beat benchmark 38%
+By source: app_top5 n=13 hit 31% avg -1.9%; morning_claude n=9 hit 22% avg -2.0%
 - 2026-11-06 VEEV -5.9% (stop): VEEV נעצרה בסטופ ב-5.9%- אחרי 21 יום, מול מדד של 3.0%-, כלומר ההפסד היה כפול מהשוק. נכנסתי למניה שעלתה בחדות (3 חודשים +52%) ועם תנודתיות אופציות של כ-8% לשבוע, ויעד החזקה ארוך לא עזר. הלקח: מומנטום מתוח ויקר (DCF רחוק מהמחיר) עם גודל קטן עדיין נפגע בשוק לחוץ. זו עסקה בודדת, לא מסקנה.
 - 2026-11-06 MA -1.4% (stop): MA נעצרה בסטופ ב-1.4%- אחרי 3 ימים, מול מדד של 1.9%-, כלומר ירדה פחות מהשוק. ההפסד קטן ובא מירידה כללית (QQQ מתחת לממוצע 200, VIX 28), לא מבעיה ספציפית במניה. הלקח: בשוק לחוץ גם מניית איכות בתנודתיות נמוכה נעצרת בסטופ רחב. הסטופ הגביל את ההפסד, וזו עסקה בודדת.
 - 2026-11-19 MA -3.4% (stop): MA נעצרה בסטופ ב-3.4%- אחרי 8 ימים, בעוד QQQ ירד 2.9%-, כלומר ירדה בערך כמו השוק ולא בגלל בעיה במניה. מניית איכות בתנודתיות נמוכה נעצרת בשוק לחוץ (QQQ מתחת לממוצע 200, VIX 24+). זו כבר עצירה שנייה של MA (n=2), ועדיין מקרה קטן.
 - 2026-11-19 AMGN -5.6% (stop): AMGN נעצרה ב-5.6%- אחרי 7 ימים, כמעט כפול מהמדד (-2.6%), למרות שהיא דפנסיבית. נכנסתי אחרי שכבר הגיעה ליעד בעסקה קודמת והמניה יקרה לפי DCF, וגם נשארה חשיפה גבוהה לבריאות. הלקח: דפנסיבית לא מבטיחה הגנה, ואין להיכנס שוב אחרי יעד קודם בלי סיבה חדשה. n=1, השערה בלבד.
+- 2026-11-20 MSFT -8.6% (stop): (lesson pending)
 
 Latest decision (2026-11-19, claude-sonnet-5-5, $0.070): No action at this check. MSFT is $503.43, about 1.3% above its $497 stop, and the stop will trigger automatically if the price falls to it. I see no reason to exit early: the price is still above the stop, and some of my past stopped-out trades were back above the exit afterwards. No new buys in a stressed market. Health Care is already 61% of what's invested, and cash stays high.
 
@@ -160,7 +159,7 @@ Hypotheses / rules: [hypothesis, n=9] בשוק לחוץ (VIX>24, QQQ מתחת ל
 
 ## ⚙️ Health
 - Research run 2026-11-19T22:42:23Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-20T12:15); Daily signals: success (2026-11-20T03:37); Broker sync: success (2026-11-20T02:17); Analyst forecast (before the open): success (2026-11-19T23:46); Claude portfolio decision: success (2026-11-19T23:14); Tests: success (2026-11-19T23:03); Claude portfolio intraday check: success (2026-11-19T22:40)
+- Workflows: Claude portfolio decision: in_progress (2026-11-20T14:45); Analyst forecast (before the open): success (2026-11-20T13:45); Collect Claude report: success (2026-11-20T12:15); Daily signals: success (2026-11-20T03:37); Broker sync: success (2026-11-20T02:17); Tests: success (2026-11-19T23:03); Claude portfolio intraday check: success (2026-11-19T22:40)
 - Pushes today: 0
 - Errors/warnings (3 days): Daily signals: failed step(s) research-tests; second source unreachable for: QQQ, SPY, TQQQ; no data for 5+ sessions: KVUE (1)
 

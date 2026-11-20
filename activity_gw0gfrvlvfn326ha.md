@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-20T20:07:08Z. Every event in the app, newest first (513 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-20T21:16:08Z. Every event in the app, newest first (520 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-20 21:15 | deposit_inferred | sync |  | inferred deposit of $74.23 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 0.0 → 74.23 |
 | 2026-11-20 20:06 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 4.879 shares, transactions give 4.291; Fidelity · Brokerage 1: FLAPX: broker 1.137 shares, transactions give 1.079; Fidelity · Brokerage 1: FXLCX: broker 39.649 shares, transactions give 38.113; Fidelity · Brokerage 1: FXSCX: broker 1.465 shares, transactions give 1.372 | {'robinhood': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage': {'FITFX': 4.879, 'FLAPX': 1.137, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 39.649, 'FXMCX': 0.175, 'FXSCX': 1.465}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}} → {'robinhood': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage': {'FITFX': 4.879, 'FLAPX': 1.137, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 39.649, 'FXMCX': 0.175, 'FXSCX': 1.465}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}} |
 | 2026-11-20 19:16 | reconcile | sync |  | sync reconcile: Fidelity · Brokerage 1: FITFX: broker 4.879 shares, transactions give 4.291; Fidelity · Brokerage 1: FLAPX: broker 1.137 shares, transactions give 1.079; Fidelity · Brokerage 1: FXLCX: broker 39.649 shares, transactions give 38.113; Fidelity · Brokerage 1: FXSCX: broker 1.465 shares, transactions give 1.372 | {'robinhood': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage': {'FITFX': 4.879, 'FLAPX': 1.137, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 39.649, 'FXMCX': 0.175, 'FXSCX': 1.465}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}} → {'robinhood': {}, 'robinhood_crypto': {'XRP-USD': 6.506}, 'robinhood_ira': {}, 'fidelity_brokerage': {'FITFX': 4.879, 'FLAPX': 1.137, 'FLXSX': 0.172, 'FXINX': 11.102, 'FXLCX': 39.649, 'FXMCX': 0.175, 'FXSCX': 1.465}, 'fidelity_brokerage_4': {'TQQQ': 0.243}, 'fidelity_brokerage_2': {}, 'fidelity_brokerage_3': {}} |
 | 2026-11-20 19:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 14:15): 0 orders, 0 rejected ($0.074) |  |
@@ -23,6 +24,12 @@ Generated 2026-11-20T20:07:08Z. Every event in the app, newest first (513 events
 | 2026-11-19 19:29 | claude_report | workflow |  | morning report 2026-11-18: 5/6 parts |  |
 | 2026-11-19 18:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 13:15): 0 orders, 0 rejected ($0.070) |  |
 | 2026-11-19 16:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:15): 0 orders, 0 rejected ($0.070) |  |
+| 2026-11-19 16:00 | trade | sync | FITFX | sync (Fidelity · Brokerage 1): buy 0.588 FITFX @ 17.60 ($-10.34) |  |
+| 2026-11-19 16:00 | trade | sync | FLAPX | sync (Fidelity · Brokerage 1): buy 0.058 FLAPX @ 24.13 ($-1.40) |  |
+| 2026-11-19 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): buy 10 FLGXX @ 1.00 ($-10.00) |  |
+| 2026-11-19 16:00 | trade | sync | FXLCX | sync (Fidelity · Brokerage 1): buy 1.536 FXLCX @ 11.16 ($-17.14) |  |
+| 2026-11-19 16:00 | trade | sync | FXSCX | sync (Fidelity · Brokerage 1): buy 0.093 FXSCX @ 11.35 ($-1.06) |  |
+| 2026-11-19 16:00 | deposit | sync |  | sync (Fidelity · Brokerage 1): deposit  ($10.00) |  |
 | 2026-11-19 15:16 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.085) |  |
 | 2026-11-19 12:16 | claude_picks | workflow |  | Claude picks received (2026-11-19) |  |
 | 2026-11-19 12:16 | claude_report | workflow |  | morning report 2026-11-18: 5/6 parts |  |

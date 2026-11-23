@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-20T22:33:49Z",
- "session_date": "2026-11-20",
+ "generated_utc": "2026-11-23T22:32:44Z",
+ "session_date": "2026-11-23",
  "status": "warn",
  "reasons": [
   "no data for 5+ sessions: KVUE (1)"
@@ -10,164 +10,164 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 608.45,
-   "theirs": 608.45,
+   "ours": 651.03,
+   "theirs": 651.03,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "SPY",
-   "ours": 689.81,
-   "theirs": 689.81,
+   "ours": 722.29,
+   "theirs": 722.29,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "TQQQ",
-   "ours": 41.2,
-   "theirs": 41.2,
+   "ours": 49.1,
+   "theirs": 49.1,
    "diff": 0.0,
    "status": "ok"
   }
  ],
  "sample": [
   {
-   "ticker": "TRGP",
-   "ours": 278.3,
-   "theirs": 278.3,
+   "ticker": "WSM",
+   "ours": 212.13,
+   "theirs": 212.13,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "RCL",
-   "ours": 296.48,
-   "theirs": 296.48,
+   "ticker": "ELV",
+   "ours": 379.55,
+   "theirs": 379.55,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "MAA",
-   "ours": 112.91,
-   "theirs": 112.91,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "GPC",
-   "ours": 118.51,
-   "theirs": 118.51,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "DIS",
-   "ours": 117.98,
-   "theirs": 117.98,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "SPGI",
-   "ours": 439.57,
-   "theirs": 439.57,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "COHR",
-   "ours": 187.22,
-   "theirs": 187.22,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "SW",
-   "ours": 37.7,
-   "theirs": 37.7,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "DELL",
-   "ours": 278.02,
-   "theirs": 278.02,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "CVX",
-   "ours": 208.37,
-   "theirs": 208.37,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "MNST",
-   "ours": 43.69,
-   "theirs": 43.69,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "GWW",
-   "ours": 1357.35,
-   "theirs": 1357.35,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "V",
-   "ours": 401.87,
-   "theirs": 401.87,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "PHM",
-   "ours": 124.67,
-   "theirs": 124.67,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "NEM",
-   "ours": 94.68,
-   "theirs": 94.68,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "EG",
-   "ours": 421.98,
-   "theirs": 421.98,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "MCO",
-   "ours": 466.83,
-   "theirs": 466.83,
+   "ticker": "EXE",
+   "ours": 80.79,
+   "theirs": 80.79,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "CF",
-   "ours": 115.53,
-   "theirs": 115.53,
+   "ours": 115.96,
+   "theirs": 115.96,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "PPL",
+   "ours": 35.2,
+   "theirs": 35.2,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "REG",
+   "ours": 73.73,
+   "theirs": 73.73,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "FERG",
+   "ours": 252.79,
+   "theirs": 252.79,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "AMGN",
+   "ours": 449.04,
+   "theirs": 449.04,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "BXP",
+   "ours": 61.49,
+   "theirs": 61.49,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "CMI",
+   "ours": 426.03,
+   "theirs": 426.03,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "SW",
+   "ours": 39.55,
+   "theirs": 39.55,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "KO",
+   "ours": 95.88,
+   "theirs": 95.88,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "COST",
+   "ours": 1097.91,
+   "theirs": 1097.91,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "BA",
-   "ours": 155.89,
-   "theirs": 155.89,
+   "ours": 162.39,
+   "theirs": 162.39,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "CRM",
-   "ours": 180.62,
-   "theirs": 180.62,
+   "ticker": "LITE",
+   "ours": 544.38,
+   "theirs": 544.38,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "NVR",
+   "ours": 5562.8901,
+   "theirs": 5562.89,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "USB",
+   "ours": 57.41,
+   "theirs": 57.41,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "NCLH",
+   "ours": 16.99,
+   "theirs": 16.99,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "ASML",
+   "ours": 1383.78,
+   "theirs": 1383.78,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "BF-B",
+   "ours": 28.83,
+   "theirs": 28.83,
    "diff": 0.0,
    "status": "ok"
   }

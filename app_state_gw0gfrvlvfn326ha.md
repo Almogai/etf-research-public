@@ -1,6 +1,6 @@
 # My app — current state
 
-Generated 2026-11-23T12:16:34Z · market session 2026-11-20 · app version 3a0c87 · 728 tests
+Generated 2026-11-23T14:46:12Z · market session 2026-11-20 · app version 0270ca · 728 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
@@ -15,7 +15,7 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 
 | Account | Value | Cash | Positions | Deposits |
 |---|---|---|---|---|
-| Fidelity · Brokerage 1 | $701.85 | $14.35 | 7 | $789.38 |
+| Fidelity · Brokerage 1 | $701.86 | $14.35 | 7 | $789.38 |
 | Fidelity · Brokerage 4 | $10.06 | $0.05 | 1 | $20.00 |
 | Robinhood · Crypto | $6.11 | $0.00 | 1 | $0.00 |
 | Fidelity · Brokerage 2 | $0.00 | $0.00 | 0 | $0.00 |
@@ -28,13 +28,13 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 |---|---|---|---|---|---|---|---|
 | Fidelity · Brokerage 1 | FITFX | 5.058 | 18.87 | 17.01 | $86.04 | -9.38 | sync |
 | Fidelity · Brokerage 1 | FLAPX | 1.137 | 24.81 | 23.49 | $26.71 | -1.50 | sync |
-| Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 18.50 | $3.18 | -0.27 | sync |
+| Fidelity · Brokerage 1 | FLXSX | 0.172 | 20.06 | 18.49 | $3.18 | -0.27 | sync |
 | Fidelity · Brokerage 1 | FXINX | 11.102 | 12.32 | 10.91 | $121.12 | -15.69 | sync |
 | Fidelity · Brokerage 1 | FXLCX | 40.3 | 11.85 | 10.73 | $432.42 | -45.25 | sync |
 | Fidelity · Brokerage 1 | FXMCX | 0.175 | 11.43 | 10.97 | $1.92 | -0.08 | sync |
-| Fidelity · Brokerage 1 | FXSCX | 1.465 | 12.13 | 11.00 | $16.12 | -1.66 | sync |
+| Fidelity · Brokerage 1 | FXSCX | 1.465 | 12.13 | 11.00 | $16.12 | -1.65 | sync |
 | Fidelity · Brokerage 1 | CASH |  |  |  | $14.35 |  | sync |
-| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 41.20 | $10.01 | -9.94 | sync |
+| Fidelity · Brokerage 4 | TQQQ | 0.243 | 82.10 | 41.19 | $10.01 | -9.94 | sync |
 | Fidelity · Brokerage 4 | CASH |  |  |  | $0.05 |  | sync |
 | Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
@@ -133,15 +133,15 @@ Alerts and what changed in my holdings after them (3 days):
 
 ## 🤖 Claude portfolio (VIRTUAL money, paper trading)
 
-- -2.3% vs QQQ -19.0% after 31 trading days · 13 closed trades, 4 winners · 3 open
-- Started 2026-10-12 with $10,000 · value $9,768.23 · cash $8,015.57 · vs SPY -11.4% · QQQ -19.0% · max drawdown -2.8% · paused: False · blocked: -
+- -2.2% vs QQQ -14.1% after 32 trading days · 13 closed trades, 4 winners · 3 open
+- Started 2026-10-12 with $10,000 · value $9,778.27 · cash $8,015.57 · vs SPY -7.8% · QQQ -14.1% · max drawdown -2.8% · paused: False · blocked: -
 - ⚠️ Too early to judge: fewer than 20 closed trades.
 
 | Ticker | Shares | Entry | Last | P&L | Stop | Target | Since | Source | Thesis |
 |---|---|---|---|---|---|---|---|---|---|
-| DHR | 2.95729 | $236.70 | $220.36 | -6.9% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
-| ABBV | 1.72852 | $289.26 | $286.20 | -1.1% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
-| MCK | 0.566926 | $1,058.34 | $1,069.43 | +1.0% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
+| DHR | 2.95729 | $236.70 | $224.79 | -5.0% | 222.4 | 248.0 | 2026-10-28 | morning_claude, app_top5 | דנהר: העלאת תחזית ושדרוג, בחירה של Claude הבוקר, מגמה חיובית; גודל קטן כי הביטחו |
+| ABBV | 1.72852 | $289.26 | $287.74 | -0.5% | 278.59 | 305.0 | 2026-11-03 | morning_claude, app_top5 | אבווי: העלאת תחזית ושדרוגים, תנודתיות נמוכה; גודל קטן כי כבר יש חשיפה לבריאות וה |
+| MCK | 0.566926 | $1,058.34 | $1,059.36 | +0.1% | 1012.0 | 1130.0 | 2026-11-09 | morning_claude, app_top5 | מקסון: שדרוג והעלאת תחזית אחרי דוחות, תנודתיות נמוכה יחסית, כניסה בטווח הבוקר; ג |
 
 Closed: 13 · hit rate 31% · avg -1.9% · beat benchmark 38%
 By source: app_top5 n=13 hit 31% avg -1.9%; morning_claude n=9 hit 22% avg -2.0%
@@ -157,7 +157,7 @@ Hypotheses / rules: [rule, n=10] בשוק לחוץ (VIX>24, QQQ מתחת לממ�
 
 ## ⚙️ Health
 - Research run 2026-11-20T22:42:19Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-23T12:15); Daily signals: success (2026-11-21T03:19); Broker sync: success (2026-11-21T02:11); Analyst forecast (before the open): success (2026-11-20T23:19); Claude portfolio decision: success (2026-11-20T22:49); Claude portfolio intraday check: success (2026-11-20T22:14)
+- Workflows: Claude portfolio decision: in_progress (2026-11-23T14:45); Analyst forecast (before the open): success (2026-11-23T13:45); Collect Claude report: success (2026-11-23T12:15); Daily signals: success (2026-11-21T03:19); Broker sync: success (2026-11-21T02:11); Claude portfolio intraday check: success (2026-11-20T22:14)
 - Pushes today: 0
 - Errors/warnings (3 days): no data for 5+ sessions: KVUE (1)
 

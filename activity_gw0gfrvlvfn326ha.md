@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-23T11:16:14Z. Every event in the app, newest first (526 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-23T11:56:11Z. Every event in the app, newest first (527 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-23 11:56 | claude_picks | workflow |  | Claude picks received (2026-11-23) |  |
 | 2026-11-23 11:15 | trade_detected | sync | FITFX | Fidelity · Brokerage 1: Detected: you bought about 0.18 FITFX at about $16.98 | 4.879 → 5.058 |
 | 2026-11-23 11:15 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.65 FXLCX at about $10.74 | 39.649 → 40.3 |
 | 2026-11-23 11:15 | deposit_inferred | sync |  | inferred deposit of $24.38 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 74.23 → 24.38 |

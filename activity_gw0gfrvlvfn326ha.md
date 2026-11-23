@@ -1,9 +1,10 @@
 # My activity
 
-Generated 2026-11-23T11:56:11Z. Every event in the app, newest first (527 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-23T12:16:34Z. Every event in the app, newest first (528 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-23 12:16 | claude_report | workflow |  | morning report 2026-11-20: 6/6 parts |  |
 | 2026-11-23 11:56 | claude_picks | workflow |  | Claude picks received (2026-11-23) |  |
 | 2026-11-23 11:15 | trade_detected | sync | FITFX | Fidelity · Brokerage 1: Detected: you bought about 0.18 FITFX at about $16.98 | 4.879 → 5.058 |
 | 2026-11-23 11:15 | trade_detected | sync | FXLCX | Fidelity · Brokerage 1: Detected: you bought about 0.65 FXLCX at about $10.74 | 39.649 → 40.3 |

@@ -1,14 +1,17 @@
 # My activity
 
-Generated 2026-11-24T15:16:23Z. Every event in the app, newest first (534 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
+Generated 2026-11-24T17:31:06Z. Every event in the app, newest first (537 events). source: manual = done by me in the app, import = from a broker file, workflow = automatic, migrated = reconstructed from older records.
 
 | When (UTC) | Type | Source | Ticker | What happened | Before → after |
 |---|---|---|---|---|---|
+| 2026-11-24 17:30 | deposit_inferred | sync |  | the inferred deposit in Fidelity · Brokerage 1 arrived in the movement list - gap closed | 14.35 → 0.0 |
+| 2026-11-24 16:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:15): 0 orders, 0 rejected ($0.073) |  |
 | 2026-11-24 15:16 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.082) |  |
 | 2026-11-24 12:16 | claude_picks | workflow |  | Claude picks received (2026-11-24) |  |
 | 2026-11-24 12:16 | claude_report | workflow |  | morning report 2026-11-23: 6/6 parts |  |
 | 2026-11-24 11:16 | deposit_inferred | sync |  | inferred deposit of $14.35 in Fidelity · Brokerage 1 from the broker's cash (not in the movement list yet) | 24.38 → 14.35 |
 | 2026-11-23 16:15 | claude_portfolio | workflow |  | Claude portfolio decision (intraday 11:15): 0 orders, 0 rejected ($0.075) |  |
+| 2026-11-23 16:00 | trade | sync | FLGXX | sync (Fidelity · Brokerage 1): sell 10.03 FLGXX @ 1.00 ($10.03) |  |
 | 2026-11-23 15:15 | claude_portfolio | workflow |  | Claude portfolio decision: 0 orders, 0 rejected ($0.079) |  |
 | 2026-11-23 12:16 | claude_report | workflow |  | morning report 2026-11-20: 6/6 parts |  |
 | 2026-11-23 11:56 | claude_picks | workflow |  | Claude picks received (2026-11-23) |  |

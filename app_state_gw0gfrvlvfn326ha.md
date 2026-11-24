@@ -1,12 +1,12 @@
 # My app — current state
 
-Generated 2026-11-24T21:10:06Z · market session 2026-11-23 · app version 8141f3 · 728 tests
+Generated 2026-11-24T21:34:30Z · market session 2026-11-23 · app version 5f21b0 · 728 tests
 
 Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-public/main/APP_MAP.md and my full activity https://raw.githubusercontent.com/Almogai/etf-research-public/main/activity_gw0gfrvlvfn326ha.md.
 
 ## 🏠 Today (what the cards show)
 - Status light: **green** — TQQQ is OUT. 61% of the portfolio is in FXLCX (over your 50% limit), effective exposure ~1.0x
-- Account value $739.39 · today +0.00 · profit vs deposits -62.80 (-7.8%) · deposited $802.19
+- Account value $739.41 · today +0.00 · profit vs deposits -62.78 (-7.8%) · deposited $802.19
 - What changed since yesterday: Top 5: in ACN, EW; out IDXX, ROP; Market mood: bear → choppy; Big move in your holdings: TQQQ +19.2%
 - Claude says (2026-11-23): Data covers the session of Monday, November 23, 2026 (close). Pre-market check: Yahoo Finance live blog, 6:27 AM ET, Tuesday, November 24. Compared against the Nov 20 report. / SIGNAL: OUT, UNCHANGED (rule E; entry rule D fails). Stop: n/a. 200-day rule: BROKEN. TQQQ $49.10 vs its 200-day $65.64 (verified, 266 closes): -25.2% (-$16.54/share). Nasdaq-100 futures -1.74% imply TQQQ about $46.5 at the open (estimate), still far below its 200-day. / Session (Mon Nov 23): rebound day. QQQ $651.03 (+7.00%), TQQQ $49.10 (+19.17%). S&P 500 7,237.17 (+4.73%, best day since April 2025), Dow 49,595.31 (+3.01%), Nasdaq Composite +6.51%. Nvidia +31.5% to $165.05 after its board reinstated Jensen Huang, with Trump intervening. VIX 26.62 (-25.8%).
 - Top 5 chips: ACN, LLY, REGN, EW, MCK · data check: warn
@@ -17,12 +17,12 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 |---|---|---|---|---|
 | Fidelity · Brokerage 1 | $722.14 | $4.32 | 7 | $765.00 |
 | Fidelity · Brokerage 4 | $11.27 | $0.05 | 1 | $20.00 |
-| Robinhood · Crypto | $5.98 | $0.00 | 1 | $0.00 |
+| Robinhood · Crypto | $5.99 | $0.00 | 1 | $0.00 |
 | Fidelity · Brokerage 3 | $0.00 | $0.00 | 0 | $0.00 |
 | Fidelity · Brokerage 2 | $0.00 | $0.00 | 0 | $0.00 |
 | Robinhood · Brokerage (main: TQQQ 200-day rule) | $0.00 | $0.00 | 0 | $17.19 |
 | Robinhood · IRA | $0.00 | $0.00 | 0 | $0.00 |
-| **All accounts** | **$739.39** | $4.37 | 9 | $802.19 |
+| **All accounts** | **$739.41** | $4.37 | 9 | $802.19 |
 
 | Account | Ticker | Shares | Avg cost | Price | Value | P&L | Source |
 |---|---|---|---|---|---|---|---|
@@ -39,13 +39,13 @@ Read with: the app map https://raw.githubusercontent.com/Almogai/etf-research-pu
 | Fidelity · Brokerage 3 | CASH |  |  |  | $0.00 |  | sync |
 | Fidelity · Brokerage 2 | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · Brokerage | CASH |  |  |  | $0.00 |  | sync |
-| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.92 | $5.98 | -3.39 | sync |
+| Robinhood · Crypto | XRP-USD | 6.506 | 1.44 | 0.92 | $5.99 | -3.38 | sync |
 | Robinhood · Crypto | CASH |  |  |  | $0.00 |  | sync |
 | Robinhood · IRA | CASH |  |  |  | $0.00 |  | sync |
 
-- Net worth $739.39 · deposits $802.19 · withdrawals $0.00 · cash $4.37 · profit -62.80 (-7.8%)
+- Net worth $739.41 · deposits $802.19 · withdrawals $0.00 · cash $4.37 · profit -62.78 (-7.8%)
 - Allocation: FXLCX 61%, FXINX 17%, FITFX 12%, FLAPX 4%, FXSCX 2%, TQQQ 2%, XRP-USD 1%, Cash 1%, FLXSX 0%, FXMCX 0% · effective exposure 1.02x · 61% of your money is in FXLCX: your real exposure is about 1.0x the market.
-- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-24T21:09:37Z · last attempt 2026-11-24T21:09:37Z
+- Robinhood sync (SnapTrade, read-only): ok · last good sync 2026-11-24T21:34:03Z · last attempt 2026-11-24T21:34:03Z
 
 ## 📥 Imports (last 5)
 - 2026-10-11 14:09 · My money: holdings from import (file)
@@ -156,17 +156,17 @@ Hypotheses / rules: [rule, n=10] בשוק דובי עם VIX גבוה עדיף ל
 
 ## ⚙️ Health
 - Research run 2026-11-23T22:38:50Z (ok), TQQQ run success, data check warn
-- Workflows: Collect Claude report: in_progress (2026-11-24T21:08); Claude portfolio intraday check: success (2026-11-24T20:15); Analyst forecast (before the open): success (2026-11-24T17:45); Broker sync: success (2026-11-24T17:30); Claude portfolio decision: success (2026-11-24T16:45); Daily signals: success (2026-11-24T06:12)
+- Workflows: Collect Claude report: in_progress (2026-11-24T21:33); Analyst forecast (before the open): success (2026-11-24T21:17); Broker sync: success (2026-11-24T21:15); Claude portfolio intraday check: success (2026-11-24T20:15); Claude portfolio decision: success (2026-11-24T16:45); Daily signals: success (2026-11-24T06:12)
 - Pushes today: 0
 - Errors/warnings (3 days): no data for 5+ sessions: KVUE (1)
 
 ## 🗺️ Screens: what each shows and the open choices
-- **היום (Today)** [`today`]: 💰 my money in ALL accounts: $739.39, today +0.00; one line per broker (Robinhood, Fidelity), up to 2 📌 lines of what touches my holdings · 🔮 the analyst's forecast for SPY / QQQ (today / this week), the last scored day, the record · 🤖 Claude's virtual portfolio: value, return, today's orders or 'no orders today'
+- **היום (Today)** [`today`]: 💰 my money in ALL accounts: $739.41, today +0.00; one line per broker (Robinhood, Fidelity), up to 2 📌 lines of what touches my holdings · 🔮 the analyst's forecast for SPY / QQQ (today / this week), the last scored day, the record · 🤖 Claude's virtual portfolio: value, return, today's orders or 'no orders today'
 - **התיק של Claude (Claude's portfolio)** [`claude_portfolio`]: the VIRTUAL $10,000 portfolio Claude trades once a day on its own judgment: value vs benchmark and QQQ, open positions with stop/target/thesis/source, closed trades with lessons, results by idea source, journal; your controls (close, block, pause, idea)
 - **מניה (A stock)** [`stock`]: any stock: score + plain sentence, fundamentals, chart, factor bars, news vs Claude, insiders, headlines; 💰 what it is worth: the nightly model (or build one now) with its A/B/C grade, what the price implies, the football field and the Excel file
 - **Claude (Claude)** [`chat`]: the in-app Claude analyst (a bottom tab; opens with a 3-line 'what is happening now' from the live context): explains screens, numbers and choices, opens screens, proposes changes you approve; can read the app's code and propose a code fix (a diff card; 'אשר ופתח PR' opens a GitHub Pull Request you merge yourself)
 - **מתקדם (Advanced)** [`more`]: ⚙️ Advanced (from 🏠's ⚙️): my portfolio (edit · log · connections, a button row on top of each) + language + reload + download my data + copy for Claude
-- **ניהול התיק (Manage my money)** [`portfolio`]: net worth $739.39; money in $802.19; profit -62.80 · FITFX: 5.058 @ avg 18.8652 = $89.22 (sync) · FLAPX: 1.137 @ avg 24.8109 = $27.64 (sync) · FLXSX: 0.172 @ avg 20.0581 = $3.30 (sync) · FXINX: 11.102 @ avg 12.323 = $125.56 (sync) · FXLCX: 40.3 @ avg 11.8529 = $453.37 (sync) · FXMCX: 0.175 @ avg 11.4286 = $1.99 (sync) · FXSCX: 1.465 @ avg 12.1297 = $16.73 (sync) · CASH:  @ avg None = $4.32 (sync) · TQQQ: 0.243 @ avg 82.0988 = $11.22 (sync) · CASH:  @ avg None = $0.05 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · XRP-USD: 6.506 @ avg 1.44 = $5.98 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync)
+- **ניהול התיק (Manage my money)** [`portfolio`]: net worth $739.41; money in $802.19; profit -62.78 · FITFX: 5.058 @ avg 18.8652 = $89.22 (sync) · FLAPX: 1.137 @ avg 24.8109 = $27.64 (sync) · FLXSX: 0.172 @ avg 20.0581 = $3.30 (sync) · FXINX: 11.102 @ avg 12.323 = $125.56 (sync) · FXLCX: 40.3 @ avg 11.8529 = $453.37 (sync) · FXMCX: 0.175 @ avg 11.4286 = $1.99 (sync) · FXSCX: 1.465 @ avg 12.1297 = $16.73 (sync) · CASH:  @ avg None = $4.32 (sync) · TQQQ: 0.243 @ avg 82.0988 = $11.22 (sync) · CASH:  @ avg None = $0.05 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync) · XRP-USD: 6.506 @ avg 1.44 = $5.99 (sync) · CASH:  @ avg None = $0.00 (sync) · CASH:  @ avg None = $0.00 (sync)
   - choice ➕ עסקה חדשה (new trade): buy/sell + ticker + shares + price → שמור עסקה → adds the trade, updates units, average cost and cash; the TQQQ rule uses its 200-day average, not the share count
   - choice ↩️ בטל את השינוי האחרון: click → restores the previous portfolio.yaml ⚠️ overwrites the current holdings
   - choice 📥 ייבוא קובץ מהברוקר: upload a CSV/XLSX/XLS → shows a preview; nothing is saved until 'אשר ושמור'

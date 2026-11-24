@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-23T22:32:44Z",
- "session_date": "2026-11-23",
+ "generated_utc": "2026-11-24T22:34:01Z",
+ "session_date": "2026-11-24",
  "status": "warn",
  "reasons": [
   "no data for 5+ sessions: KVUE (1)"
@@ -10,164 +10,164 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 651.03,
-   "theirs": 651.03,
+   "ours": 638.1,
+   "theirs": 638.1,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "SPY",
-   "ours": 722.29,
-   "theirs": 722.29,
+   "ours": 718.78,
+   "theirs": 718.78,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "TQQQ",
-   "ours": 49.1,
-   "theirs": 49.1,
+   "ours": 46.19,
+   "theirs": 46.19,
    "diff": 0.0,
    "status": "ok"
   }
  ],
  "sample": [
   {
-   "ticker": "WSM",
-   "ours": 212.13,
-   "theirs": 212.13,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "ELV",
-   "ours": 379.55,
-   "theirs": 379.55,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
    "ticker": "EXE",
-   "ours": 80.79,
-   "theirs": 80.79,
+   "ours": 82.05,
+   "theirs": 82.05,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "CF",
-   "ours": 115.96,
-   "theirs": 115.96,
+   "ticker": "ABNB",
+   "ours": 173.39,
+   "theirs": 173.39,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "PPL",
-   "ours": 35.2,
-   "theirs": 35.2,
+   "ticker": "ARM",
+   "ours": 161.56,
+   "theirs": 161.56,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "REG",
-   "ours": 73.73,
-   "theirs": 73.73,
+   "ticker": "DHR",
+   "ours": 229.09,
+   "theirs": 229.09,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "FERG",
-   "ours": 252.79,
-   "theirs": 252.79,
+   "ticker": "URI",
+   "ours": 1029.6801,
+   "theirs": 1029.68,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "AMGN",
-   "ours": 449.04,
-   "theirs": 449.04,
+   "ticker": "WM",
+   "ours": 244.71,
+   "theirs": 244.71,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "BXP",
-   "ours": 61.49,
-   "theirs": 61.49,
+   "ticker": "EOG",
+   "ours": 146.59,
+   "theirs": 146.59,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "CMI",
-   "ours": 426.03,
-   "theirs": 426.03,
+   "ticker": "TJX",
+   "ours": 143.86,
+   "theirs": 143.86,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "SW",
-   "ours": 39.55,
-   "theirs": 39.55,
+   "ours": 39.95,
+   "theirs": 39.95,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "KO",
-   "ours": 95.88,
-   "theirs": 95.88,
+   "ticker": "INTU",
+   "ours": 279.42,
+   "theirs": 279.42,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "COST",
-   "ours": 1097.91,
-   "theirs": 1097.91,
+   "ticker": "CAH",
+   "ours": 279.65,
+   "theirs": 279.65,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "BA",
-   "ours": 162.39,
-   "theirs": 162.39,
+   "ticker": "AAPL",
+   "ours": 354.07,
+   "theirs": 354.07,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "LITE",
-   "ours": 544.38,
-   "theirs": 544.38,
+   "ticker": "BDX",
+   "ours": 220.0,
+   "theirs": 220.0,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "NVR",
-   "ours": 5562.8901,
-   "theirs": 5562.89,
+   "ticker": "DOC",
+   "ours": 20.37,
+   "theirs": 20.37,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "USB",
-   "ours": 57.41,
-   "theirs": 57.41,
+   "ticker": "TTWO",
+   "ours": 220.41,
+   "theirs": 220.41,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "NCLH",
-   "ours": 16.99,
-   "theirs": 16.99,
+   "ticker": "LYV",
+   "ours": 183.63,
+   "theirs": 183.63,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "ASML",
-   "ours": 1383.78,
-   "theirs": 1383.78,
+   "ticker": "AMCR",
+   "ours": 44.7,
+   "theirs": 44.7,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "BF-B",
-   "ours": 28.83,
-   "theirs": 28.83,
+   "ticker": "ORLY",
+   "ours": 95.43,
+   "theirs": 95.43,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "IR",
+   "ours": 82.93,
+   "theirs": 82.93,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "BX",
+   "ours": 119.35,
+   "theirs": 119.35,
    "diff": 0.0,
    "status": "ok"
   }

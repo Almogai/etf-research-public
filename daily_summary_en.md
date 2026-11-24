@@ -1,9 +1,9 @@
-# Daily summary · 2026-11-23
+# Daily summary · 2026-11-24
 
-- Market today: QQQ +7.0%, S&P 500 (SPY) +4.7%.
-- Market mood: choppy 🌊, 52% of stocks in an uptrend, VIX 26.6.
-- Today's top 5: ACN, LLY, REGN, EW, MCK. #1 ACN: CEO bought $3M.
+- Market today: QQQ -2.0%, S&P 500 (SPY) -0.5%.
+- Market mood: choppy 🌊, 52% of stocks in an uptrend, VIX 26.4.
+- Today's top 5: LLY, REGN, EW, ULTA, GILD. #1 LLY: News: upgrade.
 - Insider buying: 👑 ACN: CEO bought $3M · 👑 AKAM: CEO bought $2.55M.
-- Picks from 2026-11-20: 0 of 5 beat QQQ (avg +0.6% vs +7.0%).
+- Picks from 2026-11-23: 5 of 5 beat QQQ (avg +3.3% vs -2.0%).
 
 *Rule-based analysis, not financial advice.*

@@ -1,9 +1,9 @@
-# Daily summary · 2026-11-24
+# Daily summary · 2026-11-25
 
-- Market today: QQQ -2.0%, S&P 500 (SPY) -0.5%.
-- Market mood: choppy 🌊, 52% of stocks in an uptrend, VIX 26.4.
-- Today's top 5: LLY, REGN, EW, ULTA, GILD. #1 LLY: News: upgrade.
+- Market today: QQQ -0.7%, S&P 500 (SPY) -0.3%.
+- Market mood: choppy 🌊, 54% of stocks in an uptrend, VIX 28.3.
+- Today's top 5: BBY, LLY, REGN, ULTA, EW. #1 BBY: News: beat, guidance raised, upgrade.
 - Insider buying: 👑 ACN: CEO bought $3M · 👑 AKAM: CEO bought $2.55M.
-- Picks from 2026-11-23: 5 of 5 beat QQQ (avg +3.3% vs -2.0%).
+- Picks from 2026-11-24: 3 of 5 beat QQQ (avg -0.4% vs -0.7%).
 
 *Rule-based analysis, not financial advice.*

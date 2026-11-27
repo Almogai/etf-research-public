@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-25T22:33:28Z",
- "session_date": "2026-11-25",
+ "generated_utc": "2026-11-27T22:34:02Z",
+ "session_date": "2026-11-27",
  "status": "warn",
  "reasons": [
   "no data for 5+ sessions: KVUE (1)"
@@ -10,164 +10,164 @@
  "core": [
   {
    "ticker": "QQQ",
-   "ours": 633.93,
-   "theirs": 633.93,
+   "ours": 650.99,
+   "theirs": 650.99,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "SPY",
-   "ours": 716.7,
-   "theirs": 716.7,
+   "ours": 728.32,
+   "theirs": 728.32,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "TQQQ",
-   "ours": 45.28,
-   "theirs": 45.28,
+   "ours": 48.85,
+   "theirs": 48.85,
    "diff": 0.0,
    "status": "ok"
   }
  ],
  "sample": [
   {
-   "ticker": "ADM",
-   "ours": 66.66,
-   "theirs": 66.66,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "MRNA",
-   "ours": 220.84,
-   "theirs": 220.84,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "TTWO",
-   "ours": 227.34,
-   "theirs": 227.34,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "INCY",
-   "ours": 122.35,
-   "theirs": 122.35,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
    "ticker": "APA",
-   "ours": 45.48,
-   "theirs": 45.48,
+   "ours": 46.1,
+   "theirs": 46.1,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "ROP",
-   "ours": 483.09,
-   "theirs": 483.09,
+   "ticker": "JNJ",
+   "ours": 275.51,
+   "theirs": 275.51,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "FDS",
-   "ours": 324.55,
-   "theirs": 324.55,
+   "ticker": "MELI",
+   "ours": 1532.92,
+   "theirs": 1532.92,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "VTRS",
-   "ours": 19.83,
-   "theirs": 19.83,
+   "ticker": "DTE",
+   "ours": 137.9,
+   "theirs": 137.9,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "CTSH",
-   "ours": 63.32,
-   "theirs": 63.32,
+   "ticker": "ES",
+   "ours": 73.02,
+   "theirs": 73.02,
    "diff": 0.0,
    "status": "ok"
   },
   {
-   "ticker": "MCHP",
-   "ours": 57.655,
-   "theirs": 57.655,
+   "ticker": "LMT",
+   "ours": 605.88,
+   "theirs": 605.88,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "RMD",
+   "ours": 242.92,
+   "theirs": 242.92,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "HWM",
+   "ours": 217.41,
+   "theirs": 217.41,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "KKR",
+   "ours": 95.78,
+   "theirs": 95.78,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "CDW",
+   "ours": 179.1,
+   "theirs": 179.1,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "EMR",
+   "ours": 162.29,
+   "theirs": 162.29,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "UPS",
+   "ours": 112.63,
+   "theirs": 112.63,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "ANET",
+   "ours": 174.73,
+   "theirs": 174.73,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "EQIX",
+   "ours": 984.87,
+   "theirs": 984.87,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "GEN",
+   "ours": 30.47,
+   "theirs": 30.47,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "APP",
+   "ours": 399.21,
+   "theirs": 399.21,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "WM",
+   "ours": 246.49,
+   "theirs": 246.49,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "DXCM",
+   "ours": 85.15,
+   "theirs": 85.15,
+   "diff": 0.0,
+   "status": "ok"
+  },
+  {
+   "ticker": "AMD",
+   "ours": 424.54,
+   "theirs": 424.54,
    "diff": 0.0,
    "status": "ok"
   },
   {
    "ticker": "BAC",
-   "ours": 48.54,
-   "theirs": 48.54,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "MOS",
-   "ours": 20.35,
-   "theirs": 20.35,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "ARES",
-   "ours": 133.94,
-   "theirs": 133.94,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "ALNY",
-   "ours": 164.73,
-   "theirs": 164.73,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "LNT",
-   "ours": 73.14,
-   "theirs": 73.14,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "F",
-   "ours": 12.17,
-   "theirs": 12.17,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "CCEP",
-   "ours": 117.99,
-   "theirs": 117.99,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "IEX",
-   "ours": 225.25,
-   "theirs": 225.25,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "LEN",
-   "ours": 86.79,
-   "theirs": 86.79,
-   "diff": 0.0,
-   "status": "ok"
-  },
-  {
-   "ticker": "TER",
-   "ours": 212.15,
-   "theirs": 212.15,
+   "ours": 49.07,
+   "theirs": 49.07,
    "diff": 0.0,
    "status": "ok"
   }
